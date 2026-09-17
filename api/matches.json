@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T20:06:20.471231+00:00",
+  "updatedAt": "2026-09-17T20:24:43.789310+00:00",
   "matches": [
     {
       "id": "levski-sofia-red-bull-salzburg-16945554",
@@ -365,34 +365,9 @@
       "league": "EFL Cup",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIxOmZiNjVkNDFlNWI5Ng.png",
       "matchTime": 1789669800000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=norwich-city-manchester-city-16950636&source=stv",
-          "source": "STV",
-          "hd": true,
-          "language": "MULTI"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=norwich-city-manchester-city-16950636&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        },
-        {
-          "id": "stream-3",
-          "streamNo": 3,
-          "embedUrl": "https://football77.org/embed/?id=norwich-city-manchester-city-16950636&source=ppv",
-          "source": "PPV",
-          "hd": true,
-          "language": "EN-GB"
-        }
-      ],
-      "streamCount": 3
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
     }
   ]
 }
