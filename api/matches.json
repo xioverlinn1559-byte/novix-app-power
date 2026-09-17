@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T18:27:36.797483+00:00",
+  "updatedAt": "2026-09-17T18:42:58.502194+00:00",
   "matches": [
     {
       "id": "levski-sofia-red-bull-salzburg-16945554",
@@ -11,34 +11,9 @@
       "league": "UEFA Europa League",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjY3OTo5NzY1OGRkMGQ0NTY.png",
       "matchTime": 1789663500000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=levski-sofia-red-bull-salzburg-16945554&source=stv",
-          "source": "STV",
-          "hd": true,
-          "language": "MULTI"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=levski-sofia-red-bull-salzburg-16945554&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        },
-        {
-          "id": "stream-3",
-          "streamNo": 3,
-          "embedUrl": "https://football77.org/embed/?id=levski-sofia-red-bull-salzburg-16945554&source=ppv",
-          "source": "PPV",
-          "hd": true,
-          "language": "EN"
-        }
-      ],
-      "streamCount": 3
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
     },
     {
       "id": "ofi-crete-tsg-hoffenheim-16945561",
@@ -50,34 +25,9 @@
       "league": "UEFA Europa League",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjY3OTo5NzY1OGRkMGQ0NTY.png",
       "matchTime": 1789663500000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ofi-crete-tsg-hoffenheim-16945561&source=stv",
-          "source": "STV",
-          "hd": true,
-          "language": "MULTI"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=ofi-crete-tsg-hoffenheim-16945561&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        },
-        {
-          "id": "stream-3",
-          "streamNo": 3,
-          "embedUrl": "https://football77.org/embed/?id=ofi-crete-tsg-hoffenheim-16945561&source=ppv",
-          "source": "PPV",
-          "hd": true,
-          "language": "EN"
-        }
-      ],
-      "streamCount": 3
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
     },
     {
       "id": "nec-nijmegen-juventus-16943956",
@@ -240,9 +190,34 @@
       "league": "EFL Cup",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIxOmZiNjVkNDFlNWI5Ng.png",
       "matchTime": 1789669800000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=norwich-city-manchester-city-16950636&source=stv",
+          "source": "STV",
+          "hd": true,
+          "language": "MULTI"
+        },
+        {
+          "id": "stream-2",
+          "streamNo": 2,
+          "embedUrl": "https://football77.org/embed/?id=norwich-city-manchester-city-16950636&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        },
+        {
+          "id": "stream-3",
+          "streamNo": 3,
+          "embedUrl": "https://football77.org/embed/?id=norwich-city-manchester-city-16950636&source=ppv",
+          "source": "PPV",
+          "hd": true,
+          "language": "EN-GB"
+        }
+      ],
+      "streamCount": 3
     }
   ]
 }
