@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T19:05:51.466196+00:00",
+  "updatedAt": "2026-09-17T19:22:44.669159+00:00",
   "matches": [
     {
       "id": "levski-sofia-red-bull-salzburg-16945554",
@@ -273,9 +273,34 @@
       "league": "UEFA Europa League",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjY3OTo5NzY1OGRkMGQ0NTY.png",
       "matchTime": 1789671600000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=torreense-lillestrom-sk-16945565&source=stv",
+          "source": "STV",
+          "hd": true,
+          "language": "MULTI"
+        },
+        {
+          "id": "stream-2",
+          "streamNo": 2,
+          "embedUrl": "https://football77.org/embed/?id=torreense-lillestrom-sk-16945565&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        },
+        {
+          "id": "stream-3",
+          "streamNo": 3,
+          "embedUrl": "https://football77.org/embed/?id=torreense-lillestrom-sk-16945565&source=ppv",
+          "source": "PPV",
+          "hd": true,
+          "language": "EN"
+        }
+      ],
+      "streamCount": 3
     },
     {
       "id": "getafe-real-betis-16416336",
