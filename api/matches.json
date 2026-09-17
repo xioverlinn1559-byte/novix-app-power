@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T17:05:03.507136+00:00",
+  "updatedAt": "2026-09-17T17:21:50.879964+00:00",
   "matches": [
     {
       "id": "levski-sofia-red-bull-salzburg-16945554",
@@ -187,9 +187,34 @@
       "league": "LaLiga",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjg6ZWM3OWIxYTljYTBi.png",
       "matchTime": 1789664400000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=getafe-real-betis-16416336&source=stv",
+          "source": "STV",
+          "hd": true,
+          "language": "MULTI"
+        },
+        {
+          "id": "stream-2",
+          "streamNo": 2,
+          "embedUrl": "https://football77.org/embed/?id=getafe-real-betis-16416336&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        },
+        {
+          "id": "stream-3",
+          "streamNo": 3,
+          "embedUrl": "https://football77.org/embed/?id=getafe-real-betis-16416336&source=ppv",
+          "source": "PPV",
+          "hd": true,
+          "language": "EN"
+        }
+      ],
+      "streamCount": 3
     },
     {
       "id": "malaga-cf-villarreal-16416338",
