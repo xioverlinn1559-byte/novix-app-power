@@ -2,16 +2,19 @@ import os, json, sys, requests
 from datetime import datetime, timezone, timedelta
 
 API_KEY = os.environ.get('SPORTSRC_API_KEY', '35cb7b6157ba67ecbb8f5fbff0086a28')
-OUTPUT_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'api'))
+OUTPUT_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), 'api'))
 DB_PATH = os.path.join(os.path.dirname(__file__), 'db.json')
 
-MAJOR_LEAGUES = ['premier league', 'champions league', 'la liga', 'serie a', 'bundesliga', 'europa league', 'ligue 1', 'world cup', 'euro', 'copa america', 'libertadores', 'fa cup', 'carabao']
+EXACT_LEAGUES = {
+    'premier league', 'english premier league', 'champions league', 'uefa champions league',
+    'la liga', 'laliga', 'serie a', 'italy serie a', 'bundesliga', 'german bundesliga',
+    'europa league', 'uefa europa league', 'ligue 1', 'france ligue 1',
+    'world cup', 'euro', 'copa america', 'libertadores', 'fa cup', 'carabao cup', 'efl cup'
+}
 
 def is_major_league(league_name: str) -> bool:
-    lower = league_name.lower()
-    if not any(kw in lower for kw in MAJOR_LEAGUES):
-        return False
-    return True
+    lower = league_name.lower().strip()
+    return lower in EXACT_LEAGUES
 
 def fetch_sportsrc_matches():
     today = datetime.now(timezone.utc).strftime('%Y-%m-%d')
@@ -45,7 +48,7 @@ def main():
 
     raw_leagues = fetch_sportsrc_matches()
     processed = []
-    api_calls_made = 1 # We just made 1
+    api_calls_made = 1
 
     for league in raw_leagues:
         lname = league.get('league', {}).get('name', '')
@@ -54,14 +57,12 @@ def main():
         for match in league.get('matches', []):
             match_id = match.get('id')
             status = match.get('status', '')
-            # If finished, skip detail fetching unless we really want it
-            # We fetch streams if upcoming or live
+            
             streams = []
             if status in ['live', 'inprogress', 'upcoming']:
                 if match_id in db and len(db[match_id]) > 0:
                     streams = db[match_id]
                 else:
-                    # Limit calls per run to avoid huge spikes if something goes wrong
                     if api_calls_made < 150:
                         streams = fetch_stream_details(match_id)
                         db[match_id] = streams
@@ -82,11 +83,9 @@ def main():
                 'streamCount': len(streams)
             })
 
-    # Save DB
     with open(DB_PATH, 'w', encoding='utf-8') as f:
         json.dump(db, f)
 
-    # Save Matches
     out_path = os.path.join(OUTPUT_DIR, 'matches.json')
     with open(out_path, 'w', encoding='utf-8') as f:
         json.dump({'updatedAt': datetime.now(timezone.utc).isoformat(), 'matches': processed}, f, indent=2)
@@ -94,4 +93,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
