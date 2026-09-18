@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T18:25:54.039482+00:00",
+  "updatedAt": "2026-09-18T18:39:14.102880+00:00",
   "matches": [
     {
       "id": "fc-bayern-munchen-1-fc-union-berlin-16434038",
@@ -11,9 +11,34 @@
       "league": "Bundesliga",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM1Ojk1YTEzN2M4NjQzOA.png",
       "matchTime": 1789756200000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=fc-bayern-munchen-1-fc-union-berlin-16434038&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        },
+        {
+          "id": "stream-2",
+          "streamNo": 2,
+          "embedUrl": "https://football77.org/embed/?id=fc-bayern-munchen-1-fc-union-berlin-16434038&source=stv",
+          "source": "STV",
+          "hd": true,
+          "language": "MULTI"
+        },
+        {
+          "id": "stream-3",
+          "streamNo": 3,
+          "embedUrl": "https://football77.org/embed/?id=fc-bayern-munchen-1-fc-union-berlin-16434038&source=ppv",
+          "source": "PPV",
+          "hd": true,
+          "language": "EN"
+        }
+      ],
+      "streamCount": 3
     },
     {
       "id": "sassuolo-monza-16285020",
