@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T20:36:09.384804+00:00",
+  "updatedAt": "2026-09-18T20:49:13.562589+00:00",
   "matches": [
     {
       "id": "fc-bayern-munchen-1-fc-union-berlin-16434038",
@@ -25,34 +25,9 @@
       "league": "Serie A",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIzOjdhMjIzYWRiNDVlNw.png",
       "matchTime": 1789757100000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=sassuolo-monza-16285020&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=sassuolo-monza-16285020&source=stv",
-          "source": "STV",
-          "hd": true,
-          "language": "MULTI"
-        },
-        {
-          "id": "stream-3",
-          "streamNo": 3,
-          "embedUrl": "https://football77.org/embed/?id=sassuolo-monza-16285020&source=ppv",
-          "source": "PPV",
-          "hd": true,
-          "language": "EN"
-        }
-      ],
-      "streamCount": 3
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
     },
     {
       "id": "as-monaco-rc-lens-16310961",
@@ -64,34 +39,9 @@
       "league": "Ligue 1",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM0OmVjZDcwOTQ2M2JlNw.png",
       "matchTime": 1789757100000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=as-monaco-rc-lens-16310961&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=as-monaco-rc-lens-16310961&source=stv",
-          "source": "STV",
-          "hd": true,
-          "language": "MULTI"
-        },
-        {
-          "id": "stream-3",
-          "streamNo": 3,
-          "embedUrl": "https://football77.org/embed/?id=as-monaco-rc-lens-16310961&source=ppv",
-          "source": "PPV",
-          "hd": true,
-          "language": "FR"
-        }
-      ],
-      "streamCount": 3
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
     },
     {
       "id": "brentford-chelsea-16363649",
