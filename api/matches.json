@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T18:50:04.560305+00:00",
+  "updatedAt": "2026-09-18T19:06:06.400217+00:00",
   "matches": [
     {
       "id": "fc-bayern-munchen-1-fc-union-berlin-16434038",
@@ -128,9 +128,34 @@
       "league": "Premier League",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE3OmQxMTJmYWYxOWMyOA.png",
       "matchTime": 1789758000000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=brentford-chelsea-16363649&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        },
+        {
+          "id": "stream-2",
+          "streamNo": 2,
+          "embedUrl": "https://football77.org/embed/?id=brentford-chelsea-16363649&source=stv",
+          "source": "STV",
+          "hd": true,
+          "language": "MULTI"
+        },
+        {
+          "id": "stream-3",
+          "streamNo": 3,
+          "embedUrl": "https://football77.org/embed/?id=brentford-chelsea-16363649&source=ppv",
+          "source": "PPV",
+          "hd": true,
+          "language": "EN"
+        }
+      ],
+      "streamCount": 3
     },
     {
       "id": "elche-espanyol-16416299",
