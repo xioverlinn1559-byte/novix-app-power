@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "adDomains": [
+    "takeinternet.com",
+    "dynproclaim.net",
+    "ay267.com",
+    "roadster24.com",
+    "onclick",
+    "popunder",
+    "bet365",
+    "1xbet",
+    "adskeeper",
+    "adsterra",
+    "propellerads"
+  ],
+  "testEScript": "var open = XMLHttpRequest.prototype.open; XMLHttpRequest.prototype.open = function() { this.addEventListener('readystatechange', function() { if (this.readyState === 4 && this.responseURL.indexOf('.m3u8') !== -1) { window.flutter_inappwebview.callHandler('M3U8Extractor', this.responseURL); } }); open.apply(this, arguments); }; const originalFetch = window.fetch; window.fetch = async function() { const response = await originalFetch.apply(this, arguments); if (response.url.indexOf('.m3u8') !== -1) { window.flutter_inappwebview.callHandler('M3U8Extractor', response.url); } return response; }; setInterval(function(){ try { var entries = performance.getEntriesByType('resource'); for (var i = 0; i < entries.length; i++) { if (entries[i].name.indexOf('.m3u8') !== -1) { window.flutter_inappwebview.callHandler('M3U8Extractor', entries[i].name); } } } catch(e){} }, 1000);"
+}
