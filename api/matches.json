@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T12:06:42.394457+00:00",
+  "updatedAt": "2026-09-19T12:27:34.325981+00:00",
   "matches": [
     {
       "id": "aston-villa-tottenham-hotspur-16363870",
@@ -504,29 +504,6 @@
           "id": "stream-1",
           "streamNo": 1,
           "embedUrl": "https://football77.org/embed/?id=mito-hollyhock-yokohama-marinos-16348599&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "dai-hoc-van-hien-fc-khatoco-khanh-hoa-16767419",
-      "title": "Khatoco Kh\u00e1nh H\u00f2a vs \u0110\u1ea1i H\u1ecdc V\u0103n Hi\u1ebfn FC",
-      "homeTeam": "Khatoco Kh\u00e1nh H\u00f2a",
-      "awayTeam": "\u0110\u1ea1i H\u1ecdc V\u0103n Hi\u1ebfn FC",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMzEyNjo4MmIzMmNhZGM1ODI.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo1MTg0Mjk6NzQ0Nzk4ZTIyMDBm.png",
-      "league": "Vietnam Cup",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjMwODc6YzVhYThiOWJkZmY0.png",
-      "matchTime": 1789812000000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=dai-hoc-van-hien-fc-khatoco-khanh-hoa-16767419&source=lola",
           "source": "lola",
           "hd": false,
           "language": "MULTI"
@@ -2254,6 +2231,20 @@
       "awayTeam": "Becamex Ho Chi Minh City FC",
       "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMzAzMDpkMTJiMWQzOWE3NTI.png",
       "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMzExOToxZDJlZWZhNjIzZTQ.png",
+      "league": "Vietnam Cup",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjMwODc6YzVhYThiOWJkZmY0.png",
+      "matchTime": 1789812000000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "dai-hoc-van-hien-fc-khatoco-khanh-hoa-16767419",
+      "title": "Khatoco Kh\u00e1nh H\u00f2a vs \u0110\u1ea1i H\u1ecdc V\u0103n Hi\u1ebfn FC",
+      "homeTeam": "Khatoco Kh\u00e1nh H\u00f2a",
+      "awayTeam": "\u0110\u1ea1i H\u1ecdc V\u0103n Hi\u1ebfn FC",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMzEyNjo4MmIzMmNhZGM1ODI.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo1MTg0Mjk6NzQ0Nzk4ZTIyMDBm.png",
       "league": "Vietnam Cup",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjMwODc6YzVhYThiOWJkZmY0.png",
       "matchTime": 1789812000000,
