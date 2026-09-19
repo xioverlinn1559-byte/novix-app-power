@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T08:05:49.784732+00:00",
+  "updatedAt": "2026-09-19T08:24:37.443701+00:00",
   "matches": [
     {
       "id": "aston-villa-tottenham-hotspur-16363870",
@@ -322,29 +322,6 @@
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
-    },
-    {
-      "id": "avondale-fc-oakleigh-cannons-fc-17086056",
-      "title": "Oakleigh Cannons FC vs Avondale FC",
-      "homeTeam": "Oakleigh Cannons FC",
-      "awayTeam": "Avondale FC",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo5MjkzMTozYmIxMTQ4ZjU2NGY.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToxODg5MjE6MjhlNTVjYWM4YzEy.png",
-      "league": "NPL Victoria Men",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjEyNzU6YTdhM2I5MjkwNDEw.png",
-      "matchTime": 1789795800000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=avondale-fc-oakleigh-cannons-fc-17086056&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
     },
     {
       "id": "bucheon-fc-1995-gimcheon-sangmu-fc-15373099",
@@ -818,6 +795,20 @@
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjQwMjpmNzgyOTc4NjI4NWQ.png",
       "matchTime": 1789810200000,
       "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "avondale-fc-oakleigh-cannons-fc-17086056",
+      "title": "Oakleigh Cannons FC vs Avondale FC",
+      "homeTeam": "Oakleigh Cannons FC",
+      "awayTeam": "Avondale FC",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo5MjkzMTozYmIxMTQ4ZjU2NGY.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToxODg5MjE6MjhlNTVjYWM4YzEy.png",
+      "league": "NPL Victoria Men",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjEyNzU6YTdhM2I5MjkwNDEw.png",
+      "matchTime": 1789795800000,
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
