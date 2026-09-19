@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T10:48:41.833344+00:00",
+  "updatedAt": "2026-09-19T11:05:01.848507+00:00",
   "matches": [
     {
       "id": "aston-villa-tottenham-hotspur-16363870",
@@ -546,29 +546,6 @@
           "id": "stream-1",
           "streamNo": 1,
           "embedUrl": "https://football77.org/embed/?id=mito-hollyhock-yokohama-marinos-16348599&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "bac-ninh-fc-long-an-16767410",
-      "title": "Long An vs B\u1eafc Ninh FC",
-      "homeTeam": "Long An",
-      "awayTeam": "B\u1eafc Ninh FC",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMzEyMjozNzI1MmRlZGE3NWI.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo1MTY5NTM6ODUxMWM4YmJjMTY5.png",
-      "league": "Vietnam Cup",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjMwODc6YzVhYThiOWJkZmY0.png",
-      "matchTime": 1789808400000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=bac-ninh-fc-long-an-16767410&source=lola",
           "source": "lola",
           "hd": false,
           "language": "MULTI"
@@ -1416,6 +1393,20 @@
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIzMjI5Ojc3NDFjYWQwYmYwNA.png",
       "matchTime": 1789819200000,
       "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "bac-ninh-fc-long-an-16767410",
+      "title": "Long An vs B\u1eafc Ninh FC",
+      "homeTeam": "Long An",
+      "awayTeam": "B\u1eafc Ninh FC",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMzEyMjozNzI1MmRlZGE3NWI.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo1MTY5NTM6ODUxMWM4YmJjMTY5.png",
+      "league": "Vietnam Cup",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjMwODc6YzVhYThiOWJkZmY0.png",
+      "matchTime": 1789808400000,
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
