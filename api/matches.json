@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T17:33:30.353257+00:00",
+  "updatedAt": "2026-09-19T17:48:18.737627+00:00",
   "matches": [
     {
       "id": "nottingham-forest-coventry-city-16363869",
@@ -693,6 +693,29 @@
       "streamCount": 1
     },
     {
+      "id": "us-avellino-1912-ascoli-16607587",
+      "title": "Ascoli vs US Avellino 1912",
+      "homeTeam": "Ascoli",
+      "awayTeam": "US Avellino 1912",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyNzA3OmM3MDUwY2NjNTU5NA.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyNzMwOjY1OTI3YzE0YmE5OA.png",
+      "league": "Serie B",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjUzOjRiNzE1MGQwNmVlNg.png",
+      "matchTime": 1789839000000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=us-avellino-1912-ascoli-16607587&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
       "id": "spain-u20-brazil-u20-17115783",
       "title": "Brazil U20 vs Spain U20",
       "homeTeam": "Brazil U20",
@@ -853,29 +876,6 @@
         }
       ],
       "streamCount": 2
-    },
-    {
-      "id": "cffeb-fc-sporting-cascades-16931964",
-      "title": "Sporting Cascades vs CFFEB FC",
-      "homeTeam": "Sporting Cascades",
-      "awayTeam": "CFFEB FC",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo1MDM2MjE6MGRkZTI2YjEzMDcy.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToxMTI5MTAzOmQ5MmI4MjJkMmU4NQ.png",
-      "league": "FasoFoot Ligue 1",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjI5MzY5OmVjYTMzNjhiNmU3Nw.png",
-      "matchTime": 1789831800000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=cffeb-fc-sporting-cascades-16931964&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
     },
     {
       "id": "focusport-fc-as-douanes-16931956",
@@ -3282,20 +3282,6 @@
       "streamCount": 0
     },
     {
-      "id": "us-avellino-1912-ascoli-16607587",
-      "title": "Ascoli vs US Avellino 1912",
-      "homeTeam": "Ascoli",
-      "awayTeam": "US Avellino 1912",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyNzA3OmM3MDUwY2NjNTU5NA.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyNzMwOjY1OTI3YzE0YmE5OA.png",
-      "league": "Serie B",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjUzOjRiNzE1MGQwNmVlNg.png",
-      "matchTime": 1789839000000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
       "id": "fc-fiorentino-ss-pennarossa-16759399",
       "title": "SS Pennarossa vs FC Fiorentino",
       "homeTeam": "SS Pennarossa",
@@ -3540,6 +3526,20 @@
       "awayTeam": "US Forces Armees",
       "homeLogo": "https://img.sportsrc.org/file/dGVhbToxMjQyMTMyOjNhNjRmNDkyZDEzOA.png",
       "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMzU0ODI6ZGRmZTlhZmYwNWZi.png",
+      "league": "FasoFoot Ligue 1",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjI5MzY5OmVjYTMzNjhiNmU3Nw.png",
+      "matchTime": 1789831800000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "cffeb-fc-sporting-cascades-16931964",
+      "title": "Sporting Cascades vs CFFEB FC",
+      "homeTeam": "Sporting Cascades",
+      "awayTeam": "CFFEB FC",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo1MDM2MjE6MGRkZTI2YjEzMDcy.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToxMTI5MTAzOmQ5MmI4MjJkMmU4NQ.png",
       "league": "FasoFoot Ligue 1",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjI5MzY5OmVjYTMzNjhiNmU3Nw.png",
       "matchTime": 1789831800000,
