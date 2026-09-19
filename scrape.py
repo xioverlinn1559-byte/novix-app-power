@@ -50,38 +50,53 @@ def main():
     processed = []
     api_calls_made = 1
 
+    flat_matches = []
     for league in raw_leagues:
-        lname = league.get('league', {}).get('name', '')
-        if not is_major_league(lname):
-            continue
         for match in league.get('matches', []):
-            match_id = match.get('id')
-            status = match.get('status', '')
+            flat_matches.append((league, match))
             
-            streams = []
-            if status in ['live', 'inprogress', 'upcoming']:
-                if match_id in db and len(db[match_id]) > 0:
-                    streams = db[match_id]
-                else:
-                    if api_calls_made < 150:
-                        streams = fetch_stream_details(match_id)
-                        db[match_id] = streams
-                        api_calls_made += 1
-            
-            processed.append({
-                'id': match_id,
-                'title': match.get('title', ''),
-                'homeTeam': match.get('teams', {}).get('home', {}).get('name', ''),
-                'awayTeam': match.get('teams', {}).get('away', {}).get('name', ''),
-                'homeLogo': match.get('teams', {}).get('home', {}).get('badge', ''),
-                'awayLogo': match.get('teams', {}).get('away', {}).get('badge', ''),
-                'league': lname,
-                'leagueLogo': league.get('league', {}).get('logo', ''),
-                'matchTime': match.get('timestamp', 0),
-                'status': status,
-                'streams': streams,
-                'streamCount': len(streams)
-            })
+    def match_priority(item):
+        league, match = item
+        lname = league.get('league', {}).get('name', '')
+        status = match.get('status', '')
+        
+        is_major = is_major_league(lname)
+        is_live = status in ['live', 'inprogress']
+        is_upcoming = status == 'upcoming'
+        
+        return (not is_major, not is_live, not is_upcoming)
+        
+    flat_matches.sort(key=match_priority)
+
+    for league, match in flat_matches:
+        lname = league.get('league', {}).get('name', '')
+        match_id = match.get('id')
+        status = match.get('status', '')
+        
+        streams = []
+        if status in ['live', 'inprogress', 'upcoming']:
+            if match_id in db and len(db[match_id]) > 0:
+                streams = db[match_id]
+            else:
+                if api_calls_made < 150:
+                    streams = fetch_stream_details(match_id)
+                    db[match_id] = streams
+                    api_calls_made += 1
+        
+        processed.append({
+            'id': match_id,
+            'title': match.get('title', ''),
+            'homeTeam': match.get('teams', {}).get('home', {}).get('name', ''),
+            'awayTeam': match.get('teams', {}).get('away', {}).get('name', ''),
+            'homeLogo': match.get('teams', {}).get('home', {}).get('badge', ''),
+            'awayLogo': match.get('teams', {}).get('away', {}).get('badge', ''),
+            'league': lname,
+            'leagueLogo': league.get('league', {}).get('logo', ''),
+            'matchTime': match.get('timestamp', 0),
+            'status': status,
+            'streams': streams,
+            'streamCount': len(streams)
+        })
 
     with open(DB_PATH, 'w', encoding='utf-8') as f:
         json.dump(db, f)
