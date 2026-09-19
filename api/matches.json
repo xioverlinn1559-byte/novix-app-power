@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T16:49:24.519198+00:00",
+  "updatedAt": "2026-09-19T17:05:03.826118+00:00",
   "matches": [
     {
       "id": "nottingham-forest-coventry-city-16363869",
@@ -846,6 +846,37 @@
         }
       ],
       "streamCount": 1
+    },
+    {
+      "id": "galatasaray-trabzonspor-16483676",
+      "title": "Trabzonspor vs Galatasaray",
+      "homeTeam": "Trabzonspor",
+      "awayTeam": "Galatasaray",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMDUxOjI4MmQxNDE4ODQ1ZA.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMDYxOjk2NGY1ZTU2M2RkZg.png",
+      "league": "Trendyol S\u00fcper Lig",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjUyOjM2MzRiNGZiYzRlOQ.png",
+      "matchTime": 1789837200000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=galatasaray-trabzonspor-16483676&source=stv",
+          "source": "STV",
+          "hd": true,
+          "language": "MULTI"
+        },
+        {
+          "id": "stream-2",
+          "streamNo": 2,
+          "embedUrl": "https://football77.org/embed/?id=galatasaray-trabzonspor-16483676&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        }
+      ],
+      "streamCount": 2
     },
     {
       "id": "sc-heerenveen-sparta-rotterdam-16316819",
@@ -3437,20 +3468,6 @@
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjUyOjM2MzRiNGZiYzRlOQ.png",
       "matchTime": 1789826400000,
       "status": "finished",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "galatasaray-trabzonspor-16483676",
-      "title": "Trabzonspor vs Galatasaray",
-      "homeTeam": "Trabzonspor",
-      "awayTeam": "Galatasaray",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMDUxOjI4MmQxNDE4ODQ1ZA.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMDYxOjk2NGY1ZTU2M2RkZg.png",
-      "league": "Trendyol S\u00fcper Lig",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjUyOjM2MzRiNGZiYzRlOQ.png",
-      "matchTime": 1789837200000,
-      "status": "notstarted",
       "streams": [],
       "streamCount": 0
     },
