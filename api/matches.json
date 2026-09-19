@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T15:05:28.148441+00:00",
+  "updatedAt": "2026-09-19T15:22:24.028501+00:00",
   "matches": [
     {
       "id": "arsenal-brighton-and-hove-albion-16363650",
@@ -306,6 +306,45 @@
       "streamCount": 2
     },
     {
+      "id": "paris-fc-rc-strasbourg-16310964",
+      "title": "Paris FC vs RC Strasbourg",
+      "homeTeam": "Paris FC",
+      "awayTeam": "RC Strasbourg",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo2MDcwOjBmZWZjNGQzYzZiMA.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToxNjU5OmU2MTAwMjNmM2RmZA.png",
+      "league": "Ligue 1",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM0OmVjZDcwOTQ2M2JlNw.png",
+      "matchTime": 1789830900000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=paris-fc-rc-strasbourg-16310964&source=stv",
+          "source": "STV",
+          "hd": true,
+          "language": "MULTI"
+        },
+        {
+          "id": "stream-2",
+          "streamNo": 2,
+          "embedUrl": "https://football77.org/embed/?id=paris-fc-rc-strasbourg-16310964&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        },
+        {
+          "id": "stream-3",
+          "streamNo": 3,
+          "embedUrl": "https://football77.org/embed/?id=paris-fc-rc-strasbourg-16310964&source=ppv",
+          "source": "PPV",
+          "hd": true,
+          "language": "FR"
+        }
+      ],
+      "streamCount": 3
+    },
+    {
       "id": "aston-villa-tottenham-hotspur-16363870",
       "title": "Tottenham Hotspur vs Aston Villa",
       "homeTeam": "Tottenham Hotspur",
@@ -441,20 +480,6 @@
       "league": "Bundesliga",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM1Ojk1YTEzN2M4NjQzOA.png",
       "matchTime": 1789835400000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "paris-fc-rc-strasbourg-16310964",
-      "title": "Paris FC vs RC Strasbourg",
-      "homeTeam": "Paris FC",
-      "awayTeam": "RC Strasbourg",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo2MDcwOjBmZWZjNGQzYzZiMA.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToxNjU5OmU2MTAwMjNmM2RmZA.png",
-      "league": "Ligue 1",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM0OmVjZDcwOTQ2M2JlNw.png",
-      "matchTime": 1789830900000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
@@ -984,6 +1009,29 @@
           "id": "stream-1",
           "streamNo": 1,
           "embedUrl": "https://football77.org/embed/?id=ajax-az-alkmaar-16420123&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
+      "id": "catanzaro-sampdoria-16607594",
+      "title": "Sampdoria vs Catanzaro",
+      "homeTeam": "Sampdoria",
+      "awayTeam": "Catanzaro",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyNzExOjc2YzYwNDI5YjRiYw.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyNzk2OmI3ZGQwZGVhY2IxZQ.png",
+      "league": "Serie B",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjUzOjRiNzE1MGQwNmVlNg.png",
+      "matchTime": 1789830900000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=catanzaro-sampdoria-16607594&source=lola",
           "source": "lola",
           "hd": false,
           "language": "MULTI"
@@ -3291,20 +3339,6 @@
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjUzOjRiNzE1MGQwNmVlNg.png",
       "matchTime": 1789822800000,
       "status": "finished",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "catanzaro-sampdoria-16607594",
-      "title": "Sampdoria vs Catanzaro",
-      "homeTeam": "Sampdoria",
-      "awayTeam": "Catanzaro",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyNzExOjc2YzYwNDI5YjRiYw.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyNzk2OmI3ZGQwZGVhY2IxZQ.png",
-      "league": "Serie B",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjUzOjRiNzE1MGQwNmVlNg.png",
-      "matchTime": 1789830900000,
-      "status": "notstarted",
       "streams": [],
       "streamCount": 0
     },
