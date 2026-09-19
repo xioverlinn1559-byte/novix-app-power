@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T11:22:06.922123+00:00",
+  "updatedAt": "2026-09-19T11:34:31.154661+00:00",
   "matches": [
     {
       "id": "aston-villa-tottenham-hotspur-16363870",
@@ -324,29 +324,6 @@
       "streamCount": 0
     },
     {
-      "id": "fujieda-myfc-rb-omiya-ardija-16348860",
-      "title": "Fujieda MYFC vs RB Omiya Ardija",
-      "homeTeam": "Fujieda MYFC",
-      "awayTeam": "RB Omiya Ardija",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxMTg1MDA6MTU3MzI5MzNiMWJm.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo1MTMwOmUyNTMwYjcyZGNhYw.png",
-      "league": "J2 League",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjQwMjpmNzgyOTc4NjI4NWQ.png",
-      "matchTime": 1789810200000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=fujieda-myfc-rb-omiya-ardija-16348860&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
       "id": "fc-anyang-ulsan-hd-15373101",
       "title": "FC Anyang vs Ulsan HD",
       "homeTeam": "FC Anyang",
@@ -408,75 +385,6 @@
           "id": "stream-1",
           "streamNo": 1,
           "embedUrl": "https://football77.org/embed/?id=bfb-pattaya-city-navy-fc-16793213&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "v-varen-nagasaki-cerezo-osaka-16348598",
-      "title": "V-Varen Nagasaki vs Cerezo Osaka",
-      "homeTeam": "V-Varen Nagasaki",
-      "awayTeam": "Cerezo Osaka",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozODE1NDpiYTU5MjUyYTIwYTQ.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMTQxOjkxNGE2Mzg4ZmFlZA.png",
-      "league": "J1 League",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE5Njo3N2Q3ZGM3ZGZlNjE.png",
-      "matchTime": 1789810200000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=v-varen-nagasaki-cerezo-osaka-16348598&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "urawa-red-diamonds-tokyo-verdy-16348589",
-      "title": "Urawa Red Diamonds vs Tokyo Verdy",
-      "homeTeam": "Urawa Red Diamonds",
-      "awayTeam": "Tokyo Verdy",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMTQ1OjhjZmQzZjhkNmMxYg.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMTM5OjE2NTY0NjQyOTk3MA.png",
-      "league": "J1 League",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE5Njo3N2Q3ZGM3ZGZlNjE.png",
-      "matchTime": 1789810200000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=urawa-red-diamonds-tokyo-verdy-16348589&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "jef-united-chiba-shimizu-s-pulse-16348591",
-      "title": "Shimizu S-Pulse vs JEF United Chiba",
-      "homeTeam": "Shimizu S-Pulse",
-      "awayTeam": "JEF United Chiba",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMTMzOjU4MmZhODNmZWVhYw.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMTQ0OmZjOTQ1MDYzMTBjMQ.png",
-      "league": "J1 League",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE5Njo3N2Q3ZGM3ZGZlNjE.png",
-      "matchTime": 1789810200000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=jef-united-chiba-shimizu-s-pulse-16348591&source=lola",
           "source": "lola",
           "hd": false,
           "language": "MULTI"
@@ -1353,6 +1261,20 @@
       "streamCount": 0
     },
     {
+      "id": "fujieda-myfc-rb-omiya-ardija-16348860",
+      "title": "Fujieda MYFC vs RB Omiya Ardija",
+      "homeTeam": "Fujieda MYFC",
+      "awayTeam": "RB Omiya Ardija",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxMTg1MDA6MTU3MzI5MzNiMWJm.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo1MTMwOmUyNTMwYjcyZGNhYw.png",
+      "league": "J2 League",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjQwMjpmNzgyOTc4NjI4NWQ.png",
+      "matchTime": 1789810200000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "avondale-fc-oakleigh-cannons-fc-17086056",
       "title": "Oakleigh Cannons FC vs Avondale FC",
       "homeTeam": "Oakleigh Cannons FC",
@@ -1684,6 +1606,48 @@
       "league": "J1 League",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE5Njo3N2Q3ZGM3ZGZlNjE.png",
       "matchTime": 1789808400000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "v-varen-nagasaki-cerezo-osaka-16348598",
+      "title": "V-Varen Nagasaki vs Cerezo Osaka",
+      "homeTeam": "V-Varen Nagasaki",
+      "awayTeam": "Cerezo Osaka",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozODE1NDpiYTU5MjUyYTIwYTQ.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMTQxOjkxNGE2Mzg4ZmFlZA.png",
+      "league": "J1 League",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE5Njo3N2Q3ZGM3ZGZlNjE.png",
+      "matchTime": 1789810200000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "urawa-red-diamonds-tokyo-verdy-16348589",
+      "title": "Urawa Red Diamonds vs Tokyo Verdy",
+      "homeTeam": "Urawa Red Diamonds",
+      "awayTeam": "Tokyo Verdy",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMTQ1OjhjZmQzZjhkNmMxYg.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMTM5OjE2NTY0NjQyOTk3MA.png",
+      "league": "J1 League",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE5Njo3N2Q3ZGM3ZGZlNjE.png",
+      "matchTime": 1789810200000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "jef-united-chiba-shimizu-s-pulse-16348591",
+      "title": "Shimizu S-Pulse vs JEF United Chiba",
+      "homeTeam": "Shimizu S-Pulse",
+      "awayTeam": "JEF United Chiba",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMTMzOjU4MmZhODNmZWVhYw.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMTQ0OmZjOTQ1MDYzMTBjMQ.png",
+      "league": "J1 League",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE5Njo3N2Q3ZGM3ZGZlNjE.png",
+      "matchTime": 1789810200000,
       "status": "finished",
       "streams": [],
       "streamCount": 0
