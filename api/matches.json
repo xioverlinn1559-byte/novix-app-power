@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T06:53:33.734285+00:00",
+  "updatedAt": "2026-09-19T07:04:56.753461+00:00",
   "matches": [
     {
       "id": "aston-villa-tottenham-hotspur-16363870",
@@ -322,29 +322,6 @@
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
-    },
-    {
-      "id": "oita-trinita-hokkaido-consadole-sapporo-16348857",
-      "title": "Hokkaido Consadole Sapporo vs Oita Trinita",
-      "homeTeam": "Hokkaido Consadole Sapporo",
-      "awayTeam": "Oita Trinita",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMTQyOmY2MjE4Zjc3ZDZhZg.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo1MTI5OmQxMjhjNmRmN2Q5Yw.png",
-      "league": "J2 League",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjQwMjpmNzgyOTc4NjI4NWQ.png",
-      "matchTime": 1789794000000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=oita-trinita-hokkaido-consadole-sapporo-16348857&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
     },
     {
       "id": "avondale-fc-oakleigh-cannons-fc-17086056",
@@ -743,6 +720,20 @@
       "league": "Liga MX, Women, Apertura",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjEzNTkzOjg0MjliYTQ3Y2NhYg.png",
       "matchTime": 1789786800000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "oita-trinita-hokkaido-consadole-sapporo-16348857",
+      "title": "Hokkaido Consadole Sapporo vs Oita Trinita",
+      "homeTeam": "Hokkaido Consadole Sapporo",
+      "awayTeam": "Oita Trinita",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMTQyOmY2MjE4Zjc3ZDZhZg.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo1MTI5OmQxMjhjNmRmN2Q5Yw.png",
+      "league": "J2 League",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjQwMjpmNzgyOTc4NjI4NWQ.png",
+      "matchTime": 1789794000000,
       "status": "finished",
       "streams": [],
       "streamCount": 0
