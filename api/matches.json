@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T20:22:47.313760+00:00",
+  "updatedAt": "2026-09-19T20:35:56.701732+00:00",
   "matches": [
     {
       "id": "sevilla-fc-barcelona-16416349",
@@ -504,6 +504,29 @@
       "streamCount": 2
     },
     {
+      "id": "club-atletico-grau-club-sporting-cristal-16280840",
+      "title": "Club Sporting Cristal vs Club Atl\u00e9tico Grau",
+      "homeTeam": "Club Sporting Cristal",
+      "awayTeam": "Club Atl\u00e9tico Grau",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyMzAyOjg5MWFmMjliN2JmOA.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyODI1Mzg6MGRhZWE0MmVmZTZh.png",
+      "league": "Liga 1 Te Apuesto",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjQwNjozZjI3MjYwNzcyZmM.png",
+      "matchTime": 1789849800000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=club-atletico-grau-club-sporting-cristal-16280840&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
       "id": "orlando-pride-portland-thorns-fc-15385467",
       "title": "Orlando Pride vs Portland Thorns FC",
       "homeTeam": "Orlando Pride",
@@ -525,60 +548,6 @@
         }
       ],
       "streamCount": 1
-    },
-    {
-      "id": "real-madrid-valencia-16425721",
-      "title": "Real Madrid vs Valencia",
-      "homeTeam": "Real Madrid",
-      "awayTeam": "Valencia",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMDUwNTE6YzZlZDUyNGQ2YzI2.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo3NzkwOTplY2VlYWI4ZmQ0YTc.png",
-      "league": "Liga F Moeve",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExMjc6ZjVjMTdmNzEyODNh.png",
-      "matchTime": 1789842600000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=real-madrid-valencia-16425721&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "sg-dynamo-dresden-hertha-bsc-16429232",
-      "title": "SG Dynamo Dresden vs Hertha BSC",
-      "homeTeam": "SG Dynamo Dresden",
-      "awayTeam": "Hertha BSC",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyNTk1OjZjYTI3M2YwM2U4MA.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyNTI4OmNlMDJiYzAwN2ViMg.png",
-      "league": "2. Bundesliga",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjQ0OmVmZWY2NzMxMmVlOA.png",
-      "matchTime": 1789842600000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=sg-dynamo-dresden-hertha-bsc-16429232&source=stv",
-          "source": "STV",
-          "hd": true,
-          "language": "MULTI"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=sg-dynamo-dresden-hertha-bsc-16429232&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 2
     },
     {
       "id": "atletico-madrileno-huesca-16599914",
@@ -642,75 +611,6 @@
           "id": "stream-1",
           "streamNo": 1,
           "embedUrl": "https://football77.org/embed/?id=girona-fc-cadiz-16418302&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "team-altamura-az-picerno-16680682",
-      "title": "Team Altamura vs AZ Picerno",
-      "homeTeam": "Team Altamura",
-      "awayTeam": "AZ Picerno",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyNjMzNzA6YWY1YzEyZDQxNDMx.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyMDU3MTQ6ZmY3Y2M3ZjM5NmMw.png",
-      "league": "Serie C, Girone C",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNDQ2OmIzZmM2MmVkYTliYg.png",
-      "matchTime": 1789842600000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=team-altamura-az-picerno-16680682&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "barletta-catania-16680684",
-      "title": "Catania vs Barletta",
-      "homeTeam": "Catania",
-      "awayTeam": "Barletta",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyNzI1OjRiMzAxYmEzNTc5Mg.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyNTE1NDpkMDE3OWFjOTQ4NDY.png",
-      "league": "Serie C, Girone C",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNDQ2OmIzZmM2MmVkYTliYg.png",
-      "matchTime": 1789842600000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=barletta-catania-16680684&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "giugliano-salernitana-16680688",
-      "title": "US Salernitana 1919 vs Giugliano",
-      "homeTeam": "US Salernitana 1919",
-      "awayTeam": "Giugliano",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyNzEwOjljMmNjYjc0ZGZjZg.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMjY1OTA6ZDkyZTE2ZDFiOWMz.png",
-      "league": "Serie C, Girone C",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNDQ2OmIzZmM2MmVkYTliYg.png",
-      "matchTime": 1789842600000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=giugliano-salernitana-16680688&source=lola",
           "source": "lola",
           "hd": false,
           "language": "MULTI"
@@ -1130,20 +1030,6 @@
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjQwNjozZjI3MjYwNzcyZmM.png",
       "matchTime": 1789840800000,
       "status": "finished",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "club-atletico-grau-club-sporting-cristal-16280840",
-      "title": "Club Sporting Cristal vs Club Atl\u00e9tico Grau",
-      "homeTeam": "Club Sporting Cristal",
-      "awayTeam": "Club Atl\u00e9tico Grau",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyMzAyOjg5MWFmMjliN2JmOA.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyODI1Mzg6MGRhZWE0MmVmZTZh.png",
-      "league": "Liga 1 Te Apuesto",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjQwNjozZjI3MjYwNzcyZmM.png",
-      "matchTime": 1789849800000,
-      "status": "notstarted",
       "streams": [],
       "streamCount": 0
     },
@@ -1876,6 +1762,20 @@
       "streamCount": 0
     },
     {
+      "id": "real-madrid-valencia-16425721",
+      "title": "Real Madrid vs Valencia",
+      "homeTeam": "Real Madrid",
+      "awayTeam": "Valencia",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMDUwNTE6YzZlZDUyNGQ2YzI2.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo3NzkwOTplY2VlYWI4ZmQ0YTc.png",
+      "league": "Liga F Moeve",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExMjc6ZjVjMTdmNzEyODNh.png",
+      "matchTime": 1789842600000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "lesotho-u20-south-africa-u20-17068032",
       "title": "South Africa U20 vs Lesotho U20",
       "homeTeam": "South Africa U20",
@@ -1969,6 +1869,20 @@
       "league": "2. Bundesliga",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjQ0OmVmZWY2NzMxMmVlOA.png",
       "matchTime": 1789815600000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "sg-dynamo-dresden-hertha-bsc-16429232",
+      "title": "SG Dynamo Dresden vs Hertha BSC",
+      "homeTeam": "SG Dynamo Dresden",
+      "awayTeam": "Hertha BSC",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyNTk1OjZjYTI3M2YwM2U4MA.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyNTI4OmNlMDJiYzAwN2ViMg.png",
+      "league": "2. Bundesliga",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjQ0OmVmZWY2NzMxMmVlOA.png",
+      "matchTime": 1789842600000,
       "status": "finished",
       "streams": [],
       "streamCount": 0
@@ -2893,6 +2807,48 @@
       "league": "Serie C, Girone C",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNDQ2OmIzZmM2MmVkYTliYg.png",
       "matchTime": 1789831800000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "team-altamura-az-picerno-16680682",
+      "title": "Team Altamura vs AZ Picerno",
+      "homeTeam": "Team Altamura",
+      "awayTeam": "AZ Picerno",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyNjMzNzA6YWY1YzEyZDQxNDMx.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyMDU3MTQ6ZmY3Y2M3ZjM5NmMw.png",
+      "league": "Serie C, Girone C",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNDQ2OmIzZmM2MmVkYTliYg.png",
+      "matchTime": 1789842600000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "barletta-catania-16680684",
+      "title": "Catania vs Barletta",
+      "homeTeam": "Catania",
+      "awayTeam": "Barletta",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyNzI1OjRiMzAxYmEzNTc5Mg.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyNTE1NDpkMDE3OWFjOTQ4NDY.png",
+      "league": "Serie C, Girone C",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNDQ2OmIzZmM2MmVkYTliYg.png",
+      "matchTime": 1789842600000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "giugliano-salernitana-16680688",
+      "title": "US Salernitana 1919 vs Giugliano",
+      "homeTeam": "US Salernitana 1919",
+      "awayTeam": "Giugliano",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyNzEwOjljMmNjYjc0ZGZjZg.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMjY1OTA6ZDkyZTE2ZDFiOWMz.png",
+      "league": "Serie C, Girone C",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNDQ2OmIzZmM2MmVkYTliYg.png",
+      "matchTime": 1789842600000,
       "status": "finished",
       "streams": [],
       "streamCount": 0
