@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T13:35:01.478167+00:00",
+  "updatedAt": "2026-09-19T13:48:23.873685+00:00",
   "matches": [
     {
       "id": "osasuna-rayo-vallecano-16416305",
@@ -673,37 +673,6 @@
         }
       ],
       "streamCount": 1
-    },
-    {
-      "id": "chelsea-fc-birmingham-cityfc-16692879",
-      "title": "Chelsea FC vs Birmingham City W.F.C.",
-      "homeTeam": "Chelsea FC",
-      "awayTeam": "Birmingham City W.F.C.",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo2Njc2ODowYTc1NWY5YmFkZGM.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo2Njc2NjpkZDI2MjM1OGE0YTQ.png",
-      "league": "Women's Super League",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjEwNDQ6OTQ2YzJiYmIzMTUw.png",
-      "matchTime": 1789818300000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=chelsea-fc-birmingham-cityfc-16692879&source=stv",
-          "source": "STV",
-          "hd": true,
-          "language": "MULTI"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=chelsea-fc-birmingham-cityfc-16692879&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 2
     },
     {
       "id": "us-boulogne-cote-dopale-nantes-16386192",
@@ -2853,6 +2822,20 @@
       "streamCount": 0
     },
     {
+      "id": "chelsea-fc-birmingham-cityfc-16692879",
+      "title": "Chelsea FC vs Birmingham City W.F.C.",
+      "homeTeam": "Chelsea FC",
+      "awayTeam": "Birmingham City W.F.C.",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo2Njc2ODowYTc1NWY5YmFkZGM.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo2Njc2NjpkZDI2MjM1OGE0YTQ.png",
+      "league": "Women's Super League",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjEwNDQ6OTQ2YzJiYmIzMTUw.png",
+      "matchTime": 1789818300000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "manchester-united-arsenal-16692884",
       "title": "Arsenal vs Manchester United",
       "homeTeam": "Arsenal",
@@ -3450,6 +3433,20 @@
       "league": "Trendyol S\u00fcper Lig",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjUyOjM2MzRiNGZiYzRlOQ.png",
       "matchTime": 1789837200000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "pollok-fc-clydebank-fc-16477655",
+      "title": "Clydebank FC vs Pollok FC",
+      "homeTeam": "Clydebank FC",
+      "awayTeam": "Pollok FC",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyMDE3OTg6YzU5OTA0Yjc3ODFl.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0NDgwNzY6MDVmNDdhYmY1NjVm.png",
+      "league": "Lowland League",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE5MjkxOjI1NjM0ZDk1ODA2MA.png",
+      "matchTime": 1789826400000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
