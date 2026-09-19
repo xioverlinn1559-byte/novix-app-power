@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T08:49:51.861473+00:00",
+  "updatedAt": "2026-09-19T09:05:21.939415+00:00",
   "matches": [
     {
       "id": "aston-villa-tottenham-hotspur-16363870",
@@ -600,6 +600,29 @@
       "streamCount": 1
     },
     {
+      "id": "prime-bangkok-fc-kasem-bundit-university-fc-16792685",
+      "title": "Kasem Bundit University FC vs Prime Bangkok FC",
+      "homeTeam": "Kasem Bundit University FC",
+      "awayTeam": "Prime Bangkok FC",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyNzcwNDY6NDQ0NWYzZGVjYTVi.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozOTczMTM6YjRjNWI2ZjUyZTU2.png",
+      "league": "Thai League 3",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM0MjM0OjhkMTg0NjI3ZmFhNA.png",
+      "matchTime": 1789806600000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=prime-bangkok-fc-kasem-bundit-university-fc-16792685&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
       "id": "sumsel-united-fc-psgc-ciamis-16904437",
       "title": "PSGC Ciamis vs Sumsel United FC",
       "homeTeam": "PSGC Ciamis",
@@ -1141,20 +1164,6 @@
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM0MjM0OjhkMTg0NjI3ZmFhNA.png",
       "matchTime": 1789806600000,
       "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "prime-bangkok-fc-kasem-bundit-university-fc-16792685",
-      "title": "Kasem Bundit University FC vs Prime Bangkok FC",
-      "homeTeam": "Kasem Bundit University FC",
-      "awayTeam": "Prime Bangkok FC",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyNzcwNDY6NDQ0NWYzZGVjYTVi.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozOTczMTM6YjRjNWI2ZjUyZTU2.png",
-      "league": "Thai League 3",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM0MjM0OjhkMTg0NjI3ZmFhNA.png",
-      "matchTime": 1789806600000,
-      "status": "scheduled",
       "streams": [],
       "streamCount": 0
     },
