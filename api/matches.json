@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T17:05:03.826118+00:00",
+  "updatedAt": "2026-09-19T17:21:13.126652+00:00",
   "matches": [
     {
       "id": "nottingham-forest-coventry-city-16363869",
@@ -153,45 +153,6 @@
           "source": "PPV",
           "hd": true,
           "language": "EN"
-        }
-      ],
-      "streamCount": 3
-    },
-    {
-      "id": "paris-fc-rc-strasbourg-16310964",
-      "title": "Paris FC vs RC Strasbourg",
-      "homeTeam": "Paris FC",
-      "awayTeam": "RC Strasbourg",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo2MDcwOjBmZWZjNGQzYzZiMA.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToxNjU5OmU2MTAwMjNmM2RmZA.png",
-      "league": "Ligue 1",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM0OmVjZDcwOTQ2M2JlNw.png",
-      "matchTime": 1789830900000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=paris-fc-rc-strasbourg-16310964&source=stv",
-          "source": "STV",
-          "hd": true,
-          "language": "MULTI"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=paris-fc-rc-strasbourg-16310964&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        },
-        {
-          "id": "stream-3",
-          "streamNo": 3,
-          "embedUrl": "https://football77.org/embed/?id=paris-fc-rc-strasbourg-16310964&source=ppv",
-          "source": "PPV",
-          "hd": true,
-          "language": "FR"
         }
       ],
       "streamCount": 3
@@ -388,6 +349,20 @@
       "league": "Bundesliga",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM1Ojk1YTEzN2M4NjQzOA.png",
       "matchTime": 1789824600000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "paris-fc-rc-strasbourg-16310964",
+      "title": "Paris FC vs RC Strasbourg",
+      "homeTeam": "Paris FC",
+      "awayTeam": "RC Strasbourg",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo2MDcwOjBmZWZjNGQzYzZiMA.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToxNjU5OmU2MTAwMjNmM2RmZA.png",
+      "league": "Ligue 1",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM0OmVjZDcwOTQ2M2JlNw.png",
+      "matchTime": 1789830900000,
       "status": "finished",
       "streams": [],
       "streamCount": 0
@@ -756,29 +731,6 @@
       "streamCount": 2
     },
     {
-      "id": "catanzaro-sampdoria-16607594",
-      "title": "Sampdoria vs Catanzaro",
-      "homeTeam": "Sampdoria",
-      "awayTeam": "Catanzaro",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyNzExOjc2YzYwNDI5YjRiYw.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyNzk2OmI3ZGQwZGVhY2IxZQ.png",
-      "league": "Serie B",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjUzOjRiNzE1MGQwNmVlNg.png",
-      "matchTime": 1789830900000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=catanzaro-sampdoria-16607594&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
       "id": "spain-u20-brazil-u20-17115783",
       "title": "Brazil U20 vs Spain U20",
       "homeTeam": "Brazil U20",
@@ -905,6 +857,37 @@
           "source": "PPV",
           "hd": true,
           "language": "NL"
+        }
+      ],
+      "streamCount": 2
+    },
+    {
+      "id": "fc-alverca-rio-ave-16432044",
+      "title": "FC Alverca vs Rio Ave",
+      "homeTeam": "FC Alverca",
+      "awayTeam": "Rio Ave",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxOTAzMjg6NDUxY2QzYjMxZDYw.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMDM2OmZkY2IwMTQyYWZiOA.png",
+      "league": "Liga Portugal Betclic",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIzODpjMDNmYWU4MTFkN2U.png",
+      "matchTime": 1789837200000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=fc-alverca-rio-ave-16432044&source=stv",
+          "source": "STV",
+          "hd": true,
+          "language": "MULTI"
+        },
+        {
+          "id": "stream-2",
+          "streamNo": 2,
+          "embedUrl": "https://football77.org/embed/?id=fc-alverca-rio-ave-16432044&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
         }
       ],
       "streamCount": 2
@@ -3318,6 +3301,20 @@
       "streamCount": 0
     },
     {
+      "id": "catanzaro-sampdoria-16607594",
+      "title": "Sampdoria vs Catanzaro",
+      "homeTeam": "Sampdoria",
+      "awayTeam": "Catanzaro",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyNzExOjc2YzYwNDI5YjRiYw.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyNzk2OmI3ZGQwZGVhY2IxZQ.png",
+      "league": "Serie B",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjUzOjRiNzE1MGQwNmVlNg.png",
+      "matchTime": 1789830900000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "us-avellino-1912-ascoli-16607587",
       "title": "Ascoli vs US Avellino 1912",
       "homeTeam": "Ascoli",
@@ -3552,20 +3549,6 @@
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIzODpjMDNmYWU4MTFkN2U.png",
       "matchTime": 1789828200000,
       "status": "finished",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "fc-alverca-rio-ave-16432044",
-      "title": "FC Alverca vs Rio Ave",
-      "homeTeam": "FC Alverca",
-      "awayTeam": "Rio Ave",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxOTAzMjg6NDUxY2QzYjMxZDYw.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMDM2OmZkY2IwMTQyYWZiOA.png",
-      "league": "Liga Portugal Betclic",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIzODpjMDNmYWU4MTFkN2U.png",
-      "matchTime": 1789837200000,
-      "status": "notstarted",
       "streams": [],
       "streamCount": 0
     },
