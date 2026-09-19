@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T10:35:35.241287+00:00",
+  "updatedAt": "2026-09-19T10:48:41.833344+00:00",
   "matches": [
     {
       "id": "aston-villa-tottenham-hotspur-16363870",
@@ -370,75 +370,6 @@
       "streamCount": 1
     },
     {
-      "id": "futera-united-fc-bangkapi-fc-16792683",
-      "title": "Bangkapi FC vs Futera United FC",
-      "homeTeam": "Bangkapi FC",
-      "awayTeam": "Futera United FC",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0NTIzMTg6MDNiZTUyNDMwZGNm.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0NTYxNzA6Yzc1Yzc5MzY0Zjkx.png",
-      "league": "Thai League 3",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM0MjM0OjhkMTg0NjI3ZmFhNA.png",
-      "matchTime": 1789806600000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=futera-united-fc-bangkapi-fc-16792683&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "fleet-united-chachoengsao-hi-tek-fc-16793201",
-      "title": "Fleet United vs Chachoengsao Hi-Tek FC",
-      "homeTeam": "Fleet United",
-      "awayTeam": "Chachoengsao Hi-Tek FC",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMTI1NDg6ODFkMThmMTBkOTRj.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyNTg5ODI6ZTMzYjM5OTA4Mzdl.png",
-      "league": "Thai League 3",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM0MjM0OjhkMTg0NjI3ZmFhNA.png",
-      "matchTime": 1789806600000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=fleet-united-chachoengsao-hi-tek-fc-16793201&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "dejan-fc-rans-nusantara-fc-16904439",
-      "title": "Dejan FC vs RANS Nusantara FC",
-      "homeTeam": "Dejan FC",
-      "awayTeam": "RANS Nusantara FC",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0NjAyMzQ6MmJmOWJhNzRmYWVk.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyMzA5NzY6YzVhODkyZGQyNjA2.png",
-      "league": "Indonesia Championship",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIzMjI5Ojc3NDFjYWQwYmYwNA.png",
-      "matchTime": 1789806600000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=dejan-fc-rans-nusantara-fc-16904439&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
       "id": "avispa-fukuoka-sanfrecce-hiroshima-16348600",
       "title": "Avispa Fukuoka vs Sanfrecce Hiroshima",
       "homeTeam": "Avispa Fukuoka",
@@ -592,6 +523,29 @@
           "id": "stream-1",
           "streamNo": 1,
           "embedUrl": "https://football77.org/embed/?id=fagiano-okayama-kyoto-sanga-fc-16348594&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
+      "id": "mito-hollyhock-yokohama-marinos-16348599",
+      "title": "Yokohama F. Marinos vs Mito Hollyhock",
+      "homeTeam": "Yokohama F. Marinos",
+      "awayTeam": "Mito Hollyhock",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMTM3OmI2ODVjMWU1ZDkzNw.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyMTkwMTplZGRjMTgyNTA2NDE.png",
+      "league": "J1 League",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE5Njo3N2Q3ZGM3ZGZlNjE.png",
+      "matchTime": 1789813800000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=mito-hollyhock-yokohama-marinos-16348599&source=lola",
           "source": "lola",
           "hd": false,
           "language": "MULTI"
@@ -1242,6 +1196,20 @@
       "streamCount": 0
     },
     {
+      "id": "futera-united-fc-bangkapi-fc-16792683",
+      "title": "Bangkapi FC vs Futera United FC",
+      "homeTeam": "Bangkapi FC",
+      "awayTeam": "Futera United FC",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0NTIzMTg6MDNiZTUyNDMwZGNm.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0NTYxNzA6Yzc1Yzc5MzY0Zjkx.png",
+      "league": "Thai League 3",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM0MjM0OjhkMTg0NjI3ZmFhNA.png",
+      "matchTime": 1789806600000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "singburi-warriors-pathumthani-university-fc-16792684",
       "title": "Pathumthani University FC vs Singburi Warriors",
       "homeTeam": "Pathumthani University FC",
@@ -1318,6 +1286,20 @@
       "awayTeam": "Surin City FC",
       "homeLogo": "https://img.sportsrc.org/file/dGVhbToxMTI5MzI3OmMwZmRkNmM1MTVjZQ.png",
       "awayLogo": "https://img.sportsrc.org/file/dGVhbToyMjM2MTU6ZjZhYzk2OTEwOTc0.png",
+      "league": "Thai League 3",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM0MjM0OjhkMTg0NjI3ZmFhNA.png",
+      "matchTime": 1789806600000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "fleet-united-chachoengsao-hi-tek-fc-16793201",
+      "title": "Fleet United vs Chachoengsao Hi-Tek FC",
+      "homeTeam": "Fleet United",
+      "awayTeam": "Chachoengsao Hi-Tek FC",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMTI1NDg6ODFkMThmMTBkOTRj.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyNTg5ODI6ZTMzYjM5OTA4Mzdl.png",
       "league": "Thai League 3",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM0MjM0OjhkMTg0NjI3ZmFhNA.png",
       "matchTime": 1789806600000,
@@ -1410,6 +1392,20 @@
       "streamCount": 0
     },
     {
+      "id": "dejan-fc-rans-nusantara-fc-16904439",
+      "title": "Dejan FC vs RANS Nusantara FC",
+      "homeTeam": "Dejan FC",
+      "awayTeam": "RANS Nusantara FC",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0NjAyMzQ6MmJmOWJhNzRmYWVk.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyMzA5NzY6YzVhODkyZGQyNjA2.png",
+      "league": "Indonesia Championship",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIzMjI5Ojc3NDFjYWQwYmYwNA.png",
+      "matchTime": 1789806600000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "persiba-balikpapan-persela-lamongan-16904440",
       "title": "Persiba Balikpapan vs Persela Lamongan",
       "homeTeam": "Persiba Balikpapan",
@@ -1419,20 +1415,6 @@
       "league": "Indonesia Championship",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIzMjI5Ojc3NDFjYWQwYmYwNA.png",
       "matchTime": 1789819200000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "mito-hollyhock-yokohama-marinos-16348599",
-      "title": "Yokohama F. Marinos vs Mito Hollyhock",
-      "homeTeam": "Yokohama F. Marinos",
-      "awayTeam": "Mito Hollyhock",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMTM3OmI2ODVjMWU1ZDkzNw.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyMTkwMTplZGRjMTgyNTA2NDE.png",
-      "league": "J1 League",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE5Njo3N2Q3ZGM3ZGZlNjE.png",
-      "matchTime": 1789813800000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
