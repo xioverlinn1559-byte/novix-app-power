@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T21:48:07.690449+00:00",
+  "updatedAt": "2026-09-19T22:04:54.112916+00:00",
   "matches": [
     {
       "id": "aston-villa-tottenham-hotspur-16363870",
@@ -324,21 +324,21 @@
       "streamCount": 0
     },
     {
-      "id": "ca-independiente-club-atletico-union-de-santa-fe-16667325",
-      "title": "Club Atl\u00e9tico Uni\u00f3n de Santa Fe vs CA Independiente",
-      "homeTeam": "Club Atl\u00e9tico Uni\u00f3n de Santa Fe",
-      "awayTeam": "CA Independiente",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMjA0OjY2YzE3NjFjZGI5OA.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMjA5OmQ3MmRhYjFmZTY2MQ.png",
+      "id": "huracan-river-plate-16667327",
+      "title": "River Plate vs Hurac\u00e1n",
+      "homeTeam": "River Plate",
+      "awayTeam": "Hurac\u00e1n",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMjExOjEzODcyNzRjY2Q3Nw.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo3NjI5OmE0MTJiNDdiZmM4MA.png",
       "league": "Liga Profesional de F\u00fatbol",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE1NTo1MDUyNDk5Zjg4NDk.png",
-      "matchTime": 1789847100000,
+      "matchTime": 1789855200000,
       "status": "inprogress",
       "streams": [
         {
           "id": "stream-1",
           "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ca-independiente-club-atletico-union-de-santa-fe-16667325&source=stv",
+          "embedUrl": "https://football77.org/embed/?id=huracan-river-plate-16667327&source=stv",
           "source": "STV",
           "hd": true,
           "language": "MULTI"
@@ -346,7 +346,7 @@
         {
           "id": "stream-2",
           "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=ca-independiente-club-atletico-union-de-santa-fe-16667325&source=lola",
+          "embedUrl": "https://football77.org/embed/?id=huracan-river-plate-16667327&source=lola",
           "source": "lola",
           "hd": false,
           "language": "MULTI"
@@ -399,60 +399,6 @@
         }
       ],
       "streamCount": 1
-    },
-    {
-      "id": "orlando-pride-portland-thorns-fc-15385467",
-      "title": "Orlando Pride vs Portland Thorns FC",
-      "homeTeam": "Orlando Pride",
-      "awayTeam": "Portland Thorns FC",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyMTUwODM6NjhmNzAxMDJkZjMz.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToxNTEwMDg6MjhlYzVkNzA4Njc1.png",
-      "league": "NWSL",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE2OTA6MmY3NTllMGUwOTRk.png",
-      "matchTime": 1789848000000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=orlando-pride-portland-thorns-fc-15385467&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "mirassol-botafogo-15235481",
-      "title": "Mirassol vs Botafogo",
-      "homeTeam": "Mirassol",
-      "awayTeam": "Botafogo",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyMTk4MjphYTBhNjg4YTJjNDE.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToxOTU4OmJjOGI2MDNiNmUyNg.png",
-      "league": "Brasileir\u00e3o Betano",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjMyNTphMTgwZjA4NTM0MWQ.png",
-      "matchTime": 1789848000000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=mirassol-botafogo-15235481&source=stv",
-          "source": "STV",
-          "hd": true,
-          "language": "MULTI"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=mirassol-botafogo-15235481&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 2
     },
     {
       "id": "remo-santos-15237989",
@@ -515,29 +461,6 @@
         }
       ],
       "streamCount": 2
-    },
-    {
-      "id": "yaracuyanos-fc-deportivo-lara-16933471",
-      "title": "Yaracuyanos FC vs Deportivo Lara",
-      "homeTeam": "Yaracuyanos FC",
-      "awayTeam": "Deportivo Lara",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozNjQzNToyMDAyNjcxNTQ4NTM.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo3NzQ2OmE1ZGFkODYyYzg3Nw.png",
-      "league": "Segunda Divisi\u00f3n",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjEwNDU2OjI3NTIxZTNlNjE5ZA.png",
-      "matchTime": 1789848000000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=yaracuyanos-fc-deportivo-lara-16933471&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
     },
     {
       "id": "forge-fc-cavalry-fc-15502877",
@@ -656,16 +579,16 @@
       "streamCount": 0
     },
     {
-      "id": "huracan-river-plate-16667327",
-      "title": "River Plate vs Hurac\u00e1n",
-      "homeTeam": "River Plate",
-      "awayTeam": "Hurac\u00e1n",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMjExOjEzODcyNzRjY2Q3Nw.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo3NjI5OmE0MTJiNDdiZmM4MA.png",
+      "id": "ca-independiente-club-atletico-union-de-santa-fe-16667325",
+      "title": "Club Atl\u00e9tico Uni\u00f3n de Santa Fe vs CA Independiente",
+      "homeTeam": "Club Atl\u00e9tico Uni\u00f3n de Santa Fe",
+      "awayTeam": "CA Independiente",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMjA0OjY2YzE3NjFjZGI5OA.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMjA5OmQ3MmRhYjFmZTY2MQ.png",
       "league": "Liga Profesional de F\u00fatbol",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE1NTo1MDUyNDk5Zjg4NDk.png",
-      "matchTime": 1789855200000,
-      "status": "notstarted",
+      "matchTime": 1789847100000,
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -875,6 +798,20 @@
       "league": "NWSL",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE2OTA6MmY3NTllMGUwOTRk.png",
       "matchTime": 1789783200000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "orlando-pride-portland-thorns-fc-15385467",
+      "title": "Orlando Pride vs Portland Thorns FC",
+      "homeTeam": "Orlando Pride",
+      "awayTeam": "Portland Thorns FC",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyMTUwODM6NjhmNzAxMDJkZjMz.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToxNTEwMDg6MjhlYzVkNzA4Njc1.png",
+      "league": "NWSL",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE2OTA6MmY3NTllMGUwOTRk.png",
+      "matchTime": 1789848000000,
       "status": "finished",
       "streams": [],
       "streamCount": 0
@@ -3400,6 +3337,20 @@
       "streamCount": 0
     },
     {
+      "id": "mirassol-botafogo-15235481",
+      "title": "Mirassol vs Botafogo",
+      "homeTeam": "Mirassol",
+      "awayTeam": "Botafogo",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyMTk4MjphYTBhNjg4YTJjNDE.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToxOTU4OmJjOGI2MDNiNmUyNg.png",
+      "league": "Brasileir\u00e3o Betano",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjMyNTphMTgwZjA4NTM0MWQ.png",
+      "matchTime": 1789848000000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "coritiba-vasco-da-gama-15235477",
       "title": "Vasco da Gama vs Coritiba",
       "homeTeam": "Vasco da Gama",
@@ -3451,6 +3402,20 @@
       "league": "Brasileir\u00e3o S\u00e9rie A1, Feminino",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjEwMjU3OmQ3MWNjYzczNzc1Nw.png",
       "matchTime": 1789846200000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "yaracuyanos-fc-deportivo-lara-16933471",
+      "title": "Yaracuyanos FC vs Deportivo Lara",
+      "homeTeam": "Yaracuyanos FC",
+      "awayTeam": "Deportivo Lara",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozNjQzNToyMDAyNjcxNTQ4NTM.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo3NzQ2OmE1ZGFkODYyYzg3Nw.png",
+      "league": "Segunda Divisi\u00f3n",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjEwNDU2OjI3NTIxZTNlNjE5ZA.png",
+      "matchTime": 1789848000000,
       "status": "finished",
       "streams": [],
       "streamCount": 0
