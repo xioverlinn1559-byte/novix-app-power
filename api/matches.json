@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T21:34:53.350869+00:00",
+  "updatedAt": "2026-09-19T21:48:07.690449+00:00",
   "matches": [
     {
       "id": "aston-villa-tottenham-hotspur-16363870",
@@ -324,29 +324,6 @@
       "streamCount": 0
     },
     {
-      "id": "juventude-sport-recife-15526295",
-      "title": "Sport Recife vs Juventude",
-      "homeTeam": "Sport Recife",
-      "awayTeam": "Juventude",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxOTU5OjU5MTgyYzgwY2Y3Yw.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToxOTgwOmU5MDY2YzkxODFmYg.png",
-      "league": "Brasileir\u00e3o S\u00e9rie B",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM5MDo3MDE0MTEwMjkzY2E.png",
-      "matchTime": 1789846200000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=juventude-sport-recife-15526295&source=stv",
-          "source": "STV",
-          "hd": true,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
       "id": "ca-independiente-club-atletico-union-de-santa-fe-16667325",
       "title": "Club Atl\u00e9tico Uni\u00f3n de Santa Fe vs CA Independiente",
       "homeTeam": "Club Atl\u00e9tico Uni\u00f3n de Santa Fe",
@@ -618,6 +595,20 @@
       "league": "Brasileir\u00e3o S\u00e9rie B",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM5MDo3MDE0MTEwMjkzY2E.png",
       "matchTime": 1789776000000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "juventude-sport-recife-15526295",
+      "title": "Sport Recife vs Juventude",
+      "homeTeam": "Sport Recife",
+      "awayTeam": "Juventude",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxOTU5OjU5MTgyYzgwY2Y3Yw.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToxOTgwOmU5MDY2YzkxODFmYg.png",
+      "league": "Brasileir\u00e3o S\u00e9rie B",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM5MDo3MDE0MTEwMjkzY2E.png",
+      "matchTime": 1789846200000,
       "status": "finished",
       "streams": [],
       "streamCount": 0
