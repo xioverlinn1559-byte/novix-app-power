@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T17:48:18.737627+00:00",
+  "updatedAt": "2026-09-19T18:06:01.939151+00:00",
   "matches": [
     {
       "id": "nottingham-forest-coventry-city-16363869",
@@ -72,45 +72,6 @@
           "id": "stream-3",
           "streamNo": 3,
           "embedUrl": "https://football77.org/embed/?id=real-racing-club-celta-vigo-16416344&source=ppv",
-          "source": "PPV",
-          "hd": true,
-          "language": "EN"
-        }
-      ],
-      "streamCount": 3
-    },
-    {
-      "id": "as-roma-inter-16285021",
-      "title": "AS Roma vs Inter",
-      "homeTeam": "AS Roma",
-      "awayTeam": "Inter",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyNzAyOmU1OTRmYzVhOGI1OQ.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyNjk3OmViMDIxMDNiM2U2Mg.png",
-      "league": "Serie A",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIzOjdhMjIzYWRiNDVlNw.png",
-      "matchTime": 1789833600000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=as-roma-inter-16285021&source=stv",
-          "source": "STV",
-          "hd": true,
-          "language": "MULTI"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=as-roma-inter-16285021&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        },
-        {
-          "id": "stream-3",
-          "streamNo": 3,
-          "embedUrl": "https://football77.org/embed/?id=as-roma-inter-16285021&source=ppv",
           "source": "PPV",
           "hd": true,
           "language": "EN"
@@ -279,6 +240,20 @@
       "league": "Serie A",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIzOjdhMjIzYWRiNDVlNw.png",
       "matchTime": 1789822800000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "as-roma-inter-16285021",
+      "title": "AS Roma vs Inter",
+      "homeTeam": "AS Roma",
+      "awayTeam": "Inter",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyNzAyOmU1OTRmYzVhOGI1OQ.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyNjk3OmViMDIxMDNiM2U2Mg.png",
+      "league": "Serie A",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIzOjdhMjIzYWRiNDVlNw.png",
+      "matchTime": 1789833600000,
       "status": "finished",
       "streams": [],
       "streamCount": 0
@@ -486,52 +461,6 @@
       "streamCount": 2
     },
     {
-      "id": "dux-logrono-club-atletico-de-madrid-16425709",
-      "title": "Club Atl\u00e9tico de Madrid vs Logro\u00f1o United",
-      "homeTeam": "Club Atl\u00e9tico de Madrid",
-      "awayTeam": "Logro\u00f1o United",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo3Nzg3OTpkNDZkMDQ3NmI5MDc.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo4NjE1OTg6ZGZlNjJjZGM0ODcx.png",
-      "league": "Liga F Moeve",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExMjc6ZjVjMTdmNzEyODNh.png",
-      "matchTime": 1789833600000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=dux-logrono-club-atletico-de-madrid-16425709&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "comoros-u20-botswana-u20-17068059",
-      "title": "Comoros U20 vs Botswana U20",
-      "homeTeam": "Comoros U20",
-      "awayTeam": "Botswana U20",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMzY4ODk6NzQ0MDc3ZWMxNmJl.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMDU4MTc6YjMyMWQ4NWExOGQw.png",
-      "league": "COSAFA U20 Championship",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIzNjY5OjU0MDBjYWI3YjYxYg.png",
-      "matchTime": 1789833600000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=comoros-u20-botswana-u20-17068059&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
       "id": "cd-coria-real-aviles-16439359",
       "title": "CD Coria vs Real Avil\u00e9s",
       "homeTeam": "CD Coria",
@@ -639,6 +568,29 @@
           "id": "stream-1",
           "streamNo": 1,
           "embedUrl": "https://football77.org/embed/?id=hornchurch-scunthorpe-united-16494336&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
+      "id": "saint-etienne-metz-16386196",
+      "title": "Metz vs Saint-\u00c9tienne",
+      "homeTeam": "Metz",
+      "awayTeam": "Saint-\u00c9tienne",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxNjUxOjE3OTQwOTMzOTM5Yg.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToxNjc4OjNjYmFiMDQyNTkzZA.png",
+      "league": "Ligue 2",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE4Mjo1OWQ1NThmZDdlNmQ.png",
+      "matchTime": 1789840800000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=saint-etienne-metz-16386196&source=lola",
           "source": "lola",
           "hd": false,
           "language": "MULTI"
@@ -847,6 +799,45 @@
       "streamCount": 2
     },
     {
+      "id": "excelsior-afc-ajax-16316821",
+      "title": "AFC Ajax vs Excelsior",
+      "homeTeam": "AFC Ajax",
+      "awayTeam": "Excelsior",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyOTUzOjJjZWIyNzMyNzRkYg.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyOTY3OmJhODk5MzExNDAxMg.png",
+      "league": "VriendenLoterij Eredivisie",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM3OjNiODEyNzFjY2E2NA.png",
+      "matchTime": 1789840800000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=excelsior-afc-ajax-16316821&source=stv",
+          "source": "STV",
+          "hd": true,
+          "language": "MULTI"
+        },
+        {
+          "id": "stream-2",
+          "streamNo": 2,
+          "embedUrl": "https://football77.org/embed/?id=excelsior-afc-ajax-16316821&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        },
+        {
+          "id": "stream-3",
+          "streamNo": 3,
+          "embedUrl": "https://football77.org/embed/?id=excelsior-afc-ajax-16316821&source=ppv",
+          "source": "PPV",
+          "hd": true,
+          "language": "NL"
+        }
+      ],
+      "streamCount": 3
+    },
+    {
       "id": "fc-alverca-rio-ave-16432044",
       "title": "FC Alverca vs Rio Ave",
       "homeTeam": "FC Alverca",
@@ -876,144 +867,6 @@
         }
       ],
       "streamCount": 2
-    },
-    {
-      "id": "focusport-fc-as-douanes-16931956",
-      "title": "FocuSport FC vs AS Douanes",
-      "homeTeam": "FocuSport FC",
-      "awayTeam": "AS Douanes",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxMjQyMTMxOmRmMDNkYmQ4Mjk1ZQ.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozNzAwOTA6ZDVlZjg1YmQ5ZjM4.png",
-      "league": "FasoFoot Ligue 1",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjI5MzY5OmVjYTMzNjhiNmU3Nw.png",
-      "matchTime": 1789831850000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=focusport-fc-as-douanes-16931956&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "anorthosis-famagusta-nea-salamina-famagusta-16633360",
-      "title": "Nea Salamina Famagusta vs Anorthosis Famagusta",
-      "homeTeam": "Nea Salamina Famagusta",
-      "awayTeam": "Anorthosis Famagusta",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMzk5OjJlNWRhZTc3MWFhYg.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozNDAzOjIxMmUyMzRkMThkOA.png",
-      "league": "Cyprus League by Stoiximan",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE3MTo1MDI2NDUyYWNlNzU.png",
-      "matchTime": 1789833600000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=anorthosis-famagusta-nea-salamina-famagusta-16633360&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "apollon-limassol-apoel-nicosia-16633385",
-      "title": "Apollon Limassol vs APOEL Nicosia",
-      "homeTeam": "Apollon Limassol",
-      "awayTeam": "APOEL Nicosia",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozNDAyOjY5NWE5ZmVhMjEwZA.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMzk4OjgyYzE1MWEyYTQ0OQ.png",
-      "league": "Cyprus League by Stoiximan",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE3MTo1MDI2NDUyYWNlNzU.png",
-      "matchTime": 1789833600000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=apollon-limassol-apoel-nicosia-16633385&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "as-roma-juventus-17093681",
-      "title": "Juventus vs AS Roma",
-      "homeTeam": "Juventus",
-      "awayTeam": "AS Roma",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyNjk4MjQ6MjA4Yjk5NmM4NTY0.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMDE0MTQ6MjlkZGM5NDk4YjY5.png",
-      "league": "Serie A Women's Cup",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjI3OTQ1OjgwNGFkMDdkNzlhNQ.png",
-      "matchTime": 1789833600000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=as-roma-juventus-17093681&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "servette-fc-bsc-young-boys-16357092",
-      "title": "BSC Young Boys vs Servette FC",
-      "homeTeam": "BSC Young Boys",
-      "awayTeam": "Servette FC",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyNDQ1OjkwODM0MDY2YTViYw.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyNDQ4OjQ3NzFlY2JhZTE3Mw.png",
-      "league": "Swiss Super League",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIxNTpkMTdhYWFiNDE1OGI.png",
-      "matchTime": 1789833600000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=servette-fc-bsc-young-boys-16357092&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "fc-luzern-grasshopper-club-zurich-16357094",
-      "title": "FC Luzern vs Grasshopper Club Z\u00fcrich",
-      "homeTeam": "FC Luzern",
-      "awayTeam": "Grasshopper Club Z\u00fcrich",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyNDUzOmUxN2RlOTM0YTkyOQ.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyNDQ5OmNmYjcyM2FjNDEzOA.png",
-      "league": "Swiss Super League",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIxNTpkMTdhYWFiNDE1OGI.png",
-      "matchTime": 1789833600000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=fc-luzern-grasshopper-club-zurich-16357094&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
     },
     {
       "id": "pot-iraklis-aris-thessaloniki-16559921",
@@ -1980,6 +1833,20 @@
       "streamCount": 0
     },
     {
+      "id": "dux-logrono-club-atletico-de-madrid-16425709",
+      "title": "Club Atl\u00e9tico de Madrid vs Logro\u00f1o United",
+      "homeTeam": "Club Atl\u00e9tico de Madrid",
+      "awayTeam": "Logro\u00f1o United",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo3Nzg3OTpkNDZkMDQ3NmI5MDc.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo4NjE1OTg6ZGZlNjJjZGM0ODcx.png",
+      "league": "Liga F Moeve",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExMjc6ZjVjMTdmNzEyODNh.png",
+      "matchTime": 1789833600000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "real-madrid-valencia-16425721",
       "title": "Real Madrid vs Valencia",
       "homeTeam": "Real Madrid",
@@ -2017,6 +1884,20 @@
       "league": "COSAFA U20 Championship",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIzNjY5OjU0MDBjYWI3YjYxYg.png",
       "matchTime": 1789822800000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "comoros-u20-botswana-u20-17068059",
+      "title": "Comoros U20 vs Botswana U20",
+      "homeTeam": "Comoros U20",
+      "awayTeam": "Botswana U20",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMzY4ODk6NzQ0MDc3ZWMxNmJl.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMDU4MTc6YjMyMWQ4NWExOGQw.png",
+      "league": "COSAFA U20 Championship",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIzNjY5OjU0MDBjYWI3YjYxYg.png",
+      "matchTime": 1789833600000,
       "status": "finished",
       "streams": [],
       "streamCount": 0
@@ -2764,20 +2645,6 @@
       "streamCount": 0
     },
     {
-      "id": "saint-etienne-metz-16386196",
-      "title": "Metz vs Saint-\u00c9tienne",
-      "homeTeam": "Metz",
-      "awayTeam": "Saint-\u00c9tienne",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxNjUxOjE3OTQwOTMzOTM5Yg.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToxNjc4OjNjYmFiMDQyNTkzZA.png",
-      "league": "Ligue 2",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE4Mjo1OWQ1NThmZDdlNmQ.png",
-      "matchTime": 1789840800000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
       "id": "real-sociedad-mallorca-16418303",
       "title": "Real Sociedad B vs Mallorca",
       "homeTeam": "Real Sociedad B",
@@ -3450,20 +3317,6 @@
       "streamCount": 0
     },
     {
-      "id": "excelsior-afc-ajax-16316821",
-      "title": "AFC Ajax vs Excelsior",
-      "homeTeam": "AFC Ajax",
-      "awayTeam": "Excelsior",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyOTUzOjJjZWIyNzMyNzRkYg.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyOTY3OmJhODk5MzExNDAxMg.png",
-      "league": "VriendenLoterij Eredivisie",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM3OjNiODEyNzFjY2E2NA.png",
-      "matchTime": 1789840800000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
       "id": "willem-ii-tilburg-fortuna-sittard-16316836",
       "title": "Willem II Tilburg vs Fortuna Sittard",
       "homeTeam": "Willem II Tilburg",
@@ -3543,6 +3396,90 @@
       "league": "FasoFoot Ligue 1",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjI5MzY5OmVjYTMzNjhiNmU3Nw.png",
       "matchTime": 1789831800000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "focusport-fc-as-douanes-16931956",
+      "title": "FocuSport FC vs AS Douanes",
+      "homeTeam": "FocuSport FC",
+      "awayTeam": "AS Douanes",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxMjQyMTMxOmRmMDNkYmQ4Mjk1ZQ.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozNzAwOTA6ZDVlZjg1YmQ5ZjM4.png",
+      "league": "FasoFoot Ligue 1",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjI5MzY5OmVjYTMzNjhiNmU3Nw.png",
+      "matchTime": 1789831850000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "anorthosis-famagusta-nea-salamina-famagusta-16633360",
+      "title": "Nea Salamina Famagusta vs Anorthosis Famagusta",
+      "homeTeam": "Nea Salamina Famagusta",
+      "awayTeam": "Anorthosis Famagusta",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMzk5OjJlNWRhZTc3MWFhYg.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozNDAzOjIxMmUyMzRkMThkOA.png",
+      "league": "Cyprus League by Stoiximan",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE3MTo1MDI2NDUyYWNlNzU.png",
+      "matchTime": 1789833600000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "apollon-limassol-apoel-nicosia-16633385",
+      "title": "Apollon Limassol vs APOEL Nicosia",
+      "homeTeam": "Apollon Limassol",
+      "awayTeam": "APOEL Nicosia",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozNDAyOjY5NWE5ZmVhMjEwZA.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMzk4OjgyYzE1MWEyYTQ0OQ.png",
+      "league": "Cyprus League by Stoiximan",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE3MTo1MDI2NDUyYWNlNzU.png",
+      "matchTime": 1789833600000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "as-roma-juventus-17093681",
+      "title": "Juventus vs AS Roma",
+      "homeTeam": "Juventus",
+      "awayTeam": "AS Roma",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyNjk4MjQ6MjA4Yjk5NmM4NTY0.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMDE0MTQ6MjlkZGM5NDk4YjY5.png",
+      "league": "Serie A Women's Cup",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjI3OTQ1OjgwNGFkMDdkNzlhNQ.png",
+      "matchTime": 1789833600000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "servette-fc-bsc-young-boys-16357092",
+      "title": "BSC Young Boys vs Servette FC",
+      "homeTeam": "BSC Young Boys",
+      "awayTeam": "Servette FC",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyNDQ1OjkwODM0MDY2YTViYw.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyNDQ4OjQ3NzFlY2JhZTE3Mw.png",
+      "league": "Swiss Super League",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIxNTpkMTdhYWFiNDE1OGI.png",
+      "matchTime": 1789833600000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "fc-luzern-grasshopper-club-zurich-16357094",
+      "title": "FC Luzern vs Grasshopper Club Z\u00fcrich",
+      "homeTeam": "FC Luzern",
+      "awayTeam": "Grasshopper Club Z\u00fcrich",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyNDUzOmUxN2RlOTM0YTkyOQ.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyNDQ5OmNmYjcyM2FjNDEzOA.png",
+      "league": "Swiss Super League",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIxNTpkMTdhYWFiNDE1OGI.png",
+      "matchTime": 1789833600000,
       "status": "finished",
       "streams": [],
       "streamCount": 0
