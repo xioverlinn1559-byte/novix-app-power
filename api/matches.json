@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T19:33:32.975486+00:00",
+  "updatedAt": "2026-09-19T19:48:21.256465+00:00",
   "matches": [
     {
       "id": "sevilla-fc-barcelona-16416349",
@@ -450,6 +450,29 @@
       "streamCount": 0
     },
     {
+      "id": "juventude-sport-recife-15526295",
+      "title": "Sport Recife vs Juventude",
+      "homeTeam": "Sport Recife",
+      "awayTeam": "Juventude",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxOTU5OjU5MTgyYzgwY2Y3Yw.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToxOTgwOmU5MDY2YzkxODFmYg.png",
+      "league": "Brasileir\u00e3o S\u00e9rie B",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM5MDo3MDE0MTEwMjkzY2E.png",
+      "matchTime": 1789846200000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=juventude-sport-recife-15526295&source=stv",
+          "source": "STV",
+          "hd": true,
+          "language": "MULTI"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
       "id": "fc-cajamarca-cusco-fc-16281138",
       "title": "FC Cajamarca vs Cusco FC",
       "homeTeam": "FC Cajamarca",
@@ -827,6 +850,37 @@
       "streamCount": 2
     },
     {
+      "id": "fc-arouca-sporting-cp-16432047",
+      "title": "Sporting CP vs FC Arouca",
+      "homeTeam": "Sporting CP",
+      "awayTeam": "FC Arouca",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMDAxOjk3MGRiZmM0NzEyYg.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyNTc3NzphOGNlNDhjYmVhNjE.png",
+      "league": "Liga Portugal Betclic",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIzODpjMDNmYWU4MTFkN2U.png",
+      "matchTime": 1789846200000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=fc-arouca-sporting-cp-16432047&source=stv",
+          "source": "STV",
+          "hd": true,
+          "language": "MULTI"
+        },
+        {
+          "id": "stream-2",
+          "streamNo": 2,
+          "embedUrl": "https://football77.org/embed/?id=fc-arouca-sporting-cp-16432047&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        }
+      ],
+      "streamCount": 2
+    },
+    {
       "id": "chapecoense-atletico-mineiro-15237986",
       "title": "Atl\u00e9tico Mineiro vs Chapecoense",
       "homeTeam": "Atl\u00e9tico Mineiro",
@@ -922,20 +976,6 @@
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM5MDo3MDE0MTEwMjkzY2E.png",
       "matchTime": 1789776000000,
       "status": "finished",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "juventude-sport-recife-15526295",
-      "title": "Sport Recife vs Juventude",
-      "homeTeam": "Sport Recife",
-      "awayTeam": "Juventude",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxOTU5OjU5MTgyYzgwY2Y3Yw.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToxOTgwOmU5MDY2YzkxODFmYg.png",
-      "league": "Brasileir\u00e3o S\u00e9rie B",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM5MDo3MDE0MTEwMjkzY2E.png",
-      "matchTime": 1789846200000,
-      "status": "notstarted",
       "streams": [],
       "streamCount": 0
     },
@@ -3400,20 +3440,6 @@
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIzODpjMDNmYWU4MTFkN2U.png",
       "matchTime": 1789837200000,
       "status": "finished",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "fc-arouca-sporting-cp-16432047",
-      "title": "Sporting CP vs FC Arouca",
-      "homeTeam": "Sporting CP",
-      "awayTeam": "FC Arouca",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMDAxOjk3MGRiZmM0NzEyYg.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyNTc3NzphOGNlNDhjYmVhNjE.png",
-      "league": "Liga Portugal Betclic",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIzODpjMDNmYWU4MTFkN2U.png",
-      "matchTime": 1789846200000,
-      "status": "notstarted",
       "streams": [],
       "streamCount": 0
     },
