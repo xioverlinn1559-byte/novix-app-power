@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T15:35:33.681734+00:00",
+  "updatedAt": "2026-09-19T15:48:15.694683+00:00",
   "matches": [
     {
       "id": "arsenal-brighton-and-hove-albion-16363650",
@@ -948,6 +948,29 @@
       "streamCount": 1
     },
     {
+      "id": "savoia-1908-casarano-16680689",
+      "title": "Savoia 1908 vs Casarano",
+      "homeTeam": "Savoia 1908",
+      "awayTeam": "Casarano",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozODkyMDY6YmJiMDM5YmZjNWY3.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0MzY4NDpiZjJjN2I2ZjIwMGU.png",
+      "league": "Serie C, Girone C",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNDQ2OmIzZmM2MmVkYTliYg.png",
+      "matchTime": 1789831800000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=savoia-1908-casarano-16680689&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
       "id": "cracovia-gks-katowice-16317019",
       "title": "GKS Katowice vs KS Cracovia",
       "homeTeam": "GKS Katowice",
@@ -1254,6 +1277,29 @@
         }
       ],
       "streamCount": 2
+    },
+    {
+      "id": "as-maya-us-forces-armees-16931971",
+      "title": "AS Maya vs US Forces Armees",
+      "homeTeam": "AS Maya",
+      "awayTeam": "US Forces Armees",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxMjQyMTMyOjNhNjRmNDkyZDEzOA.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMzU0ODI6ZGRmZTlhZmYwNWZi.png",
+      "league": "FasoFoot Ligue 1",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjI5MzY5OmVjYTMzNjhiNmU3Nw.png",
+      "matchTime": 1789831800000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=as-maya-us-forces-armees-16931971&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        }
+      ],
+      "streamCount": 1
     },
     {
       "id": "sao-bernardo-atletico-goianiense-15526289",
@@ -2992,20 +3038,6 @@
       "streamCount": 0
     },
     {
-      "id": "savoia-1908-casarano-16680689",
-      "title": "Savoia 1908 vs Casarano",
-      "homeTeam": "Savoia 1908",
-      "awayTeam": "Casarano",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozODkyMDY6YmJiMDM5YmZjNWY3.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0MzY4NDpiZjJjN2I2ZjIwMGU.png",
-      "league": "Serie C, Girone C",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNDQ2OmIzZmM2MmVkYTliYg.png",
-      "matchTime": 1789831800000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
       "id": "team-altamura-az-picerno-16680682",
       "title": "Team Altamura vs AZ Picerno",
       "homeTeam": "Team Altamura",
@@ -3491,20 +3523,6 @@
       "league": "Liga Portugal Betclic",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIzODpjMDNmYWU4MTFkN2U.png",
       "matchTime": 1789846200000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "as-maya-us-forces-armees-16931971",
-      "title": "AS Maya vs US Forces Armees",
-      "homeTeam": "AS Maya",
-      "awayTeam": "US Forces Armees",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxMjQyMTMyOjNhNjRmNDkyZDEzOA.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMzU0ODI6ZGRmZTlhZmYwNWZi.png",
-      "league": "FasoFoot Ligue 1",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjI5MzY5OmVjYTMzNjhiNmU3Nw.png",
-      "matchTime": 1789831850000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
