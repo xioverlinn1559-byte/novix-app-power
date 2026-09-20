@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T21:22:20.250067+00:00",
+  "updatedAt": "2026-09-20T21:35:17.111375+00:00",
   "matches": [
     {
       "id": "ssc-napoli-fiorentina-16285018",
@@ -282,6 +282,37 @@
       "streamCount": 0
     },
     {
+      "id": "flamengo-red-bull-bragantino-15235478",
+      "title": "Flamengo vs Red Bull Bragantino",
+      "homeTeam": "Flamengo",
+      "awayTeam": "Red Bull Bragantino",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo1OTgxOjYyOTQyYmNmM2VlZA.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToxOTk5OjVlYjg1ODVhNzIwMg.png",
+      "league": "Brasileir\u00e3o Betano",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjMyNTphMTgwZjA4NTM0MWQ.png",
+      "matchTime": 1789939800000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=flamengo-red-bull-bragantino-15235478&source=stv",
+          "source": "STV",
+          "hd": true,
+          "language": "MULTI"
+        },
+        {
+          "id": "stream-2",
+          "streamNo": 2,
+          "embedUrl": "https://football77.org/embed/?id=flamengo-red-bull-bragantino-15235478&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        }
+      ],
+      "streamCount": 2
+    },
+    {
       "id": "club-atletico-platense-newells-old-boys-16667330",
       "title": "Club Atl\u00e9tico Platense vs Newell's Old Boys",
       "homeTeam": "Club Atl\u00e9tico Platense",
@@ -421,37 +452,6 @@
       "streamCount": 2
     },
     {
-      "id": "benfica-fc-porto-16432059",
-      "title": "FC Porto vs Benfica",
-      "homeTeam": "FC Porto",
-      "awayTeam": "Benfica",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMDAyOjEzZjIwMjM3MzZmZQ.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMDA2OmVjNTg4NjhhMWUxOQ.png",
-      "league": "Liga Portugal Betclic",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIzODpjMDNmYWU4MTFkN2U.png",
-      "matchTime": 1789932600000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=benfica-fc-porto-16432059&source=stv",
-          "source": "STV",
-          "hd": true,
-          "language": "MULTI"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=benfica-fc-porto-16432059&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 2
-    },
-    {
       "id": "los-angeles-fc-2-minnesota-united-fc-2-16340067",
       "title": "Minnesota United FC 2 vs Los Angeles FC 2",
       "homeTeam": "Minnesota United FC 2",
@@ -544,6 +544,29 @@
       "streamCount": 1
     },
     {
+      "id": "londrina-fortaleza-15526291",
+      "title": "Londrina vs Fortaleza",
+      "homeTeam": "Londrina",
+      "awayTeam": "Fortaleza",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyMDIyOjE1ZjZiZTkwNDM1Mg.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyMDIwOjdjZDI5NjcwNGQ3NQ.png",
+      "league": "Brasileir\u00e3o S\u00e9rie B",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM5MDo3MDE0MTEwMjkzY2E.png",
+      "matchTime": 1789939800000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=londrina-fortaleza-15526291&source=stv",
+          "source": "STV",
+          "hd": true,
+          "language": "MULTI"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
       "id": "sao-paulo-internacional-15235482",
       "title": "S\u00e3o Paulo vs Internacional",
       "homeTeam": "S\u00e3o Paulo",
@@ -596,20 +619,6 @@
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjMyNTphMTgwZjA4NTM0MWQ.png",
       "matchTime": 1789930800000,
       "status": "finished",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "flamengo-red-bull-bragantino-15235478",
-      "title": "Flamengo vs Red Bull Bragantino",
-      "homeTeam": "Flamengo",
-      "awayTeam": "Red Bull Bragantino",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo1OTgxOjYyOTQyYmNmM2VlZA.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToxOTk5OjVlYjg1ODVhNzIwMg.png",
-      "league": "Brasileir\u00e3o Betano",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjMyNTphMTgwZjA4NTM0MWQ.png",
-      "matchTime": 1789939800000,
-      "status": "notstarted",
       "streams": [],
       "streamCount": 0
     },
@@ -2896,6 +2905,20 @@
       "streamCount": 0
     },
     {
+      "id": "benfica-fc-porto-16432059",
+      "title": "FC Porto vs Benfica",
+      "homeTeam": "FC Porto",
+      "awayTeam": "Benfica",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMDAyOjEzZjIwMjM3MzZmZQ.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMDA2OmVjNTg4NjhhMWUxOQ.png",
+      "league": "Liga Portugal Betclic",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIzODpjMDNmYWU4MTFkN2U.png",
+      "matchTime": 1789932600000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "rangers-lfc-aberdeen-lfc-16408093",
       "title": "Rangers LFC vs Aberdeen LFC",
       "homeTeam": "Rangers LFC",
@@ -3059,20 +3082,6 @@
       "league": "Colombian Women's Football League",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE4NTU1OjY0NGYxNTVlY2FkNQ.png",
       "matchTime": 1789947000000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "londrina-fortaleza-15526291",
-      "title": "Londrina vs Fortaleza",
-      "homeTeam": "Londrina",
-      "awayTeam": "Fortaleza",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyMDIyOjE1ZjZiZTkwNDM1Mg.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyMDIwOjdjZDI5NjcwNGQ3NQ.png",
-      "league": "Brasileir\u00e3o S\u00e9rie B",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM5MDo3MDE0MTEwMjkzY2E.png",
-      "matchTime": 1789939800000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
