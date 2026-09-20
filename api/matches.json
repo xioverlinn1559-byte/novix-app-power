@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T03:50:18.067138+00:00",
+  "updatedAt": "2026-09-20T04:05:40.141133+00:00",
   "matches": [
     {
       "id": "ssc-napoli-fiorentina-16285018",
@@ -373,29 +373,6 @@
         }
       ],
       "streamCount": 2
-    },
-    {
-      "id": "herediano-deportivo-saprissa-16317833",
-      "title": "Deportivo Saprissa vs Herediano",
-      "homeTeam": "Deportivo Saprissa",
-      "awayTeam": "Herediano",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo2NTc0OmUyOTlkYTk5Njg0Yw.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo3MDQ1OmU1OTcxNTMwY2I4Nw.png",
-      "league": "Primera Divisi\u00f3n, Apertura",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNTM1OmYwZjM5OGJmZTc1Nw.png",
-      "matchTime": 1789869600000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=herediano-deportivo-saprissa-16317833&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
     },
     {
       "id": "sao-paulo-internacional-15235482",
@@ -940,6 +917,20 @@
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE2OTA6MmY3NTllMGUwOTRk.png",
       "matchTime": 1789945200000,
       "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "herediano-deportivo-saprissa-16317833",
+      "title": "Deportivo Saprissa vs Herediano",
+      "homeTeam": "Deportivo Saprissa",
+      "awayTeam": "Herediano",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo2NTc0OmUyOTlkYTk5Njg0Yw.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo3MDQ1OmU1OTcxNTMwY2I4Nw.png",
+      "league": "Primera Divisi\u00f3n, Apertura",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNTM1OmYwZjM5OGJmZTc1Nw.png",
+      "matchTime": 1789869600000,
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
