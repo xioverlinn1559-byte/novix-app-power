@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T19:04:48.217513+00:00",
+  "updatedAt": "2026-09-20T19:20:29.422728+00:00",
   "matches": [
     {
       "id": "ac-milan-lecce-16285023",
@@ -444,6 +444,29 @@
       "streamCount": 2
     },
     {
+      "id": "hfx-wanderers-fc-inter-toronto-15502880",
+      "title": "Halifax Wanderers FC vs Inter Toronto",
+      "homeTeam": "Halifax Wanderers FC",
+      "awayTeam": "Inter Toronto",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMDk4OTI6OTIwMDdiNzA4ZjU4.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMDk4OTA6MGIxN2RjYzY5NDI0.png",
+      "league": "Canadian Premier League",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjEzNDcwOjI4MzI3OTEyOWQ2ZA.png",
+      "matchTime": 1789930800000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=hfx-wanderers-fc-inter-toronto-15502880&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
       "id": "boca-juniors-san-lorenzo-16667340",
       "title": "San Lorenzo vs Boca Juniors",
       "homeTeam": "San Lorenzo",
@@ -759,29 +782,6 @@
       "streamCount": 1
     },
     {
-      "id": "sk-beveren-kv-kortrijk-16361931",
-      "title": "KV Kortrijk vs SK Beveren",
-      "homeTeam": "KV Kortrijk",
-      "awayTeam": "SK Beveren",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0ODU4OjI1YjhiMzgwNDMxYg.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0ODU5OjZhOWFmMDM0NGMwYg.png",
-      "league": "Pro League",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM4OjM2ZjJlZGU0MDBiZg.png",
-      "matchTime": 1789924500000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=sk-beveren-kv-kortrijk-16361931&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
       "id": "granada-leganes-16418301",
       "title": "Legan\u00e9s vs Granada",
       "homeTeam": "Legan\u00e9s",
@@ -917,20 +917,6 @@
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjEzNDcwOjI4MzI3OTEyOWQ2ZA.png",
       "matchTime": 1789862400000,
       "status": "finished",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "hfx-wanderers-fc-inter-toronto-15502880",
-      "title": "Halifax Wanderers FC vs Inter Toronto",
-      "homeTeam": "Halifax Wanderers FC",
-      "awayTeam": "Inter Toronto",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMDk4OTI6OTIwMDdiNzA4ZjU4.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMDk4OTA6MGIxN2RjYzY5NDI0.png",
-      "league": "Canadian Premier League",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjEzNDcwOjI4MzI3OTEyOWQ2ZA.png",
-      "matchTime": 1789930800000,
-      "status": "notstarted",
       "streams": [],
       "streamCount": 0
     },
@@ -2358,6 +2344,20 @@
       "league": "Pro League",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM4OjM2ZjJlZGU0MDBiZg.png",
       "matchTime": 1789921800000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "sk-beveren-kv-kortrijk-16361931",
+      "title": "KV Kortrijk vs SK Beveren",
+      "homeTeam": "KV Kortrijk",
+      "awayTeam": "SK Beveren",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0ODU4OjI1YjhiMzgwNDMxYg.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0ODU5OjZhOWFmMDM0NGMwYg.png",
+      "league": "Pro League",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM4OjM2ZjJlZGU0MDBiZg.png",
+      "matchTime": 1789924500000,
       "status": "finished",
       "streams": [],
       "streamCount": 0
