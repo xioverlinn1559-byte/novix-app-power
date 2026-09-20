@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T02:23:51.026027+00:00",
+  "updatedAt": "2026-09-20T02:36:38.754439+00:00",
   "matches": [
     {
       "id": "ssc-napoli-fiorentina-16285018",
@@ -507,6 +507,37 @@
       "streamCount": 2
     },
     {
+      "id": "seattle-sounders-fc-colorado-rapids-15168405",
+      "title": "Colorado Rapids vs Seattle Sounders FC",
+      "homeTeam": "Colorado Rapids",
+      "awayTeam": "Seattle Sounders FC",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyNTEwOjczNzkzNTVhM2NhMA.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyMjAwOToyNTFjNzk5MTVjZTQ.png",
+      "league": "MLS",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjI0Mjo4NWE3NTFmM2FkYzc.png",
+      "matchTime": 1789871400000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=seattle-sounders-fc-colorado-rapids-15168405&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        },
+        {
+          "id": "stream-2",
+          "streamNo": 2,
+          "embedUrl": "https://football77.org/embed/?id=seattle-sounders-fc-colorado-rapids-15168405&source=ppv",
+          "source": "PPV",
+          "hd": true,
+          "language": "EN"
+        }
+      ],
+      "streamCount": 2
+    },
+    {
       "id": "cruz-azul-cf-monterrey-16317962",
       "title": "CF Monterrey vs Cruz Azul",
       "homeTeam": "CF Monterrey",
@@ -888,20 +919,6 @@
       "league": "Liga Profesional de F\u00fatbol",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE1NTo1MDUyNDk5Zjg4NDk.png",
       "matchTime": 1789942500000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "seattle-sounders-fc-colorado-rapids-15168405",
-      "title": "Colorado Rapids vs Seattle Sounders FC",
-      "homeTeam": "Colorado Rapids",
-      "awayTeam": "Seattle Sounders FC",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyNTEwOjczNzkzNTVhM2NhMA.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyMjAwOToyNTFjNzk5MTVjZTQ.png",
-      "league": "MLS",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjI0Mjo4NWE3NTFmM2FkYzc.png",
-      "matchTime": 1789867800000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
