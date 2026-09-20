@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T03:05:37.602018+00:00",
+  "updatedAt": "2026-09-20T03:24:03.945858+00:00",
   "matches": [
     {
       "id": "ssc-napoli-fiorentina-16285018",
@@ -414,76 +414,6 @@
       "streamCount": 2
     },
     {
-      "id": "cruz-azul-cf-monterrey-16317962",
-      "title": "CF Monterrey vs Cruz Azul",
-      "homeTeam": "CF Monterrey",
-      "awayTeam": "Cruz Azul",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxOTMyOjY3NjAwMTQ3MGUwNw.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToxOTQ3OmQwMDMyNzhkMTNmMA.png",
-      "league": "Liga MX, Apertura",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNjIxOmIzOGNlMTU0NjlhMQ.png",
-      "matchTime": 1789866600000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=cruz-azul-cf-monterrey-16317962&source=stv",
-          "source": "STV",
-          "hd": true,
-          "language": "MULTI"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=cruz-azul-cf-monterrey-16317962&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        },
-        {
-          "id": "stream-3",
-          "streamNo": 3,
-          "embedUrl": "https://football77.org/embed/?id=cruz-azul-cf-monterrey-16317962&source=ppv",
-          "source": "PPV",
-          "hd": true,
-          "language": "ES-US"
-        }
-      ],
-      "streamCount": 3
-    },
-    {
-      "id": "once-caldas-deportivo-pasto-16390747",
-      "title": "Deportivo Pasto vs Once Caldas",
-      "homeTeam": "Deportivo Pasto",
-      "awayTeam": "Once Caldas",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo2MTEzOjVjM2JkZGRmMjUwNQ.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo2MTE4OjY2ODYwMjU0MTZmNA.png",
-      "league": "Primera A",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNTM5OjZiYTVlMWUwMjA5OA.png",
-      "matchTime": 1789866900000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=once-caldas-deportivo-pasto-16390747&source=stv",
-          "source": "STV",
-          "hd": true,
-          "language": "MULTI"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=once-caldas-deportivo-pasto-16390747&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 2
-    },
-    {
       "id": "sport-boys-melgar-16280830",
       "title": "Melgar vs Sport Boys",
       "homeTeam": "Melgar",
@@ -884,6 +814,20 @@
       "streamCount": 0
     },
     {
+      "id": "cruz-azul-cf-monterrey-16317962",
+      "title": "CF Monterrey vs Cruz Azul",
+      "homeTeam": "CF Monterrey",
+      "awayTeam": "Cruz Azul",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxOTMyOjY3NjAwMTQ3MGUwNw.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToxOTQ3OmQwMDMyNzhkMTNmMA.png",
+      "league": "Liga MX, Apertura",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNjIxOmIzOGNlMTU0NjlhMQ.png",
+      "matchTime": 1789866600000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "club-america-cd-guadalajara-16317963",
       "title": "Club Am\u00e9rica vs CD Guadalajara",
       "homeTeam": "Club Am\u00e9rica",
@@ -894,6 +838,20 @@
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNjIxOmIzOGNlMTU0NjlhMQ.png",
       "matchTime": 1789874100000,
       "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "once-caldas-deportivo-pasto-16390747",
+      "title": "Deportivo Pasto vs Once Caldas",
+      "homeTeam": "Deportivo Pasto",
+      "awayTeam": "Once Caldas",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo2MTEzOjVjM2JkZGRmMjUwNQ.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo2MTE4OjY2ODYwMjU0MTZmNA.png",
+      "league": "Primera A",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNTM5OjZiYTVlMWUwMjA5OA.png",
+      "matchTime": 1789866900000,
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -2536,6 +2494,20 @@
       "streamCount": 0
     },
     {
+      "id": "caykur-rizespor-goztepe-16483682",
+      "title": "G\u00f6ztepe vs \u00c7aykur Rizespor",
+      "homeTeam": "G\u00f6ztepe",
+      "awayTeam": "\u00c7aykur Rizespor",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMDU0OjBiNGQxNmQzYWRhOA.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMDY0Ojc2ZDk1ZjI5OTA5Yw.png",
+      "league": "Trendyol S\u00fcper Lig",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjUyOjM2MzRiNGZiYzRlOQ.png",
+      "matchTime": 1789923600000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "af-elbasani-kf-tirana-16517738",
       "title": "KF Tirana vs AF Elbasani",
       "homeTeam": "KF Tirana",
@@ -2964,6 +2936,20 @@
       "awayLogo": "https://img.sportsrc.org/file/dGVhbToyNzQ2MTM6ZjhmNjQ0ZjVkM2Nm.png",
       "league": "Liga de Expansi\u00f3n MX, Apertura",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNjExOmJlMmJhMTNhYzYxZg.png",
+      "matchTime": 1789945200000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "ottawa-rapid-fc-calgary-wild-fc-15632963",
+      "title": "Ottawa Rapid FC vs Calgary Wild FC",
+      "homeTeam": "Ottawa Rapid FC",
+      "awayTeam": "Calgary Wild FC",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxMDg3MTkwOjM0MWM2MGZiM2U2Nw.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToxMDg3MTg2OmNmN2U2OWM3ZDgyYQ.png",
+      "league": "Northern Super League",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjI2MTM1OjAxNzNlNGRiMmQ2Yw.png",
       "matchTime": 1789945200000,
       "status": "notstarted",
       "streams": [],
