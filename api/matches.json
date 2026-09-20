@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T15:35:53.201433+00:00",
+  "updatedAt": "2026-09-20T15:48:41.609024+00:00",
   "matches": [
     {
       "id": "atletico-madrid-real-madrid-16416339",
@@ -936,6 +936,29 @@
           "id": "stream-1",
           "streamNo": 1,
           "embedUrl": "https://football77.org/embed/?id=asf-bobo-dioulasso-salitas-fc-16931968&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
+      "id": "real-du-faso-rahimo-fc-16931974",
+      "title": "Rahimo FC vs Real du Faso",
+      "homeTeam": "Rahimo FC",
+      "awayTeam": "Real du Faso",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMjU2NDM6Nzc2ZjRlNTRiMTdl.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0NTE0NjQ6NmIzMTUxN2MwZTAw.png",
+      "league": "FasoFoot Ligue 1",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjI5MzY5OmVjYTMzNjhiNmU3Nw.png",
+      "matchTime": 1789918200000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=real-du-faso-rahimo-fc-16931974&source=lola",
           "source": "lola",
           "hd": false,
           "language": "MULTI"
@@ -3095,20 +3118,6 @@
       "league": "Liga Portugal Betclic",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIzODpjMDNmYWU4MTFkN2U.png",
       "matchTime": 1789932600000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "real-du-faso-rahimo-fc-16931974",
-      "title": "Rahimo FC vs Real du Faso",
-      "homeTeam": "Rahimo FC",
-      "awayTeam": "Real du Faso",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMjU2NDM6Nzc2ZjRlNTRiMTdl.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0NTE0NjQ6NmIzMTUxN2MwZTAw.png",
-      "league": "FasoFoot Ligue 1",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjI5MzY5OmVjYTMzNjhiNmU3Nw.png",
-      "matchTime": 1789918250000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
