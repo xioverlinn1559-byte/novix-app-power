@@ -1,45 +1,6 @@
 {
-  "updatedAt": "2026-09-20T20:36:01.156617+00:00",
+  "updatedAt": "2026-09-20T20:48:25.259579+00:00",
   "matches": [
-    {
-      "id": "ac-milan-lecce-16285023",
-      "title": "AC Milan vs Lecce",
-      "homeTeam": "AC Milan",
-      "awayTeam": "Lecce",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyNjkyOmFlODU1OWQyYjIxNg.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyNjg5OjQ3Y2FhMWRlNzA4OA.png",
-      "league": "Serie A",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIzOjdhMjIzYWRiNDVlNw.png",
-      "matchTime": 1789929900000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ac-milan-lecce-16285023&source=stv",
-          "source": "STV",
-          "hd": true,
-          "language": "MULTI"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=ac-milan-lecce-16285023&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        },
-        {
-          "id": "stream-3",
-          "streamNo": 3,
-          "embedUrl": "https://football77.org/embed/?id=ac-milan-lecce-16285023&source=ppv",
-          "source": "PPV",
-          "hd": true,
-          "language": "EN"
-        }
-      ],
-      "streamCount": 3
-    },
     {
       "id": "valencia-real-sociedad-16416297",
       "title": "Valencia vs Real Sociedad",
@@ -75,45 +36,6 @@
           "source": "PPV",
           "hd": true,
           "language": "EN"
-        }
-      ],
-      "streamCount": 3
-    },
-    {
-      "id": "paris-saint-germain-olympique-de-marseille-16310960",
-      "title": "Olympique de Marseille vs Paris Saint-Germain",
-      "homeTeam": "Olympique de Marseille",
-      "awayTeam": "Paris Saint-Germain",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxNjQxOjhjNDgxYzFjMjkzZA.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToxNjQ0OmZmYmIyYjYwMWQ5NA.png",
-      "league": "Ligue 1",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM0OmVjZDcwOTQ2M2JlNw.png",
-      "matchTime": 1789929900000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=paris-saint-germain-olympique-de-marseille-16310960&source=stv",
-          "source": "STV",
-          "hd": true,
-          "language": "MULTI"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=paris-saint-germain-olympique-de-marseille-16310960&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        },
-        {
-          "id": "stream-3",
-          "streamNo": 3,
-          "embedUrl": "https://football77.org/embed/?id=paris-saint-germain-olympique-de-marseille-16310960&source=ppv",
-          "source": "PPV",
-          "hd": true,
-          "language": "FR"
         }
       ],
       "streamCount": 3
@@ -170,6 +92,20 @@
       "league": "Serie A",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIzOjdhMjIzYWRiNDVlNw.png",
       "matchTime": 1789920000000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "ac-milan-lecce-16285023",
+      "title": "AC Milan vs Lecce",
+      "homeTeam": "AC Milan",
+      "awayTeam": "Lecce",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyNjkyOmFlODU1OWQyYjIxNg.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyNjg5OjQ3Y2FhMWRlNzA4OA.png",
+      "league": "Serie A",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIzOjdhMjIzYWRiNDVlNw.png",
+      "matchTime": 1789929900000,
       "status": "finished",
       "streams": [],
       "streamCount": 0
@@ -254,6 +190,20 @@
       "league": "Ligue 1",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM0OmVjZDcwOTQ2M2JlNw.png",
       "matchTime": 1789917300000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "paris-saint-germain-olympique-de-marseille-16310960",
+      "title": "Olympique de Marseille vs Paris Saint-Germain",
+      "homeTeam": "Olympique de Marseille",
+      "awayTeam": "Paris Saint-Germain",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxNjQxOjhjNDgxYzFjMjkzZA.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToxNjQ0OmZmYmIyYjYwMWQ5NA.png",
+      "league": "Ligue 1",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM0OmVjZDcwOTQ2M2JlNw.png",
+      "matchTime": 1789929900000,
       "status": "finished",
       "streams": [],
       "streamCount": 0
