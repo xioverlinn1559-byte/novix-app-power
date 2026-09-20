@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T11:05:05.319873+00:00",
+  "updatedAt": "2026-09-20T11:22:19.612774+00:00",
   "matches": [
     {
       "id": "ssc-napoli-fiorentina-16285018",
@@ -391,29 +391,6 @@
           "id": "stream-1",
           "streamNo": 1,
           "embedUrl": "https://football77.org/embed/?id=incheon-united-daejeon-hana-citizen-15373107&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "mfa-zalgiris-mru-fk-banga-women-16676374",
-      "title": "MFA \u017dalgiris-MRU vs FK Banga Women",
-      "homeTeam": "MFA \u017dalgiris-MRU",
-      "awayTeam": "FK Banga Women",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxMTAyMzQ1OmM5NzJjNzkyOTMyYw.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyNjMzNTE6MTU2MTg2ZmE5ZTYw.png",
-      "league": "A Lyga Women",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjI1NDEwOjBlMzU3MTJjMDkyMw.png",
-      "matchTime": 1789896600000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=mfa-zalgiris-mru-fk-banga-women-16676374&source=lola",
           "source": "lola",
           "hd": false,
           "language": "MULTI"
@@ -1704,6 +1681,20 @@
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjEzNDc0Ojc2ZWI2YjZlY2U4Nw.png",
       "matchTime": 1789909200000,
       "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "mfa-zalgiris-mru-fk-banga-women-16676374",
+      "title": "MFA \u017dalgiris-MRU vs FK Banga Women",
+      "homeTeam": "MFA \u017dalgiris-MRU",
+      "awayTeam": "FK Banga Women",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxMTAyMzQ1OmM5NzJjNzkyOTMyYw.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyNjMzNTE6MTU2MTg2ZmE5ZTYw.png",
+      "league": "A Lyga Women",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjI1NDEwOjBlMzU3MTJjMDkyMw.png",
+      "matchTime": 1789896600000,
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
