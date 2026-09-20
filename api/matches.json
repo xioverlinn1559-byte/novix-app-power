@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T05:22:21.744002+00:00",
+  "updatedAt": "2026-09-20T05:35:43.210975+00:00",
   "matches": [
     {
       "id": "ssc-napoli-fiorentina-16285018",
@@ -280,37 +280,6 @@
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
-    },
-    {
-      "id": "club-america-cd-guadalajara-16317963",
-      "title": "Club Am\u00e9rica vs CD Guadalajara",
-      "homeTeam": "Club Am\u00e9rica",
-      "awayTeam": "CD Guadalajara",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxOTM5OjAxMmU5MmQzODNmYQ.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToxOTM4OjhiNDMzMzBmMTFmZg.png",
-      "league": "Liga MX, Apertura",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNjIxOmIzOGNlMTU0NjlhMQ.png",
-      "matchTime": 1789874100000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=club-america-cd-guadalajara-16317963&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=club-america-cd-guadalajara-16317963&source=ppv",
-          "source": "PPV",
-          "hd": true,
-          "language": "ES-US"
-        }
-      ],
-      "streamCount": 2
     },
     {
       "id": "iran-u23-china-u23-16875515",
@@ -709,6 +678,20 @@
       "league": "Liga MX, Apertura",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNjIxOmIzOGNlMTU0NjlhMQ.png",
       "matchTime": 1789866600000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "club-america-cd-guadalajara-16317963",
+      "title": "Club Am\u00e9rica vs CD Guadalajara",
+      "homeTeam": "Club Am\u00e9rica",
+      "awayTeam": "CD Guadalajara",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxOTM5OjAxMmU5MmQzODNmYQ.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToxOTM4OjhiNDMzMzBmMTFmZg.png",
+      "league": "Liga MX, Apertura",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNjIxOmIzOGNlMTU0NjlhMQ.png",
+      "matchTime": 1789874100000,
       "status": "finished",
       "streams": [],
       "streamCount": 0
