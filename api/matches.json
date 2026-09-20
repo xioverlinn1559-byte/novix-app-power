@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T11:35:08.516242+00:00",
+  "updatedAt": "2026-09-20T11:48:17.846226+00:00",
   "matches": [
     {
       "id": "ssc-napoli-fiorentina-16285018",
@@ -784,6 +784,29 @@
           "id": "stream-1",
           "streamNo": 1,
           "embedUrl": "https://football77.org/embed/?id=energie-cottbus-fc-st-pauli-16429240&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
+      "id": "rot-weiss-essen-fc-hansa-rostock-16749366",
+      "title": "Rot-Weiss Essen vs FC Hansa Rostock",
+      "homeTeam": "Rot-Weiss Essen",
+      "awayTeam": "FC Hansa Rostock",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyNTYyOjA4NjNiMDlhNTM2ZQ.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyNTMzOjFjMWYwZTNiNzFkYg.png",
+      "league": "3. Liga",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjQ5MTo0MDdjODM1MDdlZTc.png",
+      "matchTime": 1789903800000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=rot-weiss-essen-fc-hansa-rostock-16749366&source=lola",
           "source": "lola",
           "hd": false,
           "language": "MULTI"
@@ -2299,20 +2322,6 @@
       "league": "Pro League",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM4OjM2ZjJlZGU0MDBiZg.png",
       "matchTime": 1789924500000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "rot-weiss-essen-fc-hansa-rostock-16749366",
-      "title": "Rot-Weiss Essen vs FC Hansa Rostock",
-      "homeTeam": "Rot-Weiss Essen",
-      "awayTeam": "FC Hansa Rostock",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyNTYyOjA4NjNiMDlhNTM2ZQ.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyNTMzOjFjMWYwZTNiNzFkYg.png",
-      "league": "3. Liga",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjQ5MTo0MDdjODM1MDdlZTc.png",
-      "matchTime": 1789903800000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
