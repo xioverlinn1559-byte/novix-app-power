@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T03:37:36.905077+00:00",
+  "updatedAt": "2026-09-20T03:50:18.067138+00:00",
   "matches": [
     {
       "id": "ssc-napoli-fiorentina-16285018",
@@ -282,45 +282,6 @@
       "streamCount": 0
     },
     {
-      "id": "vancouver-whitecaps-real-salt-lake-15168402",
-      "title": "Real Salt Lake vs Vancouver Whitecaps",
-      "homeTeam": "Real Salt Lake",
-      "awayTeam": "Vancouver Whitecaps",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo1MTMzOjcwMTcwMWI1NDU0Mw.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyMjAxMDpiMmVhOGMwOTk0NzQ.png",
-      "league": "MLS",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjI0Mjo4NWE3NTFmM2FkYzc.png",
-      "matchTime": 1789867800000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=vancouver-whitecaps-real-salt-lake-15168402&source=stv",
-          "source": "STV",
-          "hd": true,
-          "language": "MULTI"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=vancouver-whitecaps-real-salt-lake-15168402&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        },
-        {
-          "id": "stream-3",
-          "streamNo": 3,
-          "embedUrl": "https://football77.org/embed/?id=vancouver-whitecaps-real-salt-lake-15168402&source=ppv",
-          "source": "PPV",
-          "hd": true,
-          "language": "EN"
-        }
-      ],
-      "streamCount": 3
-    },
-    {
       "id": "seattle-sounders-fc-colorado-rapids-15168405",
       "title": "Colorado Rapids vs Seattle Sounders FC",
       "homeTeam": "Colorado Rapids",
@@ -412,29 +373,6 @@
         }
       ],
       "streamCount": 2
-    },
-    {
-      "id": "denver-summit-fc-seattle-reign-fc-15385478",
-      "title": "Denver Summit FC vs Seattle Reign FC",
-      "homeTeam": "Denver Summit FC",
-      "awayTeam": "Seattle Reign FC",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxMTY1MTE3OmY5MGI0YjEwNDM0Mg.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToxNTEwMTA6YjI5NTM3NDFhZjBi.png",
-      "league": "NWSL",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE2OTA6MmY3NTllMGUwOTRk.png",
-      "matchTime": 1789869000000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=denver-summit-fc-seattle-reign-fc-15385478&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
     },
     {
       "id": "herediano-deportivo-saprissa-16317833",
@@ -754,6 +692,20 @@
       "streamCount": 0
     },
     {
+      "id": "vancouver-whitecaps-real-salt-lake-15168402",
+      "title": "Real Salt Lake vs Vancouver Whitecaps",
+      "homeTeam": "Real Salt Lake",
+      "awayTeam": "Vancouver Whitecaps",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo1MTMzOjcwMTcwMWI1NDU0Mw.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyMjAxMDpiMmVhOGMwOTk0NzQ.png",
+      "league": "MLS",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjI0Mjo4NWE3NTFmM2FkYzc.png",
+      "matchTime": 1789867800000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "nashville-sc-chicago-fire-15168404",
       "title": "Nashville SC vs Chicago Fire",
       "homeTeam": "Nashville SC",
@@ -932,6 +884,20 @@
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNjEzOmYwYmNjOWI5Y2Y5Mw.png",
       "matchTime": 1789946100000,
       "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "denver-summit-fc-seattle-reign-fc-15385478",
+      "title": "Denver Summit FC vs Seattle Reign FC",
+      "homeTeam": "Denver Summit FC",
+      "awayTeam": "Seattle Reign FC",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxMTY1MTE3OmY5MGI0YjEwNDM0Mg.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToxNTEwMTA6YjI5NTM3NDFhZjBi.png",
+      "league": "NWSL",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE2OTA6MmY3NTllMGUwOTRk.png",
+      "matchTime": 1789869000000,
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -2275,6 +2241,34 @@
       "league": "LaLiga 2",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjU0OmJmNWFmYzJiYzViZA.png",
       "matchTime": 1789930800000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "fc-stade-lausanne-ouchy-yverdon-sport-fc-16357009",
+      "title": "Yverdon-Sport FC vs FC Stade-Lausanne-Ouchy",
+      "homeTeam": "Yverdon-Sport FC",
+      "awayTeam": "FC Stade-Lausanne-Ouchy",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyNDYwOjlmNjU2ZGQyYzdjMw.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozNTE2Mjo1ODhmNmM0ZWM4ZjM.png",
+      "league": "Challenge League",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIxNjo3MTZlYWMyMGZmOGU.png",
+      "matchTime": 1789905600000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "fc-vaduz-fc-thun-16357096",
+      "title": "FC Vaduz vs FC Thun",
+      "homeTeam": "FC Vaduz",
+      "awayTeam": "FC Thun",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyNDYzOmUxNjMyMzQ2ZWM2Ng.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyNDU0OjI3NTEyZTk4MTExOQ.png",
+      "league": "Swiss Super League",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIxNTpkMTdhYWFiNDE1OGI.png",
+      "matchTime": 1789905600000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
