@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T19:20:29.422728+00:00",
+  "updatedAt": "2026-09-20T19:33:44.829589+00:00",
   "matches": [
     {
       "id": "ac-milan-lecce-16285023",
@@ -114,45 +114,6 @@
           "source": "PPV",
           "hd": true,
           "language": "FR"
-        }
-      ],
-      "streamCount": 3
-    },
-    {
-      "id": "tsg-hoffenheim-sc-paderborn-07-16434052",
-      "title": "SC Paderborn 07 vs TSG Hoffenheim",
-      "homeTeam": "SC Paderborn 07",
-      "awayTeam": "TSG Hoffenheim",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyNTYxOjJjZjRmMDliYjM2Zg.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyNTY5OjkxNzMzZDlhMTg1ZQ.png",
-      "league": "Bundesliga",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM1Ojk1YTEzN2M4NjQzOA.png",
-      "matchTime": 1789925400000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=tsg-hoffenheim-sc-paderborn-07-16434052&source=stv",
-          "source": "STV",
-          "hd": true,
-          "language": "MULTI"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=tsg-hoffenheim-sc-paderborn-07-16434052&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        },
-        {
-          "id": "stream-3",
-          "streamNo": 3,
-          "embedUrl": "https://football77.org/embed/?id=tsg-hoffenheim-sc-paderborn-07-16434052&source=ppv",
-          "source": "PPV",
-          "hd": true,
-          "language": "EN"
         }
       ],
       "streamCount": 3
@@ -377,6 +338,20 @@
       "league": "Bundesliga",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM1Ojk1YTEzN2M4NjQzOA.png",
       "matchTime": 1789918200000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "tsg-hoffenheim-sc-paderborn-07-16434052",
+      "title": "SC Paderborn 07 vs TSG Hoffenheim",
+      "homeTeam": "SC Paderborn 07",
+      "awayTeam": "TSG Hoffenheim",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyNTYxOjJjZjRmMDliYjM2Zg.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyNTY5OjkxNzMzZDlhMTg1ZQ.png",
+      "league": "Bundesliga",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM1Ojk1YTEzN2M4NjQzOA.png",
+      "matchTime": 1789925400000,
       "status": "finished",
       "streams": [],
       "streamCount": 0
@@ -797,29 +772,6 @@
           "id": "stream-1",
           "streamNo": 1,
           "embedUrl": "https://football77.org/embed/?id=granada-leganes-16418301&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "modena-empoli-16607592",
-      "title": "Modena vs Empoli",
-      "homeTeam": "Modena",
-      "awayTeam": "Empoli",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyNzA2OmRhZjhmZGNiMzI1MA.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyNzA1OjY4YzBiZDJlNzY1Ng.png",
-      "league": "Serie B",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjUzOjRiNzE1MGQwNmVlNg.png",
-      "matchTime": 1789925400000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=modena-empoli-16607592&source=lola",
           "source": "lola",
           "hd": false,
           "language": "MULTI"
@@ -2750,6 +2702,20 @@
       "league": "Serie B",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjUzOjRiNzE1MGQwNmVlNg.png",
       "matchTime": 1789917300000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "modena-empoli-16607592",
+      "title": "Modena vs Empoli",
+      "homeTeam": "Modena",
+      "awayTeam": "Empoli",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyNzA2OmRhZjhmZGNiMzI1MA.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyNzA1OjY4YzBiZDJlNzY1Ng.png",
+      "league": "Serie B",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjUzOjRiNzE1MGQwNmVlNg.png",
+      "matchTime": 1789925400000,
       "status": "finished",
       "streams": [],
       "streamCount": 0
