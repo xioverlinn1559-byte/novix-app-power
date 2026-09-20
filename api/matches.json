@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T09:22:56.992164+00:00",
+  "updatedAt": "2026-09-20T09:35:49.226942+00:00",
   "matches": [
     {
       "id": "ssc-napoli-fiorentina-16285018",
@@ -282,52 +282,6 @@
       "streamCount": 0
     },
     {
-      "id": "gwangju-fc-jeonbuk-hyundai-motors-15373105",
-      "title": "Jeonbuk Hyundai Motors vs Gwangju FC",
-      "homeTeam": "Jeonbuk Hyundai Motors",
-      "awayTeam": "Gwangju FC",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo2OTA4OmFiMTVhNTk3MjRkMw.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0ODkxMjoxOGIyNWJkNGI0MDk.png",
-      "league": "K League 1",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjQxMDphYjNmMmIwNmM5YWU.png",
-      "matchTime": 1789889400000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=gwangju-fc-jeonbuk-hyundai-motors-15373105&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "gangwon-fc-jeju-sk-15373102",
-      "title": "Gangwon FC vs Jeju SK",
-      "homeTeam": "Gangwon FC",
-      "awayTeam": "Jeju SK",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozNDIyMDo2OGRmNTI2ZmQzZWM.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo3NjQ5OjdmNjhhYTI2ODUyNw.png",
-      "league": "K League 1",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjQxMDphYjNmMmIwNmM5YWU.png",
-      "matchTime": 1789889400000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=gangwon-fc-jeju-sk-15373102&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
       "id": "vissel-kobe-gamba-osaka-16348602",
       "title": "Gamba Osaka vs Vissel Kobe",
       "homeTeam": "Gamba Osaka",
@@ -527,6 +481,29 @@
           "id": "stream-1",
           "streamNo": 1,
           "embedUrl": "https://football77.org/embed/?id=penang-johor-darul-tazim-17058626&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
+      "id": "mfa-zalgiris-mru-fk-banga-women-16676374",
+      "title": "MFA \u017dalgiris-MRU vs FK Banga Women",
+      "homeTeam": "MFA \u017dalgiris-MRU",
+      "awayTeam": "FK Banga Women",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxMTAyMzQ1OmM5NzJjNzkyOTMyYw.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyNjMzNTE6MTU2MTg2ZmE5ZTYw.png",
+      "league": "A Lyga Women",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjI1NDEwOjBlMzU3MTJjMDkyMw.png",
+      "matchTime": 1789896600000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=mfa-zalgiris-mru-fk-banga-women-16676374&source=lola",
           "source": "lola",
           "hd": false,
           "language": "MULTI"
@@ -1207,6 +1184,34 @@
       "streamCount": 0
     },
     {
+      "id": "gwangju-fc-jeonbuk-hyundai-motors-15373105",
+      "title": "Jeonbuk Hyundai Motors vs Gwangju FC",
+      "homeTeam": "Jeonbuk Hyundai Motors",
+      "awayTeam": "Gwangju FC",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo2OTA4OmFiMTVhNTk3MjRkMw.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0ODkxMjoxOGIyNWJkNGI0MDk.png",
+      "league": "K League 1",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjQxMDphYjNmMmIwNmM5YWU.png",
+      "matchTime": 1789889400000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "gangwon-fc-jeju-sk-15373102",
+      "title": "Gangwon FC vs Jeju SK",
+      "homeTeam": "Gangwon FC",
+      "awayTeam": "Jeju SK",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozNDIyMDo2OGRmNTI2ZmQzZWM.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo3NjQ5OjdmNjhhYTI2ODUyNw.png",
+      "league": "K League 1",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjQxMDphYjNmMmIwNmM5YWU.png",
+      "matchTime": 1789889400000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "pohang-steelers-fc-seoul-15373106",
       "title": "Pohang Steelers vs FC Seoul",
       "homeTeam": "Pohang Steelers",
@@ -1440,20 +1445,6 @@
       "league": "Malaysia FA Cup",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjEzNDc0Ojc2ZWI2YjZlY2U4Nw.png",
       "matchTime": 1789909200000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "mfa-zalgiris-mru-fk-banga-women-16676374",
-      "title": "MFA \u017dalgiris-MRU vs FK Banga Women",
-      "homeTeam": "MFA \u017dalgiris-MRU",
-      "awayTeam": "FK Banga Women",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxMTAyMzQ1OmM5NzJjNzkyOTMyYw.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyNjMzNTE6MTU2MTg2ZmE5ZTYw.png",
-      "league": "A Lyga Women",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjI1NDEwOjBlMzU3MTJjMDkyMw.png",
-      "matchTime": 1789896600000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
