@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T21:35:17.111375+00:00",
+  "updatedAt": "2026-09-20T21:48:21.332442+00:00",
   "matches": [
     {
       "id": "ssc-napoli-fiorentina-16285018",
@@ -450,6 +450,29 @@
         }
       ],
       "streamCount": 2
+    },
+    {
+      "id": "atlas-club-america-16651905",
+      "title": "Club Am\u00e9rica vs Atlas",
+      "homeTeam": "Club Am\u00e9rica",
+      "awayTeam": "Atlas",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyNjExMjg6MmU5NDI5ZGY2M2Mw.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyNjc0Njk6YjYyOTBjZTc4MDhi.png",
+      "league": "Liga MX, Women, Apertura",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjEzNTkzOjg0MjliYTQ3Y2NhYg.png",
+      "matchTime": 1789940700000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=atlas-club-america-16651905&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        }
+      ],
+      "streamCount": 1
     },
     {
       "id": "los-angeles-fc-2-minnesota-united-fc-2-16340067",
@@ -3041,20 +3064,6 @@
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjEzNTkzOjg0MjliYTQ3Y2NhYg.png",
       "matchTime": 1789927200000,
       "status": "finished",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "atlas-club-america-16651905",
-      "title": "Club Am\u00e9rica vs Atlas",
-      "homeTeam": "Club Am\u00e9rica",
-      "awayTeam": "Atlas",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyNjExMjg6MmU5NDI5ZGY2M2Mw.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyNjc0Njk6YjYyOTBjZTc4MDhi.png",
-      "league": "Liga MX, Women, Apertura",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjEzNTkzOjg0MjliYTQ3Y2NhYg.png",
-      "matchTime": 1789940700000,
-      "status": "notstarted",
       "streams": [],
       "streamCount": 0
     },
