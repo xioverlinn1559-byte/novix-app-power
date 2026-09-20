@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T23:21:53.536749+00:00",
+  "updatedAt": "2026-09-20T23:33:58.717925+00:00",
   "matches": [
     {
       "id": "ssc-napoli-fiorentina-16285018",
@@ -282,37 +282,6 @@
       "streamCount": 0
     },
     {
-      "id": "flamengo-red-bull-bragantino-15235478",
-      "title": "Flamengo vs Red Bull Bragantino",
-      "homeTeam": "Flamengo",
-      "awayTeam": "Red Bull Bragantino",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo1OTgxOjYyOTQyYmNmM2VlZA.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToxOTk5OjVlYjg1ODVhNzIwMg.png",
-      "league": "Brasileir\u00e3o Betano",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjMyNTphMTgwZjA4NTM0MWQ.png",
-      "matchTime": 1789939800000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=flamengo-red-bull-bragantino-15235478&source=stv",
-          "source": "STV",
-          "hd": true,
-          "language": "MULTI"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=flamengo-red-bull-bragantino-15235478&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 2
-    },
-    {
       "id": "athletico-bahia-15237987",
       "title": "Athletico vs Bahia",
       "homeTeam": "Athletico",
@@ -552,23 +521,23 @@
       "streamCount": 1
     },
     {
-      "id": "londrina-fortaleza-15526291",
-      "title": "Londrina vs Fortaleza",
-      "homeTeam": "Londrina",
-      "awayTeam": "Fortaleza",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyMDIyOjE1ZjZiZTkwNDM1Mg.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyMDIwOjdjZDI5NjcwNGQ3NQ.png",
-      "league": "Brasileir\u00e3o S\u00e9rie B",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM5MDo3MDE0MTEwMjkzY2E.png",
-      "matchTime": 1789939800000,
+      "id": "millonarios-independiente-santa-fe-17117208",
+      "title": "Millonarios vs Independiente Santa F\u00e9",
+      "homeTeam": "Millonarios",
+      "awayTeam": "Independiente Santa F\u00e9",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozNzAwMTU6N2JkNWQwYzYyMTdl.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyNjgwOTM6ZDEwYjI5ODNjYTVl.png",
+      "league": "Colombian Women's Football League",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE4NTU1OjY0NGYxNTVlY2FkNQ.png",
+      "matchTime": 1789947000000,
       "status": "inprogress",
       "streams": [
         {
           "id": "stream-1",
           "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=londrina-fortaleza-15526291&source=stv",
-          "source": "STV",
-          "hd": true,
+          "embedUrl": "https://football77.org/embed/?id=millonarios-independiente-santa-fe-17117208&source=lola",
+          "source": "lola",
+          "hd": false,
           "language": "MULTI"
         }
       ],
@@ -695,6 +664,20 @@
       "league": "Brasileir\u00e3o Betano",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjMyNTphMTgwZjA4NTM0MWQ.png",
       "matchTime": 1789930800000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "flamengo-red-bull-bragantino-15235478",
+      "title": "Flamengo vs Red Bull Bragantino",
+      "homeTeam": "Flamengo",
+      "awayTeam": "Red Bull Bragantino",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo1OTgxOjYyOTQyYmNmM2VlZA.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToxOTk5OjVlYjg1ODVhNzIwMg.png",
+      "league": "Brasileir\u00e3o Betano",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjMyNTphMTgwZjA4NTM0MWQ.png",
+      "matchTime": 1789939800000,
       "status": "finished",
       "streams": [],
       "streamCount": 0
@@ -3150,16 +3133,16 @@
       "streamCount": 0
     },
     {
-      "id": "millonarios-independiente-santa-fe-17117208",
-      "title": "Millonarios vs Independiente Santa F\u00e9",
-      "homeTeam": "Millonarios",
-      "awayTeam": "Independiente Santa F\u00e9",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozNzAwMTU6N2JkNWQwYzYyMTdl.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyNjgwOTM6ZDEwYjI5ODNjYTVl.png",
-      "league": "Colombian Women's Football League",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE4NTU1OjY0NGYxNTVlY2FkNQ.png",
-      "matchTime": 1789947000000,
-      "status": "notstarted",
+      "id": "londrina-fortaleza-15526291",
+      "title": "Londrina vs Fortaleza",
+      "homeTeam": "Londrina",
+      "awayTeam": "Fortaleza",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyMDIyOjE1ZjZiZTkwNDM1Mg.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyMDIwOjdjZDI5NjcwNGQ3NQ.png",
+      "league": "Brasileir\u00e3o S\u00e9rie B",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM5MDo3MDE0MTEwMjkzY2E.png",
+      "matchTime": 1789939800000,
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
