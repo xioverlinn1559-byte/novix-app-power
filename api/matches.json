@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T16:49:14.196103+00:00",
+  "updatedAt": "2026-09-20T17:04:57.498906+00:00",
   "matches": [
     {
       "id": "juventus-atalanta-16285022",
@@ -700,6 +700,60 @@
       "streamCount": 1
     },
     {
+      "id": "amed-sportif-faaliyetler-besiktas-jk-16483678",
+      "title": "Amed Sportif Faaliyetler vs Be\u015fikta\u015f JK",
+      "homeTeam": "Amed Sportif Faaliyetler",
+      "awayTeam": "Be\u015fikta\u015f JK",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyMDcwMTE6ZjMzMjQ0OTZhMDZl.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMDUwOjllMzQ2NjYyY2JkNw.png",
+      "league": "Trendyol S\u00fcper Lig",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjUyOjM2MzRiNGZiYzRlOQ.png",
+      "matchTime": 1789923600000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=amed-sportif-faaliyetler-besiktas-jk-16483678&source=stv",
+          "source": "STV",
+          "hd": true,
+          "language": "MULTI"
+        },
+        {
+          "id": "stream-2",
+          "streamNo": 2,
+          "embedUrl": "https://football77.org/embed/?id=amed-sportif-faaliyetler-besiktas-jk-16483678&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        }
+      ],
+      "streamCount": 2
+    },
+    {
+      "id": "caykur-rizespor-goztepe-16483682",
+      "title": "G\u00f6ztepe vs \u00c7aykur Rizespor",
+      "homeTeam": "G\u00f6ztepe",
+      "awayTeam": "\u00c7aykur Rizespor",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMDU0OjBiNGQxNmQzYWRhOA.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMDY0Ojc2ZDk1ZjI5OTA5Yw.png",
+      "league": "Trendyol S\u00fcper Lig",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjUyOjM2MzRiNGZiYzRlOQ.png",
+      "matchTime": 1789923600000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=caykur-rizespor-goztepe-16483682&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
       "id": "kf-egnatia-fk-partizani-16517637",
       "title": "KF Egnatia vs FK Partizani",
       "homeTeam": "KF Egnatia",
@@ -723,27 +777,66 @@
       "streamCount": 1
     },
     {
-      "id": "rangers-lfc-aberdeen-lfc-16408093",
-      "title": "Rangers LFC vs Aberdeen LFC",
-      "homeTeam": "Rangers LFC",
-      "awayTeam": "Aberdeen LFC",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxOTEyMzI6M2YyMWI5MjQ3NjBh.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToxOTEyMzE6NmJmZjBkZmFiMzZh.png",
-      "league": "Scottish Women's Premier League",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIwNTQ6NDgwYjE5ODgyYWU3.png",
-      "matchTime": 1789917000000,
+      "id": "santa-clara-sporting-braga-16432042",
+      "title": "Santa Clara vs Sporting Braga",
+      "homeTeam": "Santa Clara",
+      "awayTeam": "Sporting Braga",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMDExOjEzYzIzY2ZlMzBlOQ.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyOTk5OjYyOWIxNjFhYTAxMQ.png",
+      "league": "Liga Portugal Betclic",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIzODpjMDNmYWU4MTFkN2U.png",
+      "matchTime": 1789923600000,
       "status": "inprogress",
       "streams": [
         {
           "id": "stream-1",
           "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=rangers-lfc-aberdeen-lfc-16408093&source=lola",
+          "embedUrl": "https://football77.org/embed/?id=santa-clara-sporting-braga-16432042&source=stv",
+          "source": "STV",
+          "hd": true,
+          "language": "MULTI"
+        },
+        {
+          "id": "stream-2",
+          "streamNo": 2,
+          "embedUrl": "https://football77.org/embed/?id=santa-clara-sporting-braga-16432042&source=lola",
           "source": "lola",
           "hd": false,
           "language": "MULTI"
         }
       ],
-      "streamCount": 1
+      "streamCount": 2
+    },
+    {
+      "id": "casa-pia-estoril-praia-16432056",
+      "title": "Estoril Praia vs Casa Pia",
+      "homeTeam": "Estoril Praia",
+      "awayTeam": "Casa Pia",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0NTAwOjgyZGZkOGQ3OWVjNA.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozNjM2NTo1ZjIxY2FkZWY4MTI.png",
+      "league": "Liga Portugal Betclic",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIzODpjMDNmYWU4MTFkN2U.png",
+      "matchTime": 1789923600000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=casa-pia-estoril-praia-16432056&source=stv",
+          "source": "STV",
+          "hd": true,
+          "language": "MULTI"
+        },
+        {
+          "id": "stream-2",
+          "streamNo": 2,
+          "embedUrl": "https://football77.org/embed/?id=casa-pia-estoril-praia-16432056&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        }
+      ],
+      "streamCount": 2
     },
     {
       "id": "asf-bobo-dioulasso-salitas-fc-16931968",
@@ -830,6 +923,29 @@
           "id": "stream-1",
           "streamNo": 1,
           "embedUrl": "https://football77.org/embed/?id=karmiotissa-polemidion-aris-limassol-16633365&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
+      "id": "omonia-aradippou-olympiakos-nicosia-16633383",
+      "title": "Omonia Aradippou vs Olympiakos Nicosia",
+      "homeTeam": "Omonia Aradippou",
+      "awayTeam": "Olympiakos Nicosia",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyNTU0Mjo3ZGFmM2QwNjZjMzY.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozNDAxOjY1ZjdmZTZiMDZiMA.png",
+      "league": "Cyprus League by Stoiximan",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE3MTo1MDI2NDUyYWNlNzU.png",
+      "matchTime": 1789923600000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=omonia-aradippou-olympiakos-nicosia-16633383&source=lola",
           "source": "lola",
           "hd": false,
           "language": "MULTI"
@@ -2964,34 +3080,6 @@
       "streamCount": 0
     },
     {
-      "id": "amed-sportif-faaliyetler-besiktas-jk-16483678",
-      "title": "Amed Sportif Faaliyetler vs Be\u015fikta\u015f JK",
-      "homeTeam": "Amed Sportif Faaliyetler",
-      "awayTeam": "Be\u015fikta\u015f JK",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyMDcwMTE6ZjMzMjQ0OTZhMDZl.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMDUwOjllMzQ2NjYyY2JkNw.png",
-      "league": "Trendyol S\u00fcper Lig",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjUyOjM2MzRiNGZiYzRlOQ.png",
-      "matchTime": 1789923600000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "caykur-rizespor-goztepe-16483682",
-      "title": "G\u00f6ztepe vs \u00c7aykur Rizespor",
-      "homeTeam": "G\u00f6ztepe",
-      "awayTeam": "\u00c7aykur Rizespor",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMDU0OjBiNGQxNmQzYWRhOA.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMDY0Ojc2ZDk1ZjI5OTA5Yw.png",
-      "league": "Trendyol S\u00fcper Lig",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjUyOjM2MzRiNGZiYzRlOQ.png",
-      "matchTime": 1789923600000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
       "id": "af-elbasani-kf-tirana-16517738",
       "title": "KF Tirana vs AF Elbasani",
       "homeTeam": "KF Tirana",
@@ -3104,34 +3192,6 @@
       "streamCount": 0
     },
     {
-      "id": "santa-clara-sporting-braga-16432042",
-      "title": "Santa Clara vs Sporting Braga",
-      "homeTeam": "Santa Clara",
-      "awayTeam": "Sporting Braga",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMDExOjEzYzIzY2ZlMzBlOQ.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyOTk5OjYyOWIxNjFhYTAxMQ.png",
-      "league": "Liga Portugal Betclic",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIzODpjMDNmYWU4MTFkN2U.png",
-      "matchTime": 1789923600000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "casa-pia-estoril-praia-16432056",
-      "title": "Estoril Praia vs Casa Pia",
-      "homeTeam": "Estoril Praia",
-      "awayTeam": "Casa Pia",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0NTAwOjgyZGZkOGQ3OWVjNA.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozNjM2NTo1ZjIxY2FkZWY4MTI.png",
-      "league": "Liga Portugal Betclic",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIzODpjMDNmYWU4MTFkN2U.png",
-      "matchTime": 1789923600000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
       "id": "benfica-fc-porto-16432059",
       "title": "FC Porto vs Benfica",
       "homeTeam": "FC Porto",
@@ -3146,16 +3206,16 @@
       "streamCount": 0
     },
     {
-      "id": "omonia-aradippou-olympiakos-nicosia-16633383",
-      "title": "Omonia Aradippou vs Olympiakos Nicosia",
-      "homeTeam": "Omonia Aradippou",
-      "awayTeam": "Olympiakos Nicosia",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyNTU0Mjo3ZGFmM2QwNjZjMzY.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozNDAxOjY1ZjdmZTZiMDZiMA.png",
-      "league": "Cyprus League by Stoiximan",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE3MTo1MDI2NDUyYWNlNzU.png",
-      "matchTime": 1789923600000,
-      "status": "notstarted",
+      "id": "rangers-lfc-aberdeen-lfc-16408093",
+      "title": "Rangers LFC vs Aberdeen LFC",
+      "homeTeam": "Rangers LFC",
+      "awayTeam": "Aberdeen LFC",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxOTEyMzI6M2YyMWI5MjQ3NjBh.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToxOTEyMzE6NmJmZjBkZmFiMzZh.png",
+      "league": "Scottish Women's Premier League",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIwNTQ6NDgwYjE5ODgyYWU3.png",
+      "matchTime": 1789917000000,
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
