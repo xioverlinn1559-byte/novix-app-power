@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T16:23:53.363314+00:00",
+  "updatedAt": "2026-09-20T16:36:37.572816+00:00",
   "matches": [
     {
       "id": "juventus-atalanta-16285022",
@@ -33,6 +33,76 @@
           "id": "stream-3",
           "streamNo": 3,
           "embedUrl": "https://football77.org/embed/?id=juventus-atalanta-16285022&source=ppv",
+          "source": "PPV",
+          "hd": true,
+          "language": "EN"
+        }
+      ],
+      "streamCount": 3
+    },
+    {
+      "id": "levante-ud-villarreal-16416294",
+      "title": "Villarreal vs Levante UD",
+      "homeTeam": "Villarreal",
+      "awayTeam": "Levante UD",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyODE5OjlmYWQ2NWVhYzE0OQ.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyODQ5OjBlMzA4ODQ0MDRjMw.png",
+      "league": "LaLiga",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjg6ZWM3OWIxYTljYTBi.png",
+      "matchTime": 1789921800000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=levante-ud-villarreal-16416294&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        },
+        {
+          "id": "stream-2",
+          "streamNo": 2,
+          "embedUrl": "https://football77.org/embed/?id=levante-ud-villarreal-16416294&source=ppv",
+          "source": "PPV",
+          "hd": true,
+          "language": "EN"
+        }
+      ],
+      "streamCount": 2
+    },
+    {
+      "id": "deportivo-de-la-coruna-real-betis-16416313",
+      "title": "Deportivo de A Coru\u00f1a vs Real Betis",
+      "homeTeam": "Deportivo de A Coru\u00f1a",
+      "awayTeam": "Real Betis",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyODMyOjZjMjk5N2M3NjBlYg.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyODE2OjMxMTRiOWYzZjE0NQ.png",
+      "league": "LaLiga",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjg6ZWM3OWIxYTljYTBi.png",
+      "matchTime": 1789921800000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=deportivo-de-la-coruna-real-betis-16416313&source=stv",
+          "source": "STV",
+          "hd": true,
+          "language": "MULTI"
+        },
+        {
+          "id": "stream-2",
+          "streamNo": 2,
+          "embedUrl": "https://football77.org/embed/?id=deportivo-de-la-coruna-real-betis-16416313&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        },
+        {
+          "id": "stream-3",
+          "streamNo": 3,
+          "embedUrl": "https://football77.org/embed/?id=deportivo-de-la-coruna-real-betis-16416313&source=ppv",
           "source": "PPV",
           "hd": true,
           "language": "EN"
@@ -242,34 +312,6 @@
       "streamCount": 0
     },
     {
-      "id": "levante-ud-villarreal-16416294",
-      "title": "Villarreal vs Levante UD",
-      "homeTeam": "Villarreal",
-      "awayTeam": "Levante UD",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyODE5OjlmYWQ2NWVhYzE0OQ.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyODQ5OjBlMzA4ODQ0MDRjMw.png",
-      "league": "LaLiga",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjg6ZWM3OWIxYTljYTBi.png",
-      "matchTime": 1789921800000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "deportivo-de-la-coruna-real-betis-16416313",
-      "title": "Deportivo de A Coru\u00f1a vs Real Betis",
-      "homeTeam": "Deportivo de A Coru\u00f1a",
-      "awayTeam": "Real Betis",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyODMyOjZjMjk5N2M3NjBlYg.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyODE2OjMxMTRiOWYzZjE0NQ.png",
-      "league": "LaLiga",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjg6ZWM3OWIxYTljYTBi.png",
-      "matchTime": 1789921800000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
       "id": "valencia-real-sociedad-16416297",
       "title": "Valencia vs Real Sociedad",
       "homeTeam": "Valencia",
@@ -405,37 +447,6 @@
       "streamCount": 1
     },
     {
-      "id": "go-ahead-eagles-nec-nijmegen-16316820",
-      "title": "NEC Nijmegen vs Go Ahead Eagles",
-      "homeTeam": "NEC Nijmegen",
-      "awayTeam": "Go Ahead Eagles",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyOTYyOmJiZWZhZGYwY2JmOQ.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyOTc5OjliZTVmYTk0ZWEwOA.png",
-      "league": "VriendenLoterij Eredivisie",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM3OjNiODEyNzFjY2E2NA.png",
-      "matchTime": 1789915500000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=go-ahead-eagles-nec-nijmegen-16316820&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=go-ahead-eagles-nec-nijmegen-16316820&source=ppv",
-          "source": "PPV",
-          "hd": true,
-          "language": "NL"
-        }
-      ],
-      "streamCount": 2
-    },
-    {
       "id": "jagiellonia-bialystok-legia-warszawa-16317023",
       "title": "Jagiellonia Bia\u0142ystok vs Legia Warszawa",
       "homeTeam": "Jagiellonia Bia\u0142ystok",
@@ -505,21 +516,21 @@
       "streamCount": 1
     },
     {
-      "id": "sv-waldhof-mannheim-preussen-munster-16667927",
-      "title": "SV Waldhof Mannheim vs Preu\u00dfen M\u00fcnster",
-      "homeTeam": "SV Waldhof Mannheim",
-      "awayTeam": "Preu\u00dfen M\u00fcnster",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyNjgwOmRhM2ViOGU1ZTY2Zg.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyNTkwOmExMWQ1MWUxODI2ZA.png",
-      "league": "3. Liga",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjQ5MTo0MDdjODM1MDdlZTc.png",
-      "matchTime": 1789914600000,
+      "id": "krc-genk-club-brugge-kv-16361930",
+      "title": "Club Brugge KV vs KRC Genk",
+      "homeTeam": "Club Brugge KV",
+      "awayTeam": "KRC Genk",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyODg4OmY5NmZkY2U0ZjdjMg.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyODkwOjhiMzZhMDAxYTQzOA.png",
+      "league": "Pro League",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM4OjM2ZjJlZGU0MDBiZg.png",
+      "matchTime": 1789921800000,
       "status": "inprogress",
       "streams": [
         {
           "id": "stream-1",
           "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=sv-waldhof-mannheim-preussen-munster-16667927&source=lola",
+          "embedUrl": "https://football77.org/embed/?id=krc-genk-club-brugge-kv-16361930&source=lola",
           "source": "lola",
           "hd": false,
           "language": "MULTI"
@@ -528,35 +539,50 @@
       "streamCount": 1
     },
     {
-      "id": "degerfors-if-hammarby-if-15272527",
-      "title": "Degerfors IF vs Hammarby IF",
-      "homeTeam": "Degerfors IF",
-      "awayTeam": "Hammarby IF",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxODA3OjU4OTBmMWZiN2JlOQ.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToxNzU4OjVkMzZhODU5NDdkZA.png",
-      "league": "Allsvenskan",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjQwOjFjOWIxOTY3OGE5NQ.png",
-      "matchTime": 1789914600000,
+      "id": "celta-fortuna-almeria-16418296",
+      "title": "Almer\u00eda vs Celta Fortuna",
+      "homeTeam": "Almer\u00eda",
+      "awayTeam": "Celta Fortuna",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyODU4OmU5NTEzYjhjN2Y4Mg.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyNDMzNjozMjU0ODAwNGIyMjQ.png",
+      "league": "LaLiga 2",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjU0OmJmNWFmYzJiYzViZA.png",
+      "matchTime": 1789921800000,
       "status": "inprogress",
       "streams": [
         {
           "id": "stream-1",
           "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=degerfors-if-hammarby-if-15272527&source=lola",
+          "embedUrl": "https://football77.org/embed/?id=celta-fortuna-almeria-16418296&source=lola",
           "source": "lola",
           "hd": false,
           "language": "MULTI"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=degerfors-if-hammarby-if-15272527&source=ppv",
-          "source": "PPV",
-          "hd": true,
-          "language": "SV"
         }
       ],
-      "streamCount": 2
+      "streamCount": 1
+    },
+    {
+      "id": "las-palmas-burgos-club-de-futbol-16418304",
+      "title": "UD Las Palmas vs Burgos Club de F\u00fatbol",
+      "homeTeam": "UD Las Palmas",
+      "awayTeam": "Burgos Club de F\u00fatbol",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo2NTc3OjA4OGQ0ODNkNWI2OQ.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyODU0OjlhN2FiZjIxZTJlOA.png",
+      "league": "LaLiga 2",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjU0OmJmNWFmYzJiYzViZA.png",
+      "matchTime": 1789921800000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=las-palmas-burgos-club-de-futbol-16418304&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        }
+      ],
+      "streamCount": 1
     },
     {
       "id": "fc-nordsjaelland-viborg-ff-16278725",
@@ -628,66 +654,50 @@
       "streamCount": 1
     },
     {
-      "id": "cf-estrela-amadora-academico-viseu-fc-16432054",
-      "title": "CF Estrela Amadora vs Acad\u00e9mico Viseu FC",
-      "homeTeam": "CF Estrela Amadora",
-      "awayTeam": "Acad\u00e9mico Viseu FC",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMDM1Ojg2ZGVkOGZmZGIxMQ.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMDIyOmY4NWUxN2IyZWQwNg.png",
-      "league": "Liga Portugal Betclic",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIzODpjMDNmYWU4MTFkN2U.png",
-      "matchTime": 1789914600000,
+      "id": "canada-u20-north-korea-u20-17124658",
+      "title": "North Korea U20 vs Canada U20",
+      "homeTeam": "North Korea U20",
+      "awayTeam": "Canada U20",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0MzIxODplYTUyYzg1ZGQyMmU.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0ODk5MDo4OTE1NjgwNjU0NGI.png",
+      "league": "U-20 Women's World Championship",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjgwNDo1ZThmZjE0MmExMmY.png",
+      "matchTime": 1789921800000,
       "status": "inprogress",
       "streams": [
         {
           "id": "stream-1",
           "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=cf-estrela-amadora-academico-viseu-fc-16432054&source=stv",
-          "source": "STV",
-          "hd": true,
-          "language": "MULTI"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=cf-estrela-amadora-academico-viseu-fc-16432054&source=lola",
+          "embedUrl": "https://football77.org/embed/?id=canada-u20-north-korea-u20-17124658&source=lola",
           "source": "lola",
           "hd": false,
           "language": "MULTI"
         }
       ],
-      "streamCount": 2
+      "streamCount": 1
     },
     {
-      "id": "moreirense-vitoria-sc-16450889",
-      "title": "Vit\u00f3ria SC vs Moreirense",
-      "homeTeam": "Vit\u00f3ria SC",
-      "awayTeam": "Moreirense",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMDA5OjQ1M2IwY2M0YjMwMg.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMDE0OjdiNGJlN2IyOTYzNw.png",
-      "league": "Liga Portugal Betclic",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIzODpjMDNmYWU4MTFkN2U.png",
-      "matchTime": 1789914600000,
+      "id": "kf-egnatia-fk-partizani-16517637",
+      "title": "KF Egnatia vs FK Partizani",
+      "homeTeam": "KF Egnatia",
+      "awayTeam": "FK Partizani",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyNjQ2MTk6ZTk1YjIzNTVjOWRi.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo1MjIyOmUwMWUxNGUzMTEzYQ.png",
+      "league": "Abissnet Superiore",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjcyMDpiZmIzZmFjYTE3Mzk.png",
+      "matchTime": 1789921800000,
       "status": "inprogress",
       "streams": [
         {
           "id": "stream-1",
           "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=moreirense-vitoria-sc-16450889&source=stv",
-          "source": "STV",
-          "hd": true,
-          "language": "MULTI"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=moreirense-vitoria-sc-16450889&source=lola",
+          "embedUrl": "https://football77.org/embed/?id=kf-egnatia-fk-partizani-16517637&source=lola",
           "source": "lola",
           "hd": false,
           "language": "MULTI"
         }
       ],
-      "streamCount": 2
+      "streamCount": 1
     },
     {
       "id": "rangers-lfc-aberdeen-lfc-16408093",
@@ -826,6 +836,37 @@
         }
       ],
       "streamCount": 1
+    },
+    {
+      "id": "ps-kalamata-panathinaikos-fc-16559932",
+      "title": "PS Kalamata vs Panathinaikos FC",
+      "homeTeam": "PS Kalamata",
+      "awayTeam": "Panathinaikos FC",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0MTIwNTY6NGZjMDFkN2YyYWRh.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMjQ4OmYxZjk0NDdhNTVkOA.png",
+      "league": "Stoiximan Super League",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE4NTo1NGEzZGViYTRkMjY.png",
+      "matchTime": 1789921800000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=ps-kalamata-panathinaikos-fc-16559932&source=stv",
+          "source": "STV",
+          "hd": true,
+          "language": "MULTI"
+        },
+        {
+          "id": "stream-2",
+          "streamNo": 2,
+          "embedUrl": "https://football77.org/embed/?id=ps-kalamata-panathinaikos-fc-16559932&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        }
+      ],
+      "streamCount": 2
     },
     {
       "id": "sao-paulo-internacional-15235482",
@@ -2032,6 +2073,20 @@
       "streamCount": 0
     },
     {
+      "id": "go-ahead-eagles-nec-nijmegen-16316820",
+      "title": "NEC Nijmegen vs Go Ahead Eagles",
+      "homeTeam": "NEC Nijmegen",
+      "awayTeam": "Go Ahead Eagles",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyOTYyOmJiZWZhZGYwY2JmOQ.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyOTc5OjliZTVmYTk0ZWEwOA.png",
+      "league": "VriendenLoterij Eredivisie",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM3OjNiODEyNzFjY2E2NA.png",
+      "matchTime": 1789915500000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "piast-gliwice-pogon-szczecin-16317021",
       "title": "Piast Gliwice vs Pogo\u0144 Szczecin",
       "homeTeam": "Piast Gliwice",
@@ -2466,20 +2521,6 @@
       "streamCount": 0
     },
     {
-      "id": "krc-genk-club-brugge-kv-16361930",
-      "title": "Club Brugge KV vs KRC Genk",
-      "homeTeam": "Club Brugge KV",
-      "awayTeam": "KRC Genk",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyODg4OmY5NmZkY2U0ZjdjMg.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyODkwOjhiMzZhMDAxYTQzOA.png",
-      "league": "Pro League",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM4OjM2ZjJlZGU0MDBiZg.png",
-      "matchTime": 1789921800000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
       "id": "sk-beveren-kv-kortrijk-16361931",
       "title": "KV Kortrijk vs SK Beveren",
       "homeTeam": "KV Kortrijk",
@@ -2550,6 +2591,20 @@
       "streamCount": 0
     },
     {
+      "id": "sv-waldhof-mannheim-preussen-munster-16667927",
+      "title": "SV Waldhof Mannheim vs Preu\u00dfen M\u00fcnster",
+      "homeTeam": "SV Waldhof Mannheim",
+      "awayTeam": "Preu\u00dfen M\u00fcnster",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyNjgwOmRhM2ViOGU1ZTY2Zg.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyNTkwOmExMWQ1MWUxODI2ZA.png",
+      "league": "3. Liga",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjQ5MTo0MDdjODM1MDdlZTc.png",
+      "matchTime": 1789914600000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "if-elfsborg-djurgardens-if-15272521",
       "title": "Djurg\u00e5rdens IF vs IF Elfsborg",
       "homeTeam": "Djurg\u00e5rdens IF",
@@ -2587,6 +2642,20 @@
       "league": "Allsvenskan",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjQwOjFjOWIxOTY3OGE5NQ.png",
       "matchTime": 1789905600000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "degerfors-if-hammarby-if-15272527",
+      "title": "Degerfors IF vs Hammarby IF",
+      "homeTeam": "Degerfors IF",
+      "awayTeam": "Hammarby IF",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxODA3OjU4OTBmMWZiN2JlOQ.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToxNzU4OjVkMzZhODU5NDdkZA.png",
+      "league": "Allsvenskan",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjQwOjFjOWIxOTY3OGE5NQ.png",
+      "matchTime": 1789914600000,
       "status": "finished",
       "streams": [],
       "streamCount": 0
@@ -2630,34 +2699,6 @@
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjU0OmJmNWFmYzJiYzViZA.png",
       "matchTime": 1789913700000,
       "status": "finished",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "celta-fortuna-almeria-16418296",
-      "title": "Almer\u00eda vs Celta Fortuna",
-      "homeTeam": "Almer\u00eda",
-      "awayTeam": "Celta Fortuna",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyODU4OmU5NTEzYjhjN2Y4Mg.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyNDMzNjozMjU0ODAwNGIyMjQ.png",
-      "league": "LaLiga 2",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjU0OmJmNWFmYzJiYzViZA.png",
-      "matchTime": 1789921800000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "las-palmas-burgos-club-de-futbol-16418304",
-      "title": "UD Las Palmas vs Burgos Club de F\u00fatbol",
-      "homeTeam": "UD Las Palmas",
-      "awayTeam": "Burgos Club de F\u00fatbol",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo2NTc3OjA4OGQ0ODNkNWI2OQ.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyODU0OjlhN2FiZjIxZTJlOA.png",
-      "league": "LaLiga 2",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjU0OmJmNWFmYzJiYzViZA.png",
-      "matchTime": 1789921800000,
-      "status": "notstarted",
       "streams": [],
       "streamCount": 0
     },
@@ -2900,20 +2941,6 @@
       "streamCount": 0
     },
     {
-      "id": "canada-u20-north-korea-u20-17124658",
-      "title": "North Korea U20 vs Canada U20",
-      "homeTeam": "North Korea U20",
-      "awayTeam": "Canada U20",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0MzIxODplYTUyYzg1ZGQyMmU.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0ODk5MDo4OTE1NjgwNjU0NGI.png",
-      "league": "U-20 Women's World Championship",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjgwNDo1ZThmZjE0MmExMmY.png",
-      "matchTime": 1789921800000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
       "id": "eyupspor-fenerbahce-16483681",
       "title": "Fenerbah\u00e7e vs Ey\u00fcpspor",
       "homeTeam": "Fenerbah\u00e7e",
@@ -2966,20 +2993,6 @@
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjcyMDpiZmIzZmFjYTE3Mzk.png",
       "matchTime": 1789912800000,
       "status": "finished",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "kf-egnatia-fk-partizani-16517637",
-      "title": "KF Egnatia vs FK Partizani",
-      "homeTeam": "KF Egnatia",
-      "awayTeam": "FK Partizani",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyNjQ2MTk6ZTk1YjIzNTVjOWRi.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo1MjIyOmUwMWUxNGUzMTEzYQ.png",
-      "league": "Abissnet Superiore",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjcyMDpiZmIzZmFjYTE3Mzk.png",
-      "matchTime": 1789921800000,
-      "status": "notstarted",
       "streams": [],
       "streamCount": 0
     },
@@ -3054,6 +3067,34 @@
       "streamCount": 0
     },
     {
+      "id": "cf-estrela-amadora-academico-viseu-fc-16432054",
+      "title": "CF Estrela Amadora vs Acad\u00e9mico Viseu FC",
+      "homeTeam": "CF Estrela Amadora",
+      "awayTeam": "Acad\u00e9mico Viseu FC",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMDM1Ojg2ZGVkOGZmZGIxMQ.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMDIyOmY4NWUxN2IyZWQwNg.png",
+      "league": "Liga Portugal Betclic",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIzODpjMDNmYWU4MTFkN2U.png",
+      "matchTime": 1789914600000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "moreirense-vitoria-sc-16450889",
+      "title": "Vit\u00f3ria SC vs Moreirense",
+      "homeTeam": "Vit\u00f3ria SC",
+      "awayTeam": "Moreirense",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMDA5OjQ1M2IwY2M0YjMwMg.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMDE0OjdiNGJlN2IyOTYzNw.png",
+      "league": "Liga Portugal Betclic",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIzODpjMDNmYWU4MTFkN2U.png",
+      "matchTime": 1789914600000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "santa-clara-sporting-braga-16432042",
       "title": "Santa Clara vs Sporting Braga",
       "homeTeam": "Santa Clara",
@@ -3105,20 +3146,6 @@
       "league": "Cyprus League by Stoiximan",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE3MTo1MDI2NDUyYWNlNzU.png",
       "matchTime": 1789923600000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "ps-kalamata-panathinaikos-fc-16559932",
-      "title": "PS Kalamata vs Panathinaikos FC",
-      "homeTeam": "PS Kalamata",
-      "awayTeam": "Panathinaikos FC",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0MTIwNTY6NGZjMDFkN2YyYWRh.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMjQ4OmYxZjk0NDdhNTVkOA.png",
-      "league": "Stoiximan Super League",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE4NTo1NGEzZGViYTRkMjY.png",
-      "matchTime": 1789921800000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
