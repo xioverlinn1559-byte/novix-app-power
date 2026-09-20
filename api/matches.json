@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T10:36:02.313637+00:00",
+  "updatedAt": "2026-09-20T10:48:51.933699+00:00",
   "matches": [
     {
       "id": "ssc-napoli-fiorentina-16285018",
@@ -568,6 +568,29 @@
           "id": "stream-1",
           "streamNo": 1,
           "embedUrl": "https://football77.org/embed/?id=piast-gliwice-pogon-szczecin-16317021&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
+      "id": "atalanta-u23-ravenna-16675075",
+      "title": "Atalanta U23 vs Ravenna",
+      "homeTeam": "Atalanta U23",
+      "awayTeam": "Ravenna",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0ODUzMjM6ZGJiMzQ5YTI1ZWVh.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo1MzE4OjE4OWY5ZjZlYzZkMA.png",
+      "league": "Serie C, Girone B",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNDQ3OjM3YzNjMjAwZTEyMg.png",
+      "matchTime": 1789900200000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=atalanta-u23-ravenna-16675075&source=lola",
           "source": "lola",
           "hd": false,
           "language": "MULTI"
@@ -1728,20 +1751,6 @@
       "league": "Ekstraklasa",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIwMjo3MWQzNzk0M2YwZTk.png",
       "matchTime": 1789928100000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "atalanta-u23-ravenna-16675075",
-      "title": "Atalanta U23 vs Ravenna",
-      "homeTeam": "Atalanta U23",
-      "awayTeam": "Ravenna",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0ODUzMjM6ZGJiMzQ5YTI1ZWVh.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo1MzE4OjE4OWY5ZjZlYzZkMA.png",
-      "league": "Serie C, Girone B",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNDQ3OjM3YzNjMjAwZTEyMg.png",
-      "matchTime": 1789900200000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
