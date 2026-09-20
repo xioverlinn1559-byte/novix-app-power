@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T19:33:44.829589+00:00",
+  "updatedAt": "2026-09-20T19:48:00.965560+00:00",
   "matches": [
     {
       "id": "ac-milan-lecce-16285023",
@@ -442,37 +442,6 @@
       "streamCount": 1
     },
     {
-      "id": "boca-juniors-san-lorenzo-16667340",
-      "title": "San Lorenzo vs Boca Juniors",
-      "homeTeam": "San Lorenzo",
-      "awayTeam": "Boca Juniors",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMjAxOmZmNTQxMTI0OTI0NQ.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMjAyOjUyM2VmNWRlMjJhNw.png",
-      "league": "Liga Profesional de F\u00fatbol",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE1NTo1MDUyNDk5Zjg4NDk.png",
-      "matchTime": 1789926300000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=boca-juniors-san-lorenzo-16667340&source=stv",
-          "source": "STV",
-          "hd": true,
-          "language": "MULTI"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=boca-juniors-san-lorenzo-16667340&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 2
-    },
-    {
       "id": "fortaleza-fc-junior-barranquilla-16390751",
       "title": "Fortaleza FC vs Junior Barranquilla",
       "homeTeam": "Fortaleza FC",
@@ -780,6 +749,37 @@
       "streamCount": 1
     },
     {
+      "id": "benfica-fc-porto-16432059",
+      "title": "FC Porto vs Benfica",
+      "homeTeam": "FC Porto",
+      "awayTeam": "Benfica",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMDAyOjEzZjIwMjM3MzZmZQ.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMDA2OmVjNTg4NjhhMWUxOQ.png",
+      "league": "Liga Portugal Betclic",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIzODpjMDNmYWU4MTFkN2U.png",
+      "matchTime": 1789932600000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=benfica-fc-porto-16432059&source=stv",
+          "source": "STV",
+          "hd": true,
+          "language": "MULTI"
+        },
+        {
+          "id": "stream-2",
+          "streamNo": 2,
+          "embedUrl": "https://football77.org/embed/?id=benfica-fc-porto-16432059&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        }
+      ],
+      "streamCount": 2
+    },
+    {
       "id": "puebla-fc-pumas-unam-16651906",
       "title": "Pumas UNAM vs Puebla FC",
       "homeTeam": "Pumas UNAM",
@@ -924,6 +924,20 @@
       "league": "Liga Profesional de F\u00fatbol",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE1NTo1MDUyNDk5Zjg4NDk.png",
       "matchTime": 1789863300000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "boca-juniors-san-lorenzo-16667340",
+      "title": "San Lorenzo vs Boca Juniors",
+      "homeTeam": "San Lorenzo",
+      "awayTeam": "Boca Juniors",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMjAxOmZmNTQxMTI0OTI0NQ.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMjAyOjUyM2VmNWRlMjJhNw.png",
+      "league": "Liga Profesional de F\u00fatbol",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE1NTo1MDUyNDk5Zjg4NDk.png",
+      "matchTime": 1789926300000,
       "status": "finished",
       "streams": [],
       "streamCount": 0
@@ -2983,20 +2997,6 @@
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIzODpjMDNmYWU4MTFkN2U.png",
       "matchTime": 1789923600000,
       "status": "finished",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "benfica-fc-porto-16432059",
-      "title": "FC Porto vs Benfica",
-      "homeTeam": "FC Porto",
-      "awayTeam": "Benfica",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMDAyOjEzZjIwMjM3MzZmZQ.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMDA2OmVjNTg4NjhhMWUxOQ.png",
-      "league": "Liga Portugal Betclic",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIzODpjMDNmYWU4MTFkN2U.png",
-      "matchTime": 1789932600000,
-      "status": "notstarted",
       "streams": [],
       "streamCount": 0
     },
