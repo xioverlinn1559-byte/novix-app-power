@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T20:05:11.576087+00:00",
+  "updatedAt": "2026-09-20T20:22:38.437386+00:00",
   "matches": [
     {
       "id": "ac-milan-lecce-16285023",
@@ -535,52 +535,6 @@
       "streamCount": 2
     },
     {
-      "id": "universidad-tecnica-de-cajamarca-sport-huancayo-16280838",
-      "title": "Sport Huancayo vs Universidad T\u00e9cnica de Cajamarca",
-      "homeTeam": "Sport Huancayo",
-      "awayTeam": "Universidad T\u00e9cnica de Cajamarca",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMzg5NTo5MDViMGQ0MGRlZTM.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo4Nzg1NDozYmQ2MTM4ODUxY2Y.png",
-      "league": "Liga 1 Te Apuesto",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjQwNjozZjI3MjYwNzcyZmM.png",
-      "matchTime": 1789927200000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=universidad-tecnica-de-cajamarca-sport-huancayo-16280838&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "cd-extremadura-cultural-leonesa-16439362",
-      "title": "CD Extremadura vs Cultural Leonesa",
-      "homeTeam": "CD Extremadura",
-      "awayTeam": "Cultural Leonesa",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo4NTI4Njg6YjE4MTJkOWVlMGNk.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyODY4OjczNmYwNmJhMGQzMg.png",
-      "league": "Primera Federaci\u00f3n",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE3MDczOmNjMDVmZGRjYWMyMg.png",
-      "matchTime": 1789927200000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=cd-extremadura-cultural-leonesa-16439362&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
       "id": "juventud-torremolinos-cf-hercules-cf-16599912",
       "title": "H\u00e9rcules CF vs Juventud Torremolinos CF",
       "homeTeam": "H\u00e9rcules CF",
@@ -619,29 +573,6 @@
           "id": "stream-1",
           "streamNo": 1,
           "embedUrl": "https://football77.org/embed/?id=fc-cartagena-real-zaragoza-16599923&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "radomiak-radom-lech-poznan-16317024",
-      "title": "Lech Pozna\u0144 vs Radomiak Radom",
-      "homeTeam": "Lech Pozna\u0144",
-      "awayTeam": "Radomiak Radom",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMTIxOmM2M2Q3ZWE1NzYyOA.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo3Mjk1Ojg1MTA0NjBhM2ZjYg.png",
-      "league": "Ekstraklasa",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIwMjo3MWQzNzk0M2YwZTk.png",
-      "matchTime": 1789928100000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=radomiak-radom-lech-poznan-16317024&source=lola",
           "source": "lola",
           "hd": false,
           "language": "MULTI"
@@ -1192,6 +1123,20 @@
       "league": "Liga 1 Te Apuesto",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjQwNjozZjI3MjYwNzcyZmM.png",
       "matchTime": 1789866900000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "universidad-tecnica-de-cajamarca-sport-huancayo-16280838",
+      "title": "Sport Huancayo vs Universidad T\u00e9cnica de Cajamarca",
+      "homeTeam": "Sport Huancayo",
+      "awayTeam": "Universidad T\u00e9cnica de Cajamarca",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMzg5NTo5MDViMGQ0MGRlZTM.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo4Nzg1NDozYmQ2MTM4ODUxY2Y.png",
+      "league": "Liga 1 Te Apuesto",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjQwNjozZjI3MjYwNzcyZmM.png",
+      "matchTime": 1789927200000,
       "status": "finished",
       "streams": [],
       "streamCount": 0
@@ -1841,6 +1786,20 @@
       "streamCount": 0
     },
     {
+      "id": "cd-extremadura-cultural-leonesa-16439362",
+      "title": "CD Extremadura vs Cultural Leonesa",
+      "homeTeam": "CD Extremadura",
+      "awayTeam": "Cultural Leonesa",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo4NTI4Njg6YjE4MTJkOWVlMGNk.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyODY4OjczNmYwNmJhMGQzMg.png",
+      "league": "Primera Federaci\u00f3n",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE3MDczOmNjMDVmZGRjYWMyMg.png",
+      "matchTime": 1789927200000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "seychelles-u20-mauritius-u20-17068213",
       "title": "Mauritius U20 vs Seychelles U20",
       "homeTeam": "Mauritius U20",
@@ -1948,6 +1907,20 @@
       "league": "Ekstraklasa",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIwMjo3MWQzNzk0M2YwZTk.png",
       "matchTime": 1789918200000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "radomiak-radom-lech-poznan-16317024",
+      "title": "Lech Pozna\u0144 vs Radomiak Radom",
+      "homeTeam": "Lech Pozna\u0144",
+      "awayTeam": "Radomiak Radom",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMTIxOmM2M2Q3ZWE1NzYyOA.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo3Mjk1Ojg1MTA0NjBhM2ZjYg.png",
+      "league": "Ekstraklasa",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIwMjo3MWQzNzk0M2YwZTk.png",
+      "matchTime": 1789928100000,
       "status": "finished",
       "streams": [],
       "streamCount": 0
