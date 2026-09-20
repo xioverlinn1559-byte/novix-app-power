@@ -1,45 +1,6 @@
 {
-  "updatedAt": "2026-09-20T12:27:29.475578+00:00",
+  "updatedAt": "2026-09-20T12:42:21.862061+00:00",
   "matches": [
-    {
-      "id": "ssc-napoli-fiorentina-16285018",
-      "title": "Fiorentina vs SSC Napoli",
-      "homeTeam": "Fiorentina",
-      "awayTeam": "SSC Napoli",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyNjkzOjZhMDRmNTY0YWFkYg.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyNzE0Ojg3ZDRmYzM5MDJmNQ.png",
-      "league": "Serie A",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIzOjdhMjIzYWRiNDVlNw.png",
-      "matchTime": 1789900200000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ssc-napoli-fiorentina-16285018&source=stv",
-          "source": "STV",
-          "hd": true,
-          "language": "MULTI"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=ssc-napoli-fiorentina-16285018&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        },
-        {
-          "id": "stream-3",
-          "streamNo": 3,
-          "embedUrl": "https://football77.org/embed/?id=ssc-napoli-fiorentina-16285018&source=ppv",
-          "source": "PPV",
-          "hd": true,
-          "language": "EN"
-        }
-      ],
-      "streamCount": 3
-    },
     {
       "id": "getafe-malaga-cf-16416303",
       "title": "Getafe vs M\u00e1laga CF",
@@ -78,6 +39,20 @@
         }
       ],
       "streamCount": 3
+    },
+    {
+      "id": "ssc-napoli-fiorentina-16285018",
+      "title": "Fiorentina vs SSC Napoli",
+      "homeTeam": "Fiorentina",
+      "awayTeam": "SSC Napoli",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyNjkzOjZhMDRmNTY0YWFkYg.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyNzE0Ojg3ZDRmYzM5MDJmNQ.png",
+      "league": "Serie A",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIzOjdhMjIzYWRiNDVlNw.png",
+      "matchTime": 1789900200000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
     },
     {
       "id": "frosinone-como-16285019",
@@ -355,6 +330,29 @@
       "streamCount": 1
     },
     {
+      "id": "yala-fc-nakhon-si-united-16792778",
+      "title": "Yala FC vs Nakhon Si United",
+      "homeTeam": "Yala FC",
+      "awayTeam": "Nakhon Si United",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0OTk0Mzc6NWY0ZjczNGY1MDRj.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyODE4Njc6NDY2ZGYxMTU4NzYz.png",
+      "league": "Thai League 3",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM0MjM0OjhkMTg0NjI3ZmFhNA.png",
+      "matchTime": 1789905600000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=yala-fc-nakhon-si-united-16792778&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
       "id": "psis-semarang-semen-padang-fc-16904443",
       "title": "Semen Padang FC vs PSIS Semarang",
       "homeTeam": "Semen Padang FC",
@@ -424,21 +422,160 @@
       "streamCount": 1
     },
     {
-      "id": "atalanta-u23-ravenna-16675075",
-      "title": "Atalanta U23 vs Ravenna",
-      "homeTeam": "Atalanta U23",
-      "awayTeam": "Ravenna",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0ODUzMjM6ZGJiMzQ5YTI1ZWVh.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo1MzE4OjE4OWY5ZjZlYzZkMA.png",
-      "league": "Serie C, Girone B",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNDQ3OjM3YzNjMjAwZTEyMg.png",
-      "matchTime": 1789900200000,
+      "id": "fc-twente-psv-eindhoven-16316823",
+      "title": "FC Twente vs PSV Eindhoven",
+      "homeTeam": "FC Twente",
+      "awayTeam": "PSV Eindhoven",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyOTU1OjA4NjI3ZWU2NDllNw.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyOTUyOjU1ZDM4ZTcxMzBhNg.png",
+      "league": "VriendenLoterij Eredivisie",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM3OjNiODEyNzFjY2E2NA.png",
+      "matchTime": 1789907400000,
       "status": "inprogress",
       "streams": [
         {
           "id": "stream-1",
           "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=atalanta-u23-ravenna-16675075&source=lola",
+          "embedUrl": "https://football77.org/embed/?id=fc-twente-psv-eindhoven-16316823&source=stv",
+          "source": "STV",
+          "hd": true,
+          "language": "MULTI"
+        },
+        {
+          "id": "stream-2",
+          "streamNo": 2,
+          "embedUrl": "https://football77.org/embed/?id=fc-twente-psv-eindhoven-16316823&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        },
+        {
+          "id": "stream-3",
+          "streamNo": 3,
+          "embedUrl": "https://football77.org/embed/?id=fc-twente-psv-eindhoven-16316823&source=ppv",
+          "source": "PPV",
+          "hd": true,
+          "language": "NL"
+        }
+      ],
+      "streamCount": 3
+    },
+    {
+      "id": "sc-telstar-az-alkmaar-16316826",
+      "title": "AZ Alkmaar vs SC Telstar",
+      "homeTeam": "AZ Alkmaar",
+      "awayTeam": "SC Telstar",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyOTUwOjZlOWQyZTJmNGJhNg.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyOTcyOjdjNmNmMjYyZDdjMA.png",
+      "league": "VriendenLoterij Eredivisie",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM3OjNiODEyNzFjY2E2NA.png",
+      "matchTime": 1789907400000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=sc-telstar-az-alkmaar-16316826&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        },
+        {
+          "id": "stream-2",
+          "streamNo": 2,
+          "embedUrl": "https://football77.org/embed/?id=sc-telstar-az-alkmaar-16316826&source=ppv",
+          "source": "PPV",
+          "hd": true,
+          "language": "NL"
+        }
+      ],
+      "streamCount": 2
+    },
+    {
+      "id": "latina-reggiana-16675094",
+      "title": "Reggiana vs Latina",
+      "homeTeam": "Reggiana",
+      "awayTeam": "Latina",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyNDUxNjpjZDI4ZTRjZTEyYWQ.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0NDA2OTozN2Q4MWQyOWEyNjU.png",
+      "league": "Serie C, Girone B",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNDQ3OjM3YzNjMjAwZTEyMg.png",
+      "matchTime": 1789907400000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=latina-reggiana-16675094&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
+      "id": "vado-pescara-16675100",
+      "title": "Vado vs Pescara",
+      "homeTeam": "Vado",
+      "awayTeam": "Pescara",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxMTcyNTI6OTc2MDBkOGRmNjU1.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo3OTM1OmJhNTcyYjkyMTQ1NQ.png",
+      "league": "Serie C, Girone B",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNDQ3OjM3YzNjMjAwZTEyMg.png",
+      "matchTime": 1789907400000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=vado-pescara-16675100&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
+      "id": "carpi-novara-16675365",
+      "title": "Novara vs Carpi",
+      "homeTeam": "Novara",
+      "awayTeam": "Carpi",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyNzY3OjNkNmMwMTc0ODBkMA.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0MzY4NTozYmJhYmM5YjIzYjA.png",
+      "league": "Serie C, Girone A",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNDQ1Ojk3NGVhOGE4NTA5MQ.png",
+      "matchTime": 1789907400000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=carpi-novara-16675365&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
+      "id": "ospitaletto-franciacorta-cittadella-16675369",
+      "title": "Ospitaletto Franciacorta vs Cittadella",
+      "homeTeam": "Ospitaletto Franciacorta",
+      "awayTeam": "Cittadella",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo1NDk1OTk6MGM1MzMyMDc4ZDdi.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyNzE3OjA2MDRiNGUzNGFlNQ.png",
+      "league": "Serie C, Girone A",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNDQ1Ojk3NGVhOGE4NTA5MQ.png",
+      "matchTime": 1789907400000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=ospitaletto-franciacorta-cittadella-16675369&source=lola",
           "source": "lola",
           "hd": false,
           "language": "MULTI"
@@ -523,6 +660,29 @@
         }
       ],
       "streamCount": 3
+    },
+    {
+      "id": "norwich-city-bolton-wanderers-16391689",
+      "title": "Norwich City vs Bolton Wanderers",
+      "homeTeam": "Norwich City",
+      "awayTeam": "Bolton Wanderers",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyNjM6ZjZiZDNmMzFlNGEx.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo1OjJmNmYxMWQyNTg3Nw.png",
+      "league": "Championship",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE4OjJhZjVkODIwNmU4Mw.png",
+      "matchTime": 1789907400000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=norwich-city-bolton-wanderers-16391689&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        }
+      ],
+      "streamCount": 1
     },
     {
       "id": "chonburi-fc-buriram-united-16575438",
@@ -986,6 +1146,29 @@
           "id": "stream-1",
           "streamNo": 1,
           "embedUrl": "https://football77.org/embed/?id=vendsyssel-ff-aab-16317251&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
+      "id": "monopoli-fc-crotone-16680686",
+      "title": "Monopoli vs FC Crotone",
+      "homeTeam": "Monopoli",
+      "awayTeam": "FC Crotone",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyNTEzNzoxMWU0ZmZlYTVlZDU.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyNzE4OmQ0YjhmOGU5Y2YzNQ.png",
+      "league": "Serie C, Girone C",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNDQ2OmIzZmM2MmVkYTliYg.png",
+      "matchTime": 1789907400000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=monopoli-fc-crotone-16680686&source=lola",
           "source": "lola",
           "hd": false,
           "language": "MULTI"
@@ -1918,20 +2101,6 @@
       "streamCount": 0
     },
     {
-      "id": "yala-fc-nakhon-si-united-16792778",
-      "title": "Yala FC vs Nakhon Si United",
-      "homeTeam": "Yala FC",
-      "awayTeam": "Nakhon Si United",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0OTk0Mzc6NWY0ZjczNGY1MDRj.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyODE4Njc6NDY2ZGYxMTU4NzYz.png",
-      "league": "Thai League 3",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM0MjM0OjhkMTg0NjI3ZmFhNA.png",
-      "matchTime": 1789905600000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
       "id": "persiku-kudus-psms-medan-16904441",
       "title": "PSMS Medan vs Persiku Kudus",
       "homeTeam": "PSMS Medan",
@@ -2128,34 +2297,6 @@
       "streamCount": 0
     },
     {
-      "id": "fc-twente-psv-eindhoven-16316823",
-      "title": "FC Twente vs PSV Eindhoven",
-      "homeTeam": "FC Twente",
-      "awayTeam": "PSV Eindhoven",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyOTU1OjA4NjI3ZWU2NDllNw.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyOTUyOjU1ZDM4ZTcxMzBhNg.png",
-      "league": "VriendenLoterij Eredivisie",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM3OjNiODEyNzFjY2E2NA.png",
-      "matchTime": 1789907400000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "sc-telstar-az-alkmaar-16316826",
-      "title": "AZ Alkmaar vs SC Telstar",
-      "homeTeam": "AZ Alkmaar",
-      "awayTeam": "SC Telstar",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyOTUwOjZlOWQyZTJmNGJhNg.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyOTcyOjdjNmNmMjYyZDdjMA.png",
-      "league": "VriendenLoterij Eredivisie",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM3OjNiODEyNzFjY2E2NA.png",
-      "matchTime": 1789907400000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
       "id": "go-ahead-eagles-nec-nijmegen-16316820",
       "title": "NEC Nijmegen vs Go Ahead Eagles",
       "homeTeam": "NEC Nijmegen",
@@ -2226,30 +2367,16 @@
       "streamCount": 0
     },
     {
-      "id": "latina-reggiana-16675094",
-      "title": "Reggiana vs Latina",
-      "homeTeam": "Reggiana",
-      "awayTeam": "Latina",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyNDUxNjpjZDI4ZTRjZTEyYWQ.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0NDA2OTozN2Q4MWQyOWEyNjU.png",
+      "id": "atalanta-u23-ravenna-16675075",
+      "title": "Atalanta U23 vs Ravenna",
+      "homeTeam": "Atalanta U23",
+      "awayTeam": "Ravenna",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0ODUzMjM6ZGJiMzQ5YTI1ZWVh.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo1MzE4OjE4OWY5ZjZlYzZkMA.png",
       "league": "Serie C, Girone B",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNDQ3OjM3YzNjMjAwZTEyMg.png",
-      "matchTime": 1789907400000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "vado-pescara-16675100",
-      "title": "Vado vs Pescara",
-      "homeTeam": "Vado",
-      "awayTeam": "Pescara",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxMTcyNTI6OTc2MDBkOGRmNjU1.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo3OTM1OmJhNTcyYjkyMTQ1NQ.png",
-      "league": "Serie C, Girone B",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNDQ3OjM3YzNjMjAwZTEyMg.png",
-      "matchTime": 1789907400000,
-      "status": "notstarted",
+      "matchTime": 1789900200000,
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -2310,34 +2437,6 @@
       "streamCount": 0
     },
     {
-      "id": "carpi-novara-16675365",
-      "title": "Novara vs Carpi",
-      "homeTeam": "Novara",
-      "awayTeam": "Carpi",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyNzY3OjNkNmMwMTc0ODBkMA.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0MzY4NTozYmJhYmM5YjIzYjA.png",
-      "league": "Serie C, Girone A",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNDQ1Ojk3NGVhOGE4NTA5MQ.png",
-      "matchTime": 1789907400000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "ospitaletto-franciacorta-cittadella-16675369",
-      "title": "Ospitaletto Franciacorta vs Cittadella",
-      "homeTeam": "Ospitaletto Franciacorta",
-      "awayTeam": "Cittadella",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo1NDk1OTk6MGM1MzMyMDc4ZDdi.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyNzE3OjA2MDRiNGUzNGFlNQ.png",
-      "league": "Serie C, Girone A",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNDQ1Ojk3NGVhOGE4NTA5MQ.png",
-      "matchTime": 1789907400000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
       "id": "arzignano-valchiampo-renate-16675344",
       "title": "Arzignano Valchiampo vs Renate",
       "homeTeam": "Arzignano Valchiampo",
@@ -2389,20 +2488,6 @@
       "league": "Serie C, Girone A",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNDQ1Ojk3NGVhOGE4NTA5MQ.png",
       "matchTime": 1789929000000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "norwich-city-bolton-wanderers-16391689",
-      "title": "Norwich City vs Bolton Wanderers",
-      "homeTeam": "Norwich City",
-      "awayTeam": "Bolton Wanderers",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyNjM6ZjZiZDNmMzFlNGEx.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo1OjJmNmYxMWQyNTg3Nw.png",
-      "league": "Championship",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE4OjJhZjVkODIwNmU4Mw.png",
-      "matchTime": 1789907400000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
@@ -2683,20 +2768,6 @@
       "league": "Betinia Liga",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjQ3OjlhMzBlODdiYTI5OQ.png",
       "matchTime": 1789909200000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "monopoli-fc-crotone-16680686",
-      "title": "Monopoli vs FC Crotone",
-      "homeTeam": "Monopoli",
-      "awayTeam": "FC Crotone",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyNTEzNzoxMWU0ZmZlYTVlZDU.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyNzE4OmQ0YjhmOGU5Y2YzNQ.png",
-      "league": "Serie C, Girone C",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNDQ2OmIzZmM2MmVkYTliYg.png",
-      "matchTime": 1789907400000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
