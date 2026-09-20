@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T08:49:34.949305+00:00",
+  "updatedAt": "2026-09-20T09:05:14.523060+00:00",
   "matches": [
     {
       "id": "ssc-napoli-fiorentina-16285018",
@@ -282,29 +282,6 @@
       "streamCount": 0
     },
     {
-      "id": "thailand-u23-hong-kong-u23-16875516",
-      "title": "Hong Kong U23 vs Thailand U23",
-      "homeTeam": "Hong Kong U23",
-      "awayTeam": "Thailand U23",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0OTA0ODo3MjM1YmIyNjI1ZGE.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0OTEwMjo2NzU3YjllYTViZTI.png",
-      "league": "Asian Games",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE4NjI6OTE5ZjBmNDFkYWRl.png",
-      "matchTime": 1789887600000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=thailand-u23-hong-kong-u23-16875516&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
       "id": "gwangju-fc-jeonbuk-hyundai-motors-15373105",
       "title": "Jeonbuk Hyundai Motors vs Gwangju FC",
       "homeTeam": "Jeonbuk Hyundai Motors",
@@ -504,6 +481,52 @@
           "id": "stream-1",
           "streamNo": 1,
           "embedUrl": "https://football77.org/embed/?id=ps-barito-putera-deltras-fc-16904442&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
+      "id": "sc-escaldes-fc-santa-coloma-16767366",
+      "title": "SC Escaldes vs FC Santa Coloma",
+      "homeTeam": "SC Escaldes",
+      "awayTeam": "FC Santa Coloma",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyOTk0MjE6ZGFkMmQ1OTk5OWU2.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo3NzExOmMzYTk5Njk4Y2M0Ng.png",
+      "league": "Primera Divisi\u00f3",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjc0MjplYTFhZmYwZmM3OWI.png",
+      "matchTime": 1789894800000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=sc-escaldes-fc-santa-coloma-16767366&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
+      "id": "penang-johor-darul-tazim-17058626",
+      "title": "Penang vs Johor Darul Ta'zim",
+      "homeTeam": "Penang",
+      "awayTeam": "Johor Darul Ta'zim",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMzMwOjhlOWY1YmZjOWE3Yg.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMzI3OjJiN2UwZjQwNjdjOQ.png",
+      "league": "Malaysia FA Cup",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjEzNDc0Ojc2ZWI2YjZlY2U4Nw.png",
+      "matchTime": 1789894800000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=penang-johor-darul-tazim-17058626&source=lola",
           "source": "lola",
           "hd": false,
           "language": "MULTI"
@@ -1142,6 +1165,20 @@
       "streamCount": 0
     },
     {
+      "id": "thailand-u23-hong-kong-u23-16875516",
+      "title": "Hong Kong U23 vs Thailand U23",
+      "homeTeam": "Hong Kong U23",
+      "awayTeam": "Thailand U23",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0OTA0ODo3MjM1YmIyNjI1ZGE.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0OTEwMjo2NzU3YjllYTViZTI.png",
+      "league": "Asian Games",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE4NjI6OTE5ZjBmNDFkYWRl.png",
+      "matchTime": 1789887600000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "united-arab-emirates-u23-north-korea-u23-16875518",
       "title": "North Korea U23 vs United Arab Emirates U23",
       "homeTeam": "North Korea U23",
@@ -1375,34 +1412,6 @@
       "league": "Indonesia Championship",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIzMjI5Ojc3NDFjYWQwYmYwNA.png",
       "matchTime": 1789905600000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "sc-escaldes-fc-santa-coloma-16767366",
-      "title": "SC Escaldes vs FC Santa Coloma",
-      "homeTeam": "SC Escaldes",
-      "awayTeam": "FC Santa Coloma",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyOTk0MjE6ZGFkMmQ1OTk5OWU2.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo3NzExOmMzYTk5Njk4Y2M0Ng.png",
-      "league": "Primera Divisi\u00f3",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjc0MjplYTFhZmYwZmM3OWI.png",
-      "matchTime": 1789894800000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "penang-johor-darul-tazim-17058626",
-      "title": "Penang vs Johor Darul Ta'zim",
-      "homeTeam": "Penang",
-      "awayTeam": "Johor Darul Ta'zim",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMzMwOjhlOWY1YmZjOWE3Yg.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMzI3OjJiN2UwZjQwNjdjOQ.png",
-      "league": "Malaysia FA Cup",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjEzNDc0Ojc2ZWI2YjZlY2U4Nw.png",
-      "matchTime": 1789894800000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
