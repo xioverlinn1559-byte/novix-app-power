@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T14:05:24.716845+00:00",
+  "updatedAt": "2026-09-20T14:22:34.328365+00:00",
   "matches": [
     {
       "id": "frosinone-como-16285019",
@@ -80,21 +80,21 @@
       "streamCount": 3
     },
     {
-      "id": "getafe-malaga-cf-16416303",
-      "title": "Getafe vs M\u00e1laga CF",
-      "homeTeam": "Getafe",
-      "awayTeam": "M\u00e1laga CF",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyODU5OjI3OGM0YTA4MmYyNg.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyODMwOmZmYjU4MTIzMDkyNA.png",
+      "id": "atletico-madrid-real-madrid-16416339",
+      "title": "Atl\u00e9tico Madrid vs Real Madrid",
+      "homeTeam": "Atl\u00e9tico Madrid",
+      "awayTeam": "Real Madrid",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyODM2OmViODJmYmJiZjhkZA.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyODI5OmRhMDdkMzdlYjMyOA.png",
       "league": "LaLiga",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjg6ZWM3OWIxYTljYTBi.png",
-      "matchTime": 1789905600000,
+      "matchTime": 1789913700000,
       "status": "inprogress",
       "streams": [
         {
           "id": "stream-1",
           "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=getafe-malaga-cf-16416303&source=stv",
+          "embedUrl": "https://football77.org/embed/?id=atletico-madrid-real-madrid-16416339&source=stv",
           "source": "STV",
           "hd": true,
           "language": "MULTI"
@@ -102,7 +102,7 @@
         {
           "id": "stream-2",
           "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=getafe-malaga-cf-16416303&source=lola",
+          "embedUrl": "https://football77.org/embed/?id=atletico-madrid-real-madrid-16416339&source=lola",
           "source": "lola",
           "hd": false,
           "language": "MULTI"
@@ -110,7 +110,7 @@
         {
           "id": "stream-3",
           "streamNo": 3,
-          "embedUrl": "https://football77.org/embed/?id=getafe-malaga-cf-16416303&source=ppv",
+          "embedUrl": "https://football77.org/embed/?id=atletico-madrid-real-madrid-16416339&source=ppv",
           "source": "PPV",
           "hd": true,
           "language": "EN"
@@ -356,16 +356,16 @@
       "streamCount": 0
     },
     {
-      "id": "atletico-madrid-real-madrid-16416339",
-      "title": "Atl\u00e9tico Madrid vs Real Madrid",
-      "homeTeam": "Atl\u00e9tico Madrid",
-      "awayTeam": "Real Madrid",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyODM2OmViODJmYmJiZjhkZA.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyODI5OmRhMDdkMzdlYjMyOA.png",
+      "id": "getafe-malaga-cf-16416303",
+      "title": "Getafe vs M\u00e1laga CF",
+      "homeTeam": "Getafe",
+      "awayTeam": "M\u00e1laga CF",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyODU5OjI3OGM0YTA4MmYyNg.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyODMwOmZmYjU4MTIzMDkyNA.png",
       "league": "LaLiga",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjg6ZWM3OWIxYTljYTBi.png",
-      "matchTime": 1789913700000,
-      "status": "notstarted",
+      "matchTime": 1789905600000,
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -482,27 +482,35 @@
       "streamCount": 0
     },
     {
-      "id": "brunei-dpmm-fc-kuala-lumpur-city-fc-17116773",
-      "title": "Brunei DPMM FC vs Kuala Lumpur City FC",
-      "homeTeam": "Brunei DPMM FC",
-      "awayTeam": "Kuala Lumpur City FC",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozNDA4NTo0MjJkNTliMTE5MjA.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMzI0OmM4ZGM0NGQyYjAwMg.png",
-      "league": "Malaysia FA Cup",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjEzNDc0Ojc2ZWI2YjZlY2U4Nw.png",
-      "matchTime": 1789906500000,
+      "id": "gremio-palmeiras-15235483",
+      "title": "Gr\u00eamio vs Palmeiras",
+      "homeTeam": "Gr\u00eamio",
+      "awayTeam": "Palmeiras",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo1OTI2OmI5ZTdmZGM3YTVmNQ.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToxOTYzOmE5OTVmMDdhMzE1ZQ.png",
+      "league": "Brasileir\u00e3o Betano",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjMyNTphMTgwZjA4NTM0MWQ.png",
+      "matchTime": 1789912800000,
       "status": "inprogress",
       "streams": [
         {
           "id": "stream-1",
           "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=brunei-dpmm-fc-kuala-lumpur-city-fc-17116773&source=lola",
+          "embedUrl": "https://football77.org/embed/?id=gremio-palmeiras-15235483&source=stv",
+          "source": "STV",
+          "hd": true,
+          "language": "MULTI"
+        },
+        {
+          "id": "stream-2",
+          "streamNo": 2,
+          "embedUrl": "https://football77.org/embed/?id=gremio-palmeiras-15235483&source=lola",
           "source": "lola",
           "hd": false,
           "language": "MULTI"
         }
       ],
-      "streamCount": 1
+      "streamCount": 2
     },
     {
       "id": "kelantan-city-fc-kuching-city-17058625",
@@ -797,6 +805,29 @@
           "id": "stream-1",
           "streamNo": 1,
           "embedUrl": "https://football77.org/embed/?id=sint-truidense-vv-kvc-westerlo-16361929&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
+      "id": "ad-ceuta-real-valladolid-16418300",
+      "title": "AD Ceuta vs Real Valladolid",
+      "homeTeam": "AD Ceuta",
+      "awayTeam": "Real Valladolid",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyODY5OjA5MjUxODA5YWVmNA.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyODMxOjc5NDIxNjU4N2QzMA.png",
+      "league": "LaLiga 2",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjU0OmJmNWFmYzJiYzViZA.png",
+      "matchTime": 1789913700000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=ad-ceuta-real-valladolid-16418300&source=lola",
           "source": "lola",
           "hd": false,
           "language": "MULTI"
@@ -1214,20 +1245,6 @@
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjMyNTphMTgwZjA4NTM0MWQ.png",
       "matchTime": 1789862400000,
       "status": "finished",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "gremio-palmeiras-15235483",
-      "title": "Gr\u00eamio vs Palmeiras",
-      "homeTeam": "Gr\u00eamio",
-      "awayTeam": "Palmeiras",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo1OTI2OmI5ZTdmZGM3YTVmNQ.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToxOTYzOmE5OTVmMDdhMzE1ZQ.png",
-      "league": "Brasileir\u00e3o Betano",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjMyNTphMTgwZjA4NTM0MWQ.png",
-      "matchTime": 1789912800000,
-      "status": "notstarted",
       "streams": [],
       "streamCount": 0
     },
@@ -2240,6 +2257,20 @@
       "streamCount": 0
     },
     {
+      "id": "brunei-dpmm-fc-kuala-lumpur-city-fc-17116773",
+      "title": "Brunei DPMM FC vs Kuala Lumpur City FC",
+      "homeTeam": "Brunei DPMM FC",
+      "awayTeam": "Kuala Lumpur City FC",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozNDA4NTo0MjJkNTliMTE5MjA.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMzI0OmM4ZGM0NGQyYjAwMg.png",
+      "league": "Malaysia FA Cup",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjEzNDc0Ojc2ZWI2YjZlY2U4Nw.png",
+      "matchTime": 1789906500000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "mfa-zalgiris-mru-fk-banga-women-16676374",
       "title": "MFA \u017dalgiris-MRU vs FK Banga Women",
       "homeTeam": "MFA \u017dalgiris-MRU",
@@ -2908,20 +2939,6 @@
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjU0OmJmNWFmYzJiYzViZA.png",
       "matchTime": 1789905600000,
       "status": "finished",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "ad-ceuta-real-valladolid-16418300",
-      "title": "AD Ceuta vs Real Valladolid",
-      "homeTeam": "AD Ceuta",
-      "awayTeam": "Real Valladolid",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyODY5OjA5MjUxODA5YWVmNA.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyODMxOjc5NDIxNjU4N2QzMA.png",
-      "league": "LaLiga 2",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjU0OmJmNWFmYzJiYzViZA.png",
-      "matchTime": 1789913700000,
-      "status": "notstarted",
       "streams": [],
       "streamCount": 0
     },
