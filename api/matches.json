@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T03:25:10.615374+00:00",
+  "updatedAt": "2026-09-21T03:39:30.107401+00:00",
   "matches": [
     {
       "id": "club-leon-queretaro-fc-16317967",
@@ -31,29 +31,6 @@
         }
       ],
       "streamCount": 2
-    },
-    {
-      "id": "juticalpa-fc-cd-marathon-17041843",
-      "title": "Juticalpa FC vs CD Marathon",
-      "homeTeam": "Juticalpa FC",
-      "awayTeam": "CD Marathon",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyMDMwODY6YjliNzg5NDk3MjEy.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyNTM1NTowMDdiYWJkNDQ4MWQ.png",
-      "league": "Liga Hondubet, Apertura",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNjEzOmYwYmNjOWI5Y2Y5Mw.png",
-      "matchTime": 1789954200000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=juticalpa-fc-cd-marathon-17041843&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
     },
     {
       "id": "santos-laguna-cd-toluca-16317964",
@@ -93,6 +70,20 @@
       "league": "Primera A",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNTM5OjZiYTVlMWUwMjA5OA.png",
       "matchTime": 1789953300000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "juticalpa-fc-cd-marathon-17041843",
+      "title": "Juticalpa FC vs CD Marathon",
+      "homeTeam": "Juticalpa FC",
+      "awayTeam": "CD Marathon",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyMDMwODY6YjliNzg5NDk3MjEy.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyNTM1NTowMDdiYWJkNDQ4MWQ.png",
+      "league": "Liga Hondubet, Apertura",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNjEzOmYwYmNjOWI5Y2Y5Mw.png",
+      "matchTime": 1789954200000,
       "status": "finished",
       "streams": [],
       "streamCount": 0
