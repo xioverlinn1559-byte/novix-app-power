@@ -1,52 +1,6 @@
 {
-  "updatedAt": "2026-09-21T12:07:28.993645+00:00",
+  "updatedAt": "2026-09-21T12:27:47.558220+00:00",
   "matches": [
-    {
-      "id": "chinese-taipei-japan-16868718",
-      "title": "Japan vs Chinese Taipei",
-      "homeTeam": "Japan",
-      "awayTeam": "Chinese Taipei",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo3NDE4OmEyYWFkMDg5YTMzZQ.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozOTk5MDpjNGY2YTNhNzRjYWM.png",
-      "league": "Asian Games, Women",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExMzMwOjA2MDViNjMzMjI3Yw.png",
-      "matchTime": 1789986600000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=chinese-taipei-japan-16868718&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "vietnam-thailand-16868719",
-      "title": "Vietnam vs Thailand",
-      "homeTeam": "Vietnam",
-      "awayTeam": "Thailand",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxMzI5NTg6OTZkMTQ2ZGViMzI1.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo3NTAyOTpmMjQ0NmVmZjdhMTI.png",
-      "league": "Asian Games, Women",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExMzMwOjA2MDViNjMzMjI3Yw.png",
-      "matchTime": 1789986600000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=vietnam-thailand-16868719&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
     {
       "id": "malawi-u20-botswana-u20-17068220",
       "title": "Botswana U20 vs Malawi U20",
@@ -192,6 +146,34 @@
       "league": "Asian Games, Women",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExMzMwOjA2MDViNjMzMjI3Yw.png",
       "matchTime": 1789974000000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "chinese-taipei-japan-16868718",
+      "title": "Japan vs Chinese Taipei",
+      "homeTeam": "Japan",
+      "awayTeam": "Chinese Taipei",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo3NDE4OmEyYWFkMDg5YTMzZQ.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozOTk5MDpjNGY2YTNhNzRjYWM.png",
+      "league": "Asian Games, Women",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExMzMwOjA2MDViNjMzMjI3Yw.png",
+      "matchTime": 1789986600000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "vietnam-thailand-16868719",
+      "title": "Vietnam vs Thailand",
+      "homeTeam": "Vietnam",
+      "awayTeam": "Thailand",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxMzI5NTg6OTZkMTQ2ZGViMzI1.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo3NTAyOTpmMjQ0NmVmZjdhMTI.png",
+      "league": "Asian Games, Women",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExMzMwOjA2MDViNjMzMjI3Yw.png",
+      "matchTime": 1789986600000,
       "status": "finished",
       "streams": [],
       "streamCount": 0
