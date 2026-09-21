@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T11:50:55.630961+00:00",
+  "updatedAt": "2026-09-21T12:07:28.993645+00:00",
   "matches": [
     {
       "id": "chinese-taipei-japan-16868718",
@@ -40,6 +40,29 @@
           "id": "stream-1",
           "streamNo": 1,
           "embedUrl": "https://football77.org/embed/?id=vietnam-thailand-16868719&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
+      "id": "malawi-u20-botswana-u20-17068220",
+      "title": "Botswana U20 vs Malawi U20",
+      "homeTeam": "Botswana U20",
+      "awayTeam": "Malawi U20",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMDU4MTc6YjMyMWQ4NWExOGQw.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMzY4OTA6ZDQwMzFmODgyZjg4.png",
+      "league": "COSAFA U20 Championship",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIzNjY5OjU0MDBjYWI3YjYxYg.png",
+      "matchTime": 1789992000000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=malawi-u20-botswana-u20-17068220&source=lola",
           "source": "lola",
           "hd": false,
           "language": "MULTI"
@@ -184,20 +207,6 @@
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIzNjY5OjU0MDBjYWI3YjYxYg.png",
       "matchTime": 1789981200000,
       "status": "finished",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "malawi-u20-botswana-u20-17068220",
-      "title": "Botswana U20 vs Malawi U20",
-      "homeTeam": "Botswana U20",
-      "awayTeam": "Malawi U20",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMDU4MTc6YjMyMWQ4NWExOGQw.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMzY4OTA6ZDQwMzFmODgyZjg4.png",
-      "league": "COSAFA U20 Championship",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIzNjY5OjU0MDBjYWI3YjYxYg.png",
-      "matchTime": 1789992000000,
-      "status": "notstarted",
       "streams": [],
       "streamCount": 0
     },
