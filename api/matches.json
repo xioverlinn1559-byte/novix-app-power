@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T12:53:09.116594+00:00",
+  "updatedAt": "2026-09-21T13:04:57.972028+00:00",
   "matches": [
     {
       "id": "malawi-u20-botswana-u20-17068220",
@@ -17,6 +17,29 @@
           "id": "stream-1",
           "streamNo": 1,
           "embedUrl": "https://football77.org/embed/?id=malawi-u20-botswana-u20-17068220&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
+      "id": "angola-u20-south-africa-u20-17068221",
+      "title": "South Africa U20 vs Angola U20",
+      "homeTeam": "South Africa U20",
+      "awayTeam": "Angola U20",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozNTQ2Njo1NzdjMDEzM2NlNDM.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyNTQ2Mjk6NzRkYzY3NzNmMWQ1.png",
+      "league": "COSAFA U20 Championship",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIzNjY5OjU0MDBjYWI3YjYxYg.png",
+      "matchTime": 1789995600000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=angola-u20-south-africa-u20-17068221&source=lola",
           "source": "lola",
           "hd": false,
           "language": "MULTI"
@@ -189,20 +212,6 @@
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIzNjY5OjU0MDBjYWI3YjYxYg.png",
       "matchTime": 1789981200000,
       "status": "finished",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "angola-u20-south-africa-u20-17068221",
-      "title": "South Africa U20 vs Angola U20",
-      "homeTeam": "South Africa U20",
-      "awayTeam": "Angola U20",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozNTQ2Njo1NzdjMDEzM2NlNDM.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyNTQ2Mjk6NzRkYzY3NzNmMWQ1.png",
-      "league": "COSAFA U20 Championship",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIzNjY5OjU0MDBjYWI3YjYxYg.png",
-      "matchTime": 1789995600000,
-      "status": "notstarted",
       "streams": [],
       "streamCount": 0
     },
