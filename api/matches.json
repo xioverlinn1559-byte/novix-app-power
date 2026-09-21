@@ -1,22 +1,45 @@
 {
-  "updatedAt": "2026-09-21T14:51:59.444913+00:00",
+  "updatedAt": "2026-09-21T15:05:19.364468+00:00",
   "matches": [
     {
-      "id": "angola-u20-south-africa-u20-17068221",
-      "title": "South Africa U20 vs Angola U20",
-      "homeTeam": "South Africa U20",
-      "awayTeam": "Angola U20",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozNTQ2Njo1NzdjMDEzM2NlNDM.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyNTQ2Mjk6NzRkYzY3NzNmMWQ1.png",
-      "league": "COSAFA U20 Championship",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIzNjY5OjU0MDBjYWI3YjYxYg.png",
-      "matchTime": 1789995600000,
+      "id": "fc-iberia-1999-fc-rustavi-15388712",
+      "title": "FC Rustavi vs FC Iberia 1999",
+      "homeTeam": "FC Rustavi",
+      "awayTeam": "FC Iberia 1999",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo3NzAzOjYzMzY3ODdhNzFiMw.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToxMTYzMTI6NGNjZjM0NDNkZmUx.png",
+      "league": "Erovnuli Liga",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjcwNDpjMGFhOGNjNWExMDc.png",
+      "matchTime": 1790002800000,
       "status": "inprogress",
       "streams": [
         {
           "id": "stream-1",
           "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=angola-u20-south-africa-u20-17068221&source=lola",
+          "embedUrl": "https://football77.org/embed/?id=fc-iberia-1999-fc-rustavi-15388712&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
+      "id": "ud-leiria-u23-gil-vicente-u23-17095112",
+      "title": "UD Leiria U23 vs Gil Vicente U23",
+      "homeTeam": "UD Leiria U23",
+      "awayTeam": "Gil Vicente U23",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxMTEwNjExOmE5OWI4NmU0ZWJhMA.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0MjYxMzg6MzI1ZTgyOTBhNGI0.png",
+      "league": "U23 Liga Next Gen",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExMzQxOmEyYmIzNDFkMTlhMg.png",
+      "matchTime": 1790002800000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=ud-leiria-u23-gil-vicente-u23-17095112&source=lola",
           "source": "lola",
           "hd": false,
           "language": "MULTI"
@@ -207,6 +230,20 @@
       "streamCount": 0
     },
     {
+      "id": "angola-u20-south-africa-u20-17068221",
+      "title": "South Africa U20 vs Angola U20",
+      "homeTeam": "South Africa U20",
+      "awayTeam": "Angola U20",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozNTQ2Njo1NzdjMDEzM2NlNDM.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyNTQ2Mjk6NzRkYzY3NzNmMWQ1.png",
+      "league": "COSAFA U20 Championship",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIzNjY5OjU0MDBjYWI3YjYxYg.png",
+      "matchTime": 1789995600000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "eswatini-u20-lesotho-u20-17068222",
       "title": "Eswatini U20 vs Lesotho U20",
       "homeTeam": "Eswatini U20",
@@ -221,20 +258,6 @@
       "streamCount": 0
     },
     {
-      "id": "fc-iberia-1999-fc-rustavi-15388712",
-      "title": "FC Rustavi vs FC Iberia 1999",
-      "homeTeam": "FC Rustavi",
-      "awayTeam": "FC Iberia 1999",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo3NzAzOjYzMzY3ODdhNzFiMw.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToxMTYzMTI6NGNjZjM0NDNkZmUx.png",
-      "league": "Erovnuli Liga",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjcwNDpjMGFhOGNjNWExMDc.png",
-      "matchTime": 1790002800000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
       "id": "fc-spaeri-fc-dila-gori-15388716",
       "title": "FC Spaeri vs FC Dila Gori",
       "homeTeam": "FC Spaeri",
@@ -244,20 +267,6 @@
       "league": "Erovnuli Liga",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjcwNDpjMGFhOGNjNWExMDc.png",
       "matchTime": 1790010000000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "ud-leiria-u23-gil-vicente-u23-17095112",
-      "title": "UD Leiria U23 vs Gil Vicente U23",
-      "homeTeam": "UD Leiria U23",
-      "awayTeam": "Gil Vicente U23",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxMTEwNjExOmE5OWI4NmU0ZWJhMA.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0MjYxMzg6MzI1ZTgyOTBhNGI0.png",
-      "league": "U23 Liga Next Gen",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExMzQxOmEyYmIzNDFkMTlhMg.png",
-      "matchTime": 1790002800000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
