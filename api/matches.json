@@ -1,29 +1,6 @@
 {
-  "updatedAt": "2026-09-21T18:43:05.578335+00:00",
+  "updatedAt": "2026-09-21T18:55:13.300889+00:00",
   "matches": [
-    {
-      "id": "fc-spaeri-fc-dila-gori-15388716",
-      "title": "FC Spaeri vs FC Dila Gori",
-      "homeTeam": "FC Spaeri",
-      "awayTeam": "FC Dila Gori",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMDc3OTQ6MmQzNDU0N2JhZWQz.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMzgxOTpkYjkzN2IzNWNkZDk.png",
-      "league": "Erovnuli Liga",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjcwNDpjMGFhOGNjNWExMDc.png",
-      "matchTime": 1790010000000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=fc-spaeri-fc-dila-gori-15388716&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
     {
       "id": "dolomiti-bellunesi-lumezzane-16675348",
       "title": "Dolomiti Bellunesi vs Lumezzane",
@@ -321,6 +298,20 @@
       "league": "Erovnuli Liga",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjcwNDpjMGFhOGNjNWExMDc.png",
       "matchTime": 1790002800000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "fc-spaeri-fc-dila-gori-15388716",
+      "title": "FC Spaeri vs FC Dila Gori",
+      "homeTeam": "FC Spaeri",
+      "awayTeam": "FC Dila Gori",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMDc3OTQ6MmQzNDU0N2JhZWQz.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMzgxOTpkYjkzN2IzNWNkZDk.png",
+      "league": "Erovnuli Liga",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjcwNDpjMGFhOGNjNWExMDc.png",
+      "matchTime": 1790010000000,
       "status": "finished",
       "streams": [],
       "streamCount": 0
