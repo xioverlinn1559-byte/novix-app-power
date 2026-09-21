@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T01:50:56.330431+00:00",
+  "updatedAt": "2026-09-21T02:05:16.040656+00:00",
   "matches": [
     {
       "id": "santos-laguna-cd-toluca-16317964",
@@ -28,37 +28,6 @@
           "source": "lola",
           "hd": false,
           "language": "MULTI"
-        }
-      ],
-      "streamCount": 2
-    },
-    {
-      "id": "club-tijuana-cf-pachuca-16317965",
-      "title": "CF Pachuca vs Club Tijuana",
-      "homeTeam": "CF Pachuca",
-      "awayTeam": "Club Tijuana",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxOTM2OjZkNDExZjE2ZDI1ZQ.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozNjUyNToxMDFlYmQ5N2YyODc.png",
-      "league": "Liga MX, Apertura",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNjIxOmIzOGNlMTU0NjlhMQ.png",
-      "matchTime": 1789948800000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=club-tijuana-cf-pachuca-16317965&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=club-tijuana-cf-pachuca-16317965&source=ppv",
-          "source": "PPV",
-          "hd": true,
-          "language": "ES-US"
         }
       ],
       "streamCount": 2
@@ -95,29 +64,6 @@
       "streamCount": 2
     },
     {
-      "id": "csd-xelaju-mc-cd-suchitepequez-16420924",
-      "title": "CD Suchitep\u00e9quez vs CSD Xelaj\u00fa MC",
-      "homeTeam": "CD Suchitep\u00e9quez",
-      "awayTeam": "CSD Xelaj\u00fa MC",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo3MDIyOjE0MzIxYWYyZWJlNw.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo3MDI2OmQ4OWQwMGYyMzAxNw.png",
-      "league": "Liga Nacional de F\u00fatbol de Guatemala, Apertura",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNjE5Ojg2MWZiZGUyYjcxNw.png",
-      "matchTime": 1789953300000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=csd-xelaju-mc-cd-suchitepequez-16420924&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
       "id": "juticalpa-fc-cd-marathon-17041843",
       "title": "Juticalpa FC vs CD Marathon",
       "homeTeam": "Juticalpa FC",
@@ -139,6 +85,20 @@
         }
       ],
       "streamCount": 1
+    },
+    {
+      "id": "club-tijuana-cf-pachuca-16317965",
+      "title": "CF Pachuca vs Club Tijuana",
+      "homeTeam": "CF Pachuca",
+      "awayTeam": "Club Tijuana",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxOTM2OjZkNDExZjE2ZDI1ZQ.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozNjUyNToxMDFlYmQ5N2YyODc.png",
+      "league": "Liga MX, Apertura",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNjIxOmIzOGNlMTU0NjlhMQ.png",
+      "matchTime": 1789948800000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
     },
     {
       "id": "club-leon-queretaro-fc-16317967",
