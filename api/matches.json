@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T10:50:23.592232+00:00",
+  "updatedAt": "2026-09-21T11:05:27.256629+00:00",
   "matches": [
     {
       "id": "chinese-taipei-japan-16868718",
@@ -40,29 +40,6 @@
           "id": "stream-1",
           "streamNo": 1,
           "embedUrl": "https://football77.org/embed/?id=vietnam-thailand-16868719&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "comoros-u20-zambia-u20-17068219",
-      "title": "Zambia U20 vs Comoros U20",
-      "homeTeam": "Zambia U20",
-      "awayTeam": "Comoros U20",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxOTExNjY6YWIwMGVkNDIxNjQw.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMzY4ODk6NzQ0MDc3ZWMxNmJl.png",
-      "league": "COSAFA U20 Championship",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIzNjY5OjU0MDBjYWI3YjYxYg.png",
-      "matchTime": 1789981200000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=comoros-u20-zambia-u20-17068219&source=lola",
           "source": "lola",
           "hd": false,
           "language": "MULTI"
@@ -192,6 +169,20 @@
       "league": "Asian Games, Women",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExMzMwOjA2MDViNjMzMjI3Yw.png",
       "matchTime": 1789974000000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "comoros-u20-zambia-u20-17068219",
+      "title": "Zambia U20 vs Comoros U20",
+      "homeTeam": "Zambia U20",
+      "awayTeam": "Comoros U20",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxOTExNjY6YWIwMGVkNDIxNjQw.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMzY4ODk6NzQ0MDc3ZWMxNmJl.png",
+      "league": "COSAFA U20 Championship",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIzNjY5OjU0MDBjYWI3YjYxYg.png",
+      "matchTime": 1789981200000,
       "status": "finished",
       "streams": [],
       "streamCount": 0
