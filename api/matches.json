@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T16:51:19.350598+00:00",
+  "updatedAt": "2026-09-21T17:04:40.948790+00:00",
   "matches": [
     {
       "id": "eswatini-u20-lesotho-u20-17068222",
@@ -25,44 +25,21 @@
       "streamCount": 1
     },
     {
-      "id": "fc-iberia-1999-fc-rustavi-15388712",
-      "title": "FC Rustavi vs FC Iberia 1999",
-      "homeTeam": "FC Rustavi",
-      "awayTeam": "FC Iberia 1999",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo3NzAzOjYzMzY3ODdhNzFiMw.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToxMTYzMTI6NGNjZjM0NDNkZmUx.png",
+      "id": "fc-spaeri-fc-dila-gori-15388716",
+      "title": "FC Spaeri vs FC Dila Gori",
+      "homeTeam": "FC Spaeri",
+      "awayTeam": "FC Dila Gori",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMDc3OTQ6MmQzNDU0N2JhZWQz.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMzgxOTpkYjkzN2IzNWNkZDk.png",
       "league": "Erovnuli Liga",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjcwNDpjMGFhOGNjNWExMDc.png",
-      "matchTime": 1790002800000,
+      "matchTime": 1790010000000,
       "status": "inprogress",
       "streams": [
         {
           "id": "stream-1",
           "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=fc-iberia-1999-fc-rustavi-15388712&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "ud-leiria-u23-gil-vicente-u23-17095112",
-      "title": "UD Leiria U23 vs Gil Vicente U23",
-      "homeTeam": "UD Leiria U23",
-      "awayTeam": "Gil Vicente U23",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxMTEwNjExOmE5OWI4NmU0ZWJhMA.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0MjYxMzg6MzI1ZTgyOTBhNGI0.png",
-      "league": "U23 Liga Next Gen",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExMzQxOmEyYmIzNDFkMTlhMg.png",
-      "matchTime": 1790002800000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ud-leiria-u23-gil-vicente-u23-17095112&source=lola",
+          "embedUrl": "https://football77.org/embed/?id=fc-spaeri-fc-dila-gori-15388716&source=lola",
           "source": "lola",
           "hd": false,
           "language": "MULTI"
@@ -267,16 +244,30 @@
       "streamCount": 0
     },
     {
-      "id": "fc-spaeri-fc-dila-gori-15388716",
-      "title": "FC Spaeri vs FC Dila Gori",
-      "homeTeam": "FC Spaeri",
-      "awayTeam": "FC Dila Gori",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMDc3OTQ6MmQzNDU0N2JhZWQz.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMzgxOTpkYjkzN2IzNWNkZDk.png",
+      "id": "fc-iberia-1999-fc-rustavi-15388712",
+      "title": "FC Rustavi vs FC Iberia 1999",
+      "homeTeam": "FC Rustavi",
+      "awayTeam": "FC Iberia 1999",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo3NzAzOjYzMzY3ODdhNzFiMw.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToxMTYzMTI6NGNjZjM0NDNkZmUx.png",
       "league": "Erovnuli Liga",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjcwNDpjMGFhOGNjNWExMDc.png",
-      "matchTime": 1790010000000,
-      "status": "notstarted",
+      "matchTime": 1790002800000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "ud-leiria-u23-gil-vicente-u23-17095112",
+      "title": "UD Leiria U23 vs Gil Vicente U23",
+      "homeTeam": "UD Leiria U23",
+      "awayTeam": "Gil Vicente U23",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxMTEwNjExOmE5OWI4NmU0ZWJhMA.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0MjYxMzg6MzI1ZTgyOTBhNGI0.png",
+      "league": "U23 Liga Next Gen",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExMzQxOmEyYmIzNDFkMTlhMg.png",
+      "matchTime": 1790002800000,
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
