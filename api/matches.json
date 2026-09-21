@@ -1,37 +1,6 @@
 {
-  "updatedAt": "2026-09-21T04:05:23.083309+00:00",
+  "updatedAt": "2026-09-21T04:25:15.206881+00:00",
   "matches": [
-    {
-      "id": "club-leon-queretaro-fc-16317967",
-      "title": "Quer\u00e9taro FC vs Club Le\u00f3n",
-      "homeTeam": "Quer\u00e9taro FC",
-      "awayTeam": "Club Le\u00f3n",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxOTUxOjkwZTc1YmZiMmU3MA.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozNjUzNDpiMWE0Y2IwODIzMDg.png",
-      "league": "Liga MX, Apertura",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNjIxOmIzOGNlMTU0NjlhMQ.png",
-      "matchTime": 1789956600000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=club-leon-queretaro-fc-16317967&source=stv",
-          "source": "STV",
-          "hd": true,
-          "language": "MULTI"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=club-leon-queretaro-fc-16317967&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 2
-    },
     {
       "id": "santos-laguna-cd-toluca-16317964",
       "title": "CD Toluca vs Santos Laguna",
@@ -56,6 +25,20 @@
       "league": "Liga MX, Apertura",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNjIxOmIzOGNlMTU0NjlhMQ.png",
       "matchTime": 1789948800000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "club-leon-queretaro-fc-16317967",
+      "title": "Quer\u00e9taro FC vs Club Le\u00f3n",
+      "homeTeam": "Quer\u00e9taro FC",
+      "awayTeam": "Club Le\u00f3n",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxOTUxOjkwZTc1YmZiMmU3MA.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozNjUzNDpiMWE0Y2IwODIzMDg.png",
+      "league": "Liga MX, Apertura",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNjIxOmIzOGNlMTU0NjlhMQ.png",
+      "matchTime": 1789956600000,
       "status": "finished",
       "streams": [],
       "streamCount": 0
