@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T02:24:20.641945+00:00",
+  "updatedAt": "2026-09-22T02:37:28.827937+00:00",
   "matches": [
     {
       "id": "santos-laguna-cruz-azul-16651917",
@@ -17,29 +17,6 @@
           "id": "stream-1",
           "streamNo": 1,
           "embedUrl": "https://football77.org/embed/?id=santos-laguna-cruz-azul-16651917&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "real-cartagena-envigado-fc-16459622",
-      "title": "Real Cartagena vs Envigado FC",
-      "homeTeam": "Real Cartagena",
-      "awayTeam": "Envigado FC",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo2MTE5OjQ4YTM1NzJkYTAwNw.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo2MTE0OjU0ODM5MzM3M2NkYQ.png",
-      "league": "Categor\u00eda Primera B",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjEyMzg6N2NkODBjMTE2YWQz.png",
-      "matchTime": 1790037000000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=real-cartagena-envigado-fc-16459622&source=lola",
           "source": "lola",
           "hd": false,
           "language": "MULTI"
@@ -79,29 +56,6 @@
       "streamCount": 2
     },
     {
-      "id": "cuiaba-nautico-15526296",
-      "title": "Cuiab\u00e1 vs N\u00e1utico",
-      "homeTeam": "Cuiab\u00e1",
-      "awayTeam": "N\u00e1utico",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0OTIwMjo4MDFiNWZiOWIxNDU.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyMDExOmFkYTk0N2QwNTI1NA.png",
-      "league": "Brasileir\u00e3o S\u00e9rie B",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM5MDo3MDE0MTEwMjkzY2E.png",
-      "matchTime": 1790037000000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=cuiaba-nautico-15526296&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
       "id": "tigres-uanl-toluca-16651911",
       "title": "Toluca vs Tigres UANL",
       "homeTeam": "Toluca",
@@ -125,6 +79,34 @@
       "league": "Liga Profesional de F\u00fatbol",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE1NTo1MDUyNDk5Zjg4NDk.png",
       "matchTime": 1790036100000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "real-cartagena-envigado-fc-16459622",
+      "title": "Real Cartagena vs Envigado FC",
+      "homeTeam": "Real Cartagena",
+      "awayTeam": "Envigado FC",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo2MTE5OjQ4YTM1NzJkYTAwNw.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo2MTE0OjU0ODM5MzM3M2NkYQ.png",
+      "league": "Categor\u00eda Primera B",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjEyMzg6N2NkODBjMTE2YWQz.png",
+      "matchTime": 1790037000000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "cuiaba-nautico-15526296",
+      "title": "Cuiab\u00e1 vs N\u00e1utico",
+      "homeTeam": "Cuiab\u00e1",
+      "awayTeam": "N\u00e1utico",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0OTIwMjo4MDFiNWZiOWIxNDU.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyMDExOmFkYTk0N2QwNTI1NA.png",
+      "league": "Brasileir\u00e3o S\u00e9rie B",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM5MDo3MDE0MTEwMjkzY2E.png",
+      "matchTime": 1790037000000,
       "status": "finished",
       "streams": [],
       "streamCount": 0
