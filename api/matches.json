@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T23:21:34.958472+00:00",
+  "updatedAt": "2026-09-22T23:35:03.353469+00:00",
   "matches": [
     {
       "id": "operario-pr-criciuma-15526294",
@@ -25,21 +25,52 @@
       "streamCount": 1
     },
     {
-      "id": "sol-de-america-cs-2-de-mayo-17071636",
-      "title": "CS 2 de Mayo vs Sol de Am\u00e9rica",
-      "homeTeam": "CS 2 de Mayo",
-      "awayTeam": "Sol de Am\u00e9rica",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo1OTkyOmU5ODk3NmNkNDNhNA.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozNjQzOTpjZDhlY2MwZTg4OTQ.png",
-      "league": "Copa Paraguay",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjEzNjE0OjNkODNiYmY0ZTFlMA.png",
-      "matchTime": 1790112600000,
+      "id": "coquimbo-unido-cd-cobreloa-16997893",
+      "title": "CD Cobreloa vs Coquimbo Unido",
+      "homeTeam": "CD Cobreloa",
+      "awayTeam": "Coquimbo Unido",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMTU5OjM5MGMxMDY1N2U1NA.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMTY1OmJlNzlhNTRhOGJmNQ.png",
+      "league": "Copa Chile",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjEyMjE6YzY5YjNkNDYzNTc1.png",
+      "matchTime": 1790119800000,
       "status": "inprogress",
       "streams": [
         {
           "id": "stream-1",
           "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=sol-de-america-cs-2-de-mayo-17071636&source=lola",
+          "embedUrl": "https://football77.org/embed/?id=coquimbo-unido-cd-cobreloa-16997893&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        },
+        {
+          "id": "stream-2",
+          "streamNo": 2,
+          "embedUrl": "https://football77.org/embed/?id=coquimbo-unido-cd-cobreloa-16997893&source=stv",
+          "source": "STV",
+          "hd": true,
+          "language": "MULTI"
+        }
+      ],
+      "streamCount": 2
+    },
+    {
+      "id": "audax-italiano-colo-colo-16997886",
+      "title": "Audax Italiano vs Colo-Colo",
+      "homeTeam": "Audax Italiano",
+      "awayTeam": "Colo-Colo",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMTYyOjY2MTlhNzU2ZWU2Zg.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMTU1OjkwYjg2Yjk5NTNiYg.png",
+      "league": "Copa Chile",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjEyMjE6YzY5YjNkNDYzNTc1.png",
+      "matchTime": 1790119800000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=audax-italiano-colo-colo-16997886&source=lola",
           "source": "lola",
           "hd": false,
           "language": "MULTI"
@@ -457,30 +488,16 @@
       "streamCount": 0
     },
     {
-      "id": "coquimbo-unido-cd-cobreloa-16997893",
-      "title": "CD Cobreloa vs Coquimbo Unido",
-      "homeTeam": "CD Cobreloa",
-      "awayTeam": "Coquimbo Unido",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMTU5OjM5MGMxMDY1N2U1NA.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMTY1OmJlNzlhNTRhOGJmNQ.png",
-      "league": "Copa Chile",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjEyMjE6YzY5YjNkNDYzNTc1.png",
-      "matchTime": 1790119800000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "audax-italiano-colo-colo-16997886",
-      "title": "Audax Italiano vs Colo-Colo",
-      "homeTeam": "Audax Italiano",
-      "awayTeam": "Colo-Colo",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMTYyOjY2MTlhNzU2ZWU2Zg.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMTU1OjkwYjg2Yjk5NTNiYg.png",
-      "league": "Copa Chile",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjEyMjE6YzY5YjNkNDYzNTc1.png",
-      "matchTime": 1790119800000,
-      "status": "notstarted",
+      "id": "sol-de-america-cs-2-de-mayo-17071636",
+      "title": "CS 2 de Mayo vs Sol de Am\u00e9rica",
+      "homeTeam": "CS 2 de Mayo",
+      "awayTeam": "Sol de Am\u00e9rica",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo1OTkyOmU5ODk3NmNkNDNhNA.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozNjQzOTpjZDhlY2MwZTg4OTQ.png",
+      "league": "Copa Paraguay",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjEzNjE0OjNkODNiYmY0ZTFlMA.png",
+      "matchTime": 1790112600000,
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     }
