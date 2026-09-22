@@ -1,68 +1,6 @@
 {
-  "updatedAt": "2026-09-22T18:28:03.569737+00:00",
+  "updatedAt": "2026-09-22T18:42:24.439466+00:00",
   "matches": [
-    {
-      "id": "inter-bk-hacken-ff-17018508",
-      "title": "Inter vs BK H\u00e4cken FF",
-      "homeTeam": "Inter",
-      "awayTeam": "BK H\u00e4cken FF",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMjU2ODU6ZDZlYjJhNWIyNjU3.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToxODg5Ojg2YzBlZTg3ODI5Ng.png",
-      "league": "UEFA Women's Champions League",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjY5NjphMjNlZGNjY2ZjYzc.png",
-      "matchTime": 1790095500000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=inter-bk-hacken-ff-17018508&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=inter-bk-hacken-ff-17018508&source=stv",
-          "source": "STV",
-          "hd": true,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 2
-    },
-    {
-      "id": "manchester-city-fc-bayern-munchen-17018517",
-      "title": "FC Bayern M\u00fcnchen vs Manchester City",
-      "homeTeam": "FC Bayern M\u00fcnchen",
-      "awayTeam": "Manchester City",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo1NTQzOjExOWMxZjQ4ZGViNg.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToxNDI2NTg6ZjdhOTc1NGZiNTVi.png",
-      "league": "UEFA Women's Champions League",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjY5NjphMjNlZGNjY2ZjYzc.png",
-      "matchTime": 1790095500000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=manchester-city-fc-bayern-munchen-17018517&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=manchester-city-fc-bayern-munchen-17018517&source=stv",
-          "source": "STV",
-          "hd": true,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 2
-    },
     {
       "id": "huracan-reserve-san-lorenzo-reserve-16990074",
       "title": "San Lorenzo Reserve vs Hurac\u00e1n Reserve",
@@ -194,6 +132,29 @@
           "id": "stream-1",
           "streamNo": 1,
           "embedUrl": "https://football77.org/embed/?id=fleetwood-town-oldham-athletic-16802017&source=ppv",
+          "source": "PPV",
+          "hd": true,
+          "language": "EN"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
+      "id": "brentford-u21-bromley-16801990",
+      "title": "Bromley vs Brentford U21",
+      "homeTeam": "Bromley",
+      "awayTeam": "Brentford U21",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxODA6NWY5ZTllZjEwNTNh.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0NTc4MDk6NzhhNjYzMmM5MWQ4.png",
+      "league": "Football League Trophy",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjMzNDoyZDQ5YTUwNzU2ODc.png",
+      "matchTime": 1790101800000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=brentford-u21-bromley-16801990&source=ppv",
           "source": "PPV",
           "hd": true,
           "language": "EN"
@@ -440,6 +401,34 @@
       "streamCount": 0
     },
     {
+      "id": "inter-bk-hacken-ff-17018508",
+      "title": "Inter vs BK H\u00e4cken FF",
+      "homeTeam": "Inter",
+      "awayTeam": "BK H\u00e4cken FF",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMjU2ODU6ZDZlYjJhNWIyNjU3.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToxODg5Ojg2YzBlZTg3ODI5Ng.png",
+      "league": "UEFA Women's Champions League",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjY5NjphMjNlZGNjY2ZjYzc.png",
+      "matchTime": 1790095500000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "manchester-city-fc-bayern-munchen-17018517",
+      "title": "FC Bayern M\u00fcnchen vs Manchester City",
+      "homeTeam": "FC Bayern M\u00fcnchen",
+      "awayTeam": "Manchester City",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo1NTQzOjExOWMxZjQ4ZGViNg.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToxNDI2NTg6ZjdhOTc1NGZiNTVi.png",
+      "league": "UEFA Women's Champions League",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjY5NjphMjNlZGNjY2ZjYzc.png",
+      "matchTime": 1790095500000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "real-madrid-paris-saint-germain-17018497",
       "title": "Real Madrid vs Paris Saint-Germain",
       "homeTeam": "Real Madrid",
@@ -477,20 +466,6 @@
       "league": "UEFA Women's Champions League",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjY5NjphMjNlZGNjY2ZjYzc.png",
       "matchTime": 1790103600000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "brentford-u21-bromley-16801990",
-      "title": "Bromley vs Brentford U21",
-      "homeTeam": "Bromley",
-      "awayTeam": "Brentford U21",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxODA6NWY5ZTllZjEwNTNh.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0NTc4MDk6NzhhNjYzMmM5MWQ4.png",
-      "league": "Football League Trophy",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjMzNDoyZDQ5YTUwNzU2ODc.png",
-      "matchTime": 1790101800000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
