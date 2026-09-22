@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T20:36:54.412578+00:00",
+  "updatedAt": "2026-09-22T20:50:29.364231+00:00",
   "matches": [
     {
       "id": "real-madrid-paris-saint-germain-17018497",
@@ -81,29 +81,6 @@
           "embedUrl": "https://football77.org/embed/?id=benfica-juventus-17025170&source=lola",
           "source": "lola",
           "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "celticu21-east-kilbride-16568839",
-      "title": "East Kilbride vs Celtic B U21",
-      "homeTeam": "East Kilbride",
-      "awayTeam": "Celtic B U21",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxNzA2MjI6NTc3MTFiMDZkNmIw.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozODY5NzU6NGZiZTNiNDk0MTJj.png",
-      "league": "Scottish Challenge Cup",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjMzMTpkOGJiNzg4MDBjY2M.png",
-      "matchTime": 1790102700000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=celticu21-east-kilbride-16568839&source=stv",
-          "source": "STV",
-          "hd": true,
           "language": "MULTI"
         }
       ],
@@ -418,48 +395,6 @@
       "streamCount": 0
     },
     {
-      "id": "fulham-u21-leicester-city-16802012",
-      "title": "Leicester City vs Fulham U21",
-      "homeTeam": "Leicester City",
-      "awayTeam": "Fulham U21",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMTpkMTk5NmM5YzhmNTk.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozNjU0ODpjYzFhMmZiZTY5ZDI.png",
-      "league": "Football League Trophy",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjMzNDoyZDQ5YTUwNzU2ODc.png",
-      "matchTime": 1790100000000,
-      "status": "finished",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "blackpool-wigan-athletic-16851484",
-      "title": "Wigan Athletic vs Blackpool",
-      "homeTeam": "Wigan Athletic",
-      "awayTeam": "Blackpool",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0OTozM2I2MTQ0ZjMxNjI.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo2NzowNzk1NDYwYmE2N2U.png",
-      "league": "Football League Trophy",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjMzNDoyZDQ5YTUwNzU2ODc.png",
-      "matchTime": 1790100000000,
-      "status": "finished",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "fleetwood-town-oldham-athletic-16802017",
-      "title": "Oldham Athletic vs Fleetwood Town",
-      "homeTeam": "Oldham Athletic",
-      "awayTeam": "Fleetwood Town",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo2NTo2NGQzYTE5OGFhMzM.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyMzk1OTo0NGQ3NzM1MTlkNWU.png",
-      "league": "Football League Trophy",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjMzNDoyZDQ5YTUwNzU2ODc.png",
-      "matchTime": 1790100000000,
-      "status": "finished",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
       "id": "brentford-u21-bromley-16801990",
       "title": "Bromley vs Brentford U21",
       "homeTeam": "Bromley",
@@ -469,6 +404,20 @@
       "league": "Football League Trophy",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjMzNDoyZDQ5YTUwNzU2ODc.png",
       "matchTime": 1790101800000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "celticu21-east-kilbride-16568839",
+      "title": "East Kilbride vs Celtic B U21",
+      "homeTeam": "East Kilbride",
+      "awayTeam": "Celtic B U21",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxNzA2MjI6NTc3MTFiMDZkNmIw.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozODY5NzU6NGZiZTNiNDk0MTJj.png",
+      "league": "Scottish Challenge Cup",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjMzMTpkOGJiNzg4MDBjY2M.png",
+      "matchTime": 1790102700000,
       "status": "finished",
       "streams": [],
       "streamCount": 0
