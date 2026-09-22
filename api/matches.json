@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T02:37:28.827937+00:00",
+  "updatedAt": "2026-09-22T02:50:48.160315+00:00",
   "matches": [
     {
       "id": "santos-laguna-cruz-azul-16651917",
@@ -23,37 +23,6 @@
         }
       ],
       "streamCount": 1
-    },
-    {
-      "id": "ec-bahia-corinthians-17048458",
-      "title": "Corinthians vs EC Bahia",
-      "homeTeam": "Corinthians",
-      "awayTeam": "EC Bahia",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyMjMxODI6MmM1OTEzOTY3NjM4.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozNDI3NTY6ZThmYzk4YzZhYzg4.png",
-      "league": "Brasileir\u00e3o S\u00e9rie A1, Feminino",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjEwMjU3OmQ3MWNjYzczNzc1Nw.png",
-      "matchTime": 1790037000000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ec-bahia-corinthians-17048458&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=ec-bahia-corinthians-17048458&source=stv",
-          "source": "STV",
-          "hd": true,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 2
     },
     {
       "id": "tigres-uanl-toluca-16651911",
@@ -92,6 +61,20 @@
       "awayLogo": "https://img.sportsrc.org/file/dGVhbTo2MTE0OjU0ODM5MzM3M2NkYQ.png",
       "league": "Categor\u00eda Primera B",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjEyMzg6N2NkODBjMTE2YWQz.png",
+      "matchTime": 1790037000000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "ec-bahia-corinthians-17048458",
+      "title": "Corinthians vs EC Bahia",
+      "homeTeam": "Corinthians",
+      "awayTeam": "EC Bahia",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyMjMxODI6MmM1OTEzOTY3NjM4.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozNDI3NTY6ZThmYzk4YzZhYzg4.png",
+      "league": "Brasileir\u00e3o S\u00e9rie A1, Feminino",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjEwMjU3OmQ3MWNjYzczNzc1Nw.png",
       "matchTime": 1790037000000,
       "status": "finished",
       "streams": [],
