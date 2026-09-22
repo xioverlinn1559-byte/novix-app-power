@@ -1,29 +1,6 @@
 {
-  "updatedAt": "2026-09-22T11:49:36.444697+00:00",
+  "updatedAt": "2026-09-22T12:06:57.546699+00:00",
   "matches": [
-    {
-      "id": "saudi-arabia-u23-south-korea-u23-16875523",
-      "title": "South Korea U23 vs Saudi Arabia U23",
-      "homeTeam": "South Korea U23",
-      "awayTeam": "Saudi Arabia U23",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyNDI1OTplMDcyMTVkMzk3YjM.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0OTA5NDpjYzYzMWFkYWM5OTM.png",
-      "league": "Asian Games",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE4NjI6OTE5ZjBmNDFkYWRl.png",
-      "matchTime": 1790071200000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=saudi-arabia-u23-south-korea-u23-16875523&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
     {
       "id": "santa-clara-u23-portimonense-u23-17061583",
       "title": "Santa Clara U23 vs Portimonense U23",
@@ -160,6 +137,20 @@
       "streamCount": 0
     },
     {
+      "id": "saudi-arabia-u23-south-korea-u23-16875523",
+      "title": "South Korea U23 vs Saudi Arabia U23",
+      "homeTeam": "South Korea U23",
+      "awayTeam": "Saudi Arabia U23",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyNDI1OTplMDcyMTVkMzk3YjM.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0OTA5NDpjYzYzMWFkYWM5OTM.png",
+      "league": "Asian Games",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE4NjI6OTE5ZjBmNDFkYWRl.png",
+      "matchTime": 1790071200000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "academico-viseu-u23-estoril-praia-u23-17061571",
       "title": "Acad\u00e9mico Viseu U23 vs Estoril Praia U23",
       "homeTeam": "Acad\u00e9mico Viseu U23",
@@ -198,6 +189,48 @@
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIzNjY5OjU0MDBjYWI3YjYxYg.png",
       "matchTime": 1790082000000,
       "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "al-dhaid-sc-al-hamriyah-club-17156910",
+      "title": "Al Hamriyah Club vs Al Dhaid SC",
+      "homeTeam": "Al Hamriyah Club",
+      "awayTeam": "Al Dhaid SC",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyMzQyMjk6YWVjZWQyZGNlZmVh.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyNDY2MjE6ZDA2NmY3Njg4ZmY2.png",
+      "league": "Presidents Cup",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjMwODA6OTUwMzdhOWM3YWJm.png",
+      "matchTime": 1790088000000,
+      "status": "scheduled",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "al-ittifaq-fc-dibba-al-fujairah-17156911",
+      "title": "Dibba Al-Fujairah vs Al Ittifaq FC",
+      "homeTeam": "Dibba Al-Fujairah",
+      "awayTeam": "Al Ittifaq FC",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo4MTMwOTpiNjdlZDE3YWE0NDk.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozNzM4MjU6YzBlYjUwYWQ3MWQy.png",
+      "league": "Presidents Cup",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjMwODA6OTUwMzdhOWM3YWJm.png",
+      "matchTime": 1790088000000,
+      "status": "scheduled",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "dubai-city-fc-al-orooba-17156913",
+      "title": "Al-Orooba vs Dubai City FC",
+      "homeTeam": "Al-Orooba",
+      "awayTeam": "Dubai City FC",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyMzQyMjg6ZmNjNDAyYWU1MTdm.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozNzQ3NDI6YWJiMmNmZDg5ZjNl.png",
+      "league": "Presidents Cup",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjMwODA6OTUwMzdhOWM3YWJm.png",
+      "matchTime": 1790088000000,
+      "status": "scheduled",
       "streams": [],
       "streamCount": 0
     },
