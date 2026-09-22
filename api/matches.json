@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T18:42:24.439466+00:00",
+  "updatedAt": "2026-09-22T18:53:55.128891+00:00",
   "matches": [
     {
       "id": "huracan-reserve-san-lorenzo-reserve-16990074",
@@ -158,6 +158,29 @@
           "source": "PPV",
           "hd": true,
           "language": "EN"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
+      "id": "celticu21-east-kilbride-16568839",
+      "title": "East Kilbride vs Celtic B U21",
+      "homeTeam": "East Kilbride",
+      "awayTeam": "Celtic B U21",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxNzA2MjI6NTc3MTFiMDZkNmIw.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozODY5NzU6NGZiZTNiNDk0MTJj.png",
+      "league": "Scottish Challenge Cup",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjMzMTpkOGJiNzg4MDBjY2M.png",
+      "matchTime": 1790102700000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=celticu21-east-kilbride-16568839&source=stv",
+          "source": "STV",
+          "hd": true,
+          "language": "MULTI"
         }
       ],
       "streamCount": 1
@@ -466,20 +489,6 @@
       "league": "UEFA Women's Champions League",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjY5NjphMjNlZGNjY2ZjYzc.png",
       "matchTime": 1790103600000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "celticu21-east-kilbride-16568839",
-      "title": "East Kilbride vs Celtic B U21",
-      "homeTeam": "East Kilbride",
-      "awayTeam": "Celtic B U21",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxNzA2MjI6NTc3MTFiMDZkNmIw.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozODY5NzU6NGZiZTNiNDk0MTJj.png",
-      "league": "Scottish Challenge Cup",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjMzMTpkOGJiNzg4MDBjY2M.png",
-      "matchTime": 1790102700000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
