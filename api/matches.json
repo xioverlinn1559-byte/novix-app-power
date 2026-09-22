@@ -1,6 +1,29 @@
 {
-  "updatedAt": "2026-09-22T15:49:59.960086+00:00",
+  "updatedAt": "2026-09-22T16:06:00.681054+00:00",
   "matches": [
+    {
+      "id": "academico-viseu-u23-estoril-praia-u23-17061571",
+      "title": "Acad\u00e9mico Viseu U23 vs Estoril Praia U23",
+      "homeTeam": "Acad\u00e9mico Viseu U23",
+      "awayTeam": "Estoril Praia U23",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0ODM4OTc6ZmRiZDg1MmYwZDIw.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyOTUwODk6YTExZTVmN2IyOGYx.png",
+      "league": "U23 Liga Next Gen",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExMzQxOmEyYmIzNDFkMTlhMg.png",
+      "matchTime": 1790092800000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=academico-viseu-u23-estoril-praia-u23-17061571&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        }
+      ],
+      "streamCount": 1
+    },
     {
       "id": "al-dhaid-sc-al-hamriyah-club-17156910",
       "title": "Al Hamriyah Club vs Al Dhaid SC",
@@ -221,20 +244,6 @@
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExMzQxOmEyYmIzNDFkMTlhMg.png",
       "matchTime": 1790074800000,
       "status": "finished",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "academico-viseu-u23-estoril-praia-u23-17061571",
-      "title": "Acad\u00e9mico Viseu U23 vs Estoril Praia U23",
-      "homeTeam": "Acad\u00e9mico Viseu U23",
-      "awayTeam": "Estoril Praia U23",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0ODM4OTc6ZmRiZDg1MmYwZDIw.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyOTUwODk6YTExZTVmN2IyOGYx.png",
-      "league": "U23 Liga Next Gen",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExMzQxOmEyYmIzNDFkMTlhMg.png",
-      "matchTime": 1790092800000,
-      "status": "notstarted",
       "streams": [],
       "streamCount": 0
     },
