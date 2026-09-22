@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T20:05:29.169514+00:00",
+  "updatedAt": "2026-09-22T20:36:54.412578+00:00",
   "matches": [
     {
       "id": "real-madrid-paris-saint-germain-17018497",
@@ -82,29 +82,6 @@
           "source": "lola",
           "hd": false,
           "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "brentford-u21-bromley-16801990",
-      "title": "Bromley vs Brentford U21",
-      "homeTeam": "Bromley",
-      "awayTeam": "Brentford U21",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxODA6NWY5ZTllZjEwNTNh.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0NTc4MDk6NzhhNjYzMmM5MWQ4.png",
-      "league": "Football League Trophy",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjMzNDoyZDQ5YTUwNzU2ODc.png",
-      "matchTime": 1790101800000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=brentford-u21-bromley-16801990&source=ppv",
-          "source": "PPV",
-          "hd": true,
-          "language": "EN"
         }
       ],
       "streamCount": 1
@@ -478,6 +455,20 @@
       "league": "Football League Trophy",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjMzNDoyZDQ5YTUwNzU2ODc.png",
       "matchTime": 1790100000000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "brentford-u21-bromley-16801990",
+      "title": "Bromley vs Brentford U21",
+      "homeTeam": "Bromley",
+      "awayTeam": "Brentford U21",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxODA6NWY5ZTllZjEwNTNh.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0NTc4MDk6NzhhNjYzMmM5MWQ4.png",
+      "league": "Football League Trophy",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjMzNDoyZDQ5YTUwNzU2ODc.png",
+      "matchTime": 1790101800000,
       "status": "finished",
       "streams": [],
       "streamCount": 0
