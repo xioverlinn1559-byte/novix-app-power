@@ -1,52 +1,6 @@
 {
-  "updatedAt": "2026-09-22T06:46:11.792817+00:00",
+  "updatedAt": "2026-09-22T07:06:06.755211+00:00",
   "matches": [
-    {
-      "id": "vietnam-u23-uzbekistan-u23-16875521",
-      "title": "Vietnam U23 vs Uzbekistan U23",
-      "homeTeam": "Vietnam U23",
-      "awayTeam": "Uzbekistan U23",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0OTExMToxNDViMjA5ODExYmQ.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0OTEwOTo4Y2IyZmI2Y2IxNWU.png",
-      "league": "Asian Games",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE4NjI6OTE5ZjBmNDFkYWRl.png",
-      "matchTime": 1790053200000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=vietnam-u23-uzbekistan-u23-16875521&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "philippines-u23-kuwait-u23-16875522",
-      "title": "Philippines U23 vs Kuwait U23",
-      "homeTeam": "Philippines U23",
-      "awayTeam": "Kuwait U23",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxOTI4MTA6NDI5MzAyZDZiMDI4.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0OTA1NzoxZWE4YjZjNDhmMzI.png",
-      "league": "Asian Games",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE4NjI6OTE5ZjBmNDFkYWRl.png",
-      "matchTime": 1790053200000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=philippines-u23-kuwait-u23-16875522&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
     {
       "id": "tigres-uanl-toluca-16651911",
       "title": "Toluca vs Tigres UANL",
@@ -127,6 +81,34 @@
       "league": "Brasileir\u00e3o S\u00e9rie B",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM5MDo3MDE0MTEwMjkzY2E.png",
       "matchTime": 1790037000000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "vietnam-u23-uzbekistan-u23-16875521",
+      "title": "Vietnam U23 vs Uzbekistan U23",
+      "homeTeam": "Vietnam U23",
+      "awayTeam": "Uzbekistan U23",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0OTExMToxNDViMjA5ODExYmQ.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0OTEwOTo4Y2IyZmI2Y2IxNWU.png",
+      "league": "Asian Games",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE4NjI6OTE5ZjBmNDFkYWRl.png",
+      "matchTime": 1790053200000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "philippines-u23-kuwait-u23-16875522",
+      "title": "Philippines U23 vs Kuwait U23",
+      "homeTeam": "Philippines U23",
+      "awayTeam": "Kuwait U23",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxOTI4MTA6NDI5MzAyZDZiMDI4.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0OTA1NzoxZWE4YjZjNDhmMzI.png",
+      "league": "Asian Games",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE4NjI6OTE5ZjBmNDFkYWRl.png",
+      "matchTime": 1790053200000,
       "status": "finished",
       "streams": [],
       "streamCount": 0
