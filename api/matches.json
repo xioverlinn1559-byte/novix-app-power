@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T01:04:29.865083+00:00",
+  "updatedAt": "2026-09-22T01:22:17.526590+00:00",
   "matches": [
     {
       "id": "tigres-uanl-toluca-16651911",
@@ -17,6 +17,29 @@
           "id": "stream-1",
           "streamNo": 1,
           "embedUrl": "https://football77.org/embed/?id=tigres-uanl-toluca-16651911&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
+      "id": "santos-laguna-cruz-azul-16651917",
+      "title": "Santos Laguna vs Cruz Azul",
+      "homeTeam": "Santos Laguna",
+      "awayTeam": "Cruz Azul",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyNjQ4MjQ6MDNkYmNkMTgxNWEz.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyNjEwMjc6YjI4YzEyYTdkNGM5.png",
+      "league": "Liga MX, Women, Apertura",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjEzNTkzOjg0MjliYTQ3Y2NhYg.png",
+      "matchTime": 1790039160000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=santos-laguna-cruz-azul-16651917&source=lola",
           "source": "lola",
           "hd": false,
           "language": "MULTI"
@@ -131,20 +154,6 @@
         }
       ],
       "streamCount": 1
-    },
-    {
-      "id": "santos-laguna-cruz-azul-16651917",
-      "title": "Santos Laguna vs Cruz Azul",
-      "homeTeam": "Santos Laguna",
-      "awayTeam": "Cruz Azul",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyNjQ4MjQ6MDNkYmNkMTgxNWEz.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyNjEwMjc6YjI4YzEyYTdkNGM5.png",
-      "league": "Liga MX, Women, Apertura",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjEzNTkzOjg0MjliYTQ3Y2NhYg.png",
-      "matchTime": 1790039160000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
     },
     {
       "id": "vietnam-u23-uzbekistan-u23-16875521",
