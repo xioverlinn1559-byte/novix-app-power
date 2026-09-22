@@ -1,52 +1,6 @@
 {
-  "updatedAt": "2026-09-22T14:52:59.652266+00:00",
+  "updatedAt": "2026-09-22T15:05:55.595401+00:00",
   "matches": [
-    {
-      "id": "mozambique-u20-mauritius-u20-17068223",
-      "title": "Mozambique U20 vs Mauritius U20",
-      "homeTeam": "Mozambique U20",
-      "awayTeam": "Mauritius U20",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMzY5MzE6MmIxYzhmM2FhYTRh.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyNzM2MjE6YmM1OGZmOTE2Mjll.png",
-      "league": "COSAFA U20 Championship",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIzNjY5OjU0MDBjYWI3YjYxYg.png",
-      "matchTime": 1790082000000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=mozambique-u20-mauritius-u20-17068223&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "namibia-u20-seychelles-u20-17068224",
-      "title": "Namibia U20 vs Seychelles U20",
-      "homeTeam": "Namibia U20",
-      "awayTeam": "Seychelles U20",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozNzE4MjI6YTViZTk3YjE2OTM3.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMzY4Njg6YzY2YTQ2MTRhYThh.png",
-      "league": "COSAFA U20 Championship",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIzNjY5OjU0MDBjYWI3YjYxYg.png",
-      "matchTime": 1790082000000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=namibia-u20-seychelles-u20-17068224&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
     {
       "id": "al-dhaid-sc-al-hamriyah-club-17156910",
       "title": "Al Hamriyah Club vs Al Dhaid SC",
@@ -281,6 +235,34 @@
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExMzQxOmEyYmIzNDFkMTlhMg.png",
       "matchTime": 1790092800000,
       "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "mozambique-u20-mauritius-u20-17068223",
+      "title": "Mozambique U20 vs Mauritius U20",
+      "homeTeam": "Mozambique U20",
+      "awayTeam": "Mauritius U20",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMzY5MzE6MmIxYzhmM2FhYTRh.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyNzM2MjE6YmM1OGZmOTE2Mjll.png",
+      "league": "COSAFA U20 Championship",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIzNjY5OjU0MDBjYWI3YjYxYg.png",
+      "matchTime": 1790082000000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "namibia-u20-seychelles-u20-17068224",
+      "title": "Namibia U20 vs Seychelles U20",
+      "homeTeam": "Namibia U20",
+      "awayTeam": "Seychelles U20",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozNzE4MjI6YTViZTk3YjE2OTM3.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMzY4Njg6YzY2YTQ2MTRhYThh.png",
+      "league": "COSAFA U20 Championship",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIzNjY5OjU0MDBjYWI3YjYxYg.png",
+      "matchTime": 1790082000000,
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
