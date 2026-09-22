@@ -1,22 +1,45 @@
 {
-  "updatedAt": "2026-09-22T12:46:10.790251+00:00",
+  "updatedAt": "2026-09-22T13:06:14.725825+00:00",
   "matches": [
     {
-      "id": "santa-clara-u23-portimonense-u23-17061583",
-      "title": "Santa Clara U23 vs Portimonense U23",
-      "homeTeam": "Santa Clara U23",
-      "awayTeam": "Portimonense U23",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0ODM4OTY6MDdiYTQ1ZGIxNGY0.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyOTI2Nzc6MTBhOWQ4Yjk5MWU5.png",
-      "league": "U23 Liga Next Gen",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExMzQxOmEyYmIzNDFkMTlhMg.png",
-      "matchTime": 1790074800000,
+      "id": "mozambique-u20-mauritius-u20-17068223",
+      "title": "Mozambique U20 vs Mauritius U20",
+      "homeTeam": "Mozambique U20",
+      "awayTeam": "Mauritius U20",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMzY5MzE6MmIxYzhmM2FhYTRh.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyNzM2MjE6YmM1OGZmOTE2Mjll.png",
+      "league": "COSAFA U20 Championship",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIzNjY5OjU0MDBjYWI3YjYxYg.png",
+      "matchTime": 1790082000000,
       "status": "inprogress",
       "streams": [
         {
           "id": "stream-1",
           "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=santa-clara-u23-portimonense-u23-17061583&source=lola",
+          "embedUrl": "https://football77.org/embed/?id=mozambique-u20-mauritius-u20-17068223&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
+      "id": "namibia-u20-seychelles-u20-17068224",
+      "title": "Namibia U20 vs Seychelles U20",
+      "homeTeam": "Namibia U20",
+      "awayTeam": "Seychelles U20",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozNzE4MjI6YTViZTk3YjE2OTM3.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMzY4Njg6YzY2YTQ2MTRhYThh.png",
+      "league": "COSAFA U20 Championship",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIzNjY5OjU0MDBjYWI3YjYxYg.png",
+      "matchTime": 1790082000000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=namibia-u20-seychelles-u20-17068224&source=lola",
           "source": "lola",
           "hd": false,
           "language": "MULTI"
@@ -151,6 +174,20 @@
       "streamCount": 0
     },
     {
+      "id": "santa-clara-u23-portimonense-u23-17061583",
+      "title": "Santa Clara U23 vs Portimonense U23",
+      "homeTeam": "Santa Clara U23",
+      "awayTeam": "Portimonense U23",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0ODM4OTY6MDdiYTQ1ZGIxNGY0.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyOTI2Nzc6MTBhOWQ4Yjk5MWU5.png",
+      "league": "U23 Liga Next Gen",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExMzQxOmEyYmIzNDFkMTlhMg.png",
+      "matchTime": 1790074800000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "academico-viseu-u23-estoril-praia-u23-17061571",
       "title": "Acad\u00e9mico Viseu U23 vs Estoril Praia U23",
       "homeTeam": "Acad\u00e9mico Viseu U23",
@@ -160,34 +197,6 @@
       "league": "U23 Liga Next Gen",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExMzQxOmEyYmIzNDFkMTlhMg.png",
       "matchTime": 1790092800000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "mozambique-u20-mauritius-u20-17068223",
-      "title": "Mozambique U20 vs Mauritius U20",
-      "homeTeam": "Mozambique U20",
-      "awayTeam": "Mauritius U20",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMzY5MzE6MmIxYzhmM2FhYTRh.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyNzM2MjE6YmM1OGZmOTE2Mjll.png",
-      "league": "COSAFA U20 Championship",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIzNjY5OjU0MDBjYWI3YjYxYg.png",
-      "matchTime": 1790082000000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "namibia-u20-seychelles-u20-17068224",
-      "title": "Namibia U20 vs Seychelles U20",
-      "homeTeam": "Namibia U20",
-      "awayTeam": "Seychelles U20",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozNzE4MjI6YTViZTk3YjE2OTM3.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMzY4Njg6YzY2YTQ2MTRhYThh.png",
-      "league": "COSAFA U20 Championship",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIzNjY5OjU0MDBjYWI3YjYxYg.png",
-      "matchTime": 1790082000000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
