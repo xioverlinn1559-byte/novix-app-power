@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T16:51:57.145358+00:00",
+  "updatedAt": "2026-09-23T17:05:23.463731+00:00",
   "matches": [
     {
       "id": "north-korea-u20-colombia-u20-17145214",
@@ -17,29 +17,6 @@
           "id": "stream-1",
           "streamNo": 1,
           "embedUrl": "https://football77.org/embed/?id=north-korea-u20-colombia-u20-17145214&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "gulf-united-fujairah-fc-17156914",
-      "title": "Gulf United vs Fujairah FC",
-      "homeTeam": "Gulf United",
-      "awayTeam": "Fujairah FC",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozNzM4Mjc6MjU0YjFmOWJiYjcz.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToxNzA1OTA6ZDcyMWU5OGMwODg1.png",
-      "league": "Presidents Cup",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjMwODA6OTUwMzdhOWM3YWJm.png",
-      "matchTime": 1790174400000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=gulf-united-fujairah-fc-17156914&source=lola",
           "source": "lola",
           "hd": false,
           "language": "MULTI"
@@ -472,6 +449,20 @@
       "awayTeam": "Emirates Club",
       "homeLogo": "https://img.sportsrc.org/file/dGVhbToyNDg2ODQ6YmQyMDA4M2MyOTdi.png",
       "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0NzQ2Njo5MDFjMmE4NTdmOWQ.png",
+      "league": "Presidents Cup",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjMwODA6OTUwMzdhOWM3YWJm.png",
+      "matchTime": 1790174400000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "gulf-united-fujairah-fc-17156914",
+      "title": "Gulf United vs Fujairah FC",
+      "homeTeam": "Gulf United",
+      "awayTeam": "Fujairah FC",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozNzM4Mjc6MjU0YjFmOWJiYjcz.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToxNzA1OTA6ZDcyMWU5OGMwODg1.png",
       "league": "Presidents Cup",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjMwODA6OTUwMzdhOWM3YWJm.png",
       "matchTime": 1790174400000,
