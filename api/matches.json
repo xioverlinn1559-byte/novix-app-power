@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T00:45:10.536963+00:00",
+  "updatedAt": "2026-09-23T01:05:31.011867+00:00",
   "matches": [
     {
       "id": "independiente-santa-fe-deportivo-cali-16390755",
@@ -11,9 +11,26 @@
       "league": "Primera A",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNTM5OjZiYTVlMWUwMjA5OA.png",
       "matchTime": 1790125200000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=independiente-santa-fe-deportivo-cali-16390755&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        },
+        {
+          "id": "stream-2",
+          "streamNo": 2,
+          "embedUrl": "https://football77.org/embed/?id=independiente-santa-fe-deportivo-cali-16390755&source=stv",
+          "source": "STV",
+          "hd": true,
+          "language": "MULTI"
+        }
+      ],
+      "streamCount": 2
     },
     {
       "id": "united-arab-emirates-u23-china-u23-16875524",
