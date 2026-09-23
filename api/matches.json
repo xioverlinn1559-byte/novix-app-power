@@ -1,22 +1,45 @@
 {
-  "updatedAt": "2026-09-23T10:05:17.858603+00:00",
+  "updatedAt": "2026-09-23T10:24:47.208984+00:00",
   "matches": [
     {
-      "id": "fujieda-myfc-kyoto-sanga-fc-16990898",
-      "title": "Kyoto Sanga FC vs Fujieda MYFC",
-      "homeTeam": "Kyoto Sanga FC",
-      "awayTeam": "Fujieda MYFC",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMTQ5OmI1YWMyN2JiZDM2OA.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToxMTg1MDA6MTU3MzI5MzNiMWJm.png",
-      "league": "Emperor Cup",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjMyMzo0MWI5OWFkMDY1ZGE.png",
-      "matchTime": 1790150400000,
+      "id": "lesotho-u20-angola-u20-17068225",
+      "title": "Lesotho U20 vs Angola U20",
+      "homeTeam": "Lesotho U20",
+      "awayTeam": "Angola U20",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyNzM2MDk6MzRkYjdkNTBhMmZm.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyNTQ2Mjk6NzRkYzY3NzNmMWQ1.png",
+      "league": "COSAFA U20 Championship",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIzNjY5OjU0MDBjYWI3YjYxYg.png",
+      "matchTime": 1790157600000,
       "status": "inprogress",
       "streams": [
         {
           "id": "stream-1",
           "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=fujieda-myfc-kyoto-sanga-fc-16990898&source=lola",
+          "embedUrl": "https://football77.org/embed/?id=lesotho-u20-angola-u20-17068225&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
+      "id": "eswatini-u20-south-africa-u20-17068226",
+      "title": "South Africa U20 vs Eswatini U20",
+      "homeTeam": "South Africa U20",
+      "awayTeam": "Eswatini U20",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozNTQ2Njo1NzdjMDEzM2NlNDM.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMDU5NzE6NGI4MWVmMDU5NjIx.png",
+      "league": "COSAFA U20 Championship",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIzNjY5OjU0MDBjYWI3YjYxYg.png",
+      "matchTime": 1790157600000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=eswatini-u20-south-africa-u20-17068226&source=lola",
           "source": "lola",
           "hd": false,
           "language": "MULTI"
@@ -179,30 +202,16 @@
       "streamCount": 0
     },
     {
-      "id": "lesotho-u20-angola-u20-17068225",
-      "title": "Lesotho U20 vs Angola U20",
-      "homeTeam": "Lesotho U20",
-      "awayTeam": "Angola U20",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyNzM2MDk6MzRkYjdkNTBhMmZm.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyNTQ2Mjk6NzRkYzY3NzNmMWQ1.png",
-      "league": "COSAFA U20 Championship",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIzNjY5OjU0MDBjYWI3YjYxYg.png",
-      "matchTime": 1790157600000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "eswatini-u20-south-africa-u20-17068226",
-      "title": "South Africa U20 vs Eswatini U20",
-      "homeTeam": "South Africa U20",
-      "awayTeam": "Eswatini U20",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozNTQ2Njo1NzdjMDEzM2NlNDM.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMDU5NzE6NGI4MWVmMDU5NjIx.png",
-      "league": "COSAFA U20 Championship",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIzNjY5OjU0MDBjYWI3YjYxYg.png",
-      "matchTime": 1790157600000,
-      "status": "notstarted",
+      "id": "fujieda-myfc-kyoto-sanga-fc-16990898",
+      "title": "Kyoto Sanga FC vs Fujieda MYFC",
+      "homeTeam": "Kyoto Sanga FC",
+      "awayTeam": "Fujieda MYFC",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMTQ5OmI1YWMyN2JiZDM2OA.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToxMTg1MDA6MTU3MzI5MzNiMWJm.png",
+      "league": "Emperor Cup",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjMyMzo0MWI5OWFkMDY1ZGE.png",
+      "matchTime": 1790150400000,
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
