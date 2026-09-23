@@ -1,6 +1,29 @@
 {
-  "updatedAt": "2026-09-23T22:49:26.575428+00:00",
+  "updatedAt": "2026-09-23T23:04:50.201254+00:00",
   "matches": [
+    {
+      "id": "aruba-antigua-and-barbuda-16654759",
+      "title": "Aruba vs Antigua and Barbuda",
+      "homeTeam": "Aruba",
+      "awayTeam": "Antigua and Barbuda",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyMTgwNjpkNjE4MzM4YWNiMDU.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyMTgwNTozY2FkYjY2NmEzZTI.png",
+      "league": "CONCACAF Nations League",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE0MTAwOjNjNjdiMmNmMDU2OA.png",
+      "matchTime": 1790204400000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=aruba-antigua-and-barbuda-16654759&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        }
+      ],
+      "streamCount": 1
+    },
     {
       "id": "libertad-club-fernando-de-la-mora-17071637",
       "title": "Club Fernando de la Mora vs Libertad",
@@ -17,29 +40,6 @@
           "id": "stream-1",
           "streamNo": 1,
           "embedUrl": "https://football77.org/embed/?id=libertad-club-fernando-de-la-mora-17071637&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "curico-unido-deportes-concepcion-17094410",
-      "title": "Curic\u00f3 Unido vs Deportes Concepci\u00f3n",
-      "homeTeam": "Curic\u00f3 Unido",
-      "awayTeam": "Deportes Concepci\u00f3n",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMzU5NTo1OTUxYWI0YTNhOTA.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMTYwOjNiNTYwYjVkNDdjNw.png",
-      "league": "Copa Chile",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjEyMjE6YzY5YjNkNDYzNTc1.png",
-      "matchTime": 1790197200000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=curico-unido-deportes-concepcion-17094410&source=lola",
           "source": "lola",
           "hd": false,
           "language": "MULTI"
@@ -524,20 +524,6 @@
       "streamCount": 0
     },
     {
-      "id": "aruba-antigua-and-barbuda-16654759",
-      "title": "Aruba vs Antigua and Barbuda",
-      "homeTeam": "Aruba",
-      "awayTeam": "Antigua and Barbuda",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyMTgwNjpkNjE4MzM4YWNiMDU.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyMTgwNTozY2FkYjY2NmEzZTI.png",
-      "league": "CONCACAF Nations League",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE0MTAwOjNjNjdiMmNmMDU2OA.png",
-      "matchTime": 1790204400000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
       "id": "club-4-de-mayo-sportivo-san-lorenzo-17071634",
       "title": "Sportivo San Lorenzo vs Club 4 de Mayo",
       "homeTeam": "Sportivo San Lorenzo",
@@ -561,6 +547,20 @@
       "league": "Liga 1 Te Apuesto",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjQwNjozZjI3MjYwNzcyZmM.png",
       "matchTime": 1790193600000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "curico-unido-deportes-concepcion-17094410",
+      "title": "Curic\u00f3 Unido vs Deportes Concepci\u00f3n",
+      "homeTeam": "Curic\u00f3 Unido",
+      "awayTeam": "Deportes Concepci\u00f3n",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMzU5NTo1OTUxYWI0YTNhOTA.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMTYwOjNiNTYwYjVkNDdjNw.png",
+      "league": "Copa Chile",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjEyMjE6YzY5YjNkNDYzNTc1.png",
+      "matchTime": 1790197200000,
       "status": "finished",
       "streams": [],
       "streamCount": 0
