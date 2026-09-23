@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-09-23T07:06:29.382957+00:00",
+  "updatedAt": "2026-09-23T07:25:17.799095+00:00",
   "matches": [
+    {
+      "id": "independiente-santa-fe-deportivo-cali-16390755",
+      "title": "Independiente Santa Fe vs Deportivo Cali",
+      "homeTeam": "Independiente Santa Fe",
+      "awayTeam": "Deportivo Cali",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo2MTE2OjBhY2Q3OWFhN2RhZQ.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo2MTEyOmUxYjIzOGZmMGU2MA.png",
+      "league": "Primera A",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNTM5OjZiYTVlMWUwMjA5OA.png",
+      "matchTime": 1790125200000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
     {
       "id": "united-arab-emirates-u23-china-u23-16875524",
       "title": "China U23 vs United Arab Emirates U23",
@@ -11,18 +25,9 @@
       "league": "Asian Games",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE4NjI6OTE5ZjBmNDFkYWRl.png",
       "matchTime": 1790141400000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=united-arab-emirates-u23-china-u23-16875524&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
     },
     {
       "id": "north-korea-u23-iran-u23-16875525",
@@ -34,29 +39,6 @@
       "league": "Asian Games",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE4NjI6OTE5ZjBmNDFkYWRl.png",
       "matchTime": 1790141400000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=north-korea-u23-iran-u23-16875525&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "independiente-santa-fe-deportivo-cali-16390755",
-      "title": "Independiente Santa Fe vs Deportivo Cali",
-      "homeTeam": "Independiente Santa Fe",
-      "awayTeam": "Deportivo Cali",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo2MTE2OjBhY2Q3OWFhN2RhZQ.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo2MTEyOmUxYjIzOGZmMGU2MA.png",
-      "league": "Primera A",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNTM5OjZiYTVlMWUwMjA5OA.png",
-      "matchTime": 1790125200000,
       "status": "finished",
       "streams": [],
       "streamCount": 0
