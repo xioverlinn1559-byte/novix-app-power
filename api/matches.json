@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T13:51:36.911686+00:00",
+  "updatedAt": "2026-09-23T14:06:31.419984+00:00",
   "matches": [
     {
       "id": "malawi-u20-comoros-u20-17068236",
@@ -63,6 +63,29 @@
           "id": "stream-1",
           "streamNo": 1,
           "embedUrl": "https://football77.org/embed/?id=spain-u20-italy-u20-17141378&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
+      "id": "finland-u17-france-u17-17157205",
+      "title": "Finland U17 vs France U17",
+      "homeTeam": "Finland U17",
+      "awayTeam": "France U17",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyMjYwMjo3YjNjMjEzNzBmYzI.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyMjQ3NDo2Nzc3NTBmMWQwODQ.png",
+      "league": "U17 Friendly Games",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjg1ODo3ZGRlNDY5MTE4MmI.png",
+      "matchTime": 1790172000000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=finland-u17-france-u17-17157205&source=lola",
           "source": "lola",
           "hd": false,
           "language": "MULTI"
@@ -276,20 +299,6 @@
       "league": "U-20 Women's World Championship",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjgwNDo1ZThmZjE0MmExMmY.png",
       "matchTime": 1790181000000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "finland-u17-france-u17-17157205",
-      "title": "Finland U17 vs France U17",
-      "homeTeam": "Finland U17",
-      "awayTeam": "France U17",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyMjYwMjo3YjNjMjEzNzBmYzI.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyMjQ3NDo2Nzc3NTBmMWQwODQ.png",
-      "league": "U17 Friendly Games",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjg1ODo3ZGRlNDY5MTE4MmI.png",
-      "matchTime": 1790172000000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
