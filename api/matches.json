@@ -1,29 +1,6 @@
 {
-  "updatedAt": "2026-09-23T21:48:46.876687+00:00",
+  "updatedAt": "2026-09-23T22:06:00.333937+00:00",
   "matches": [
-    {
-      "id": "saint-martin-bahamas-16654761",
-      "title": "Bahamas vs Saint Martin",
-      "homeTeam": "Bahamas",
-      "awayTeam": "Saint Martin",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyMTgwNzpjMDAyNmNmMDI1N2Y.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMzgxMjplYmVmMmFmN2YzZjE.png",
-      "league": "CONCACAF Nations League",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE0MTAwOjNjNjdiMmNmMDU2OA.png",
-      "matchTime": 1790193600000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=saint-martin-bahamas-16654761&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
     {
       "id": "libertad-club-fernando-de-la-mora-17071637",
       "title": "Club Fernando de la Mora vs Libertad",
@@ -40,29 +17,6 @@
           "id": "stream-1",
           "streamNo": 1,
           "embedUrl": "https://football77.org/embed/?id=libertad-club-fernando-de-la-mora-17071637&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "asociacion-deportiva-tarma-cienciano-17059625",
-      "title": "Asociaci\u00f3n Deportiva Tarma vs Cienciano",
-      "homeTeam": "Asociaci\u00f3n Deportiva Tarma",
-      "awayTeam": "Cienciano",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMzU1NTc6ODg5ZTA1NjRmZjA5.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyMzAxOmFjMjFkY2ZkOGJjMA.png",
-      "league": "Liga 1 Te Apuesto",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjQwNjozZjI3MjYwNzcyZmM.png",
-      "matchTime": 1790193600000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=asociacion-deportiva-tarma-cienciano-17059625&source=lola",
           "source": "lola",
           "hd": false,
           "language": "MULTI"
@@ -556,6 +510,20 @@
       "streamCount": 0
     },
     {
+      "id": "saint-martin-bahamas-16654761",
+      "title": "Bahamas vs Saint Martin",
+      "homeTeam": "Bahamas",
+      "awayTeam": "Saint Martin",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyMTgwNzpjMDAyNmNmMDI1N2Y.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMzgxMjplYmVmMmFmN2YzZjE.png",
+      "league": "CONCACAF Nations League",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE0MTAwOjNjNjdiMmNmMDU2OA.png",
+      "matchTime": 1790193600000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "aruba-antigua-and-barbuda-16654759",
       "title": "Aruba vs Antigua and Barbuda",
       "homeTeam": "Aruba",
@@ -579,6 +547,20 @@
       "league": "Copa Paraguay",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjEzNjE0OjNkODNiYmY0ZTFlMA.png",
       "matchTime": 1790190000000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "asociacion-deportiva-tarma-cienciano-17059625",
+      "title": "Asociaci\u00f3n Deportiva Tarma vs Cienciano",
+      "homeTeam": "Asociaci\u00f3n Deportiva Tarma",
+      "awayTeam": "Cienciano",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMzU1NTc6ODg5ZTA1NjRmZjA5.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyMzAxOmFjMjFkY2ZkOGJjMA.png",
+      "league": "Liga 1 Te Apuesto",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjQwNjozZjI3MjYwNzcyZmM.png",
+      "matchTime": 1790193600000,
       "status": "finished",
       "streams": [],
       "streamCount": 0
