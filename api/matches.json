@@ -1,29 +1,6 @@
 {
-  "updatedAt": "2026-09-23T15:51:54.584540+00:00",
+  "updatedAt": "2026-09-23T16:06:07.134338+00:00",
   "matches": [
-    {
-      "id": "finland-u17-france-u17-17157205",
-      "title": "Finland U17 vs France U17",
-      "homeTeam": "Finland U17",
-      "awayTeam": "France U17",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyMjYwMjo3YjNjMjEzNzBmYzI.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyMjQ3NDo2Nzc3NTBmMWQwODQ.png",
-      "league": "U17 Friendly Games",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjg1ODo3ZGRlNDY5MTE4MmI.png",
-      "matchTime": 1790172000000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=finland-u17-france-u17-17157205&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
     {
       "id": "oman-iraq-16875492",
       "title": "Iraq vs Oman",
@@ -132,6 +109,29 @@
           "id": "stream-1",
           "streamNo": 1,
           "embedUrl": "https://football77.org/embed/?id=mfa-zalgiris-mru-gintra-universitetas-16655536&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
+      "id": "gibraltar-sao-tome-and-principe-17117108",
+      "title": "Gibraltar vs S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+      "homeTeam": "Gibraltar",
+      "awayTeam": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxMjkyNjQ6ZWNhNmI0M2NmZmFi.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMzgxMzpkNzgyYzc4MTFiN2Y.png",
+      "league": "International Friendly Games",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjg1MTozNDZjYjYyMjZiODY.png",
+      "matchTime": 1790179200000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=gibraltar-sao-tome-and-principe-17117108&source=lola",
           "source": "lola",
           "hd": false,
           "language": "MULTI"
@@ -392,6 +392,20 @@
       "streamCount": 0
     },
     {
+      "id": "finland-u17-france-u17-17157205",
+      "title": "Finland U17 vs France U17",
+      "homeTeam": "Finland U17",
+      "awayTeam": "France U17",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyMjYwMjo3YjNjMjEzNzBmYzI.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyMjQ3NDo2Nzc3NTBmMWQwODQ.png",
+      "league": "U17 Friendly Games",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjg1ODo3ZGRlNDY5MTE4MmI.png",
+      "matchTime": 1790172000000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "brooklyn-fc-birmingham-legion-fc-15285859",
       "title": "Birmingham Legion FC vs Brooklyn FC",
       "homeTeam": "Birmingham Legion FC",
@@ -412,20 +426,6 @@
       "awayTeam": "Tajikistan",
       "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0NzQyOjZkMDY1NTE4N2YwNQ.png",
       "awayLogo": "https://img.sportsrc.org/file/dGVhbToyMzQ4ODpjYjMyZGJjNmExMTA.png",
-      "league": "International Friendly Games",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjg1MTozNDZjYjYyMjZiODY.png",
-      "matchTime": 1790179200000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "gibraltar-sao-tome-and-principe-17117108",
-      "title": "Gibraltar vs S\u00e3o Tom\u00e9 and Pr\u00edncipe",
-      "homeTeam": "Gibraltar",
-      "awayTeam": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxMjkyNjQ6ZWNhNmI0M2NmZmFi.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMzgxMzpkNzgyYzc4MTFiN2Y.png",
       "league": "International Friendly Games",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjg1MTozNDZjYjYyMjZiODY.png",
       "matchTime": 1790179200000,
