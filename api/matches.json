@@ -1,29 +1,6 @@
 {
-  "updatedAt": "2026-09-23T08:51:58.895233+00:00",
+  "updatedAt": "2026-09-23T09:05:33.542274+00:00",
   "matches": [
-    {
-      "id": "seoul-city-wfc-hwacheon-kspo-fc-15797757",
-      "title": "Seoul City WFC vs Hwacheon KSPO FC",
-      "homeTeam": "Seoul City WFC",
-      "awayTeam": "Hwacheon KSPO FC",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxOTE5MzQ6ZjU5MmUxMWYzZjVl.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToxOTE5MzM6ZmIwYmU0ODA2MWJm.png",
-      "league": "WK League",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIyODQ6ZGJhOGVhNzk2MzQx.png",
-      "matchTime": 1790146800000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=seoul-city-wfc-hwacheon-kspo-fc-15797757&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
     {
       "id": "ventforet-kofu-kashima-antlers-16990883",
       "title": "Kashima Antlers vs Ventforet Kofu",
@@ -229,6 +206,20 @@
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE4NjI6OTE5ZjBmNDFkYWRl.png",
       "matchTime": 1790159400000,
       "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "seoul-city-wfc-hwacheon-kspo-fc-15797757",
+      "title": "Seoul City WFC vs Hwacheon KSPO FC",
+      "homeTeam": "Seoul City WFC",
+      "awayTeam": "Hwacheon KSPO FC",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxOTE5MzQ6ZjU5MmUxMWYzZjVl.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToxOTE5MzM6ZmIwYmU0ODA2MWJm.png",
+      "league": "WK League",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIyODQ6ZGJhOGVhNzk2MzQx.png",
+      "matchTime": 1790146800000,
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
