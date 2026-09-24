@@ -1,22 +1,22 @@
 {
-  "updatedAt": "2026-09-24T23:22:39.454559+00:00",
+  "updatedAt": "2026-09-24T23:35:44.600587+00:00",
   "matches": [
     {
-      "id": "recoleta-fc-guairena-17071641",
-      "title": "Recoleta FC vs Guaire\u00f1a",
-      "homeTeam": "Recoleta FC",
-      "awayTeam": "Guaire\u00f1a",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyOTI1OTU6MWE5MTZiMDFkMzk0.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyNDkxOTQ6MjNiY2UxZDNlYTg1.png",
-      "league": "Copa Paraguay",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjEzNjE0OjNkODNiYmY0ZTFlMA.png",
-      "matchTime": 1790285400000,
+      "id": "everton-de-vina-del-mar-universidad-de-chile-16997888",
+      "title": "Everton de Vi\u00f1a del Mar vs Universidad de Chile",
+      "homeTeam": "Everton de Vi\u00f1a del Mar",
+      "awayTeam": "Universidad de Chile",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo1MDMyOjYxMjk1NDFlY2YzNA.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMTYxOjk0NGI0MmQzYmM2OA.png",
+      "league": "Copa Chile",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjEyMjE6YzY5YjNkNDYzNTc1.png",
+      "matchTime": 1790292600000,
       "status": "inprogress",
       "streams": [
         {
           "id": "stream-1",
           "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=recoleta-fc-guairena-17071641&source=lola",
+          "embedUrl": "https://football77.org/embed/?id=everton-de-vina-del-mar-universidad-de-chile-16997888&source=lola",
           "source": "lola",
           "hd": false,
           "language": "MULTI"
@@ -543,6 +543,20 @@
       "streamCount": 0
     },
     {
+      "id": "recoleta-fc-guairena-17071641",
+      "title": "Recoleta FC vs Guaire\u00f1a",
+      "homeTeam": "Recoleta FC",
+      "awayTeam": "Guaire\u00f1a",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyOTI1OTU6MWE5MTZiMDFkMzk0.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyNDkxOTQ6MjNiY2UxZDNlYTg1.png",
+      "league": "Copa Paraguay",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjEzNjE0OjNkODNiYmY0ZTFlMA.png",
+      "matchTime": 1790285400000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "deportes-santa-cruz-ohiggins-16997891",
       "title": "O'Higgins vs Deportes Santa Cruz",
       "homeTeam": "O'Higgins",
@@ -553,20 +567,6 @@
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjEyMjE6YzY5YjNkNDYzNTc1.png",
       "matchTime": 1790283600000,
       "status": "finished",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "everton-de-vina-del-mar-universidad-de-chile-16997888",
-      "title": "Everton de Vi\u00f1a del Mar vs Universidad de Chile",
-      "homeTeam": "Everton de Vi\u00f1a del Mar",
-      "awayTeam": "Universidad de Chile",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo1MDMyOjYxMjk1NDFlY2YzNA.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMTYxOjk0NGI0MmQzYmM2OA.png",
-      "league": "Copa Chile",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjEyMjE6YzY5YjNkNDYzNTc1.png",
-      "matchTime": 1790292600000,
-      "status": "notstarted",
       "streams": [],
       "streamCount": 0
     },
