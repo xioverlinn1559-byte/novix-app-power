@@ -1,29 +1,6 @@
 {
-  "updatedAt": "2026-09-24T04:05:31.491365+00:00",
+  "updatedAt": "2026-09-24T04:24:52.974374+00:00",
   "matches": [
-    {
-      "id": "vancouver-fc-inter-toronto-15502881",
-      "title": "Vancouver FC vs Inter Toronto",
-      "homeTeam": "Vancouver FC",
-      "awayTeam": "Inter Toronto",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0NjMwOTc6ZGQwOWUyYzVkYTgz.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMDk4OTA6MGIxN2RjYzY5NDI0.png",
-      "league": "Canadian Premier League",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjEzNDcwOjI4MzI3OTEyOWQ2ZA.png",
-      "matchTime": 1790215200000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=vancouver-fc-inter-toronto-15502881&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
     {
       "id": "rionegro-aguilas-doradas-america-de-cali-16390756",
       "title": "Am\u00e9rica de Cali vs Rionegro \u00c1guilas Doradas",
@@ -48,6 +25,20 @@
       "league": "MLS",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjI0Mjo4NWE3NTFmM2FkYzc.png",
       "matchTime": 1790213400000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "vancouver-fc-inter-toronto-15502881",
+      "title": "Vancouver FC vs Inter Toronto",
+      "homeTeam": "Vancouver FC",
+      "awayTeam": "Inter Toronto",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0NjMwOTc6ZGQwOWUyYzVkYTgz.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMDk4OTA6MGIxN2RjYzY5NDI0.png",
+      "league": "Canadian Premier League",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjEzNDcwOjI4MzI3OTEyOWQ2ZA.png",
+      "matchTime": 1790215200000,
       "status": "finished",
       "streams": [],
       "streamCount": 0
