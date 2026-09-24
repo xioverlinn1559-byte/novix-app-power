@@ -1,6 +1,29 @@
 {
-  "updatedAt": "2026-09-24T09:06:08.570129+00:00",
+  "updatedAt": "2026-09-24T09:25:51.561618+00:00",
   "matches": [
+    {
+      "id": "cote-divoire-u18-spain-u18-17053156",
+      "title": "C\u00f4te d'Ivoire U18 vs Spain U18",
+      "homeTeam": "C\u00f4te d'Ivoire U18",
+      "awayTeam": "Spain U18",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxMjc1MTg5OjYyY2QzYjRmN2IzMg.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyODk4MDk6MTEzMGM5ZGYxZjg0.png",
+      "league": "UEFA Friendship Cup",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM3NzA5OmIzODdiOTFhZWVlYg.png",
+      "matchTime": 1790240400000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=cote-divoire-u18-spain-u18-17053156&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        }
+      ],
+      "streamCount": 1
+    },
     {
       "id": "brunei-darussalam-laos-17080764",
       "title": "Laos vs Brunei Darussalam",
@@ -63,20 +86,6 @@
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjEzNDcwOjI4MzI3OTEyOWQ2ZA.png",
       "matchTime": 1790215200000,
       "status": "finished",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "cote-divoire-u18-spain-u18-17053156",
-      "title": "C\u00f4te d'Ivoire U18 vs Spain U18",
-      "homeTeam": "C\u00f4te d'Ivoire U18",
-      "awayTeam": "Spain U18",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxMjc1MTg5OjYyY2QzYjRmN2IzMg.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyODk4MDk6MTEzMGM5ZGYxZjg0.png",
-      "league": "UEFA Friendship Cup",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM3NzA5OmIzODdiOTFhZWVlYg.png",
-      "matchTime": 1790240400000,
-      "status": "notstarted",
       "streams": [],
       "streamCount": 0
     },
