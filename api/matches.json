@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T19:49:47.704031+00:00",
+  "updatedAt": "2026-09-24T20:06:15.991199+00:00",
   "matches": [
     {
       "id": "comoros-cameroon-17018567",
@@ -118,29 +118,6 @@
           "id": "stream-1",
           "streamNo": 1,
           "embedUrl": "https://football77.org/embed/?id=sierra-leone-zimbabwe-17018595&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "bahrain-qatar-16875494",
-      "title": "Qatar vs Bahrain",
-      "homeTeam": "Qatar",
-      "awayTeam": "Bahrain",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0NzkyOjc3OThlMDlmZjVlNg.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo1MTYxOmMwZDU5NTlhMzU2Nw.png",
-      "league": "Gulf Cup",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjYyMjo5ZGVlMzMzN2M2OTY.png",
-      "matchTime": 1790272800000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=bahrain-qatar-16875494&source=lola",
           "source": "lola",
           "hd": false,
           "language": "MULTI"
@@ -420,52 +397,6 @@
         }
       ],
       "streamCount": 3
-    },
-    {
-      "id": "newells-old-boys-reserve-rosario-central-reserve-16990070",
-      "title": "Newell's Old Boys Reserve vs Rosario Central Reserve",
-      "homeTeam": "Newell's Old Boys Reserve",
-      "awayTeam": "Rosario Central Reserve",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyMzU4NTQ6ZDE2YTZiOWM3M2Q3.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyMzU4NTM6NDBlYmYwZGMzZWU2.png",
-      "league": "Campeonato de Reserva de Primera Divisi\u00f3n",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE4ODE3OjQ5ZmEwNzQ2MzkyMA.png",
-      "matchTime": 1790272800000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=newells-old-boys-reserve-rosario-central-reserve-16990070&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "belarus-u21-belgium-u21-13500831",
-      "title": "Belgium U21 vs Belarus U21",
-      "homeTeam": "Belgium U21",
-      "awayTeam": "Belarus U21",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0ODc3OjJmYWQ2MWE3NGZkZg.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo2Mzc0OmNmMDRjOGViM2IxNQ.png",
-      "league": "U21 Euro Qualification",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjI2OjJiNThhMmUzZjMyNQ.png",
-      "matchTime": 1790272800000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=belarus-u21-belgium-u21-13500831&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
     },
     {
       "id": "kosovo-u21-san-marino-u21-13500834",
@@ -803,6 +734,20 @@
       "streamCount": 0
     },
     {
+      "id": "bahrain-qatar-16875494",
+      "title": "Qatar vs Bahrain",
+      "homeTeam": "Qatar",
+      "awayTeam": "Bahrain",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0NzkyOjc3OThlMDlmZjVlNg.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo1MTYxOmMwZDU5NTlhMzU2Nw.png",
+      "league": "Gulf Cup",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjYyMjo5ZGVlMzMzN2M2OTY.png",
+      "matchTime": 1790272800000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "andorra-malta-15537726",
       "title": "Andorra vs Malta",
       "homeTeam": "Andorra",
@@ -812,6 +757,34 @@
       "league": "UEFA Nations League",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjEwNzgzOjc3MzJlNjBiOTk1Mw.png",
       "matchTime": 1790265600000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "newells-old-boys-reserve-rosario-central-reserve-16990070",
+      "title": "Newell's Old Boys Reserve vs Rosario Central Reserve",
+      "homeTeam": "Newell's Old Boys Reserve",
+      "awayTeam": "Rosario Central Reserve",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyMzU4NTQ6ZDE2YTZiOWM3M2Q3.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyMzU4NTM6NDBlYmYwZGMzZWU2.png",
+      "league": "Campeonato de Reserva de Primera Divisi\u00f3n",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE4ODE3OjQ5ZmEwNzQ2MzkyMA.png",
+      "matchTime": 1790272800000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "belarus-u21-belgium-u21-13500831",
+      "title": "Belgium U21 vs Belarus U21",
+      "homeTeam": "Belgium U21",
+      "awayTeam": "Belarus U21",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0ODc3OjJmYWQ2MWE3NGZkZg.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo2Mzc0OmNmMDRjOGViM2IxNQ.png",
+      "league": "U21 Euro Qualification",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjI2OjJiNThhMmUzZjMyNQ.png",
+      "matchTime": 1790272800000,
       "status": "finished",
       "streams": [],
       "streamCount": 0
