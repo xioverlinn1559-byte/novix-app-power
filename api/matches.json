@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T01:36:47.650114+00:00",
+  "updatedAt": "2026-09-24T01:51:08.013637+00:00",
   "matches": [
     {
       "id": "rionegro-aguilas-doradas-america-de-cali-16390756",
@@ -34,9 +34,26 @@
       "league": "MLS",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjI0Mjo4NWE3NTFmM2FkYzc.png",
       "matchTime": 1790213400000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=seattle-sounders-fc-real-salt-lake-15956784&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        },
+        {
+          "id": "stream-2",
+          "streamNo": 2,
+          "embedUrl": "https://football77.org/embed/?id=seattle-sounders-fc-real-salt-lake-15956784&source=ppv",
+          "source": "PPV",
+          "hd": true,
+          "language": "EN"
+        }
+      ],
+      "streamCount": 2
     },
     {
       "id": "vancouver-fc-inter-toronto-15502881",
