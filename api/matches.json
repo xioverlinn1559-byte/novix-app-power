@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T20:06:15.991199+00:00",
+  "updatedAt": "2026-09-24T20:26:05.790845+00:00",
   "matches": [
     {
       "id": "comoros-cameroon-17018567",
@@ -399,29 +399,6 @@
       "streamCount": 3
     },
     {
-      "id": "kosovo-u21-san-marino-u21-13500834",
-      "title": "San Marino U21 vs Kosovo U21",
-      "homeTeam": "San Marino U21",
-      "awayTeam": "Kosovo U21",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo2MDUwOmNjMWYyNWVhMjhjYg.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyMTM4NDY6ZDk5MjdmMTAxNzgw.png",
-      "league": "U21 Euro Qualification",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjI2OjJiNThhMmUzZjMyNQ.png",
-      "matchTime": 1790274600000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=kosovo-u21-san-marino-u21-13500834&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
       "id": "fc-rouen-caen-16610849",
       "title": "Stade Malherbe Caen vs FC Rouen",
       "homeTeam": "Stade Malherbe Caen",
@@ -785,6 +762,20 @@
       "league": "U21 Euro Qualification",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjI2OjJiNThhMmUzZjMyNQ.png",
       "matchTime": 1790272800000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "kosovo-u21-san-marino-u21-13500834",
+      "title": "San Marino U21 vs Kosovo U21",
+      "homeTeam": "San Marino U21",
+      "awayTeam": "Kosovo U21",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo2MDUwOmNjMWYyNWVhMjhjYg.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyMTM4NDY6ZDk5MjdmMTAxNzgw.png",
+      "league": "U21 Euro Qualification",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjI2OjJiNThhMmUzZjMyNQ.png",
+      "matchTime": 1790274600000,
       "status": "finished",
       "streams": [],
       "streamCount": 0
