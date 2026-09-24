@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T13:53:26.686311+00:00",
+  "updatedAt": "2026-09-24T14:06:07.446081+00:00",
   "matches": [
     {
       "id": "canada-u18-brazil-u18-17053164",
@@ -25,21 +25,21 @@
       "streamCount": 1
     },
     {
-      "id": "east-timor-myanmar-17080765",
-      "title": "Myanmar vs East Timor",
-      "homeTeam": "Myanmar",
-      "awayTeam": "East Timor",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyMzQ4NDpjOTM1ZTEwNDFkYmM.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyMzQ5Nzo0ZGY0MTI5OWEyZmM.png",
-      "league": "ASEAN Cup",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM3ODI0OmQ0ZjY3OWYwNTg2NQ.png",
-      "matchTime": 1790251200000,
+      "id": "iran-uzbekistan-17157248",
+      "title": "Uzbekistan vs Iran",
+      "homeTeam": "Uzbekistan",
+      "awayTeam": "Iran",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0NzIzOmZiZWYyN2MwNjY2Nw.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0NzY2OmJmMDJiOThjZTk3YQ.png",
+      "league": "International Friendly Games",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjg1MTozNDZjYjYyMjZiODY.png",
+      "matchTime": 1790258400000,
       "status": "inprogress",
       "streams": [
         {
           "id": "stream-1",
           "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=east-timor-myanmar-17080765&source=lola",
+          "embedUrl": "https://football77.org/embed/?id=iran-uzbekistan-17157248&source=lola",
           "source": "lola",
           "hd": false,
           "language": "MULTI"
@@ -177,6 +177,20 @@
       "streamCount": 0
     },
     {
+      "id": "east-timor-myanmar-17080765",
+      "title": "Myanmar vs East Timor",
+      "homeTeam": "Myanmar",
+      "awayTeam": "East Timor",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyMzQ4NDpjOTM1ZTEwNDFkYmM.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyMzQ5Nzo0ZGY0MTI5OWEyZmM.png",
+      "league": "ASEAN Cup",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM3ODI0OmQ0ZjY3OWYwNTg2NQ.png",
+      "matchTime": 1790251200000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "palestine-new-zealand-17117109",
       "title": "Palestine vs New Zealand",
       "homeTeam": "Palestine",
@@ -229,20 +243,6 @@
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjg1MTozNDZjYjYyMjZiODY.png",
       "matchTime": 1790249700000,
       "status": "finished",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "iran-uzbekistan-17157248",
-      "title": "Uzbekistan vs Iran",
-      "homeTeam": "Uzbekistan",
-      "awayTeam": "Iran",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0NzIzOmZiZWYyN2MwNjY2Nw.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0NzY2OmJmMDJiOThjZTk3YQ.png",
-      "league": "International Friendly Games",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjg1MTozNDZjYjYyMjZiODY.png",
-      "matchTime": 1790258400000,
-      "status": "notstarted",
       "streams": [],
       "streamCount": 0
     },
