@@ -1,6 +1,29 @@
 {
-  "updatedAt": "2026-09-24T12:48:08.619085+00:00",
+  "updatedAt": "2026-09-24T13:06:49.202628+00:00",
   "matches": [
+    {
+      "id": "canada-u18-brazil-u18-17053164",
+      "title": "Brazil U18 vs Canada U18",
+      "homeTeam": "Brazil U18",
+      "awayTeam": "Canada U18",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxODk0NjA6ODg4M2M1N2UwNDFh.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToxOTM5Nzk6ZDM0ZTBiODQwNDFl.png",
+      "league": "UEFA Friendship Cup",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM3NzA5OmIzODdiOTFhZWVlYg.png",
+      "matchTime": 1790254800000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=canada-u18-brazil-u18-17053164&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        }
+      ],
+      "streamCount": 1
+    },
     {
       "id": "east-timor-myanmar-17080765",
       "title": "Myanmar vs East Timor",
@@ -25,37 +48,6 @@
       "streamCount": 1
     },
     {
-      "id": "ecuador-south-korea-17110322",
-      "title": "South Korea vs Ecuador",
-      "homeTeam": "South Korea",
-      "awayTeam": "Ecuador",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0NzM1OjAzMTg5N2I1MjkwOQ.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0NzU3OmU5OWU2M2M2NTM2ZA.png",
-      "league": "International Friendly Games",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjg1MTozNDZjYjYyMjZiODY.png",
-      "matchTime": 1790247600000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ecuador-south-korea-17110322&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=ecuador-south-korea-17110322&source=stv",
-          "source": "STV",
-          "hd": true,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 2
-    },
-    {
       "id": "maldives-china-17118212",
       "title": "China vs Maldives",
       "homeTeam": "China",
@@ -77,6 +69,37 @@
         }
       ],
       "streamCount": 1
+    },
+    {
+      "id": "congo-republic-namibia-17018570",
+      "title": "Namibia vs Congo Republic",
+      "homeTeam": "Namibia",
+      "awayTeam": "Congo Republic",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0ODMyOmY1MjYzNWY3Yzk4Yw.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo4MDQwOjc4YTYxMWIyNTIxMQ.png",
+      "league": "Africa Cup of Nations Qual.",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE4NDg6ZmJiNWM3MDZkMWQz.png",
+      "matchTime": 1790254800000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=congo-republic-namibia-17018570&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        },
+        {
+          "id": "stream-2",
+          "streamNo": 2,
+          "embedUrl": "https://football77.org/embed/?id=congo-republic-namibia-17018570&source=stv",
+          "source": "STV",
+          "hd": true,
+          "language": "MULTI"
+        }
+      ],
+      "streamCount": 2
     },
     {
       "id": "rionegro-aguilas-doradas-america-de-cali-16390756",
@@ -149,20 +172,6 @@
       "streamCount": 0
     },
     {
-      "id": "canada-u18-brazil-u18-17053164",
-      "title": "Brazil U18 vs Canada U18",
-      "homeTeam": "Brazil U18",
-      "awayTeam": "Canada U18",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxODk0NjA6ODg4M2M1N2UwNDFh.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToxOTM5Nzk6ZDM0ZTBiODQwNDFl.png",
-      "league": "UEFA Friendship Cup",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM3NzA5OmIzODdiOTFhZWVlYg.png",
-      "matchTime": 1790254800000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
       "id": "colombia-u18-england-u18-17053172",
       "title": "England U18 vs Colombia U18",
       "homeTeam": "England U18",
@@ -219,6 +228,20 @@
       "streamCount": 0
     },
     {
+      "id": "ecuador-south-korea-17110322",
+      "title": "South Korea vs Ecuador",
+      "homeTeam": "South Korea",
+      "awayTeam": "Ecuador",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0NzM1OjAzMTg5N2I1MjkwOQ.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0NzU3OmU5OWU2M2M2NTM2ZA.png",
+      "league": "International Friendly Games",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjg1MTozNDZjYjYyMjZiODY.png",
+      "matchTime": 1790247600000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "iran-uzbekistan-17157248",
       "title": "Uzbekistan vs Iran",
       "homeTeam": "Uzbekistan",
@@ -228,20 +251,6 @@
       "league": "International Friendly Games",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjg1MTozNDZjYjYyMjZiODY.png",
       "matchTime": 1790258400000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "congo-republic-namibia-17018570",
-      "title": "Namibia vs Congo Republic",
-      "homeTeam": "Namibia",
-      "awayTeam": "Congo Republic",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0ODMyOmY1MjYzNWY3Yzk4Yw.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo4MDQwOjc4YTYxMWIyNTIxMQ.png",
-      "league": "Africa Cup of Nations Qual.",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE4NDg6ZmJiNWM3MDZkMWQz.png",
-      "matchTime": 1790254800000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
