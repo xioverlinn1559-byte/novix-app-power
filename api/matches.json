@@ -1,29 +1,6 @@
 {
-  "updatedAt": "2026-09-24T14:41:03.268614+00:00",
+  "updatedAt": "2026-09-24T14:54:53.609526+00:00",
   "matches": [
-    {
-      "id": "canada-u18-brazil-u18-17053164",
-      "title": "Brazil U18 vs Canada U18",
-      "homeTeam": "Brazil U18",
-      "awayTeam": "Canada U18",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxODk0NjA6ODg4M2M1N2UwNDFh.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToxOTM5Nzk6ZDM0ZTBiODQwNDFl.png",
-      "league": "UEFA Friendship Cup",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM3NzA5OmIzODdiOTFhZWVlYg.png",
-      "matchTime": 1790254800000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=canada-u18-brazil-u18-17053164&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
     {
       "id": "iran-uzbekistan-17157248",
       "title": "Uzbekistan vs Iran",
@@ -144,6 +121,20 @@
       "league": "UEFA Friendship Cup",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM3NzA5OmIzODdiOTFhZWVlYg.png",
       "matchTime": 1790242200000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "canada-u18-brazil-u18-17053164",
+      "title": "Brazil U18 vs Canada U18",
+      "homeTeam": "Brazil U18",
+      "awayTeam": "Canada U18",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxODk0NjA6ODg4M2M1N2UwNDFh.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToxOTM5Nzk6ZDM0ZTBiODQwNDFl.png",
+      "league": "UEFA Friendship Cup",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM3NzA5OmIzODdiOTFhZWVlYg.png",
+      "matchTime": 1790254800000,
       "status": "finished",
       "streams": [],
       "streamCount": 0
