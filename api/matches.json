@@ -1,37 +1,6 @@
 {
-  "updatedAt": "2026-09-24T03:24:25.482026+00:00",
+  "updatedAt": "2026-09-24T03:38:27.293007+00:00",
   "matches": [
-    {
-      "id": "seattle-sounders-fc-real-salt-lake-15956784",
-      "title": "Seattle Sounders FC vs Real Salt Lake",
-      "homeTeam": "Seattle Sounders FC",
-      "awayTeam": "Real Salt Lake",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyMjAwOToyNTFjNzk5MTVjZTQ.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo1MTMzOjcwMTcwMWI1NDU0Mw.png",
-      "league": "MLS",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjI0Mjo4NWE3NTFmM2FkYzc.png",
-      "matchTime": 1790213400000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=seattle-sounders-fc-real-salt-lake-15956784&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=seattle-sounders-fc-real-salt-lake-15956784&source=ppv",
-          "source": "PPV",
-          "hd": true,
-          "language": "EN"
-        }
-      ],
-      "streamCount": 2
-    },
     {
       "id": "vancouver-fc-inter-toronto-15502881",
       "title": "Vancouver FC vs Inter Toronto",
@@ -65,6 +34,20 @@
       "league": "Primera A",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNTM5OjZiYTVlMWUwMjA5OA.png",
       "matchTime": 1790209800000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "seattle-sounders-fc-real-salt-lake-15956784",
+      "title": "Seattle Sounders FC vs Real Salt Lake",
+      "homeTeam": "Seattle Sounders FC",
+      "awayTeam": "Real Salt Lake",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyMjAwOToyNTFjNzk5MTVjZTQ.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo1MTMzOjcwMTcwMWI1NDU0Mw.png",
+      "league": "MLS",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjI0Mjo4NWE3NTFmM2FkYzc.png",
+      "matchTime": 1790213400000,
       "status": "finished",
       "streams": [],
       "streamCount": 0
