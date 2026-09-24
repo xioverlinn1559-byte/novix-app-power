@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T09:25:51.561618+00:00",
+  "updatedAt": "2026-09-24T09:39:13.218894+00:00",
   "matches": [
     {
       "id": "cote-divoire-u18-spain-u18-17053156",
@@ -25,6 +25,29 @@
       "streamCount": 1
     },
     {
+      "id": "south-korea-u18-egypt-u18-17053160",
+      "title": "Egypt U18 vs South Korea U18",
+      "homeTeam": "Egypt U18",
+      "awayTeam": "South Korea U18",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0ODg4MjplODRiODcwZWZmYWE.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToxODcxODE6MWYxYTUwOTE1YzU0.png",
+      "league": "UEFA Friendship Cup",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM3NzA5OmIzODdiOTFhZWVlYg.png",
+      "matchTime": 1790242200000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=south-korea-u18-egypt-u18-17053160&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
       "id": "brunei-darussalam-laos-17080764",
       "title": "Laos vs Brunei Darussalam",
       "homeTeam": "Laos",
@@ -40,6 +63,29 @@
           "id": "stream-1",
           "streamNo": 1,
           "embedUrl": "https://football77.org/embed/?id=brunei-darussalam-laos-17080764&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
+      "id": "palestine-new-zealand-17117109",
+      "title": "Palestine vs New Zealand",
+      "homeTeam": "Palestine",
+      "awayTeam": "New Zealand",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0Nzg4OjQ4Zjc4YTI0MTU5ZA.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0Nzg0OjFjMzIwYmQ0MGExMQ.png",
+      "league": "International Friendly Games",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjg1MTozNDZjYjYyMjZiODY.png",
+      "matchTime": 1790242200000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=palestine-new-zealand-17117109&source=lola",
           "source": "lola",
           "hd": false,
           "language": "MULTI"
@@ -90,20 +136,6 @@
       "streamCount": 0
     },
     {
-      "id": "south-korea-u18-egypt-u18-17053160",
-      "title": "Egypt U18 vs South Korea U18",
-      "homeTeam": "Egypt U18",
-      "awayTeam": "South Korea U18",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0ODg4MjplODRiODcwZWZmYWE.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToxODcxODE6MWYxYTUwOTE1YzU0.png",
-      "league": "UEFA Friendship Cup",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM3NzA5OmIzODdiOTFhZWVlYg.png",
-      "matchTime": 1790242200000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
       "id": "canada-u18-brazil-u18-17053164",
       "title": "Brazil U18 vs Canada U18",
       "homeTeam": "Brazil U18",
@@ -141,20 +173,6 @@
       "league": "ASEAN Cup",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM3ODI0OmQ0ZjY3OWYwNTg2NQ.png",
       "matchTime": 1790251200000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "palestine-new-zealand-17117109",
-      "title": "Palestine vs New Zealand",
-      "homeTeam": "Palestine",
-      "awayTeam": "New Zealand",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0Nzg4OjQ4Zjc4YTI0MTU5ZA.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0Nzg0OjFjMzIwYmQ0MGExMQ.png",
-      "league": "International Friendly Games",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjg1MTozNDZjYjYyMjZiODY.png",
-      "matchTime": 1790242200000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
