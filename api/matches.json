@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T22:50:28.866477+00:00",
+  "updatedAt": "2026-09-24T23:05:36.599750+00:00",
   "matches": [
     {
       "id": "recoleta-fc-guairena-17071641",
@@ -17,29 +17,6 @@
           "id": "stream-1",
           "streamNo": 1,
           "embedUrl": "https://football77.org/embed/?id=recoleta-fc-guairena-17071641&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "deportes-santa-cruz-ohiggins-16997891",
-      "title": "O'Higgins vs Deportes Santa Cruz",
-      "homeTeam": "O'Higgins",
-      "awayTeam": "Deportes Santa Cruz",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMTYzOjUwN2E5MzY4OTZiOQ.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyNDM0OTA6MmMwNjkzNjk3ZDk4.png",
-      "league": "Copa Chile",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjEyMjE6YzY5YjNkNDYzNTc1.png",
-      "matchTime": 1790283600000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=deportes-santa-cruz-ohiggins-16997891&source=lola",
           "source": "lola",
           "hd": false,
           "language": "MULTI"
@@ -561,6 +538,20 @@
       "league": "Copa Paraguay",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjEzNjE0OjNkODNiYmY0ZTFlMA.png",
       "matchTime": 1790276400000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "deportes-santa-cruz-ohiggins-16997891",
+      "title": "O'Higgins vs Deportes Santa Cruz",
+      "homeTeam": "O'Higgins",
+      "awayTeam": "Deportes Santa Cruz",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMTYzOjUwN2E5MzY4OTZiOQ.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyNDM0OTA6MmMwNjkzNjk3ZDk4.png",
+      "league": "Copa Chile",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjEyMjE6YzY5YjNkNDYzNTc1.png",
+      "matchTime": 1790283600000,
       "status": "finished",
       "streams": [],
       "streamCount": 0
