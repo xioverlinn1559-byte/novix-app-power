@@ -1,60 +1,6 @@
 {
-  "updatedAt": "2026-09-24T17:49:51.049885+00:00",
+  "updatedAt": "2026-09-24T18:07:04.485968+00:00",
   "matches": [
-    {
-      "id": "colombia-u18-england-u18-17053172",
-      "title": "England U18 vs Colombia U18",
-      "homeTeam": "England U18",
-      "awayTeam": "Colombia U18",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyMjczNDplZTZmYmE5NzBkZmQ.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToxMjc1MTkwOjY1Mjk2MTY4MDVmMw.png",
-      "league": "UEFA Friendship Cup",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM3NzA5OmIzODdiOTFhZWVlYg.png",
-      "matchTime": 1790265600000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=colombia-u18-england-u18-17053172&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "central-african-republic-mauritania-17018571",
-      "title": "Mauritania vs Central African Republic",
-      "homeTeam": "Mauritania",
-      "awayTeam": "Central African Republic",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0Nzc5OjcyMjFjYTAwOGJmNA.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyMzQ3MDpjMzc3Nzk1ZThiNWQ.png",
-      "league": "Africa Cup of Nations Qual.",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE4NDg6ZmJiNWM3MDZkMWQz.png",
-      "matchTime": 1790265600000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=central-african-republic-mauritania-17018571&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=central-african-republic-mauritania-17018571&source=stv",
-          "source": "STV",
-          "hd": true,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 2
-    },
     {
       "id": "libya-botswana-17018590",
       "title": "Libya vs Botswana",
@@ -79,52 +25,21 @@
       "streamCount": 1
     },
     {
-      "id": "equatorial-guinea-dr-congo-17018596",
-      "title": "DR Congo vs Equatorial Guinea",
-      "homeTeam": "DR Congo",
-      "awayTeam": "Equatorial Guinea",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0ODIzOmRmYmM4ZjdjY2IwMQ.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo4MDMyOjlkM2ZhNDU4MTljYQ.png",
-      "league": "Africa Cup of Nations Qual.",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE4NDg6ZmJiNWM3MDZkMWQz.png",
-      "matchTime": 1790265600000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=equatorial-guinea-dr-congo-17018596&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=equatorial-guinea-dr-congo-17018596&source=stv",
-          "source": "STV",
-          "hd": true,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 2
-    },
-    {
-      "id": "united-arab-emirates-yemen-16875495",
-      "title": "United Arab Emirates vs Yemen",
-      "homeTeam": "United Arab Emirates",
-      "awayTeam": "Yemen",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0NzI3OjkyODhjNzQxOTVlMA.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0NzIxOjc0MmRkOGFiOWM3Mg.png",
+      "id": "bahrain-qatar-16875494",
+      "title": "Qatar vs Bahrain",
+      "homeTeam": "Qatar",
+      "awayTeam": "Bahrain",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0NzkyOjc3OThlMDlmZjVlNg.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo1MTYxOmMwZDU5NTlhMzU2Nw.png",
       "league": "Gulf Cup",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjYyMjo5ZGVlMzMzN2M2OTY.png",
-      "matchTime": 1790265300000,
+      "matchTime": 1790272800000,
       "status": "inprogress",
       "streams": [
         {
           "id": "stream-1",
           "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=united-arab-emirates-yemen-16875495&source=lola",
+          "embedUrl": "https://football77.org/embed/?id=bahrain-qatar-16875494&source=lola",
           "source": "lola",
           "hd": false,
           "language": "MULTI"
@@ -133,43 +48,50 @@
       "streamCount": 1
     },
     {
-      "id": "andorra-malta-15537726",
-      "title": "Andorra vs Malta",
-      "homeTeam": "Andorra",
-      "awayTeam": "Malta",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0ODE4OjJlM2E2ZmE1NDc4YQ.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0NDgzOjFhZjAyMGQ5NzRjOA.png",
-      "league": "UEFA Nations League",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjEwNzgzOjc3MzJlNjBiOTk1Mw.png",
-      "matchTime": 1790265600000,
+      "id": "newells-old-boys-reserve-rosario-central-reserve-16990070",
+      "title": "Newell's Old Boys Reserve vs Rosario Central Reserve",
+      "homeTeam": "Newell's Old Boys Reserve",
+      "awayTeam": "Rosario Central Reserve",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyMzU4NTQ6ZDE2YTZiOWM3M2Q3.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyMzU4NTM6NDBlYmYwZGMzZWU2.png",
+      "league": "Campeonato de Reserva de Primera Divisi\u00f3n",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE4ODE3OjQ5ZmEwNzQ2MzkyMA.png",
+      "matchTime": 1790272800000,
       "status": "inprogress",
       "streams": [
         {
           "id": "stream-1",
           "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=andorra-malta-15537726&source=lola",
+          "embedUrl": "https://football77.org/embed/?id=newells-old-boys-reserve-rosario-central-reserve-16990070&source=lola",
           "source": "lola",
           "hd": false,
           "language": "MULTI"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=andorra-malta-15537726&source=stv",
-          "source": "STV",
-          "hd": true,
-          "language": "MULTI"
-        },
-        {
-          "id": "stream-3",
-          "streamNo": 3,
-          "embedUrl": "https://football77.org/embed/?id=andorra-malta-15537726&source=ppv",
-          "source": "PPV",
-          "hd": true,
-          "language": "EN"
         }
       ],
-      "streamCount": 3
+      "streamCount": 1
+    },
+    {
+      "id": "belarus-u21-belgium-u21-13500831",
+      "title": "Belgium U21 vs Belarus U21",
+      "homeTeam": "Belgium U21",
+      "awayTeam": "Belarus U21",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0ODc3OjJmYWQ2MWE3NGZkZg.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo2Mzc0OmNmMDRjOGViM2IxNQ.png",
+      "league": "U21 Euro Qualification",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjI2OjJiNThhMmUzZjMyNQ.png",
+      "matchTime": 1790272800000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=belarus-u21-belgium-u21-13500831&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        }
+      ],
+      "streamCount": 1
     },
     {
       "id": "rionegro-aguilas-doradas-america-de-cali-16390756",
@@ -251,6 +173,20 @@
       "league": "UEFA Friendship Cup",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM3NzA5OmIzODdiOTFhZWVlYg.png",
       "matchTime": 1790254800000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "colombia-u18-england-u18-17053172",
+      "title": "England U18 vs Colombia U18",
+      "homeTeam": "England U18",
+      "awayTeam": "Colombia U18",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyMjczNDplZTZmYmE5NzBkZmQ.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToxMjc1MTkwOjY1Mjk2MTY4MDVmMw.png",
+      "league": "UEFA Friendship Cup",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM3NzA5OmIzODdiOTFhZWVlYg.png",
+      "matchTime": 1790265600000,
       "status": "finished",
       "streams": [],
       "streamCount": 0
@@ -368,6 +304,34 @@
       "streamCount": 0
     },
     {
+      "id": "central-african-republic-mauritania-17018571",
+      "title": "Mauritania vs Central African Republic",
+      "homeTeam": "Mauritania",
+      "awayTeam": "Central African Republic",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0Nzc5OjcyMjFjYTAwOGJmNA.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyMzQ3MDpjMzc3Nzk1ZThiNWQ.png",
+      "league": "Africa Cup of Nations Qual.",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE4NDg6ZmJiNWM3MDZkMWQz.png",
+      "matchTime": 1790265600000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "equatorial-guinea-dr-congo-17018596",
+      "title": "DR Congo vs Equatorial Guinea",
+      "homeTeam": "DR Congo",
+      "awayTeam": "Equatorial Guinea",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0ODIzOmRmYmM4ZjdjY2IwMQ.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo4MDMyOjlkM2ZhNDU4MTljYQ.png",
+      "league": "Africa Cup of Nations Qual.",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE4NDg6ZmJiNWM3MDZkMWQz.png",
+      "matchTime": 1790265600000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "comoros-cameroon-17018567",
       "title": "Cameroon vs Comoros",
       "homeTeam": "Cameroon",
@@ -424,16 +388,30 @@
       "streamCount": 0
     },
     {
-      "id": "bahrain-qatar-16875494",
-      "title": "Qatar vs Bahrain",
-      "homeTeam": "Qatar",
-      "awayTeam": "Bahrain",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0NzkyOjc3OThlMDlmZjVlNg.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo1MTYxOmMwZDU5NTlhMzU2Nw.png",
+      "id": "united-arab-emirates-yemen-16875495",
+      "title": "United Arab Emirates vs Yemen",
+      "homeTeam": "United Arab Emirates",
+      "awayTeam": "Yemen",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0NzI3OjkyODhjNzQxOTVlMA.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0NzIxOjc0MmRkOGFiOWM3Mg.png",
       "league": "Gulf Cup",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjYyMjo5ZGVlMzMzN2M2OTY.png",
-      "matchTime": 1790272800000,
-      "status": "notstarted",
+      "matchTime": 1790265300000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "andorra-malta-15537726",
+      "title": "Andorra vs Malta",
+      "homeTeam": "Andorra",
+      "awayTeam": "Malta",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0ODE4OjJlM2E2ZmE1NDc4YQ.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0NDgzOjFhZjAyMGQ5NzRjOA.png",
+      "league": "UEFA Nations League",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjEwNzgzOjc3MzJlNjBiOTk1Mw.png",
+      "matchTime": 1790265600000,
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -531,34 +509,6 @@
       "league": "UEFA Nations League",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjEwNzgzOjc3MzJlNjBiOTk1Mw.png",
       "matchTime": 1790275500000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "newells-old-boys-reserve-rosario-central-reserve-16990070",
-      "title": "Newell's Old Boys Reserve vs Rosario Central Reserve",
-      "homeTeam": "Newell's Old Boys Reserve",
-      "awayTeam": "Rosario Central Reserve",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyMzU4NTQ6ZDE2YTZiOWM3M2Q3.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyMzU4NTM6NDBlYmYwZGMzZWU2.png",
-      "league": "Campeonato de Reserva de Primera Divisi\u00f3n",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE4ODE3OjQ5ZmEwNzQ2MzkyMA.png",
-      "matchTime": 1790272800000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "belarus-u21-belgium-u21-13500831",
-      "title": "Belgium U21 vs Belarus U21",
-      "homeTeam": "Belgium U21",
-      "awayTeam": "Belarus U21",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0ODc3OjJmYWQ2MWE3NGZkZg.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo2Mzc0OmNmMDRjOGViM2IxNQ.png",
-      "league": "U21 Euro Qualification",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjI2OjJiNThhMmUzZjMyNQ.png",
-      "matchTime": 1790272800000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
