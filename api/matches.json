@@ -1,52 +1,6 @@
 {
-  "updatedAt": "2026-09-24T11:24:33.912767+00:00",
+  "updatedAt": "2026-09-24T11:37:43.581595+00:00",
   "matches": [
-    {
-      "id": "south-korea-u18-egypt-u18-17053160",
-      "title": "Egypt U18 vs South Korea U18",
-      "homeTeam": "Egypt U18",
-      "awayTeam": "South Korea U18",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0ODg4MjplODRiODcwZWZmYWE.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToxODcxODE6MWYxYTUwOTE1YzU0.png",
-      "league": "UEFA Friendship Cup",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM3NzA5OmIzODdiOTFhZWVlYg.png",
-      "matchTime": 1790242200000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=south-korea-u18-egypt-u18-17053160&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "palestine-new-zealand-17117109",
-      "title": "Palestine vs New Zealand",
-      "homeTeam": "Palestine",
-      "awayTeam": "New Zealand",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0Nzg4OjQ4Zjc4YTI0MTU5ZA.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0Nzg0OjFjMzIwYmQ0MGExMQ.png",
-      "league": "International Friendly Games",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjg1MTozNDZjYjYyMjZiODY.png",
-      "matchTime": 1790242200000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=palestine-new-zealand-17117109&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
     {
       "id": "japan-uruguay-17110321",
       "title": "Japan vs Uruguay",
@@ -102,6 +56,29 @@
       "streamCount": 2
     },
     {
+      "id": "maldives-china-17118212",
+      "title": "China vs Maldives",
+      "homeTeam": "China",
+      "awayTeam": "Maldives",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0NzU1OjMxN2NhZWNiNjhkYw.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo2OTExOmUzYWViY2I4ZDE2MA.png",
+      "league": "International Friendly Games",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjg1MTozNDZjYjYyMjZiODY.png",
+      "matchTime": 1790249700000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=maldives-china-17118212&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
       "id": "rionegro-aguilas-doradas-america-de-cali-16390756",
       "title": "Am\u00e9rica de Cali vs Rionegro \u00c1guilas Doradas",
       "homeTeam": "Am\u00e9rica de Cali",
@@ -153,6 +130,20 @@
       "league": "UEFA Friendship Cup",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM3NzA5OmIzODdiOTFhZWVlYg.png",
       "matchTime": 1790240400000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "south-korea-u18-egypt-u18-17053160",
+      "title": "Egypt U18 vs South Korea U18",
+      "homeTeam": "Egypt U18",
+      "awayTeam": "South Korea U18",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0ODg4MjplODRiODcwZWZmYWE.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToxODcxODE6MWYxYTUwOTE1YzU0.png",
+      "league": "UEFA Friendship Cup",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM3NzA5OmIzODdiOTFhZWVlYg.png",
+      "matchTime": 1790242200000,
       "status": "finished",
       "streams": [],
       "streamCount": 0
@@ -214,16 +205,16 @@
       "streamCount": 0
     },
     {
-      "id": "maldives-china-17118212",
-      "title": "China vs Maldives",
-      "homeTeam": "China",
-      "awayTeam": "Maldives",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0NzU1OjMxN2NhZWNiNjhkYw.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo2OTExOmUzYWViY2I4ZDE2MA.png",
+      "id": "palestine-new-zealand-17117109",
+      "title": "Palestine vs New Zealand",
+      "homeTeam": "Palestine",
+      "awayTeam": "New Zealand",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0Nzg4OjQ4Zjc4YTI0MTU5ZA.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0Nzg0OjFjMzIwYmQ0MGExMQ.png",
       "league": "International Friendly Games",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjg1MTozNDZjYjYyMjZiODY.png",
-      "matchTime": 1790249700000,
-      "status": "notstarted",
+      "matchTime": 1790242200000,
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
