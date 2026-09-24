@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T19:05:38.638080+00:00",
+  "updatedAt": "2026-09-24T19:23:05.027488+00:00",
   "matches": [
     {
       "id": "comoros-cameroon-17018567",
@@ -62,6 +62,45 @@
         }
       ],
       "streamCount": 1
+    },
+    {
+      "id": "cote-divoire-ghana-17018592",
+      "title": "C\u00f4te d'Ivoire vs Ghana",
+      "homeTeam": "C\u00f4te d'Ivoire",
+      "awayTeam": "Ghana",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0NzY4OmYwYTM3YjIzNDIyNg.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0NzY0OmNhMTY5NWYwZjUyYQ.png",
+      "league": "Africa Cup of Nations Qual.",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE4NDg6ZmJiNWM3MDZkMWQz.png",
+      "matchTime": 1790276400000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=cote-divoire-ghana-17018592&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        },
+        {
+          "id": "stream-2",
+          "streamNo": 2,
+          "embedUrl": "https://football77.org/embed/?id=cote-divoire-ghana-17018592&source=stv",
+          "source": "STV",
+          "hd": true,
+          "language": "MULTI"
+        },
+        {
+          "id": "stream-3",
+          "streamNo": 3,
+          "embedUrl": "https://football77.org/embed/?id=cote-divoire-ghana-17018592&source=ppv",
+          "source": "PPV",
+          "hd": true,
+          "language": "EN"
+        }
+      ],
+      "streamCount": 3
     },
     {
       "id": "sierra-leone-zimbabwe-17018595",
@@ -746,20 +785,6 @@
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE4NDg6ZmJiNWM3MDZkMWQz.png",
       "matchTime": 1790265600000,
       "status": "finished",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "cote-divoire-ghana-17018592",
-      "title": "C\u00f4te d'Ivoire vs Ghana",
-      "homeTeam": "C\u00f4te d'Ivoire",
-      "awayTeam": "Ghana",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0NzY4OmYwYTM3YjIzNDIyNg.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0NzY0OmNhMTY5NWYwZjUyYQ.png",
-      "league": "Africa Cup of Nations Qual.",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE4NDg6ZmJiNWM3MDZkMWQz.png",
-      "matchTime": 1790276400000,
-      "status": "notstarted",
       "streams": [],
       "streamCount": 0
     },
