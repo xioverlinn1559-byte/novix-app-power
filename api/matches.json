@@ -1,29 +1,6 @@
 {
-  "updatedAt": "2026-09-24T02:24:34.683826+00:00",
+  "updatedAt": "2026-09-24T02:37:57.007970+00:00",
   "matches": [
-    {
-      "id": "rionegro-aguilas-doradas-america-de-cali-16390756",
-      "title": "Am\u00e9rica de Cali vs Rionegro \u00c1guilas Doradas",
-      "homeTeam": "Am\u00e9rica de Cali",
-      "awayTeam": "Rionegro \u00c1guilas Doradas",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo2MTAyOjc4NzQ4MTQyY2FlOQ.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0ODI0NDo1Y2Y2ZGI0MzgzMWE.png",
-      "league": "Primera A",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNTM5OjZiYTVlMWUwMjA5OA.png",
-      "matchTime": 1790209800000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=rionegro-aguilas-doradas-america-de-cali-16390756&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
     {
       "id": "seattle-sounders-fc-real-salt-lake-15956784",
       "title": "Seattle Sounders FC vs Real Salt Lake",
@@ -77,6 +54,20 @@
         }
       ],
       "streamCount": 1
+    },
+    {
+      "id": "rionegro-aguilas-doradas-america-de-cali-16390756",
+      "title": "Am\u00e9rica de Cali vs Rionegro \u00c1guilas Doradas",
+      "homeTeam": "Am\u00e9rica de Cali",
+      "awayTeam": "Rionegro \u00c1guilas Doradas",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo2MTAyOjc4NzQ4MTQyY2FlOQ.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0ODI0NDo1Y2Y2ZGI0MzgzMWE.png",
+      "league": "Primera A",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNTM5OjZiYTVlMWUwMjA5OA.png",
+      "matchTime": 1790209800000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
     },
     {
       "id": "cote-divoire-u18-spain-u18-17053156",
