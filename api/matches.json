@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T10:05:38.496926+00:00",
+  "updatedAt": "2026-09-24T10:25:19.735273+00:00",
   "matches": [
     {
       "id": "cote-divoire-u18-spain-u18-17053156",
@@ -94,6 +94,29 @@
       "streamCount": 1
     },
     {
+      "id": "japan-uruguay-17110321",
+      "title": "Japan vs Uruguay",
+      "homeTeam": "Japan",
+      "awayTeam": "Uruguay",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0NzcwOjA5YjZkY2RkMWZiZQ.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0NzI1OmQ0NGQxNWQ3Yzg2YQ.png",
+      "league": "International Friendly Games",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjg1MTozNDZjYjYyMjZiODY.png",
+      "matchTime": 1790244300000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=japan-uruguay-17110321&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
       "id": "rionegro-aguilas-doradas-america-de-cali-16390756",
       "title": "Am\u00e9rica de Cali vs Rionegro \u00c1guilas Doradas",
       "homeTeam": "Am\u00e9rica de Cali",
@@ -173,20 +196,6 @@
       "league": "ASEAN Cup",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM3ODI0OmQ0ZjY3OWYwNTg2NQ.png",
       "matchTime": 1790251200000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "japan-uruguay-17110321",
-      "title": "Japan vs Uruguay",
-      "homeTeam": "Japan",
-      "awayTeam": "Uruguay",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0NzcwOjA5YjZkY2RkMWZiZQ.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0NzI1OmQ0NGQxNWQ3Yzg2YQ.png",
-      "league": "International Friendly Games",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjg1MTozNDZjYjYyMjZiODY.png",
-      "matchTime": 1790244300000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
