@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T13:26:22.360174+00:00",
+  "updatedAt": "2026-09-24T13:40:40.372749+00:00",
   "matches": [
     {
       "id": "canada-u18-brazil-u18-17053164",
@@ -40,29 +40,6 @@
           "id": "stream-1",
           "streamNo": 1,
           "embedUrl": "https://football77.org/embed/?id=east-timor-myanmar-17080765&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "maldives-china-17118212",
-      "title": "China vs Maldives",
-      "homeTeam": "China",
-      "awayTeam": "Maldives",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0NzU1OjMxN2NhZWNiNjhkYw.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo2OTExOmUzYWViY2I4ZDE2MA.png",
-      "league": "International Friendly Games",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjg1MTozNDZjYjYyMjZiODY.png",
-      "matchTime": 1790249700000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=maldives-china-17118212&source=lola",
           "source": "lola",
           "hd": false,
           "language": "MULTI"
@@ -237,6 +214,20 @@
       "league": "International Friendly Games",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjg1MTozNDZjYjYyMjZiODY.png",
       "matchTime": 1790247600000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "maldives-china-17118212",
+      "title": "China vs Maldives",
+      "homeTeam": "China",
+      "awayTeam": "Maldives",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0NzU1OjMxN2NhZWNiNjhkYw.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo2OTExOmUzYWViY2I4ZDE2MA.png",
+      "league": "International Friendly Games",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjg1MTozNDZjYjYyMjZiODY.png",
+      "matchTime": 1790249700000,
       "status": "finished",
       "streams": [],
       "streamCount": 0
