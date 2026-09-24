@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T20:26:05.790845+00:00",
+  "updatedAt": "2026-09-24T20:39:46.024620+00:00",
   "matches": [
     {
       "id": "comoros-cameroon-17018567",
@@ -204,45 +204,6 @@
       "streamCount": 3
     },
     {
-      "id": "portugal-wales-15534097",
-      "title": "Portugal vs Wales",
-      "homeTeam": "Portugal",
-      "awayTeam": "Wales",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0NzA0OmYwYjFjNzY4OGQ0Mg.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0NzAyOjU2ZjhkMDA3NWQxNw.png",
-      "league": "UEFA Nations League",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjEwNzgzOjc3MzJlNjBiOTk1Mw.png",
-      "matchTime": 1790275500000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=portugal-wales-15534097&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=portugal-wales-15534097&source=stv",
-          "source": "STV",
-          "hd": true,
-          "language": "MULTI"
-        },
-        {
-          "id": "stream-3",
-          "streamNo": 3,
-          "embedUrl": "https://football77.org/embed/?id=portugal-wales-15534097&source=ppv",
-          "source": "PPV",
-          "hd": true,
-          "language": "EN"
-        }
-      ],
-      "streamCount": 3
-    },
-    {
       "id": "denmark-norway-15534100",
       "title": "Norway vs Denmark",
       "homeTeam": "Norway",
@@ -313,84 +274,6 @@
           "id": "stream-3",
           "streamNo": 3,
           "embedUrl": "https://football77.org/embed/?id=austria-israel-15534155&source=ppv",
-          "source": "PPV",
-          "hd": true,
-          "language": "EN"
-        }
-      ],
-      "streamCount": 3
-    },
-    {
-      "id": "kosovo-ireland-15534165",
-      "title": "Kosovo vs Ireland",
-      "homeTeam": "Kosovo",
-      "awayTeam": "Ireland",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxNTQ0MjY6YTk5NzllNmFjNTVi.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0NjkzOjM0Yzg4OTUxODg4Zg.png",
-      "league": "UEFA Nations League",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjEwNzgzOjc3MzJlNjBiOTk1Mw.png",
-      "matchTime": 1790275500000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=kosovo-ireland-15534165&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=kosovo-ireland-15534165&source=stv",
-          "source": "STV",
-          "hd": true,
-          "language": "MULTI"
-        },
-        {
-          "id": "stream-3",
-          "streamNo": 3,
-          "embedUrl": "https://football77.org/embed/?id=kosovo-ireland-15534165&source=ppv",
-          "source": "PPV",
-          "hd": true,
-          "language": "EN"
-        }
-      ],
-      "streamCount": 3
-    },
-    {
-      "id": "liechtenstein-lithuania-15534241",
-      "title": "Liechtenstein vs Lithuania",
-      "homeTeam": "Liechtenstein",
-      "awayTeam": "Lithuania",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0ODMwOjQ3MTYxNTViMGFjMg.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0Nzc2OjllNThmMWVjMDNjYQ.png",
-      "league": "UEFA Nations League",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjEwNzgzOjc3MzJlNjBiOTk1Mw.png",
-      "matchTime": 1790275500000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=liechtenstein-lithuania-15534241&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=liechtenstein-lithuania-15534241&source=stv",
-          "source": "STV",
-          "hd": true,
-          "language": "MULTI"
-        },
-        {
-          "id": "stream-3",
-          "streamNo": 3,
-          "embedUrl": "https://football77.org/embed/?id=liechtenstein-lithuania-15534241&source=ppv",
           "source": "PPV",
           "hd": true,
           "language": "EN"
@@ -734,6 +617,48 @@
       "league": "UEFA Nations League",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjEwNzgzOjc3MzJlNjBiOTk1Mw.png",
       "matchTime": 1790265600000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "portugal-wales-15534097",
+      "title": "Portugal vs Wales",
+      "homeTeam": "Portugal",
+      "awayTeam": "Wales",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0NzA0OmYwYjFjNzY4OGQ0Mg.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0NzAyOjU2ZjhkMDA3NWQxNw.png",
+      "league": "UEFA Nations League",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjEwNzgzOjc3MzJlNjBiOTk1Mw.png",
+      "matchTime": 1790275500000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "kosovo-ireland-15534165",
+      "title": "Kosovo vs Ireland",
+      "homeTeam": "Kosovo",
+      "awayTeam": "Ireland",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxNTQ0MjY6YTk5NzllNmFjNTVi.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0NjkzOjM0Yzg4OTUxODg4Zg.png",
+      "league": "UEFA Nations League",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjEwNzgzOjc3MzJlNjBiOTk1Mw.png",
+      "matchTime": 1790275500000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "liechtenstein-lithuania-15534241",
+      "title": "Liechtenstein vs Lithuania",
+      "homeTeam": "Liechtenstein",
+      "awayTeam": "Lithuania",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0ODMwOjQ3MTYxNTViMGFjMg.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0Nzc2OjllNThmMWVjMDNjYQ.png",
+      "league": "UEFA Nations League",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjEwNzgzOjc3MzJlNjBiOTk1Mw.png",
+      "matchTime": 1790275500000,
       "status": "finished",
       "streams": [],
       "streamCount": 0
