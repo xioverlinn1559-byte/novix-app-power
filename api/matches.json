@@ -1,22 +1,22 @@
 {
-  "updatedAt": "2026-09-24T11:51:17.729794+00:00",
+  "updatedAt": "2026-09-24T12:07:07.695863+00:00",
   "matches": [
     {
-      "id": "japan-uruguay-17110321",
-      "title": "Japan vs Uruguay",
-      "homeTeam": "Japan",
-      "awayTeam": "Uruguay",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0NzcwOjA5YjZkY2RkMWZiZQ.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0NzI1OmQ0NGQxNWQ3Yzg2YQ.png",
-      "league": "International Friendly Games",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjg1MTozNDZjYjYyMjZiODY.png",
-      "matchTime": 1790244300000,
+      "id": "east-timor-myanmar-17080765",
+      "title": "Myanmar vs East Timor",
+      "homeTeam": "Myanmar",
+      "awayTeam": "East Timor",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyMzQ4NDpjOTM1ZTEwNDFkYmM.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyMzQ5Nzo0ZGY0MTI5OWEyZmM.png",
+      "league": "ASEAN Cup",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM3ODI0OmQ0ZjY3OWYwNTg2NQ.png",
+      "matchTime": 1790251200000,
       "status": "inprogress",
       "streams": [
         {
           "id": "stream-1",
           "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=japan-uruguay-17110321&source=lola",
+          "embedUrl": "https://football77.org/embed/?id=east-timor-myanmar-17080765&source=lola",
           "source": "lola",
           "hd": false,
           "language": "MULTI"
@@ -191,20 +191,6 @@
       "streamCount": 0
     },
     {
-      "id": "east-timor-myanmar-17080765",
-      "title": "Myanmar vs East Timor",
-      "homeTeam": "Myanmar",
-      "awayTeam": "East Timor",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyMzQ4NDpjOTM1ZTEwNDFkYmM.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyMzQ5Nzo0ZGY0MTI5OWEyZmM.png",
-      "league": "ASEAN Cup",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM3ODI0OmQ0ZjY3OWYwNTg2NQ.png",
-      "matchTime": 1790251200000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
       "id": "palestine-new-zealand-17117109",
       "title": "Palestine vs New Zealand",
       "homeTeam": "Palestine",
@@ -214,6 +200,20 @@
       "league": "International Friendly Games",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjg1MTozNDZjYjYyMjZiODY.png",
       "matchTime": 1790242200000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "japan-uruguay-17110321",
+      "title": "Japan vs Uruguay",
+      "homeTeam": "Japan",
+      "awayTeam": "Uruguay",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0NzcwOjA5YjZkY2RkMWZiZQ.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0NzI1OmQ0NGQxNWQ3Yzg2YQ.png",
+      "league": "International Friendly Games",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjg1MTozNDZjYjYyMjZiODY.png",
+      "matchTime": 1790244300000,
       "status": "finished",
       "streams": [],
       "streamCount": 0
