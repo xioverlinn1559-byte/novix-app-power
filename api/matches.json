@@ -1,29 +1,6 @@
 {
-  "updatedAt": "2026-09-24T10:51:31.188352+00:00",
+  "updatedAt": "2026-09-24T11:05:25.202440+00:00",
   "matches": [
-    {
-      "id": "cote-divoire-u18-spain-u18-17053156",
-      "title": "C\u00f4te d'Ivoire U18 vs Spain U18",
-      "homeTeam": "C\u00f4te d'Ivoire U18",
-      "awayTeam": "Spain U18",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxMjc1MTg5OjYyY2QzYjRmN2IzMg.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyODk4MDk6MTEzMGM5ZGYxZjg0.png",
-      "league": "UEFA Friendship Cup",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM3NzA5OmIzODdiOTFhZWVlYg.png",
-      "matchTime": 1790240400000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=cote-divoire-u18-spain-u18-17053156&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
     {
       "id": "south-korea-u18-egypt-u18-17053160",
       "title": "Egypt U18 vs South Korea U18",
@@ -40,29 +17,6 @@
           "id": "stream-1",
           "streamNo": 1,
           "embedUrl": "https://football77.org/embed/?id=south-korea-u18-egypt-u18-17053160&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "brunei-darussalam-laos-17080764",
-      "title": "Laos vs Brunei Darussalam",
-      "homeTeam": "Laos",
-      "awayTeam": "Brunei Darussalam",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyMzQ4NjoyZDE4ZDFjN2JiZGY.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyMzQ5MTowZjc5NjQ5Nzc0YTg.png",
-      "league": "ASEAN Cup",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM3ODI0OmQ0ZjY3OWYwNTg2NQ.png",
-      "matchTime": 1790240400000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=brunei-darussalam-laos-17080764&source=lola",
           "source": "lola",
           "hd": false,
           "language": "MULTI"
@@ -117,6 +71,37 @@
       "streamCount": 1
     },
     {
+      "id": "ecuador-south-korea-17110322",
+      "title": "South Korea vs Ecuador",
+      "homeTeam": "South Korea",
+      "awayTeam": "Ecuador",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0NzM1OjAzMTg5N2I1MjkwOQ.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0NzU3OmU5OWU2M2M2NTM2ZA.png",
+      "league": "International Friendly Games",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjg1MTozNDZjYjYyMjZiODY.png",
+      "matchTime": 1790247600000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=ecuador-south-korea-17110322&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        },
+        {
+          "id": "stream-2",
+          "streamNo": 2,
+          "embedUrl": "https://football77.org/embed/?id=ecuador-south-korea-17110322&source=stv",
+          "source": "STV",
+          "hd": true,
+          "language": "MULTI"
+        }
+      ],
+      "streamCount": 2
+    },
+    {
       "id": "rionegro-aguilas-doradas-america-de-cali-16390756",
       "title": "Am\u00e9rica de Cali vs Rionegro \u00c1guilas Doradas",
       "homeTeam": "Am\u00e9rica de Cali",
@@ -159,6 +144,20 @@
       "streamCount": 0
     },
     {
+      "id": "cote-divoire-u18-spain-u18-17053156",
+      "title": "C\u00f4te d'Ivoire U18 vs Spain U18",
+      "homeTeam": "C\u00f4te d'Ivoire U18",
+      "awayTeam": "Spain U18",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxMjc1MTg5OjYyY2QzYjRmN2IzMg.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyODk4MDk6MTEzMGM5ZGYxZjg0.png",
+      "league": "UEFA Friendship Cup",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM3NzA5OmIzODdiOTFhZWVlYg.png",
+      "matchTime": 1790240400000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "canada-u18-brazil-u18-17053164",
       "title": "Brazil U18 vs Canada U18",
       "homeTeam": "Brazil U18",
@@ -187,6 +186,20 @@
       "streamCount": 0
     },
     {
+      "id": "brunei-darussalam-laos-17080764",
+      "title": "Laos vs Brunei Darussalam",
+      "homeTeam": "Laos",
+      "awayTeam": "Brunei Darussalam",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyMzQ4NjoyZDE4ZDFjN2JiZGY.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyMzQ5MTowZjc5NjQ5Nzc0YTg.png",
+      "league": "ASEAN Cup",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM3ODI0OmQ0ZjY3OWYwNTg2NQ.png",
+      "matchTime": 1790240400000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "east-timor-myanmar-17080765",
       "title": "Myanmar vs East Timor",
       "homeTeam": "Myanmar",
@@ -196,20 +209,6 @@
       "league": "ASEAN Cup",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM3ODI0OmQ0ZjY3OWYwNTg2NQ.png",
       "matchTime": 1790251200000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "ecuador-south-korea-17110322",
-      "title": "South Korea vs Ecuador",
-      "homeTeam": "South Korea",
-      "awayTeam": "Ecuador",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0NzM1OjAzMTg5N2I1MjkwOQ.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0NzU3OmU5OWU2M2M2NTM2ZA.png",
-      "league": "International Friendly Games",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjg1MTozNDZjYjYyMjZiODY.png",
-      "matchTime": 1790247600000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
