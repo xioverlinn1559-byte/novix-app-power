@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T00:52:44.975716+00:00",
+  "updatedAt": "2026-09-25T01:05:42.261168+00:00",
   "matches": [
     {
       "id": "nicaragua-dominican-republic-16654763",
@@ -110,6 +110,29 @@
       "streamCount": 2
     },
     {
+      "id": "club-atletico-la-paz-alebrijes-de-oaxaca-16522471",
+      "title": "Alebrijes de Oaxaca vs Club Atletico La Paz",
+      "homeTeam": "Alebrijes de Oaxaca",
+      "awayTeam": "Club Atletico La Paz",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxMDk4NTk6MTFiNjMzZWRmN2Qz.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0MTk5Mjg6OTRkMWM0MTFiYmE1.png",
+      "league": "Liga de Expansi\u00f3n MX, Apertura",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNjExOmJlMmJhMTNhYzYxZg.png",
+      "matchTime": 1790298000000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=club-atletico-la-paz-alebrijes-de-oaxaca-16522471&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
       "id": "curacao-costa-rica-16654762",
       "title": "Costa Rica vs Cura\u00e7ao",
       "homeTeam": "Costa Rica",
@@ -147,20 +170,6 @@
       "league": "Primera A",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNTM5OjZiYTVlMWUwMjA5OA.png",
       "matchTime": 1790377800000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "club-atletico-la-paz-alebrijes-de-oaxaca-16522471",
-      "title": "Alebrijes de Oaxaca vs Club Atletico La Paz",
-      "homeTeam": "Alebrijes de Oaxaca",
-      "awayTeam": "Club Atletico La Paz",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxMDk4NTk6MTFiNjMzZWRmN2Qz.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0MTk5Mjg6OTRkMWM0MTFiYmE1.png",
-      "league": "Liga de Expansi\u00f3n MX, Apertura",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNjExOmJlMmJhMTNhYzYxZg.png",
-      "matchTime": 1790298000000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
