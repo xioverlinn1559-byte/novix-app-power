@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T02:23:33.657539+00:00",
+  "updatedAt": "2026-09-25T02:37:04.216327+00:00",
   "matches": [
     {
       "id": "curacao-costa-rica-16654762",
@@ -25,37 +25,6 @@
           "id": "stream-2",
           "streamNo": 2,
           "embedUrl": "https://football77.org/embed/?id=curacao-costa-rica-16654762&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 2
-    },
-    {
-      "id": "millonarios-atletico-nacional-16390757",
-      "title": "Atl\u00e9tico Nacional vs Millonarios",
-      "homeTeam": "Atl\u00e9tico Nacional",
-      "awayTeam": "Millonarios",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo2MTA2Ojc3MTIzNjNkN2VjZA.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo2MTE3OjBhMjdkOGZmYjI0NQ.png",
-      "league": "Primera A",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNTM5OjZiYTVlMWUwMjA5OA.png",
-      "matchTime": 1790296200000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=millonarios-atletico-nacional-16390757&source=stv",
-          "source": "STV",
-          "hd": true,
-          "language": "MULTI"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=millonarios-atletico-nacional-16390757&source=lola",
           "source": "lola",
           "hd": false,
           "language": "MULTI"
@@ -184,6 +153,20 @@
       "league": "NCAA Regular Season, Women",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE4OTQ0OjdkN2ZiODhlN2U2YQ.png",
       "matchTime": 1790294400000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "millonarios-atletico-nacional-16390757",
+      "title": "Atl\u00e9tico Nacional vs Millonarios",
+      "homeTeam": "Atl\u00e9tico Nacional",
+      "awayTeam": "Millonarios",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo2MTA2Ojc3MTIzNjNkN2VjZA.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo2MTE3OjBhMjdkOGZmYjI0NQ.png",
+      "league": "Primera A",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNTM5OjZiYTVlMWUwMjA5OA.png",
+      "matchTime": 1790296200000,
       "status": "finished",
       "streams": [],
       "streamCount": 0
