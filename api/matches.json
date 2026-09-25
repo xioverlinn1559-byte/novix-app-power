@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T21:24:08.435153+00:00",
+  "updatedAt": "2026-09-25T21:37:50.819434+00:00",
   "matches": [
     {
       "id": "grenada-cuba-16654774",
@@ -17,29 +17,6 @@
           "id": "stream-1",
           "streamNo": 1,
           "embedUrl": "https://football77.org/embed/?id=grenada-cuba-16654774&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "sportivo-luqueno-guarani-16588879",
-      "title": "Sportivo Luque\u00f1o vs Guaran\u00ed",
-      "homeTeam": "Sportivo Luque\u00f1o",
-      "awayTeam": "Guaran\u00ed",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo1OTk4OjA2NjcwMzM1MzRmNQ.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo1OTk0OjYyN2IzMjMxOGYxZQ.png",
-      "league": "Primera Divisi\u00f3n",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNTQxOjBiZDU5YzE3NGUzMQ.png",
-      "matchTime": 1790364600000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=sportivo-luqueno-guarani-16588879&source=lola",
           "source": "lola",
           "hd": false,
           "language": "MULTI"
@@ -771,6 +748,20 @@
       "league": "Primera Federaci\u00f3n",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE3MDczOmNjMDVmZGRjYWMyMg.png",
       "matchTime": 1790363700000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "sportivo-luqueno-guarani-16588879",
+      "title": "Sportivo Luque\u00f1o vs Guaran\u00ed",
+      "homeTeam": "Sportivo Luque\u00f1o",
+      "awayTeam": "Guaran\u00ed",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo1OTk4OjA2NjcwMzM1MzRmNQ.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo1OTk0OjYyN2IzMjMxOGYxZQ.png",
+      "league": "Primera Divisi\u00f3n",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNTQxOjBiZDU5YzE3NGUzMQ.png",
+      "matchTime": 1790364600000,
       "status": "finished",
       "streams": [],
       "streamCount": 0
