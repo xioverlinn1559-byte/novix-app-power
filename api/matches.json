@@ -1,83 +1,6 @@
 {
-  "updatedAt": "2026-09-25T14:53:29.709741+00:00",
+  "updatedAt": "2026-09-25T15:06:26.933326+00:00",
   "matches": [
-    {
-      "id": "indonesia-singapore-17080762",
-      "title": "Indonesia vs Singapore",
-      "homeTeam": "Indonesia",
-      "awayTeam": "Singapore",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0ODI5OmYyOGUwYmFlMjBjYg.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0NzM4OmNkNmRmNjY3Y2EyNw.png",
-      "league": "ASEAN Cup",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM3ODI0OmQ0ZjY3OWYwNTg2NQ.png",
-      "matchTime": 1790341200000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=indonesia-singapore-17080762&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "benfica-u23-maritimo-u23-16724405",
-      "title": "Mar\u00edtimo U23 vs Benfica U23",
-      "homeTeam": "Mar\u00edtimo U23",
-      "awayTeam": "Benfica U23",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyOTUwODU6ZGQzOWI5YzM4ZmRi.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyOTUwOTQ6MTA1ZTNjNzgxOTM2.png",
-      "league": "U23 Liga Next Gen",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExMzQxOmEyYmIzNDFkMTlhMg.png",
-      "matchTime": 1790341200000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=benfica-u23-maritimo-u23-16724405&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "guinea-bissau-tanzania-17018574",
-      "title": "Tanzania vs Guinea-Bissau",
-      "homeTeam": "Tanzania",
-      "awayTeam": "Guinea-Bissau",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0ODM1OjQyYmE2ZTVhMzQxZg.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyMzQ3ODo3M2E0NzI0N2MyNzg.png",
-      "league": "Africa Cup of Nations Qual.",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE4NDg6ZmJiNWM3MDZkMWQz.png",
-      "matchTime": 1790341200000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=guinea-bissau-tanzania-17018574&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=guinea-bissau-tanzania-17018574&source=stv",
-          "source": "STV",
-          "hd": true,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 2
-    },
     {
       "id": "ethiopia-sudan-17018599",
       "title": "Sudan vs Ethiopia",
@@ -102,6 +25,29 @@
       "streamCount": 1
     },
     {
+      "id": "lesotho-niger-17018553",
+      "title": "Niger vs Lesotho",
+      "homeTeam": "Niger",
+      "awayTeam": "Lesotho",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo4MDMxOmMxMTBiMWY2ZDgxMA.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo4MDMzOjU5ZjM5NDg0OWE2NQ.png",
+      "league": "Africa Cup of Nations Qual.",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE4NDg6ZmJiNWM3MDZkMWQz.png",
+      "matchTime": 1790348400000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=lesotho-niger-17018553&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
       "id": "azerbaijan-u21-czechia-u21-13500836",
       "title": "Azerbaijan U21 vs Czechia U21",
       "homeTeam": "Azerbaijan U21",
@@ -117,6 +63,29 @@
           "id": "stream-1",
           "streamNo": 1,
           "embedUrl": "https://football77.org/embed/?id=azerbaijan-u21-czechia-u21-13500836&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
+      "id": "iceland-u21-france-u21-13500839",
+      "title": "Iceland U21 vs France U21",
+      "homeTeam": "Iceland U21",
+      "awayTeam": "France U21",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo2MDMxOmI1N2MwNGMzMTY0Yw.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo1OTM2OmEyZDY4M2FlYWZiOQ.png",
+      "league": "U21 Euro Qualification",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjI2OjJiNThhMmUzZjMyNQ.png",
+      "matchTime": 1790348400000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=iceland-u21-france-u21-13500839&source=lola",
           "source": "lola",
           "hd": false,
           "language": "MULTI"
@@ -363,6 +332,20 @@
       "streamCount": 0
     },
     {
+      "id": "indonesia-singapore-17080762",
+      "title": "Indonesia vs Singapore",
+      "homeTeam": "Indonesia",
+      "awayTeam": "Singapore",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0ODI5OmYyOGUwYmFlMjBjYg.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0NzM4OmNkNmRmNjY3Y2EyNw.png",
+      "league": "ASEAN Cup",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM3ODI0OmQ0ZjY3OWYwNTg2NQ.png",
+      "matchTime": 1790341200000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "england-u20-italy-u20-16928710",
       "title": "Italy U20 vs England U20",
       "homeTeam": "Italy U20",
@@ -433,6 +416,34 @@
       "streamCount": 0
     },
     {
+      "id": "benfica-u23-maritimo-u23-16724405",
+      "title": "Mar\u00edtimo U23 vs Benfica U23",
+      "homeTeam": "Mar\u00edtimo U23",
+      "awayTeam": "Benfica U23",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyOTUwODU6ZGQzOWI5YzM4ZmRi.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyOTUwOTQ6MTA1ZTNjNzgxOTM2.png",
+      "league": "U23 Liga Next Gen",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExMzQxOmEyYmIzNDFkMTlhMg.png",
+      "matchTime": 1790341200000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "guinea-bissau-tanzania-17018574",
+      "title": "Tanzania vs Guinea-Bissau",
+      "homeTeam": "Tanzania",
+      "awayTeam": "Guinea-Bissau",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0ODM1OjQyYmE2ZTVhMzQxZg.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyMzQ3ODo3M2E0NzI0N2MyNzg.png",
+      "league": "Africa Cup of Nations Qual.",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE4NDg6ZmJiNWM3MDZkMWQz.png",
+      "matchTime": 1790341200000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "mozambique-senegal-17018603",
       "title": "Senegal vs Mozambique",
       "homeTeam": "Senegal",
@@ -443,20 +454,6 @@
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE4NDg6ZmJiNWM3MDZkMWQz.png",
       "matchTime": 1790341200000,
       "status": "canceled",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "lesotho-niger-17018553",
-      "title": "Niger vs Lesotho",
-      "homeTeam": "Niger",
-      "awayTeam": "Lesotho",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo4MDMxOmMxMTBiMWY2ZDgxMA.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo4MDMzOjU5ZjM5NDg0OWE2NQ.png",
-      "league": "Africa Cup of Nations Qual.",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE4NDg6ZmJiNWM3MDZkMWQz.png",
-      "matchTime": 1790348400000,
-      "status": "notstarted",
       "streams": [],
       "streamCount": 0
     },
@@ -596,20 +593,6 @@
       "league": "Africa Cup of Nations Qual.",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE4NDg6ZmJiNWM3MDZkMWQz.png",
       "matchTime": 1790362800000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "iceland-u21-france-u21-13500839",
-      "title": "Iceland U21 vs France U21",
-      "homeTeam": "Iceland U21",
-      "awayTeam": "France U21",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo2MDMxOmI1N2MwNGMzMTY0Yw.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo1OTM2OmEyZDY4M2FlYWZiOQ.png",
-      "league": "U21 Euro Qualification",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjI2OjJiNThhMmUzZjMyNQ.png",
-      "matchTime": 1790348400000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
