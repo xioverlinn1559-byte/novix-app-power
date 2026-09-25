@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T11:24:35.881125+00:00",
+  "updatedAt": "2026-09-25T11:38:37.836933+00:00",
   "matches": [
     {
       "id": "vietnam-u23-south-korea-u23-17163687",
@@ -63,29 +63,6 @@
           "id": "stream-1",
           "streamNo": 1,
           "embedUrl": "https://football77.org/embed/?id=uzbekistan-south-korea-17155991&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "england-u20-italy-u20-16928710",
-      "title": "Italy U20 vs England U20",
-      "homeTeam": "Italy U20",
-      "awayTeam": "England U20",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyMjY4NzpkNjc5YjA3ZjEwNTc.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozNTQ2NTpiOTIwYjliMjM1OTk.png",
-      "league": "U20 Elite League",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIzNDkzOjdlZTVhOWE3NzQzYw.png",
-      "matchTime": 1790328600000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=england-u20-italy-u20-16928710&source=lola",
           "source": "lola",
           "hd": false,
           "language": "MULTI"
@@ -354,6 +331,20 @@
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM3ODI0OmQ0ZjY3OWYwNTg2NQ.png",
       "matchTime": 1790341200000,
       "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "england-u20-italy-u20-16928710",
+      "title": "Italy U20 vs England U20",
+      "homeTeam": "Italy U20",
+      "awayTeam": "England U20",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyMjY4NzpkNjc5YjA3ZjEwNTc.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozNTQ2NTpiOTIwYjliMjM1OTk.png",
+      "league": "U20 Elite League",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIzNDkzOjdlZTVhOWE3NzQzYw.png",
+      "matchTime": 1790328600000,
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
