@@ -1,138 +1,22 @@
 {
-  "updatedAt": "2026-09-25T20:51:14.701056+00:00",
+  "updatedAt": "2026-09-25T21:05:52.594224+00:00",
   "matches": [
     {
-      "id": "zambia-algeria-17018550",
-      "title": "Algeria vs Zambia",
-      "homeTeam": "Algeria",
-      "awayTeam": "Zambia",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0NjkxOmQ1M2VjYWIwNWFlMg.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0NzIwOjQzZWNhMTk1YzU0NQ.png",
-      "league": "Africa Cup of Nations Qual.",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE4NDg6ZmJiNWM3MDZkMWQz.png",
-      "matchTime": 1790362800000,
+      "id": "grenada-cuba-16654774",
+      "title": "Grenada vs Cuba",
+      "homeTeam": "Grenada",
+      "awayTeam": "Cuba",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyMTgxNDo2ZGJkNTVlMmFmMjc.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0ODI0OjhiZThmYmYyZjI5OA.png",
+      "league": "CONCACAF Nations League",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE0MTAwOjNjNjdiMmNmMDU2OA.png",
+      "matchTime": 1790370000000,
       "status": "inprogress",
       "streams": [
         {
           "id": "stream-1",
           "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=zambia-algeria-17018550&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "morocco-gabon-17018552",
-      "title": "Morocco vs Gabon",
-      "homeTeam": "Morocco",
-      "awayTeam": "Gabon",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0Nzc4OjcxMTRjNzgyMjJmOQ.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0NzYxOjAwNWNiM2VkYzk5MQ.png",
-      "league": "Africa Cup of Nations Qual.",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE4NDg6ZmJiNWM3MDZkMWQz.png",
-      "matchTime": 1790362800000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=morocco-gabon-17018552&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=morocco-gabon-17018552&source=stv",
-          "source": "STV",
-          "hd": true,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 2
-    },
-    {
-      "id": "mali-cabo-verde-17018556",
-      "title": "Mali vs Cabo Verde",
-      "homeTeam": "Mali",
-      "awayTeam": "Cabo Verde",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0ODMxOmZjM2RmMjFlYmNkNQ.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0NzUzOmViODg4OGJkNzJhYw.png",
-      "league": "Africa Cup of Nations Qual.",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE4NDg6ZmJiNWM3MDZkMWQz.png",
-      "matchTime": 1790362800000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=mali-cabo-verde-17018556&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=mali-cabo-verde-17018556&source=stv",
-          "source": "STV",
-          "hd": true,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 2
-    },
-    {
-      "id": "egypt-angola-17018557",
-      "title": "Egypt vs Angola",
-      "homeTeam": "Egypt",
-      "awayTeam": "Angola",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0NzU4OjUxMDcwOGQzY2VhYw.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0NjkyOjVkOTYxYjg5ZDNkMw.png",
-      "league": "Africa Cup of Nations Qual.",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE4NDg6ZmJiNWM3MDZkMWQz.png",
-      "matchTime": 1790362800000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=egypt-angola-17018557&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=egypt-angola-17018557&source=stv",
-          "source": "STV",
-          "hd": true,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 2
-    },
-    {
-      "id": "burkina-faso-benin-17018569",
-      "title": "Burkina Faso vs Benin",
-      "homeTeam": "Burkina Faso",
-      "awayTeam": "Benin",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0NzQ5OmRjZTI2NWU3NTE3Yw.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0NzQ0OjFkNjU2ZjkzMjNlMw.png",
-      "league": "Africa Cup of Nations Qual.",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE4NDg6ZmJiNWM3MDZkMWQz.png",
-      "matchTime": 1790362800000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=burkina-faso-benin-17018569&source=lola",
+          "embedUrl": "https://football77.org/embed/?id=grenada-cuba-16654774&source=lola",
           "source": "lola",
           "hd": false,
           "language": "MULTI"
@@ -225,20 +109,6 @@
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE0MTAwOjNjNjdiMmNmMDU2OA.png",
       "matchTime": 1790301600000,
       "status": "finished",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "grenada-cuba-16654774",
-      "title": "Grenada vs Cuba",
-      "homeTeam": "Grenada",
-      "awayTeam": "Cuba",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyMTgxNDo2ZGJkNTVlMmFmMjc.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0ODI0OjhiZThmYmYyZjI5OA.png",
-      "league": "CONCACAF Nations League",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE0MTAwOjNjNjdiMmNmMDU2OA.png",
-      "matchTime": 1790370000000,
-      "status": "notstarted",
       "streams": [],
       "streamCount": 0
     },
@@ -644,6 +514,76 @@
       "league": "Africa Cup of Nations Qual.",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE4NDg6ZmJiNWM3MDZkMWQz.png",
       "matchTime": 1790352000000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "zambia-algeria-17018550",
+      "title": "Algeria vs Zambia",
+      "homeTeam": "Algeria",
+      "awayTeam": "Zambia",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0NjkxOmQ1M2VjYWIwNWFlMg.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0NzIwOjQzZWNhMTk1YzU0NQ.png",
+      "league": "Africa Cup of Nations Qual.",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE4NDg6ZmJiNWM3MDZkMWQz.png",
+      "matchTime": 1790362800000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "morocco-gabon-17018552",
+      "title": "Morocco vs Gabon",
+      "homeTeam": "Morocco",
+      "awayTeam": "Gabon",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0Nzc4OjcxMTRjNzgyMjJmOQ.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0NzYxOjAwNWNiM2VkYzk5MQ.png",
+      "league": "Africa Cup of Nations Qual.",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE4NDg6ZmJiNWM3MDZkMWQz.png",
+      "matchTime": 1790362800000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "mali-cabo-verde-17018556",
+      "title": "Mali vs Cabo Verde",
+      "homeTeam": "Mali",
+      "awayTeam": "Cabo Verde",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0ODMxOmZjM2RmMjFlYmNkNQ.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0NzUzOmViODg4OGJkNzJhYw.png",
+      "league": "Africa Cup of Nations Qual.",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE4NDg6ZmJiNWM3MDZkMWQz.png",
+      "matchTime": 1790362800000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "egypt-angola-17018557",
+      "title": "Egypt vs Angola",
+      "homeTeam": "Egypt",
+      "awayTeam": "Angola",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0NzU4OjUxMDcwOGQzY2VhYw.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0NjkyOjVkOTYxYjg5ZDNkMw.png",
+      "league": "Africa Cup of Nations Qual.",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE4NDg6ZmJiNWM3MDZkMWQz.png",
+      "matchTime": 1790362800000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "burkina-faso-benin-17018569",
+      "title": "Burkina Faso vs Benin",
+      "homeTeam": "Burkina Faso",
+      "awayTeam": "Benin",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0NzQ5OmRjZTI2NWU3NTE3Yw.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0NzQ0OjFkNjU2ZjkzMjNlMw.png",
+      "league": "Africa Cup of Nations Qual.",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE4NDg6ZmJiNWM3MDZkMWQz.png",
+      "matchTime": 1790362800000,
       "status": "finished",
       "streams": [],
       "streamCount": 0
