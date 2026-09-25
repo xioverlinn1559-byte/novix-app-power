@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T11:51:48.992510+00:00",
+  "updatedAt": "2026-09-25T12:07:13.079235+00:00",
   "matches": [
     {
       "id": "vietnam-u23-south-korea-u23-17163687",
@@ -117,6 +117,29 @@
           "id": "stream-1",
           "streamNo": 1,
           "embedUrl": "https://football77.org/embed/?id=guangxi-hengchen-fc-wuxi-wugou-16980130&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
+      "id": "dejan-fc-persiba-balikpapan-16904445",
+      "title": "Persiba Balikpapan vs Dejan FC",
+      "homeTeam": "Persiba Balikpapan",
+      "awayTeam": "Dejan FC",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo2NDI5MTpjMTNmOTYzNTAwMGY.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0NjAyMzQ6MmJmOWJhNzRmYWVk.png",
+      "league": "Indonesia Championship",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIzMjI5Ojc3NDFjYWQwYmYwNA.png",
+      "matchTime": 1790337600000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=dejan-fc-persiba-balikpapan-16904445&source=lola",
           "source": "lola",
           "hd": false,
           "language": "MULTI"
@@ -358,20 +381,6 @@
       "league": "U20 Elite League",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIzNDkzOjdlZTVhOWE3NzQzYw.png",
       "matchTime": 1790350200000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "dejan-fc-persiba-balikpapan-16904445",
-      "title": "Persiba Balikpapan vs Dejan FC",
-      "homeTeam": "Persiba Balikpapan",
-      "awayTeam": "Dejan FC",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo2NDI5MTpjMTNmOTYzNTAwMGY.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0NjAyMzQ6MmJmOWJhNzRmYWVk.png",
-      "league": "Indonesia Championship",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIzMjI5Ojc3NDFjYWQwYmYwNA.png",
-      "matchTime": 1790337600000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
