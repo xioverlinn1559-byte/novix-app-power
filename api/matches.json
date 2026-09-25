@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T21:05:52.594224+00:00",
+  "updatedAt": "2026-09-25T21:24:08.435153+00:00",
   "matches": [
     {
       "id": "grenada-cuba-16654774",
@@ -17,29 +17,6 @@
           "id": "stream-1",
           "streamNo": 1,
           "embedUrl": "https://football77.org/embed/?id=grenada-cuba-16654774&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "ud-ibiza-real-zaragoza-16599962",
-      "title": "UD Ibiza vs Real Zaragoza",
-      "homeTeam": "UD Ibiza",
-      "awayTeam": "Real Zaragoza",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyNDM2ODo2ODdkYmY5M2JkOTA.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyODE1OjUxMzFlMDIyYjk5MA.png",
-      "league": "Primera Federaci\u00f3n",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE3MDczOmNjMDVmZGRjYWMyMg.png",
-      "matchTime": 1790363700000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ud-ibiza-real-zaragoza-16599962&source=lola",
           "source": "lola",
           "hd": false,
           "language": "MULTI"
@@ -780,6 +757,20 @@
       "league": "LaLiga 2",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjU0OmJmNWFmYzJiYzViZA.png",
       "matchTime": 1790361000000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "ud-ibiza-real-zaragoza-16599962",
+      "title": "UD Ibiza vs Real Zaragoza",
+      "homeTeam": "UD Ibiza",
+      "awayTeam": "Real Zaragoza",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyNDM2ODo2ODdkYmY5M2JkOTA.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyODE1OjUxMzFlMDIyYjk5MA.png",
+      "league": "Primera Federaci\u00f3n",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE3MDczOmNjMDVmZGRjYWMyMg.png",
+      "matchTime": 1790363700000,
       "status": "finished",
       "streams": [],
       "streamCount": 0
