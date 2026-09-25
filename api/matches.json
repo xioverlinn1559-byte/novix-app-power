@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T22:37:04.771501+00:00",
+  "updatedAt": "2026-09-25T22:50:32.485736+00:00",
   "matches": [
     {
       "id": "grenada-cuba-16654774",
@@ -40,6 +40,29 @@
           "id": "stream-1",
           "streamNo": 1,
           "embedUrl": "https://football77.org/embed/?id=sportivo-ameliano-nacional-asuncion-16588887&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
+      "id": "san-diego-wave-fc-racing-louisville-15385480",
+      "title": "Racing Louisville vs San Diego Wave FC",
+      "homeTeam": "Racing Louisville",
+      "awayTeam": "San Diego Wave FC",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozNzc4MjU6MzQxZGFjMzNjZTcw.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0MDgxNzA6ODQxMzY2MzZmYzg5.png",
+      "league": "NWSL",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE2OTA6MmY3NTllMGUwOTRk.png",
+      "matchTime": 1790375400000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=san-diego-wave-fc-racing-louisville-15385480&source=lola",
           "source": "lola",
           "hd": false,
           "language": "MULTI"
@@ -786,20 +809,6 @@
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNTQxOjBiZDU5YzE3NGUzMQ.png",
       "matchTime": 1790364600000,
       "status": "finished",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "san-diego-wave-fc-racing-louisville-15385480",
-      "title": "Racing Louisville vs San Diego Wave FC",
-      "homeTeam": "Racing Louisville",
-      "awayTeam": "San Diego Wave FC",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozNzc4MjU6MzQxZGFjMzNjZTcw.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0MDgxNzA6ODQxMzY2MzZmYzg5.png",
-      "league": "NWSL",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE2OTA6MmY3NTllMGUwOTRk.png",
-      "matchTime": 1790375400000,
-      "status": "notstarted",
       "streams": [],
       "streamCount": 0
     },
