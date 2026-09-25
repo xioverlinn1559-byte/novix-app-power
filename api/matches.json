@@ -1,29 +1,6 @@
 {
-  "updatedAt": "2026-09-25T02:05:20.715024+00:00",
+  "updatedAt": "2026-09-25T02:23:33.657539+00:00",
   "matches": [
-    {
-      "id": "haiti-trinidad-and-tobago-16654764",
-      "title": "Haiti vs Trinidad and Tobago",
-      "homeTeam": "Haiti",
-      "awayTeam": "Trinidad and Tobago",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo3MjI5OmQ1YTIxNTEwNWQwZg.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo1MTYyOjEzNGJjZWYzZjg1Yg.png",
-      "league": "CONCACAF Nations League",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE0MTAwOjNjNjdiMmNmMDU2OA.png",
-      "matchTime": 1790295600000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=haiti-trinidad-and-tobago-16654764&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
     {
       "id": "curacao-costa-rica-16654762",
       "title": "Costa Rica vs Cura\u00e7ao",
@@ -54,29 +31,6 @@
         }
       ],
       "streamCount": 2
-    },
-    {
-      "id": "ucla-bruins-rutgers-scarlet-knights-16751980",
-      "title": "Rutgers Scarlet Knights vs UCLA Bruins",
-      "homeTeam": "Rutgers Scarlet Knights",
-      "awayTeam": "UCLA Bruins",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyOTU4NTI6NmMzMjFhOGM0NWYw.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0MjI0MTM6M2Q2MWE1ODEyNWIz.png",
-      "league": "NCAA Regular Season, Women",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE4OTQ0OjdkN2ZiODhlN2U2YQ.png",
-      "matchTime": 1790294400000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ucla-bruins-rutgers-scarlet-knights-16751980&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
     },
     {
       "id": "millonarios-atletico-nacional-16390757",
@@ -156,6 +110,29 @@
       "streamCount": 1
     },
     {
+      "id": "csd-municipal-cd-suchitepequez-16420938",
+      "title": "CSD Municipal vs CD Suchitep\u00e9quez",
+      "homeTeam": "CSD Municipal",
+      "awayTeam": "CD Suchitep\u00e9quez",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo3MDI1OmZkY2UwMTA2ZTVkYw.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo3MDIyOjE0MzIxYWYyZWJlNw.png",
+      "league": "Liga Nacional de F\u00fatbol de Guatemala, Apertura",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNjE5Ojg2MWZiZGUyYjcxNw.png",
+      "matchTime": 1790301600000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=csd-municipal-cd-suchitepequez-16420938&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
       "id": "nicaragua-dominican-republic-16654763",
       "title": "Dominican Republic vs Nicaragua",
       "homeTeam": "Dominican Republic",
@@ -165,6 +142,20 @@
       "league": "CONCACAF Nations League",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE0MTAwOjNjNjdiMmNmMDU2OA.png",
       "matchTime": 1790294400000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "haiti-trinidad-and-tobago-16654764",
+      "title": "Haiti vs Trinidad and Tobago",
+      "homeTeam": "Haiti",
+      "awayTeam": "Trinidad and Tobago",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo3MjI5OmQ1YTIxNTEwNWQwZg.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo1MTYyOjEzNGJjZWYzZjg1Yg.png",
+      "league": "CONCACAF Nations League",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE0MTAwOjNjNjdiMmNmMDU2OA.png",
+      "matchTime": 1790295600000,
       "status": "finished",
       "streams": [],
       "streamCount": 0
@@ -184,6 +175,20 @@
       "streamCount": 0
     },
     {
+      "id": "ucla-bruins-rutgers-scarlet-knights-16751980",
+      "title": "Rutgers Scarlet Knights vs UCLA Bruins",
+      "homeTeam": "Rutgers Scarlet Knights",
+      "awayTeam": "UCLA Bruins",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyOTU4NTI6NmMzMjFhOGM0NWYw.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0MjI0MTM6M2Q2MWE1ODEyNWIz.png",
+      "league": "NCAA Regular Season, Women",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE4OTQ0OjdkN2ZiODhlN2U2YQ.png",
+      "matchTime": 1790294400000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "deportivo-pasto-boyaca-chico-fc-16390758",
       "title": "Boyac\u00e1 Chic\u00f3 FC vs Deportivo Pasto",
       "homeTeam": "Boyac\u00e1 Chic\u00f3 FC",
@@ -193,20 +198,6 @@
       "league": "Primera A",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNTM5OjZiYTVlMWUwMjA5OA.png",
       "matchTime": 1790377800000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "csd-municipal-cd-suchitepequez-16420938",
-      "title": "CSD Municipal vs CD Suchitep\u00e9quez",
-      "homeTeam": "CSD Municipal",
-      "awayTeam": "CD Suchitep\u00e9quez",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo3MDI1OmZkY2UwMTA2ZTVkYw.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo3MDIyOjE0MzIxYWYyZWJlNw.png",
-      "league": "Liga Nacional de F\u00fatbol de Guatemala, Apertura",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNjE5Ojg2MWZiZGUyYjcxNw.png",
-      "matchTime": 1790301600000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
