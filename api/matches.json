@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T13:52:42.127522+00:00",
+  "updatedAt": "2026-09-25T14:06:36.551979+00:00",
   "matches": [
     {
       "id": "indonesia-singapore-17080762",
@@ -17,29 +17,6 @@
           "id": "stream-1",
           "streamNo": 1,
           "embedUrl": "https://football77.org/embed/?id=indonesia-singapore-17080762&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "dejan-fc-persiba-balikpapan-16904445",
-      "title": "Persiba Balikpapan vs Dejan FC",
-      "homeTeam": "Persiba Balikpapan",
-      "awayTeam": "Dejan FC",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo2NDI5MTpjMTNmOTYzNTAwMGY.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0NjAyMzQ6MmJmOWJhNzRmYWVk.png",
-      "league": "Indonesia Championship",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIzMjI5Ojc3NDFjYWQwYmYwNA.png",
-      "matchTime": 1790337600000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=dejan-fc-persiba-balikpapan-16904445&source=lola",
           "source": "lola",
           "hd": false,
           "language": "MULTI"
@@ -100,6 +77,29 @@
         }
       ],
       "streamCount": 2
+    },
+    {
+      "id": "ethiopia-sudan-17018599",
+      "title": "Sudan vs Ethiopia",
+      "homeTeam": "Sudan",
+      "awayTeam": "Ethiopia",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0NzM0OmQ2N2Q0OWMwNTFlYQ.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo4MDM2OjgyM2ExNWMxZDk4ZQ.png",
+      "league": "Africa Cup of Nations Qual.",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE4NDg6ZmJiNWM3MDZkMWQz.png",
+      "matchTime": 1790341200000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=ethiopia-sudan-17018599&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        }
+      ],
+      "streamCount": 1
     },
     {
       "id": "azerbaijan-u21-czechia-u21-13500836",
@@ -419,6 +419,20 @@
       "streamCount": 0
     },
     {
+      "id": "dejan-fc-persiba-balikpapan-16904445",
+      "title": "Persiba Balikpapan vs Dejan FC",
+      "homeTeam": "Persiba Balikpapan",
+      "awayTeam": "Dejan FC",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo2NDI5MTpjMTNmOTYzNTAwMGY.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0NjAyMzQ6MmJmOWJhNzRmYWVk.png",
+      "league": "Indonesia Championship",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIzMjI5Ojc3NDFjYWQwYmYwNA.png",
+      "matchTime": 1790337600000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "mozambique-senegal-17018603",
       "title": "Senegal vs Mozambique",
       "homeTeam": "Senegal",
@@ -509,20 +523,6 @@
       "awayTeam": "Madagascar",
       "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0Nzg1OmIxNGEyMDk0OTdmZg.png",
       "awayLogo": "https://img.sportsrc.org/file/dGVhbTo4MDM1OjgzYTIxNGUwMzQ5NQ.png",
-      "league": "Africa Cup of Nations Qual.",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE4NDg6ZmJiNWM3MDZkMWQz.png",
-      "matchTime": 1790352000000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "ethiopia-sudan-17018599",
-      "title": "Sudan vs Ethiopia",
-      "homeTeam": "Sudan",
-      "awayTeam": "Ethiopia",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0NzM0OmQ2N2Q0OWMwNTFlYQ.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo4MDM2OjgyM2ExNWMxZDk4ZQ.png",
       "league": "Africa Cup of Nations Qual.",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE4NDg6ZmJiNWM3MDZkMWQz.png",
       "matchTime": 1790352000000,
