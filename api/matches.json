@@ -1,29 +1,6 @@
 {
-  "updatedAt": "2026-09-25T07:52:18.715499+00:00",
+  "updatedAt": "2026-09-25T08:05:46.009713+00:00",
   "matches": [
-    {
-      "id": "chinese-taipei-north-korea-17155989",
-      "title": "North Korea vs Chinese Taipei",
-      "homeTeam": "North Korea",
-      "awayTeam": "Chinese Taipei",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo3NDIxOmIyMTI1YWZjMzJkYg.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozOTk5MDpjNGY2YTNhNzRjYWM.png",
-      "league": "Asian Games, Women",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExMzMwOjA2MDViNjMzMjI3Yw.png",
-      "matchTime": 1790316000000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=chinese-taipei-north-korea-17155989&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
     {
       "id": "vietnam-china-17155990",
       "title": "China vs Vietnam",
@@ -212,6 +189,20 @@
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE4NjI6OTE5ZjBmNDFkYWRl.png",
       "matchTime": 1790332200000,
       "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "chinese-taipei-north-korea-17155989",
+      "title": "North Korea vs Chinese Taipei",
+      "homeTeam": "North Korea",
+      "awayTeam": "Chinese Taipei",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo3NDIxOmIyMTI1YWZjMzJkYg.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozOTk5MDpjNGY2YTNhNzRjYWM.png",
+      "league": "Asian Games, Women",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExMzMwOjA2MDViNjMzMjI3Yw.png",
+      "matchTime": 1790316000000,
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
