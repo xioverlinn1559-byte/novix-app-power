@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T00:08:13.626410+00:00",
+  "updatedAt": "2026-09-25T00:32:28.292084+00:00",
   "matches": [
     {
       "id": "nicaragua-dominican-republic-16654763",
@@ -42,9 +42,41 @@
       "league": "CONCACAF Nations League",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE0MTAwOjNjNjdiMmNmMDU2OA.png",
       "matchTime": 1790295600000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=haiti-trinidad-and-tobago-16654764&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
+      "id": "ucla-bruins-rutgers-scarlet-knights-16751980",
+      "title": "Rutgers Scarlet Knights vs UCLA Bruins",
+      "homeTeam": "Rutgers Scarlet Knights",
+      "awayTeam": "UCLA Bruins",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyOTU4NTI6NmMzMjFhOGM0NWYw.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0MjI0MTM6M2Q2MWE1ODEyNWIz.png",
+      "league": "NCAA Regular Season, Women",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE4OTQ0OjdkN2ZiODhlN2U2YQ.png",
+      "matchTime": 1790294400000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=ucla-bruins-rutgers-scarlet-knights-16751980&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        }
+      ],
+      "streamCount": 1
     },
     {
       "id": "curacao-costa-rica-16654762",
@@ -70,20 +102,6 @@
       "league": "CONCACAF Nations League",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE0MTAwOjNjNjdiMmNmMDU2OA.png",
       "matchTime": 1790370000000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "ucla-bruins-rutgers-scarlet-knights-16751980",
-      "title": "Rutgers Scarlet Knights vs UCLA Bruins",
-      "homeTeam": "Rutgers Scarlet Knights",
-      "awayTeam": "UCLA Bruins",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyOTU4NTI6NmMzMjFhOGM0NWYw.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0MjI0MTM6M2Q2MWE1ODEyNWIz.png",
-      "league": "NCAA Regular Season, Women",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE4OTQ0OjdkN2ZiODhlN2U2YQ.png",
-      "matchTime": 1790294400000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
