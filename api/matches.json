@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T16:53:27.431481+00:00",
+  "updatedAt": "2026-09-25T17:04:58.564326+00:00",
   "matches": [
     {
       "id": "france-u20-germany-u20-16928733",
@@ -17,29 +17,6 @@
           "id": "stream-1",
           "streamNo": 1,
           "embedUrl": "https://football77.org/embed/?id=france-u20-germany-u20-16928733&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "lesotho-niger-17018553",
-      "title": "Niger vs Lesotho",
-      "homeTeam": "Niger",
-      "awayTeam": "Lesotho",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo4MDMxOmMxMTBiMWY2ZDgxMA.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo4MDMzOjU5ZjM5NDg0OWE2NQ.png",
-      "league": "Africa Cup of Nations Qual.",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE4NDg6ZmJiNWM3MDZkMWQz.png",
-      "matchTime": 1790348400000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=lesotho-niger-17018553&source=lola",
           "source": "lola",
           "hd": false,
           "language": "MULTI"
@@ -177,29 +154,6 @@
         }
       ],
       "streamCount": 2
-    },
-    {
-      "id": "iceland-u21-france-u21-13500839",
-      "title": "Iceland U21 vs France U21",
-      "homeTeam": "Iceland U21",
-      "awayTeam": "France U21",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo2MDMxOmI1N2MwNGMzMTY0Yw.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo1OTM2OmEyZDY4M2FlYWZiOQ.png",
-      "league": "U21 Euro Qualification",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjI2OjJiNThhMmUzZjMyNQ.png",
-      "matchTime": 1790348400000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=iceland-u21-france-u21-13500839&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
     },
     {
       "id": "finland-u21-spain-u21-13500832",
@@ -713,6 +667,20 @@
       "streamCount": 0
     },
     {
+      "id": "lesotho-niger-17018553",
+      "title": "Niger vs Lesotho",
+      "homeTeam": "Niger",
+      "awayTeam": "Lesotho",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo4MDMxOmMxMTBiMWY2ZDgxMA.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo4MDMzOjU5ZjM5NDg0OWE2NQ.png",
+      "league": "Africa Cup of Nations Qual.",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE4NDg6ZmJiNWM3MDZkMWQz.png",
+      "matchTime": 1790348400000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "zambia-algeria-17018550",
       "title": "Algeria vs Zambia",
       "homeTeam": "Algeria",
@@ -792,6 +760,20 @@
       "league": "U21 Euro Qualification",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjI2OjJiNThhMmUzZjMyNQ.png",
       "matchTime": 1790343900000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "iceland-u21-france-u21-13500839",
+      "title": "Iceland U21 vs France U21",
+      "homeTeam": "Iceland U21",
+      "awayTeam": "France U21",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo2MDMxOmI1N2MwNGMzMTY0Yw.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo1OTM2OmEyZDY4M2FlYWZiOQ.png",
+      "league": "U21 Euro Qualification",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjI2OjJiNThhMmUzZjMyNQ.png",
+      "matchTime": 1790348400000,
       "status": "finished",
       "streams": [],
       "streamCount": 0
