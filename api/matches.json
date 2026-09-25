@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T02:50:54.145044+00:00",
+  "updatedAt": "2026-09-25T03:05:41.341973+00:00",
   "matches": [
     {
       "id": "curacao-costa-rica-16654762",
@@ -31,52 +31,6 @@
         }
       ],
       "streamCount": 2
-    },
-    {
-      "id": "club-atletico-la-paz-alebrijes-de-oaxaca-16522471",
-      "title": "Alebrijes de Oaxaca vs Club Atletico La Paz",
-      "homeTeam": "Alebrijes de Oaxaca",
-      "awayTeam": "Club Atletico La Paz",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxMDk4NTk6MTFiNjMzZWRmN2Qz.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0MTk5Mjg6OTRkMWM0MTFiYmE1.png",
-      "league": "Liga de Expansi\u00f3n MX, Apertura",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNjExOmJlMmJhMTNhYzYxZg.png",
-      "matchTime": 1790298000000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=club-atletico-la-paz-alebrijes-de-oaxaca-16522471&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "piratas-veracruz-mineros-de-zacatecas-16551969",
-      "title": "Mineros de Zacatecas vs Piratas Veracruz",
-      "homeTeam": "Mineros de Zacatecas",
-      "awayTeam": "Piratas Veracruz",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxNTk5NDY6MDBkNjlkNWM3Mjcz.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToxMjQ1NzQ5OjFmYmM1ODA2ZTQ1ZQ.png",
-      "league": "Liga de Expansi\u00f3n MX, Apertura",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNjExOmJlMmJhMTNhYzYxZg.png",
-      "matchTime": 1790298000000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=piratas-veracruz-mineros-de-zacatecas-16551969&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
     },
     {
       "id": "csd-municipal-cd-suchitepequez-16420938",
@@ -182,6 +136,34 @@
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNTM5OjZiYTVlMWUwMjA5OA.png",
       "matchTime": 1790377800000,
       "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "club-atletico-la-paz-alebrijes-de-oaxaca-16522471",
+      "title": "Alebrijes de Oaxaca vs Club Atletico La Paz",
+      "homeTeam": "Alebrijes de Oaxaca",
+      "awayTeam": "Club Atletico La Paz",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxMDk4NTk6MTFiNjMzZWRmN2Qz.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0MTk5Mjg6OTRkMWM0MTFiYmE1.png",
+      "league": "Liga de Expansi\u00f3n MX, Apertura",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNjExOmJlMmJhMTNhYzYxZg.png",
+      "matchTime": 1790298000000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "piratas-veracruz-mineros-de-zacatecas-16551969",
+      "title": "Mineros de Zacatecas vs Piratas Veracruz",
+      "homeTeam": "Mineros de Zacatecas",
+      "awayTeam": "Piratas Veracruz",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxNTk5NDY6MDBkNjlkNWM3Mjcz.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToxMjQ1NzQ5OjFmYmM1ODA2ZTQ1ZQ.png",
+      "league": "Liga de Expansi\u00f3n MX, Apertura",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNjExOmJlMmJhMTNhYzYxZg.png",
+      "matchTime": 1790298000000,
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
