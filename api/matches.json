@@ -1,29 +1,6 @@
 {
-  "updatedAt": "2026-09-25T17:23:57.634733+00:00",
+  "updatedAt": "2026-09-25T17:37:42.471540+00:00",
   "matches": [
-    {
-      "id": "france-u20-germany-u20-16928733",
-      "title": "Germany U20 vs France U20",
-      "homeTeam": "Germany U20",
-      "awayTeam": "France U20",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyMjQ3MzplOWU5NjBlZDRlODU.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyMjY4MDowZjY1MzliOTM1YTE.png",
-      "league": "U20 Elite League",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIzNDkzOjdlZTVhOWE3NzQzYw.png",
-      "matchTime": 1790350200000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=france-u20-germany-u20-16928733&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
     {
       "id": "rwanda-liberia-16873777",
       "title": "Rwanda vs Liberia",
@@ -154,75 +131,6 @@
         }
       ],
       "streamCount": 2
-    },
-    {
-      "id": "finland-u21-spain-u21-13500832",
-      "title": "Finland U21 vs Spain U21",
-      "homeTeam": "Finland U21",
-      "awayTeam": "Spain U21",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo2MDI3Ojk3M2MyY2NiZjI5Zg.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0ODkxOjNiMDhhYzNlNWIwZQ.png",
-      "league": "U21 Euro Qualification",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjI2OjJiNThhMmUzZjMyNQ.png",
-      "matchTime": 1790350200000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=finland-u21-spain-u21-13500832&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "portugal-u21-bulgaria-u21-13500835",
-      "title": "Bulgaria U21 vs Portugal U21",
-      "homeTeam": "Bulgaria U21",
-      "awayTeam": "Portugal U21",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0ODg0OmUxODM4NjVjZTZkOQ.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo2MDQ1OjZjOTVmMTM0MDE3Mw.png",
-      "league": "U21 Euro Qualification",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjI2OjJiNThhMmUzZjMyNQ.png",
-      "matchTime": 1790350200000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=portugal-u21-bulgaria-u21-13500835&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "mp-ktp-15341338",
-      "title": "KTP vs MP",
-      "homeTeam": "KTP",
-      "awayTeam": "MP",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyMjU1OjZiNDdmM2U3YzcwOA.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo1MTE1OjEzOWM2OTYzOTUxNQ.png",
-      "league": "Ykk\u00f6sliiga",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjU1OjhjMmIyZjE4MmU4ZA.png",
-      "matchTime": 1790350200000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=mp-ktp-15341338&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
     },
     {
       "id": "northern-ireland-georgia-15534138",
@@ -569,6 +477,20 @@
       "streamCount": 0
     },
     {
+      "id": "france-u20-germany-u20-16928733",
+      "title": "Germany U20 vs France U20",
+      "homeTeam": "Germany U20",
+      "awayTeam": "France U20",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyMjQ3MzplOWU5NjBlZDRlODU.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyMjY4MDowZjY1MzliOTM1YTE.png",
+      "league": "U20 Elite League",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjIzNDkzOjdlZTVhOWE3NzQzYw.png",
+      "matchTime": 1790350200000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "brazil-australia-16814493",
       "title": "Australia vs Brazil",
       "homeTeam": "Australia",
@@ -774,6 +696,48 @@
       "league": "U21 Euro Qualification",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjI2OjJiNThhMmUzZjMyNQ.png",
       "matchTime": 1790348400000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "finland-u21-spain-u21-13500832",
+      "title": "Finland U21 vs Spain U21",
+      "homeTeam": "Finland U21",
+      "awayTeam": "Spain U21",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo2MDI3Ojk3M2MyY2NiZjI5Zg.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0ODkxOjNiMDhhYzNlNWIwZQ.png",
+      "league": "U21 Euro Qualification",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjI2OjJiNThhMmUzZjMyNQ.png",
+      "matchTime": 1790350200000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "portugal-u21-bulgaria-u21-13500835",
+      "title": "Bulgaria U21 vs Portugal U21",
+      "homeTeam": "Bulgaria U21",
+      "awayTeam": "Portugal U21",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0ODg0OmUxODM4NjVjZTZkOQ.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo2MDQ1OjZjOTVmMTM0MDE3Mw.png",
+      "league": "U21 Euro Qualification",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjI2OjJiNThhMmUzZjMyNQ.png",
+      "matchTime": 1790350200000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "mp-ktp-15341338",
+      "title": "KTP vs MP",
+      "homeTeam": "KTP",
+      "awayTeam": "MP",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyMjU1OjZiNDdmM2U3YzcwOA.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo1MTE1OjEzOWM2OTYzOTUxNQ.png",
+      "league": "Ykk\u00f6sliiga",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjU1OjhjMmIyZjE4MmU4ZA.png",
+      "matchTime": 1790350200000,
       "status": "finished",
       "streams": [],
       "streamCount": 0
