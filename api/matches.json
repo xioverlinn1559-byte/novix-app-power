@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T23:34:53.060037+00:00",
+  "updatedAt": "2026-09-25T23:49:10.834140+00:00",
   "matches": [
     {
       "id": "deportivo-pasto-boyaca-chico-fc-16390758",
@@ -109,6 +109,29 @@
           "id": "stream-1",
           "streamNo": 1,
           "embedUrl": "https://football77.org/embed/?id=hartford-athletic-louisville-city-fc-15285860&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
+      "id": "sc-jacksonville-loudoun-united-fc-15285870",
+      "title": "SC Jacksonville vs Loudoun United FC",
+      "homeTeam": "SC Jacksonville",
+      "awayTeam": "Loudoun United FC",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxMDc3MzEyOmNmZWQ5NTkyMGU4MQ.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMTA5Njk6MjEwYjVmNmZmOGRm.png",
+      "league": "USL Championship",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjEzMzYzOmY0YzBlYjkxNmI5YQ.png",
+      "matchTime": 1790379000000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=sc-jacksonville-loudoun-united-fc-15285870&source=lola",
           "source": "lola",
           "hd": false,
           "language": "MULTI"
@@ -855,20 +878,6 @@
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNTQxOjBiZDU5YzE3NGUzMQ.png",
       "matchTime": 1790364600000,
       "status": "finished",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "sc-jacksonville-loudoun-united-fc-15285870",
-      "title": "SC Jacksonville vs Loudoun United FC",
-      "homeTeam": "SC Jacksonville",
-      "awayTeam": "Loudoun United FC",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxMDc3MzEyOmNmZWQ5NTkyMGU4MQ.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMTA5Njk6MjEwYjVmNmZmOGRm.png",
-      "league": "USL Championship",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjEzMzYzOmY0YzBlYjkxNmI5YQ.png",
-      "matchTime": 1790379000000,
-      "status": "notstarted",
       "streams": [],
       "streamCount": 0
     }
