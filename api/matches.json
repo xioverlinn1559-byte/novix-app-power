@@ -1,29 +1,6 @@
 {
-  "updatedAt": "2026-09-25T22:50:32.485736+00:00",
+  "updatedAt": "2026-09-25T23:05:08.956956+00:00",
   "matches": [
-    {
-      "id": "grenada-cuba-16654774",
-      "title": "Grenada vs Cuba",
-      "homeTeam": "Grenada",
-      "awayTeam": "Cuba",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyMTgxNDo2ZGJkNTVlMmFmMjc.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0ODI0OjhiZThmYmYyZjI5OA.png",
-      "league": "CONCACAF Nations League",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE0MTAwOjNjNjdiMmNmMDU2OA.png",
-      "matchTime": 1790370000000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=grenada-cuba-16654774&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
     {
       "id": "sportivo-ameliano-nacional-asuncion-16588887",
       "title": "Nacional Asunci\u00f3n vs Sportivo Ameliano",
@@ -71,6 +48,29 @@
       "streamCount": 1
     },
     {
+      "id": "audax-italiano-colo-colo-16997898",
+      "title": "Colo-Colo vs Audax Italiano",
+      "homeTeam": "Colo-Colo",
+      "awayTeam": "Audax Italiano",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMTU1OjkwYjg2Yjk5NTNiYg.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMTYyOjY2MTlhNzU2ZWU2Zg.png",
+      "league": "Copa Chile",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjEyMjE6YzY5YjNkNDYzNTc1.png",
+      "matchTime": 1790377200000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=audax-italiano-colo-colo-16997898&source=lola",
+          "source": "lola",
+          "hd": false,
+          "language": "MULTI"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
       "id": "nicaragua-dominican-republic-16654763",
       "title": "Dominican Republic vs Nicaragua",
       "homeTeam": "Dominican Republic",
@@ -108,6 +108,20 @@
       "league": "CONCACAF Nations League",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE0MTAwOjNjNjdiMmNmMDU2OA.png",
       "matchTime": 1790301600000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "grenada-cuba-16654774",
+      "title": "Grenada vs Cuba",
+      "homeTeam": "Grenada",
+      "awayTeam": "Cuba",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyMTgxNDo2ZGJkNTVlMmFmMjc.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0ODI0OjhiZThmYmYyZjI5OA.png",
+      "league": "CONCACAF Nations League",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE0MTAwOjNjNjdiMmNmMDU2OA.png",
+      "matchTime": 1790370000000,
       "status": "finished",
       "streams": [],
       "streamCount": 0
@@ -809,20 +823,6 @@
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNTQxOjBiZDU5YzE3NGUzMQ.png",
       "matchTime": 1790364600000,
       "status": "finished",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "audax-italiano-colo-colo-16997898",
-      "title": "Colo-Colo vs Audax Italiano",
-      "homeTeam": "Colo-Colo",
-      "awayTeam": "Audax Italiano",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozMTU1OjkwYjg2Yjk5NTNiYg.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozMTYyOjY2MTlhNzU2ZWU2Zg.png",
-      "league": "Copa Chile",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjEyMjE6YzY5YjNkNDYzNTc1.png",
-      "matchTime": 1790377200000,
-      "status": "notstarted",
       "streams": [],
       "streamCount": 0
     },
