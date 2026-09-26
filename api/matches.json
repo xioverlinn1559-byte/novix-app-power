@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T00:30:24.771762+00:00",
+  "updatedAt": "2026-09-26T00:52:42.838880+00:00",
   "matches": [
     {
       "id": "njny-gotham-fc-chicago-stars-fc-15385452",
@@ -258,6 +258,20 @@
       "streamCount": 0
     },
     {
+      "id": "southern-united-auckland-united-fc-17158993",
+      "title": "Auckland United FC vs Southern United",
+      "homeTeam": "Auckland United FC",
+      "awayTeam": "Southern United",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozNTQ1OTg6ZGNkOGY2NDlkZGI5.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozOTkyNDM6YTJhODEyOGIzOGE0.png",
+      "league": "New Zealand Women's National League",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjI0MTQwOjFjOWY0ODk5ZWRhOA.png",
+      "matchTime": 1790465400000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "auckland-united-fc-wellington-phoenix-reserve-17141813",
       "title": "Wellington Phoenix Reserve vs Auckland United FC",
       "homeTeam": "Wellington Phoenix Reserve",
@@ -281,6 +295,20 @@
       "league": "New Zealand National League",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjU5NDphMjIyOTViMTJhZjk.png",
       "matchTime": 1790393400000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "miramar-rangers-napier-city-rovers-17141818",
+      "title": "Napier City Rovers vs Miramar Rangers",
+      "homeTeam": "Napier City Rovers",
+      "awayTeam": "Miramar Rangers",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyNjExMzA6YzExNDJlZmM1ODRm.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyNjExMzE6MmRlZDRjMTM1OTc4.png",
+      "league": "New Zealand National League",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjU5NDphMjIyOTViMTJhZjk.png",
+      "matchTime": 1790465400000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
@@ -1770,6 +1798,34 @@
       "streamCount": 0
     },
     {
+      "id": "rubio-nu-cs-2-de-mayo-16588884",
+      "title": "Rubio \u00d1u vs CS 2 de Mayo",
+      "homeTeam": "Rubio \u00d1u",
+      "awayTeam": "CS 2 de Mayo",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozNjQzODoyYmJlYTA3YjM3M2M.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo1OTkyOmU5ODk3NmNkNDNhNA.png",
+      "league": "Primera Divisi\u00f3n",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNTQxOjBiZDU5YzE3NGUzMQ.png",
+      "matchTime": 1790451000000,
+      "status": "postponed",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "sportivo-trinidense-cerro-porteno-16588881",
+      "title": "Sportivo Trinidense vs Cerro Porte\u00f1o",
+      "homeTeam": "Sportivo Trinidense",
+      "awayTeam": "Cerro Porte\u00f1o",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozOTcyMjo4NjYxZGUzN2M4ZjA.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo1OTkxOjg2ZGUyMjJmYzM0MA.png",
+      "league": "Primera Divisi\u00f3n",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNTQxOjBiZDU5YzE3NGUzMQ.png",
+      "matchTime": 1790460000000,
+      "status": "postponed",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "atletico-ottawa-hfx-wanderers-fc-15502883",
       "title": "Halifax Wanderers FC vs Atl\u00e9tico Ottawa",
       "homeTeam": "Halifax Wanderers FC",
@@ -1822,20 +1878,6 @@
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjg1MTozNDZjYjYyMjZiODY.png",
       "matchTime": 1790463600000,
       "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "sportivo-trinidense-cerro-porteno-16588881",
-      "title": "Sportivo Trinidense vs Cerro Porte\u00f1o",
-      "homeTeam": "Sportivo Trinidense",
-      "awayTeam": "Cerro Porte\u00f1o",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozOTcyMjo4NjYxZGUzN2M4ZjA.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo1OTkxOjg2ZGUyMjJmYzM0MA.png",
-      "league": "Primera Divisi\u00f3n",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNTQxOjBiZDU5YzE3NGUzMQ.png",
-      "matchTime": 1790460000000,
-      "status": "postponed",
       "streams": [],
       "streamCount": 0
     },
