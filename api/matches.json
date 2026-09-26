@@ -1,52 +1,6 @@
 {
-  "updatedAt": "2026-09-26T01:50:13.723658+00:00",
+  "updatedAt": "2026-09-26T02:05:37.679418+00:00",
   "matches": [
-    {
-      "id": "njny-gotham-fc-chicago-stars-fc-15385452",
-      "title": "NJ/NY Gotham FC vs Chicago Stars FC",
-      "homeTeam": "NJ/NY Gotham FC",
-      "awayTeam": "Chicago Stars FC",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozNDcxODowMzlmZTk0MWE2ZDE.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozNDcxNDpmN2VlYjcyZjI4YzM.png",
-      "league": "NWSL",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE2OTA6MmY3NTllMGUwOTRk.png",
-      "matchTime": 1790380800000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=njny-gotham-fc-chicago-stars-fc-15385452&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "guatemala-jamaica-16654770",
-      "title": "Jamaica vs Guatemala",
-      "homeTeam": "Jamaica",
-      "awayTeam": "Guatemala",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0NzY5OjFiMTJlNjI5YTdiNw.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo1MTYzOmRkY2QwY2MwM2EwZQ.png",
-      "league": "CONCACAF Nations League",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE0MTAwOjNjNjdiMmNmMDU2OA.png",
-      "matchTime": 1790380800000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=guatemala-jamaica-16654770&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
-    },
     {
       "id": "atlante-fc-cf-monterrey-16317968",
       "title": "Atlante FC vs CF Monterrey",
@@ -87,6 +41,20 @@
       "streamCount": 3
     },
     {
+      "id": "njny-gotham-fc-chicago-stars-fc-15385452",
+      "title": "NJ/NY Gotham FC vs Chicago Stars FC",
+      "homeTeam": "NJ/NY Gotham FC",
+      "awayTeam": "Chicago Stars FC",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTozNDcxODowMzlmZTk0MWE2ZDE.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTozNDcxNDpmN2VlYjcyZjI4YzM.png",
+      "league": "NWSL",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE2OTA6MmY3NTllMGUwOTRk.png",
+      "matchTime": 1790380800000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "denver-summit-fc-kansas-city-current-15385457",
       "title": "Kansas City Current vs Denver Summit FC",
       "homeTeam": "Kansas City Current",
@@ -111,6 +79,20 @@
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE2OTA6MmY3NTllMGUwOTRk.png",
       "matchTime": 1790461800000,
       "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "guatemala-jamaica-16654770",
+      "title": "Jamaica vs Guatemala",
+      "homeTeam": "Jamaica",
+      "awayTeam": "Guatemala",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0NzY5OjFiMTJlNjI5YTdiNw.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo1MTYzOmRkY2QwY2MwM2EwZQ.png",
+      "league": "CONCACAF Nations League",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE0MTAwOjNjNjdiMmNmMDU2OA.png",
+      "matchTime": 1790380800000,
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
