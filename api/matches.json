@@ -1,22 +1,22 @@
 {
-  "updatedAt": "2026-09-26T02:50:46.974632+00:00",
+  "updatedAt": "2026-09-26T03:05:25.320024+00:00",
   "matches": [
     {
-      "id": "atlante-fc-cf-monterrey-16317968",
-      "title": "Atlante FC vs CF Monterrey",
-      "homeTeam": "Atlante FC",
-      "awayTeam": "CF Monterrey",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxOTQzOjc2NTQ4OTcyZjc4ZA.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToxOTMyOjY3NjAwMTQ3MGUwNw.png",
-      "league": "Liga MX, Apertura",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNjIxOmIzOGNlMTU0NjlhMQ.png",
-      "matchTime": 1790384400000,
+      "id": "martinique-el-salvador-16654769",
+      "title": "El Salvador vs Martinique",
+      "homeTeam": "El Salvador",
+      "awayTeam": "Martinique",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0ODI1OmYyYjM5ZjI3NTc0ZQ.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0NTQ4NToxOTY1MDU5ZmE3ZGQ.png",
+      "league": "CONCACAF Nations League",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE0MTAwOjNjNjdiMmNmMDU2OA.png",
+      "matchTime": 1790391600000,
       "status": "inprogress",
       "streams": [
         {
           "id": "stream-1",
           "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=atlante-fc-cf-monterrey-16317968&source=lola",
+          "embedUrl": "https://football77.org/embed/?id=martinique-el-salvador-16654769&source=lola",
           "source": "lola",
           "hd": false,
           "language": "MULTI"
@@ -24,21 +24,13 @@
         {
           "id": "stream-2",
           "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=atlante-fc-cf-monterrey-16317968&source=stv",
+          "embedUrl": "https://football77.org/embed/?id=martinique-el-salvador-16654769&source=stv",
           "source": "STV",
           "hd": true,
           "language": "MULTI"
-        },
-        {
-          "id": "stream-3",
-          "streamNo": 3,
-          "embedUrl": "https://football77.org/embed/?id=atlante-fc-cf-monterrey-16317968&source=ppv",
-          "source": "PPV",
-          "hd": true,
-          "language": "ES-US"
         }
       ],
-      "streamCount": 3
+      "streamCount": 2
     },
     {
       "id": "njny-gotham-fc-chicago-stars-fc-15385452",
@@ -97,20 +89,6 @@
       "streamCount": 0
     },
     {
-      "id": "martinique-el-salvador-16654769",
-      "title": "El Salvador vs Martinique",
-      "homeTeam": "El Salvador",
-      "awayTeam": "Martinique",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo0ODI1OmYyYjM5ZjI3NTc0ZQ.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0NTQ4NToxOTY1MDU5ZmE3ZGQ.png",
-      "league": "CONCACAF Nations League",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE0MTAwOjNjNjdiMmNmMDU2OA.png",
-      "matchTime": 1790391600000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
       "id": "french-guiana-saint-vincent-and-the-grenadines-16654776",
       "title": "Saint Vincent and the Grenadines vs French Guiana",
       "homeTeam": "Saint Vincent and the Grenadines",
@@ -121,6 +99,20 @@
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE0MTAwOjNjNjdiMmNmMDU2OA.png",
       "matchTime": 1790456400000,
       "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "atlante-fc-cf-monterrey-16317968",
+      "title": "Atlante FC vs CF Monterrey",
+      "homeTeam": "Atlante FC",
+      "awayTeam": "CF Monterrey",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxOTQzOjc2NTQ4OTcyZjc4ZA.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToxOTMyOjY3NjAwMTQ3MGUwNw.png",
+      "league": "Liga MX, Apertura",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNjIxOmIzOGNlMTU0NjlhMQ.png",
+      "matchTime": 1790384400000,
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
