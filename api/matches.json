@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T01:02:30.623825+00:00",
+  "updatedAt": "2026-09-27T06:35:53.249773+00:00",
   "matches": [
     {
       "id": "san-diego-fc-austin-fc-15168415",
@@ -11,26 +11,9 @@
       "league": "MLS",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjI0Mjo4NWE3NTFmM2FkYzc.png",
       "matchTime": 1790469000000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=san-diego-fc-austin-fc-15168415&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=san-diego-fc-austin-fc-15168415&source=ppv",
-          "source": "PPV",
-          "hd": true,
-          "language": "EN"
-        }
-      ],
-      "streamCount": 2
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
     },
     {
       "id": "los-angeles-fc-fc-dallas-15168417",
@@ -42,26 +25,9 @@
       "league": "MLS",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjI0Mjo4NWE3NTFmM2FkYzc.png",
       "matchTime": 1790469000000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=los-angeles-fc-fc-dallas-15168417&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=los-angeles-fc-fc-dallas-15168417&source=ppv",
-          "source": "PPV",
-          "hd": true,
-          "language": "EN"
-        }
-      ],
-      "streamCount": 2
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
     },
     {
       "id": "sporting-kansas-city-houston-dynamo-15168419",
@@ -73,26 +39,9 @@
       "league": "MLS",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjI0Mjo4NWE3NTFmM2FkYzc.png",
       "matchTime": 1790469000000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=sporting-kansas-city-houston-dynamo-15168419&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=sporting-kansas-city-houston-dynamo-15168419&source=ppv",
-          "source": "PPV",
-          "hd": true,
-          "language": "EN"
-        }
-      ],
-      "streamCount": 2
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
     },
     {
       "id": "minnesota-united-seattle-sounders-fc-15168420",
@@ -104,26 +53,9 @@
       "league": "MLS",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjI0Mjo4NWE3NTFmM2FkYzc.png",
       "matchTime": 1790469000000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=minnesota-united-seattle-sounders-fc-15168420&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=minnesota-united-seattle-sounders-fc-15168420&source=ppv",
-          "source": "PPV",
-          "hd": true,
-          "language": "EN"
-        }
-      ],
-      "streamCount": 2
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
     },
     {
       "id": "nashville-sc-toronto-fc-15168421",
@@ -135,49 +67,9 @@
       "league": "MLS",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjI0Mjo4NWE3NTFmM2FkYzc.png",
       "matchTime": 1790469000000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=nashville-sc-toronto-fc-15168421&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=nashville-sc-toronto-fc-15168421&source=ppv",
-          "source": "PPV",
-          "hd": true,
-          "language": "EN"
-        }
-      ],
-      "streamCount": 2
-    },
-    {
-      "id": "portland-thorns-fc-houston-dash-15385481",
-      "title": "Portland Thorns FC vs Houston Dash",
-      "homeTeam": "Portland Thorns FC",
-      "awayTeam": "Houston Dash",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxNTEwMDg6MjhlYzVkNzA4Njc1.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToxNTEwMDY6MjY3MGIyYmFmZGRh.png",
-      "league": "NWSL",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE2OTA6MmY3NTllMGUwOTRk.png",
-      "matchTime": 1790469900000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=portland-thorns-fc-houston-dash-15385481&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
     },
     {
       "id": "real-salt-lake-new-england-revolution-15168423",
@@ -189,7 +81,7 @@
       "league": "MLS",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjI0Mjo4NWE3NTFmM2FkYzc.png",
       "matchTime": 1790472600000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -203,7 +95,7 @@
       "league": "MLS",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjI0Mjo4NWE3NTFmM2FkYzc.png",
       "matchTime": 1790476200000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -217,7 +109,7 @@
       "league": "MLS",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjI0Mjo4NWE3NTFmM2FkYzc.png",
       "matchTime": 1790476200000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -231,7 +123,7 @@
       "league": "MLS",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjI0Mjo4NWE3NTFmM2FkYzc.png",
       "matchTime": 1790476200000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -246,6 +138,20 @@
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjI0Mjo4NWE3NTFmM2FkYzc.png",
       "matchTime": 1790550000000,
       "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "portland-thorns-fc-houston-dash-15385481",
+      "title": "Portland Thorns FC vs Houston Dash",
+      "homeTeam": "Portland Thorns FC",
+      "awayTeam": "Houston Dash",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxNTEwMDg6MjhlYzVkNzA4Njc1.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToxNTEwMDY6MjY3MGIyYmFmZGRh.png",
+      "league": "NWSL",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE2OTA6MmY3NTllMGUwOTRk.png",
+      "matchTime": 1790469900000,
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -287,7 +193,7 @@
       "league": "USL Championship",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjEzMzYzOmY0YzBlYjkxNmI5YQ.png",
       "matchTime": 1790470800000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -343,7 +249,7 @@
       "league": "International Friendly Games",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjg1MTozNDZjYjYyMjZiODY.png",
       "matchTime": 1790470800000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -399,7 +305,7 @@
       "league": "Primera A",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNTM5OjZiYTVlMWUwMjA5OA.png",
       "matchTime": 1790472000000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -441,7 +347,7 @@
       "league": "CONCACAF Nations League",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE0MTAwOjNjNjdiMmNmMDU2OA.png",
       "matchTime": 1790474400000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -455,48 +361,6 @@
       "league": "CONCACAF Nations League",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE0MTAwOjNjNjdiMmNmMDU2OA.png",
       "matchTime": 1790550000000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "santos-laguna-cf-pachuca-16317970",
-      "title": "Santos Laguna vs CF Pachuca",
-      "homeTeam": "Santos Laguna",
-      "awayTeam": "CF Pachuca",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxOTQ4OmZjYjIwMjZkZjM4Nw.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToxOTM2OjZkNDExZjE2ZDI1ZQ.png",
-      "league": "Liga MX, Apertura",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNjIxOmIzOGNlMTU0NjlhMQ.png",
-      "matchTime": 1790478300000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "club-puebla-tigres-uanl-16318006",
-      "title": "Tigres UANL vs Club Puebla",
-      "homeTeam": "Tigres UANL",
-      "awayTeam": "Club Puebla",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxOTQwOjU0NGRhNzk0MjFmMw.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToxOTQxOjU3YjdiYmMzODBhMw.png",
-      "league": "Liga MX, Apertura",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNjIxOmIzOGNlMTU0NjlhMQ.png",
-      "matchTime": 1790478600000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "atletico-san-luis-pumas-unam-16317971",
-      "title": "Pumas UNAM vs Atl\u00e9tico San Luis",
-      "homeTeam": "Pumas UNAM",
-      "awayTeam": "Atl\u00e9tico San Luis",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxOTMzOjhhNGE5M2IzZTE4OQ.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbToxOTUwOmE5MWQ5NDVjYjIzNA.png",
-      "league": "Liga MX, Apertura",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNjIxOmIzOGNlMTU0NjlhMQ.png",
-      "matchTime": 1790532000000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
@@ -754,6 +618,20 @@
       "streamCount": 0
     },
     {
+      "id": "cote-divoire-u18-canada-u18-17053197",
+      "title": "Canada U18 vs C\u00f4te d'Ivoire U18",
+      "homeTeam": "Canada U18",
+      "awayTeam": "C\u00f4te d'Ivoire U18",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxOTM5Nzk6ZDM0ZTBiODQwNDFl.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToxMjc1MTg5OjYyY2QzYjRmN2IzMg.png",
+      "league": "UEFA Friendship Cup",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM3NzA5OmIzODdiOTFhZWVlYg.png",
+      "matchTime": 1790501400000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "egypt-u18-england-u18-17053203",
       "title": "Egypt U18 vs England U18",
       "homeTeam": "Egypt U18",
@@ -763,6 +641,20 @@
       "league": "UEFA Friendship Cup",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM3NzA5OmIzODdiOTFhZWVlYg.png",
       "matchTime": 1790514000000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "spain-u18-brazil-u18-17053205",
+      "title": "Spain U18 vs Brazil U18",
+      "homeTeam": "Spain U18",
+      "awayTeam": "Brazil U18",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyODk4MDk6MTEzMGM5ZGYxZjg0.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToxODk0NjA6ODg4M2M1N2UwNDFh.png",
+      "league": "UEFA Friendship Cup",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM3NzA5OmIzODdiOTFhZWVlYg.png",
+      "matchTime": 1790524800000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
@@ -1594,6 +1486,20 @@
       "streamCount": 0
     },
     {
+      "id": "bahrain-united-arab-emirates-16875499",
+      "title": "Bahrain vs United Arab Emirates",
+      "homeTeam": "Bahrain",
+      "awayTeam": "United Arab Emirates",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo1MTYxOmMwZDU5NTlhMzU2Nw.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0NzI3OjkyODhjNzQxOTVlMA.png",
+      "league": "Gulf Cup",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjYyMjo5ZGVlMzMzN2M2OTY.png",
+      "matchTime": 1790532000000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "us-forces-armees-salitas-fc-17132625",
       "title": "US Forces Armees vs Salitas FC",
       "homeTeam": "US Forces Armees",
@@ -1617,6 +1523,20 @@
       "league": "FasoFoot Ligue 1",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjI5MzY5OmVjYTMzNjhiNmU3Nw.png",
       "matchTime": 1790526611000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "atletico-san-luis-pumas-unam-16317971",
+      "title": "Pumas UNAM vs Atl\u00e9tico San Luis",
+      "homeTeam": "Pumas UNAM",
+      "awayTeam": "Atl\u00e9tico San Luis",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxOTMzOjhhNGE5M2IzZTE4OQ.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToxOTUwOmE5MWQ5NDVjYjIzNA.png",
+      "league": "Liga MX, Apertura",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNjIxOmIzOGNlMTU0NjlhMQ.png",
+      "matchTime": 1790532000000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
