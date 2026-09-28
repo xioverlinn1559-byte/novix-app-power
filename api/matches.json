@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T01:37:58.480183+00:00",
+  "updatedAt": "2026-09-28T07:38:05.451495+00:00",
   "matches": [
     {
       "id": "atletico-de-san-luis-tigres-uanl-16651919",
@@ -11,18 +11,23 @@
       "league": "Liga MX, Women, Apertura",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjEzNTkzOjg0MjliYTQ3Y2NhYg.png",
       "matchTime": 1790553960000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=atletico-de-san-luis-tigres-uanl-16651919&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "club-leon-club-america-16651921",
+      "title": "Club Le\u00f3n vs Club Am\u00e9rica",
+      "homeTeam": "Club Le\u00f3n",
+      "awayTeam": "Club Am\u00e9rica",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToyNjc0NzA6NjQzN2Y3NDFmMTI5.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToyNjExMjg6MmU5NDI5ZGY2M2Mw.png",
+      "league": "Liga MX, Women, Apertura",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjEzNTkzOjg0MjliYTQ3Y2NhYg.png",
+      "matchTime": 1790636400000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
     },
     {
       "id": "fc-juarez-club-leon-16317974",
@@ -34,49 +39,9 @@
       "league": "Liga MX, Apertura",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNjIxOmIzOGNlMTU0NjlhMQ.png",
       "matchTime": 1790557200000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=fc-juarez-club-leon-16317974&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=fc-juarez-club-leon-16317974&source=ppv",
-          "source": "PPV",
-          "hd": true,
-          "language": "ES-US"
-        }
-      ],
-      "streamCount": 2
-    },
-    {
-      "id": "rionegro-aguilas-doradas-deportivo-cali-16698225",
-      "title": "Deportivo Cali vs Rionegro \u00c1guilas Doradas",
-      "homeTeam": "Deportivo Cali",
-      "awayTeam": "Rionegro \u00c1guilas Doradas",
-      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo2MTEyOmUxYjIzOGZmMGU2MA.png",
-      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0ODI0NDo1Y2Y2ZGI0MzgzMWE.png",
-      "league": "Primera A",
-      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNTM5OjZiYTVlMWUwMjA5OA.png",
-      "matchTime": 1790557800000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=rionegro-aguilas-doradas-deportivo-cali-16698225&source=lola",
-          "source": "lola",
-          "hd": false,
-          "language": "MULTI"
-        }
-      ],
-      "streamCount": 1
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
     },
     {
       "id": "club-necaxa-club-america-16317973",
@@ -88,7 +53,21 @@
       "league": "Liga MX, Apertura",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNjIxOmIzOGNlMTU0NjlhMQ.png",
       "matchTime": 1790565000000,
-      "status": "notstarted",
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "rionegro-aguilas-doradas-deportivo-cali-16698225",
+      "title": "Deportivo Cali vs Rionegro \u00c1guilas Doradas",
+      "homeTeam": "Deportivo Cali",
+      "awayTeam": "Rionegro \u00c1guilas Doradas",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo2MTEyOmUxYjIzOGZmMGU2MA.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo0ODI0NDo1Y2Y2ZGI0MzgzMWE.png",
+      "league": "Primera A",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjExNTM5OjZiYTVlMWUwMjA5OA.png",
+      "matchTime": 1790557800000,
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -331,6 +310,20 @@
       "streamCount": 0
     },
     {
+      "id": "belarus-u21-denmark-u21-13500849",
+      "title": "Denmark U21 vs Belarus U21",
+      "homeTeam": "Denmark U21",
+      "awayTeam": "Belarus U21",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbTo2MDIzOjg2NWQ2OTQ0ZjJiYQ.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbTo2Mzc0OmNmMDRjOGViM2IxNQ.png",
+      "league": "U21 Euro Qualification",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjI2OjJiNThhMmUzZjMyNQ.png",
+      "matchTime": 1790613000000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "cd-castellon-leganes-16418358",
       "title": "Legan\u00e9s vs CD Castell\u00f3n",
       "homeTeam": "Legan\u00e9s",
@@ -382,6 +375,20 @@
       "league": "CONCACAF Nations League",
       "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjE0MTAwOjNjNjdiMmNmMDU2OA.png",
       "matchTime": 1790632800000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "juventude-america-mineiro-15526300",
+      "title": "Am\u00e9rica Mineiro vs Juventude",
+      "homeTeam": "Am\u00e9rica Mineiro",
+      "awayTeam": "Juventude",
+      "homeLogo": "https://img.sportsrc.org/file/dGVhbToxOTczOmI5MmJmMzNhMDg2MQ.png",
+      "awayLogo": "https://img.sportsrc.org/file/dGVhbToxOTgwOmU5MDY2YzkxODFmYg.png",
+      "league": "Brasileir\u00e3o S\u00e9rie B",
+      "leagueLogo": "https://img.sportsrc.org/file/bGVhZ3VlOjM5MDo3MDE0MTEwMjkzY2E.png",
+      "matchTime": 1790634600000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
