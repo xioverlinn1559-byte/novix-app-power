@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T06:31:52.238076+00:00",
+  "updatedAt": "2026-10-02T13:10:26.787627+00:00",
   "matches": [
     {
       "id": "salitas-real-du-faso-ZjoxNjQzMzQwOmE5ZjE5NzcyZWM",
@@ -30,35 +30,73 @@
       "streamCount": 0
     },
     {
-      "id": "china-w-south-korea-w-ZjoxNjQzMTY2OjAzNDc1YWY3YWI",
-      "title": "China W vs South Korea W",
-      "homeTeam": "China W",
-      "awayTeam": "South Korea W",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNzIzLnBuZzozMDg4MGE2ZTE5.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNzI4LnBuZzozNDI2ZWZiMGU2.png",
+      "id": "korea-dpr-w-japan-w-ZjoxNjQzMTY3OmJkZTllMzdjM2I",
+      "title": "Korea DPR W vs Japan W",
+      "homeTeam": "Korea DPR W",
+      "awayTeam": "Japan W",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMTM0My5wbmc6MTkwOTc3YTA1Mw.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNzIwLnBuZzplYzBmMjllMjhh.png",
       "league": "Asian Games Women",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEyNDUucG5nOmRhODZmZGM2ZjQ.png",
-      "matchTime": 1790920800000,
+      "matchTime": 1790937000000,
       "status": "inprogress",
       "streams": [
         {
           "id": "stream-1",
           "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjQzMTY2OjAzNDc1YWY3YWI&source=lola",
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNjQzMTY3OmJkZTllMzdjM2I&source=lola",
           "source": "lola",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjQzMTY2OjAzNDc1YWY3YWI&source=hdtv",
-          "source": "hdtv",
           "hd": true,
           "language": "Unknown"
         }
       ],
-      "streamCount": 2
+      "streamCount": 1
+    },
+    {
+      "id": "china-palestine-ZjoxNjM3NTk4OmIzMDZiOGYyMzA",
+      "title": "China vs Palestine",
+      "homeTeam": "China",
+      "awayTeam": "Palestine",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNTY2LnBuZzpmMzYzYmIwMjk4.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNTYyLnBuZzpmNzM4ZTYxMWRk.png",
+      "league": "Friendlies",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEwLnBuZzo4ZGE3ZmRhN2Qx.png",
+      "matchTime": 1790940900000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNjM3NTk4OmIzMDZiOGYyMzA&source=lola",
+          "source": "lola",
+          "hd": true,
+          "language": "Unknown"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
+      "id": "dejan-persipura-jayapura-ZjoxNjM3NjUxOjYyOWEyNjM3OGQ",
+      "title": "Dejan vs Persipura Jayapura",
+      "homeTeam": "Dejan",
+      "awayTeam": "Persipura Jayapura",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNDk5NC5wbmc6ZDRiMmU0ZWQ3Zg.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNDQwLnBuZzoxNmMyMjhhN2Ni.png",
+      "league": "Liga 2",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI3NS5wbmc6NzNlNWU3MDhkNQ.png",
+      "matchTime": 1790942400000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNjM3NjUxOjYyOWEyNjM3OGQ&source=lola",
+          "source": "lola",
+          "hd": true,
+          "language": "Unknown"
+        }
+      ],
+      "streamCount": 1
     },
     {
       "id": "novorizontino-goias-ZjoxNTIwOTA4OjJmNTcxN2NmZmQ",
@@ -187,20 +225,6 @@
       "streamCount": 0
     },
     {
-      "id": "internacional-de-bogota-once-caldas-ZjoxNTQ5ODQ5OmY5YTQ0Njg0Nzk",
-      "title": "Internacional de Bogota vs Once Caldas",
-      "homeTeam": "Internacional de Bogota",
-      "awayTeam": "Once Caldas",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMTM0LnBuZzo0NGQ1ZGNmYjIw.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMTM2LnBuZzozYWI0NmU4ZTNi.png",
-      "league": "Primera A",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzIzOS5wbmc6MzIwYjVlYzgxYQ.png",
-      "matchTime": 1790902800000,
-      "status": "postponed",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
       "id": "seattle-sounders-sporting-kansas-city-ZjoxNDkwNDYzOjUxZjRiZjRhNzA",
       "title": "Seattle Sounders vs Sporting Kansas City",
       "homeTeam": "Seattle Sounders",
@@ -215,16 +239,16 @@
       "streamCount": 0
     },
     {
-      "id": "korea-dpr-w-japan-w-ZjoxNjQzMTY3OmJkZTllMzdjM2I",
-      "title": "Korea DPR W vs Japan W",
-      "homeTeam": "Korea DPR W",
-      "awayTeam": "Japan W",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMTM0My5wbmc6MTkwOTc3YTA1Mw.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNzIwLnBuZzplYzBmMjllMjhh.png",
+      "id": "china-w-south-korea-w-ZjoxNjQzMTY2OjAzNDc1YWY3YWI",
+      "title": "China W vs South Korea W",
+      "homeTeam": "China W",
+      "awayTeam": "South Korea W",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNzIzLnBuZzozMDg4MGE2ZTE5.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNzI4LnBuZzozNDI2ZWZiMGU2.png",
       "league": "Asian Games Women",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEyNDUucG5nOmRhODZmZGM2ZjQ.png",
-      "matchTime": 1790937000000,
-      "status": "notstarted",
+      "matchTime": 1790920800000,
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -238,7 +262,7 @@
       "league": "FIFA Asean Cup",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEyNDcucG5nOjdjN2UxNjJiZDA.png",
       "matchTime": 1790931600000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -252,7 +276,7 @@
       "league": "FIFA Asean Cup",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEyNDcucG5nOjdjN2UxNjJiZDA.png",
       "matchTime": 1790931600000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -266,7 +290,7 @@
       "league": "K3 League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI5NS5wbmc6Zjc1NTcwMTg1MQ.png",
       "matchTime": 1790935200000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -280,7 +304,7 @@
       "league": "WK-League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzY2MC5wbmc6ODFjMjUxNDhmYg.png",
       "matchTime": 1790935200000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -294,7 +318,7 @@
       "league": "WK-League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzY2MC5wbmc6ODFjMjUxNDhmYg.png",
       "matchTime": 1790935200000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -308,7 +332,7 @@
       "league": "J3 League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEwMC5wbmc6Mjc1NGUwMjhmZg.png",
       "matchTime": 1790935200000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -322,7 +346,7 @@
       "league": "Friendlies",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEwLnBuZzo4ZGE3ZmRhN2Qx.png",
       "matchTime": 1790935200000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -336,21 +360,7 @@
       "league": "Friendlies",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEwLnBuZzo4ZGE3ZmRhN2Qx.png",
       "matchTime": 1790938800000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "china-palestine-ZjoxNjM3NTk4OmIzMDZiOGYyMzA",
-      "title": "China vs Palestine",
-      "homeTeam": "China",
-      "awayTeam": "Palestine",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNTY2LnBuZzpmMzYzYmIwMjk4.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNTYyLnBuZzpmNzM4ZTYxMWRk.png",
-      "league": "Friendlies",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEwLnBuZzo4ZGE3ZmRhN2Qx.png",
-      "matchTime": 1790940900000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -392,20 +402,6 @@
       "league": "Friendlies",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEwLnBuZzo4ZGE3ZmRhN2Qx.png",
       "matchTime": 1790957700000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "dejan-persipura-jayapura-ZjoxNjM3NjUxOjYyOWEyNjM3OGQ",
-      "title": "Dejan vs Persipura Jayapura",
-      "homeTeam": "Dejan",
-      "awayTeam": "Persipura Jayapura",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNDk5NC5wbmc6ZDRiMmU0ZWQ3Zg.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNDQwLnBuZzoxNmMyMjhhN2Ni.png",
-      "league": "Liga 2",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI3NS5wbmc6NzNlNWU3MDhkNQ.png",
-      "matchTime": 1790942400000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
@@ -476,34 +472,6 @@
       "league": "League Cup",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzMwMi5wbmc6NzQwMTc1ZDYzYQ.png",
       "matchTime": 1790955900000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "eintracht-frankfurt-eintracht-braunschweig-ZjoxNjQxMDk1OjJiZTMyMDY0MzY",
-      "title": "Eintracht Frankfurt vs Eintracht Braunschweig",
-      "homeTeam": "Eintracht Frankfurt",
-      "awayTeam": "Eintracht Braunschweig",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNjkucG5nOjBiYTkzNzMxMjg.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy83NDQucG5nOmIzNDliYmNkN2Q.png",
-      "league": "Friendlies Clubs",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzY2Ny5wbmc6MWFmZTRkYTc2ZA.png",
-      "matchTime": 1790947800000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "rapid-genoa-ZjoxNjQyOTI3OmQ0MzFiZWMzMDM",
-      "title": "Rapid vs Genoa",
-      "homeTeam": "Rapid",
-      "awayTeam": "Genoa",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy82MjMxLnBuZzo2MWU0ODk3NjQ4.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy80OTUucG5nOjcyZTgxZDAyNjY.png",
-      "league": "Friendlies Clubs",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzY2Ny5wbmc6MWFmZTRkYTc2ZA.png",
-      "matchTime": 1790956800000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
@@ -691,6 +659,48 @@
       "streamCount": 0
     },
     {
+      "id": "eintracht-frankfurt-eintracht-braunschweig-ZjoxNjQxMDk1OjJiZTMyMDY0MzY",
+      "title": "Eintracht Frankfurt vs Eintracht Braunschweig",
+      "homeTeam": "Eintracht Frankfurt",
+      "awayTeam": "Eintracht Braunschweig",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNjkucG5nOjBiYTkzNzMxMjg.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy83NDQucG5nOmIzNDliYmNkN2Q.png",
+      "league": "Friendlies Clubs",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzY2Ny5wbmc6MWFmZTRkYTc2ZA.png",
+      "matchTime": 1790949600000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "rapid-genoa-ZjoxNjQyOTI3OmQ0MzFiZWMzMDM",
+      "title": "Rapid vs Genoa",
+      "homeTeam": "Rapid",
+      "awayTeam": "Genoa",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy82MjMxLnBuZzo2MWU0ODk3NjQ4.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy80OTUucG5nOjcyZTgxZDAyNjY.png",
+      "league": "Friendlies Clubs",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzY2Ny5wbmc6MWFmZTRkYTc2ZA.png",
+      "matchTime": 1790956800000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "deportivo-la-coruna-fc-porto-ZjoxNjQzNDk1OjRiMDdlYjI0NzM",
+      "title": "Deportivo La Coruna vs FC Porto",
+      "homeTeam": "Deportivo La Coruna",
+      "awayTeam": "FC Porto",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy81NDQucG5nOjc5MWJmYTRjNjE.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMTIucG5nOmNkYTdjNTZiOGU.png",
+      "league": "Friendlies Clubs",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzY2Ny5wbmc6MWFmZTRkYTc2ZA.png",
+      "matchTime": 1790960400000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "slovenia-u21-netherlands-u21-ZjoxMzUwMTkxOmFmNDE1ODMxOWI",
       "title": "Slovenia U21 vs Netherlands U21",
       "homeTeam": "Slovenia U21",
@@ -756,6 +766,20 @@
       "league": "Frauen Bundesliga",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzgyLnBuZzo5YmZmMmVjMmJl.png",
       "matchTime": 1790958600000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "ranheim-egersund-ZjoxNDk1OTYzOjk5Mzg5ODAyNmI",
+      "title": "Ranheim vs Egersund",
+      "homeTeam": "Ranheim",
+      "awayTeam": "Egersund",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8zMjIucG5nOmQ0MTE1YTk2Yzk.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy82OTc2LnBuZzpjOTlhZjg1NDM2.png",
+      "league": "1. Division",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEwNC5wbmc6ZGM4OWYzNjI3Ng.png",
+      "matchTime": 1790960400000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
