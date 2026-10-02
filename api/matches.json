@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T00:46:25.691102+00:00",
+  "updatedAt": "2026-10-02T06:31:52.238076+00:00",
   "matches": [
     {
       "id": "salitas-real-du-faso-ZjoxNjQzMzQwOmE5ZjE5NzcyZWM",
@@ -30,6 +30,37 @@
       "streamCount": 0
     },
     {
+      "id": "china-w-south-korea-w-ZjoxNjQzMTY2OjAzNDc1YWY3YWI",
+      "title": "China W vs South Korea W",
+      "homeTeam": "China W",
+      "awayTeam": "South Korea W",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNzIzLnBuZzozMDg4MGE2ZTE5.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNzI4LnBuZzozNDI2ZWZiMGU2.png",
+      "league": "Asian Games Women",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEyNDUucG5nOmRhODZmZGM2ZjQ.png",
+      "matchTime": 1790920800000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNjQzMTY2OjAzNDc1YWY3YWI&source=lola",
+          "source": "lola",
+          "hd": true,
+          "language": "Unknown"
+        },
+        {
+          "id": "stream-2",
+          "streamNo": 2,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNjQzMTY2OjAzNDc1YWY3YWI&source=hdtv",
+          "source": "hdtv",
+          "hd": true,
+          "language": "Unknown"
+        }
+      ],
+      "streamCount": 2
+    },
+    {
       "id": "novorizontino-goias-ZjoxNTIwOTA4OjJmNTcxN2NmZmQ",
       "title": "Novorizontino vs Goias",
       "homeTeam": "Novorizontino",
@@ -39,26 +70,23 @@
       "league": "Serie B",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzcyLnBuZzo0NzE5M2E2OTdk.png",
       "matchTime": 1790899200000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNTIwOTA4OjJmNTcxN2NmZmQ&source=lola",
-          "source": "lola",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNTIwOTA4OjJmNTcxN2NmZmQ&source=hdtv",
-          "source": "hdtv",
-          "hd": true,
-          "language": "Unknown"
-        }
-      ],
-      "streamCount": 2
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "sao-bernardo-crb-ZjoxNTIwOTA5OjQzNGZkNTZhNzQ",
+      "title": "S\u00e3o Bernardo vs CRB",
+      "homeTeam": "S\u00e3o Bernardo",
+      "awayTeam": "CRB",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy83ODY1LnBuZzpiYzgxZjMzMzU1.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNDYucG5nOmQzYjc1ODVjMjg.png",
+      "league": "Serie B",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzcyLnBuZzo0NzE5M2E2OTdk.png",
+      "matchTime": 1790980200000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
     },
     {
       "id": "cayman-islands-puerto-rico-ZjoxNjM5OTcyOjQwOTFmMTE2ZTY",
@@ -70,26 +98,9 @@
       "league": "CONCACAF Nations League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzUzNi5wbmc6MmY3OTE3M2IzMw.png",
       "matchTime": 1790899200000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjM5OTcyOjQwOTFmMTE2ZTY&source=lola",
-          "source": "lola",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjM5OTcyOjQwOTFmMTE2ZTY&source=hdtv",
-          "source": "hdtv",
-          "hd": true,
-          "language": "Unknown"
-        }
-      ],
-      "streamCount": 2
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
     },
     {
       "id": "dominican-republic-haiti-ZjoxNjM5OTczOjk4YjdmZDdlMjU",
@@ -101,81 +112,9 @@
       "league": "CONCACAF Nations League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzUzNi5wbmc6MmY3OTE3M2IzMw.png",
       "matchTime": 1790899200000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjM5OTczOjk4YjdmZDdlMjU&source=lola",
-          "source": "lola",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjM5OTczOjk4YjdmZDdlMjU&source=STV",
-          "source": "STV",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-3",
-          "streamNo": 3,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjM5OTczOjk4YjdmZDdlMjU&source=hdtv",
-          "source": "hdtv",
-          "hd": true,
-          "language": "Unknown"
-        }
-      ],
-      "streamCount": 3
-    },
-    {
-      "id": "platense-estudiantes-l-p-ZjoxNjM3MjY4OjE3NjEwY2UwYjM",
-      "title": "Platense vs Estudiantes L.P.",
-      "homeTeam": "Platense",
-      "awayTeam": "Estudiantes L.P.",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMDY0LnBuZzo1NmQ2ZDZmYzdi.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy80NTAucG5nOjE2ZTYyOTE0ODU.png",
-      "league": "Copa Argentina",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEzMC5wbmc6YWFiYjZjNzk1YQ.png",
-      "matchTime": 1790900100000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjM3MjY4OjE3NjEwY2UwYjM&source=lola",
-          "source": "lola",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjM3MjY4OjE3NjEwY2UwYjM&source=capo",
-          "source": "capo",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-3",
-          "streamNo": 3,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjM3MjY4OjE3NjEwY2UwYjM&source=STV",
-          "source": "STV",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-4",
-          "streamNo": 4,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjM3MjY4OjE3NjEwY2UwYjM&source=hdtv",
-          "source": "hdtv",
-          "hd": true,
-          "language": "Unknown"
-        }
-      ],
-      "streamCount": 4
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
     },
     {
       "id": "nicaragua-costa-rica-ZjoxNjM5OTc0OjU0OTc5YzE2NzA",
@@ -187,7 +126,7 @@
       "league": "CONCACAF Nations League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzUzNi5wbmc6MmY3OTE3M2IzMw.png",
       "matchTime": 1790906400000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -234,6 +173,20 @@
       "streamCount": 0
     },
     {
+      "id": "platense-estudiantes-l-p-ZjoxNjM3MjY4OjE3NjEwY2UwYjM",
+      "title": "Platense vs Estudiantes L.P.",
+      "homeTeam": "Platense",
+      "awayTeam": "Estudiantes L.P.",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMDY0LnBuZzo1NmQ2ZDZmYzdi.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy80NTAucG5nOjE2ZTYyOTE0ODU.png",
+      "league": "Copa Argentina",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEzMC5wbmc6YWFiYjZjNzk1YQ.png",
+      "matchTime": 1790900100000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "internacional-de-bogota-once-caldas-ZjoxNTQ5ODQ5OmY5YTQ0Njg0Nzk",
       "title": "Internacional de Bogota vs Once Caldas",
       "homeTeam": "Internacional de Bogota",
@@ -243,7 +196,7 @@
       "league": "Primera A",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzIzOS5wbmc6MzIwYjVlYzgxYQ.png",
       "matchTime": 1790902800000,
-      "status": "notstarted",
+      "status": "postponed",
       "streams": [],
       "streamCount": 0
     },
@@ -257,21 +210,7 @@
       "league": "Major League Soccer",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI1My5wbmc6YTJiNjc5MWJlZQ.png",
       "matchTime": 1790904600000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "china-w-south-korea-w-ZjoxNjQzMTY2OjAzNDc1YWY3YWI",
-      "title": "China W vs South Korea W",
-      "homeTeam": "China W",
-      "awayTeam": "South Korea W",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNzIzLnBuZzozMDg4MGE2ZTE5.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNzI4LnBuZzozNDI2ZWZiMGU2.png",
-      "league": "Asian Games Women",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEyNDUucG5nOmRhODZmZGM2ZjQ.png",
-      "matchTime": 1790920800000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -298,7 +237,7 @@
       "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNTU1LnBuZzo0ZDc1YzU2MmZl.png",
       "league": "FIFA Asean Cup",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEyNDcucG5nOjdjN2UxNjJiZDA.png",
-      "matchTime": 1790928000000,
+      "matchTime": 1790931600000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
@@ -312,7 +251,7 @@
       "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy81NTM1LnBuZzpmYjhlYTgwYTQ2.png",
       "league": "FIFA Asean Cup",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEyNDcucG5nOjdjN2UxNjJiZDA.png",
-      "matchTime": 1790928000000,
+      "matchTime": 1790931600000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
@@ -430,6 +369,20 @@
       "streamCount": 0
     },
     {
+      "id": "serbia-u21-russia-u21-ZjoxNjQyOTk1OjYzZjY1ZTRiOGM",
+      "title": "Serbia U21 vs Russia U21",
+      "homeTeam": "Serbia U21",
+      "awayTeam": "Russia U21",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84MjIyLnBuZzo2Mzc4MmYwNjkz.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84MjE5LnBuZzowOGQzYmQzZjBi.png",
+      "league": "Friendlies",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEwLnBuZzo4ZGE3ZmRhN2Qx.png",
+      "matchTime": 1790956800000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "portugal-u18-romania-u18-ZjoxNjQyOTk2OjQ0MWVhZTBmY2M",
       "title": "Portugal U18 vs Romania U18",
       "homeTeam": "Portugal U18",
@@ -537,6 +490,20 @@
       "league": "Friendlies Clubs",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzY2Ny5wbmc6MWFmZTRkYTc2ZA.png",
       "matchTime": 1790947800000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "rapid-genoa-ZjoxNjQyOTI3OmQ0MzFiZWMzMDM",
+      "title": "Rapid vs Genoa",
+      "homeTeam": "Rapid",
+      "awayTeam": "Genoa",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy82MjMxLnBuZzo2MWU0ODk3NjQ4.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy80OTUucG5nOjcyZTgxZDAyNjY.png",
+      "league": "Friendlies Clubs",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzY2Ny5wbmc6MWFmZTRkYTc2ZA.png",
+      "matchTime": 1790956800000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
@@ -724,6 +691,62 @@
       "streamCount": 0
     },
     {
+      "id": "slovenia-u21-netherlands-u21-ZjoxMzUwMTkxOmFmNDE1ODMxOWI",
+      "title": "Slovenia U21 vs Netherlands U21",
+      "homeTeam": "Slovenia U21",
+      "awayTeam": "Netherlands U21",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84MjMxLnBuZzphM2MyODNiZDcy.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84MjExLnBuZzpjMjY4ZjhlMWU2.png",
+      "league": "UEFA U21 Championship - Qualification",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzg1MC5wbmc6MjgwNDc2OTg4Mw.png",
+      "matchTime": 1790956800000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "ukraine-u21-croatia-u21-ZjoxMzUwMTkyOmZhZjQ3OTQ0NGU",
+      "title": "Ukraine U21 vs Croatia U21",
+      "homeTeam": "Ukraine U21",
+      "awayTeam": "Croatia U21",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84MjI4LnBuZzpjZDFhMTc5ZmQz.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84MTg2LnBuZzpmZDBjZTY4MjUz.png",
+      "league": "UEFA U21 Championship - Qualification",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzg1MC5wbmc6MjgwNDc2OTg4Mw.png",
+      "matchTime": 1790956800000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "austria-u21-denmark-u21-ZjoxMzUwMTkzOjYyODcxNWViNDU",
+      "title": "Austria U21 vs Denmark U21",
+      "homeTeam": "Austria U21",
+      "awayTeam": "Denmark U21",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84MTgwLnBuZzo0YWQ3YzU5N2Rl.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84MTg5LnBuZzpkMDkxM2JiNGVj.png",
+      "league": "UEFA U21 Championship - Qualification",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzg1MC5wbmc6MjgwNDc2OTg4Mw.png",
+      "matchTime": 1790956800000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "england-u21-slovakia-u21-ZjoxMzUwMTkwOjZmOTU0ZjNmODk",
+      "title": "England U21 vs Slovakia U21",
+      "homeTeam": "England U21",
+      "awayTeam": "Slovakia U21",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84MTkwLnBuZzpjNDU1NjNlMDk5.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84MjIzLnBuZzpjNTc5MmZkOTNi.png",
+      "league": "UEFA U21 Championship - Qualification",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzg1MC5wbmc6MjgwNDc2OTg4Mw.png",
+      "matchTime": 1790966700000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "bayer-leverkusen-w-werder-bremen-w-ZjoxNTkzMTQzOjc1YzkzMWIwMjQ",
       "title": "Bayer Leverkusen W vs Werder Bremen W",
       "homeTeam": "Bayer Leverkusen W",
@@ -816,6 +839,34 @@
       "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMzI4LnBuZzo5MGM5OTBmYTQz.png",
       "league": "Primera Divisi\u00f3n",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI2NS5wbmc6OGE2MmY5NjA2Ng.png",
+      "matchTime": 1790982000000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "montreal-roses-w-ottawa-rapid-w-ZjoxNTM0MDk4OjJhOGU1Zjc1YWM",
+      "title": "Montreal Roses W vs Ottawa Rapid W",
+      "homeTeam": "Montreal Roses W",
+      "awayTeam": "Ottawa Rapid W",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNTg5OS5wbmc6N2E4MWQ3OWE4MQ.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNTkwMC5wbmc6NWQ4OTI1YzNmMw.png",
+      "league": "Northern Super League",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzExODIucG5nOjlmMDhhYTg5ZGM.png",
+      "matchTime": 1790982000000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "brooklyn-w-fort-lauderdale-united-w-ZjoxNTU3MjExOjZiYzljM2M1Zjk",
+      "title": "Brooklyn W vs Fort Lauderdale United W",
+      "homeTeam": "Brooklyn W",
+      "awayTeam": "Fort Lauderdale United W",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNDY1Ny5wbmc6ZWY1ZGE4NzI2MA.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNDY2MS5wbmc6MDJjMGQ4MDRlYQ.png",
+      "league": "USL Super League",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzExMzAucG5nOjAwMjdlMjBlNDY.png",
       "matchTime": 1790982000000,
       "status": "notstarted",
       "streams": [],
