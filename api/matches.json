@@ -1,69 +1,286 @@
 {
-  "updatedAt": "2026-10-06T10:12:39.874803+00:00",
+  "updatedAt": "2026-10-06T16:49:02.611293+00:00",
   "matches": [
     {
-      "id": "hubei-chufeng-heli-rizhao-yuqi-ZjoxNjM4NTEyOmVjNmFlODdkMjA",
-      "title": "Hubei Chufeng Heli vs Rizhao Yuqi",
-      "homeTeam": "Hubei Chufeng Heli",
-      "awayTeam": "Rizhao Yuqi",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy81NjYwLnBuZzo5MzY0M2YyMTUx.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMTMyOC5wbmc6NjUzOTcxMWRkMw.png",
-      "league": "League Two",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzkyOS5wbmc6OThlMDQyZTRmYQ.png",
-      "matchTime": 1791277200000,
+      "id": "russia-nigeria-ZjoxNjQwMDgwOjg4NDdiODMzOWI",
+      "title": "Russia vs Nigeria",
+      "homeTeam": "Russia",
+      "awayTeam": "Nigeria",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy80LnBuZzo1YWVmMzExODNj.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xOS5wbmc6MzgwODMwODY1OA.png",
+      "league": "Friendlies",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEwLnBuZzo4ZGE3ZmRhN2Qx.png",
+      "matchTime": 1791302400000,
       "status": "inprogress",
       "streams": [
         {
           "id": "stream-1",
           "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjM4NTEyOmVjNmFlODdkMjA&source=lola",
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNjQwMDgwOjg4NDdiODMzOWI&source=lola",
           "source": "lola",
           "hd": true,
           "language": "Unknown"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "lam-dong-song-lam-nghe-an-ZjoxNjM2MzU5OjMxNzI5YWVhNDc",
-      "title": "Lam Dong vs Song Lam Nghe An",
-      "homeTeam": "Lam Dong",
-      "awayTeam": "Song Lam Nghe An",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yODIxNS5wbmc6NzcyZDc0MTI3NA.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8zNjc4LnBuZzo1OWFjYjgxMzk4.png",
-      "league": "Cup",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzM0MS5wbmc6ZTk0ZjUxOWU0Nw.png",
-      "matchTime": 1791275400000,
-      "status": "inprogress",
-      "streams": [
+        },
         {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjM2MzU5OjMxNzI5YWVhNDc&source=lola",
-          "source": "lola",
+          "id": "stream-2",
+          "streamNo": 2,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNjQwMDgwOjg4NDdiODMzOWI&source=hdtv",
+          "source": "hdtv",
           "hd": true,
           "language": "Unknown"
         }
       ],
-      "streamCount": 1
+      "streamCount": 2
     },
     {
-      "id": "uniao-leiria-u23-santa-clara-u23-ZjoxNTk4NjQ3Ojk0Zjc2N2E2OTI",
-      "title": "Uni\u00e3o Leiria U23 vs Santa Clara U23",
-      "homeTeam": "Uni\u00e3o Leiria U23",
-      "awayTeam": "Santa Clara U23",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNjI1Ny5wbmc6MzU0YWJiNGZhNA.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMTcxOS5wbmc6MDQwY2U4Y2VhMQ.png",
+      "id": "felgueiras-u23-estrela-u23-ZjoxNTk4Njg0OjUxYWVhYTMyY2M",
+      "title": "Felgueiras U23 vs Estrela U23",
+      "homeTeam": "Felgueiras U23",
+      "awayTeam": "Estrela U23",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yODAxMy5wbmc6YzI2NDRlNjU0ZA.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xOTgyNC5wbmc6OGExYjdjZGQ2ZQ.png",
       "league": "Liga Revela\u00e7\u00e3o U23",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzcwMS5wbmc6NTMyZTcyODZlNA.png",
-      "matchTime": 1791280800000,
+      "matchTime": 1791298800000,
       "status": "inprogress",
       "streams": [
         {
           "id": "stream-1",
           "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNTk4NjQ3Ojk0Zjc2N2E2OTI&source=lola",
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNTk4Njg0OjUxYWVhYTMyY2M&source=lola",
           "source": "lola",
+          "hd": true,
+          "language": "Unknown"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
+      "id": "northern-ireland-u21-greece-u21-ZjoxMzUwMjE1OjFhMDBmNzE1NTI",
+      "title": "Northern Ireland U21 vs Greece U21",
+      "homeTeam": "Northern Ireland U21",
+      "awayTeam": "Greece U21",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84MjEzLnBuZzpmZjRmZjY4MmRi.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84MTk4LnBuZzplM2FmYzA2YzY1.png",
+      "league": "UEFA U21 Championship - Qualification",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzg1MC5wbmc6MjgwNDc2OTg4Mw.png",
+      "matchTime": 1791302400000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxMzUwMjE1OjFhMDBmNzE1NTI&source=lola",
+          "source": "lola",
+          "hd": true,
+          "language": "Unknown"
+        },
+        {
+          "id": "stream-2",
+          "streamNo": 2,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxMzUwMjE1OjFhMDBmNzE1NTI&source=hdtv",
+          "source": "hdtv",
+          "hd": true,
+          "language": "Unknown"
+        }
+      ],
+      "streamCount": 2
+    },
+    {
+      "id": "latvia-u21-malta-u21-ZjoxMzUwMjE2OmZmN2E1MTQ0ZTE",
+      "title": "Latvia U21 vs Malta U21",
+      "homeTeam": "Latvia U21",
+      "awayTeam": "Malta U21",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84MjA0LnBuZzo2MWUyMTQ3Y2Y2.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84MjA4LnBuZzo5OThjNjZhZjFk.png",
+      "league": "UEFA U21 Championship - Qualification",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzg1MC5wbmc6MjgwNDc2OTg4Mw.png",
+      "matchTime": 1791302400000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxMzUwMjE2OmZmN2E1MTQ0ZTE&source=lola",
+          "source": "lola",
+          "hd": true,
+          "language": "Unknown"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
+      "id": "germany-u21-georgia-u21-ZjoxMzUwMjE3OjU2NWFiZTNlNDE",
+      "title": "Germany U21 vs Georgia U21",
+      "homeTeam": "Germany U21",
+      "awayTeam": "Georgia U21",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84MTk2LnBuZzpjODBiNDA0NGU0.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84MTk1LnBuZzpkYmQzMDhiOWQ3.png",
+      "league": "UEFA U21 Championship - Qualification",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzg1MC5wbmc6MjgwNDc2OTg4Mw.png",
+      "matchTime": 1791302400000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxMzUwMjE3OjU2NWFiZTNlNDE&source=lola",
+          "source": "lola",
+          "hd": true,
+          "language": "Unknown"
+        },
+        {
+          "id": "stream-2",
+          "streamNo": 2,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxMzUwMjE3OjU2NWFiZTNlNDE&source=hdtv",
+          "source": "hdtv",
+          "hd": true,
+          "language": "Unknown"
+        }
+      ],
+      "streamCount": 2
+    },
+    {
+      "id": "portugal-u21-czech-republic-u21-ZjoxMzUwMjA2OjRkNDc1MTc0Y2I",
+      "title": "Portugal U21 vs Czech Republic U21",
+      "homeTeam": "Portugal U21",
+      "awayTeam": "Czech Republic U21",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84MjE2LnBuZzpiOTBjZmU4MDY1.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84MTg4LnBuZzpmNDk3MjhhNTdh.png",
+      "league": "UEFA U21 Championship - Qualification",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzg1MC5wbmc6MjgwNDc2OTg4Mw.png",
+      "matchTime": 1791304200000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxMzUwMjA2OjRkNDc1MTc0Y2I&source=lola",
+          "source": "lola",
+          "hd": true,
+          "language": "Unknown"
+        },
+        {
+          "id": "stream-2",
+          "streamNo": 2,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxMzUwMjA2OjRkNDc1MTc0Y2I&source=capo",
+          "source": "capo",
+          "hd": true,
+          "language": "Unknown"
+        },
+        {
+          "id": "stream-3",
+          "streamNo": 3,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxMzUwMjA2OjRkNDc1MTc0Y2I&source=hdtv",
+          "source": "hdtv",
+          "hd": true,
+          "language": "Unknown"
+        }
+      ],
+      "streamCount": 3
+    },
+    {
+      "id": "denmark-u21-belgium-u21-ZjoxMzUwMjEzOjdiOGVmN2UxNzg",
+      "title": "Denmark U21 vs Belgium U21",
+      "homeTeam": "Denmark U21",
+      "awayTeam": "Belgium U21",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84MTg5LnBuZzpkMDkxM2JiNGVj.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84MTgzLnBuZzowN2ZkZGZlYjYz.png",
+      "league": "UEFA U21 Championship - Qualification",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzg1MC5wbmc6MjgwNDc2OTg4Mw.png",
+      "matchTime": 1791304200000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxMzUwMjEzOjdiOGVmN2UxNzg&source=lola",
+          "source": "lola",
+          "hd": true,
+          "language": "Unknown"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
+      "id": "wales-u21-austria-u21-ZjoxMzUwMjE0OjdlODMxZDE1Y2M",
+      "title": "Wales U21 vs Austria U21",
+      "homeTeam": "Wales U21",
+      "awayTeam": "Austria U21",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84MjI5LnBuZzo3YjFmYmY1Mzlj.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84MTgwLnBuZzo0YWQ3YzU5N2Rl.png",
+      "league": "UEFA U21 Championship - Qualification",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzg1MC5wbmc6MjgwNDc2OTg4Mw.png",
+      "matchTime": 1791304200000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxMzUwMjE0OjdlODMxZDE1Y2M&source=hdtv",
+          "source": "hdtv",
+          "hd": true,
+          "language": "Unknown"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
+      "id": "netherlands-u21-bosnia-herzegovina-u21-ZjoxMzUwMjAzOmEyOGRiODhlOTI",
+      "title": "Netherlands U21 vs Bosnia-Herzegovina U21",
+      "homeTeam": "Netherlands U21",
+      "awayTeam": "Bosnia-Herzegovina U21",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84MjExLnBuZzpjMjY4ZjhlMWU2.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84MTg0LnBuZzplYTY2YTgxZTkx.png",
+      "league": "UEFA U21 Championship - Qualification",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzg1MC5wbmc6MjgwNDc2OTg4Mw.png",
+      "matchTime": 1791305100000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxMzUwMjAzOmEyOGRiODhlOTI&source=lola",
+          "source": "lola",
+          "hd": true,
+          "language": "Unknown"
+        },
+        {
+          "id": "stream-2",
+          "streamNo": 2,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxMzUwMjAzOmEyOGRiODhlOTI&source=capo",
+          "source": "capo",
+          "hd": true,
+          "language": "Unknown"
+        },
+        {
+          "id": "stream-3",
+          "streamNo": 3,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxMzUwMjAzOmEyOGRiODhlOTI&source=hdtv",
+          "source": "hdtv",
+          "hd": true,
+          "language": "Unknown"
+        }
+      ],
+      "streamCount": 3
+    },
+    {
+      "id": "norway-u21-israel-u21-ZjoxMzUwMjA0OmQxNTBmZmViYzU",
+      "title": "Norway U21 vs Israel U21",
+      "homeTeam": "Norway U21",
+      "awayTeam": "Israel U21",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84MjE0LnBuZzozYTQ5OTM2OTg0.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84MjAwLnBuZzplMWIzMDVmMzA3.png",
+      "league": "UEFA U21 Championship - Qualification",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzg1MC5wbmc6MjgwNDc2OTg4Mw.png",
+      "matchTime": 1791305100000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxMzUwMjA0OmQxNTBmZmViYzU&source=hdtv",
+          "source": "hdtv",
           "hd": true,
           "language": "Unknown"
         }
@@ -248,7 +465,7 @@
       "league": "Friendlies",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEwLnBuZzo4ZGE3ZmRhN2Qx.png",
       "matchTime": 1791284400000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -262,7 +479,7 @@
       "league": "Friendlies",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEwLnBuZzo4ZGE3ZmRhN2Qx.png",
       "matchTime": 1791286500000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -276,7 +493,7 @@
       "league": "Friendlies",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEwLnBuZzo4ZGE3ZmRhN2Qx.png",
       "matchTime": 1791295200000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -290,21 +507,7 @@
       "league": "Friendlies",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEwLnBuZzo4ZGE3ZmRhN2Qx.png",
       "matchTime": 1791295200000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "russia-nigeria-ZjoxNjQwMDgwOjg4NDdiODMzOWI",
-      "title": "Russia vs Nigeria",
-      "homeTeam": "Russia",
-      "awayTeam": "Nigeria",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy80LnBuZzo1YWVmMzExODNj.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xOS5wbmc6MzgwODMwODY1OA.png",
-      "league": "Friendlies",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEwLnBuZzo4ZGE3ZmRhN2Qx.png",
-      "matchTime": 1791302400000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -407,6 +610,34 @@
       "streamCount": 0
     },
     {
+      "id": "hubei-chufeng-heli-rizhao-yuqi-ZjoxNjM4NTEyOmVjNmFlODdkMjA",
+      "title": "Hubei Chufeng Heli vs Rizhao Yuqi",
+      "homeTeam": "Hubei Chufeng Heli",
+      "awayTeam": "Rizhao Yuqi",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy81NjYwLnBuZzo5MzY0M2YyMTUx.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMTMyOC5wbmc6NjUzOTcxMWRkMw.png",
+      "league": "League Two",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzkyOS5wbmc6OThlMDQyZTRmYQ.png",
+      "matchTime": 1791277200000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "lam-dong-song-lam-nghe-an-ZjoxNjM2MzU5OjMxNzI5YWVhNDc",
+      "title": "Lam Dong vs Song Lam Nghe An",
+      "homeTeam": "Lam Dong",
+      "awayTeam": "Song Lam Nghe An",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yODIxNS5wbmc6NzcyZDc0MTI3NA.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8zNjc4LnBuZzo1OWFjYjgxMzk4.png",
+      "league": "Cup",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzM0MS5wbmc6ZTk0ZjUxOWU0Nw.png",
+      "matchTime": 1791275400000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "binh-ph-c-dong-thap-ZjoxNjM2MzYxOjE5YWE1NjU3Y2U",
       "title": "B\u00ecnh Ph\u01b0\u1edbc vs Dong Thap",
       "homeTeam": "B\u00ecnh Ph\u01b0\u1edbc",
@@ -416,7 +647,21 @@
       "league": "Cup",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzM0MS5wbmc6ZTk0ZjUxOWU0Nw.png",
       "matchTime": 1791284400000,
-      "status": "notstarted",
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "uniao-leiria-u23-santa-clara-u23-ZjoxNTk4NjQ3Ojk0Zjc2N2E2OTI",
+      "title": "Uni\u00e3o Leiria U23 vs Santa Clara U23",
+      "homeTeam": "Uni\u00e3o Leiria U23",
+      "awayTeam": "Santa Clara U23",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNjI1Ny5wbmc6MzU0YWJiNGZhNA.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMTcxOS5wbmc6MDQwY2U4Y2VhMQ.png",
+      "league": "Liga Revela\u00e7\u00e3o U23",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzcwMS5wbmc6NTMyZTcyODZlNA.png",
+      "matchTime": 1791280800000,
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -430,21 +675,7 @@
       "league": "Liga Revela\u00e7\u00e3o U23",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzcwMS5wbmc6NTMyZTcyODZlNA.png",
       "matchTime": 1791295200000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "felgueiras-u23-estrela-u23-ZjoxNTk4Njg0OjUxYWVhYTMyY2M",
-      "title": "Felgueiras U23 vs Estrela U23",
-      "homeTeam": "Felgueiras U23",
-      "awayTeam": "Estrela U23",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yODAxMy5wbmc6YzI2NDRlNjU0ZA.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xOTgyNC5wbmc6OGExYjdjZGQ2ZQ.png",
-      "league": "Liga Revela\u00e7\u00e3o U23",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzcwMS5wbmc6NTMyZTcyODZlNA.png",
-      "matchTime": 1791298800000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -458,7 +689,7 @@
       "league": "League One",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzE3MC5wbmc6MmU3NWMxYzk1Zg.png",
       "matchTime": 1791284400000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -472,7 +703,7 @@
       "league": "League One",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzE3MC5wbmc6MmU3NWMxYzk1Zg.png",
       "matchTime": 1791284400000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -486,7 +717,7 @@
       "league": "League One",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzE3MC5wbmc6MmU3NWMxYzk1Zg.png",
       "matchTime": 1791286200000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -500,7 +731,7 @@
       "league": "League One",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzE3MC5wbmc6MmU3NWMxYzk1Zg.png",
       "matchTime": 1791286200000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -514,7 +745,7 @@
       "league": "Cup",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzcwNy5wbmc6NGJlZTVmYzM0Yw.png",
       "matchTime": 1791286200000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -528,7 +759,7 @@
       "league": "Cup",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzcwNy5wbmc6NGJlZTVmYzM0Yw.png",
       "matchTime": 1791286200000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -542,7 +773,7 @@
       "league": "Cup",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzcwNy5wbmc6NGJlZTVmYzM0Yw.png",
       "matchTime": 1791286200000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -556,7 +787,7 @@
       "league": "Africa Cup of Nations U20",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzUzOC5wbmc6MGI2MjAxZjg1Mw.png",
       "matchTime": 1791293400000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -570,7 +801,7 @@
       "league": "UEFA U21 Championship - Qualification",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzg1MC5wbmc6MjgwNDc2OTg4Mw.png",
       "matchTime": 1791294300000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -584,119 +815,7 @@
       "league": "UEFA U21 Championship - Qualification",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzg1MC5wbmc6MjgwNDc2OTg4Mw.png",
       "matchTime": 1791295200000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "northern-ireland-u21-greece-u21-ZjoxMzUwMjE1OjFhMDBmNzE1NTI",
-      "title": "Northern Ireland U21 vs Greece U21",
-      "homeTeam": "Northern Ireland U21",
-      "awayTeam": "Greece U21",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84MjEzLnBuZzpmZjRmZjY4MmRi.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84MTk4LnBuZzplM2FmYzA2YzY1.png",
-      "league": "UEFA U21 Championship - Qualification",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzg1MC5wbmc6MjgwNDc2OTg4Mw.png",
-      "matchTime": 1791302400000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "latvia-u21-malta-u21-ZjoxMzUwMjE2OmZmN2E1MTQ0ZTE",
-      "title": "Latvia U21 vs Malta U21",
-      "homeTeam": "Latvia U21",
-      "awayTeam": "Malta U21",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84MjA0LnBuZzo2MWUyMTQ3Y2Y2.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84MjA4LnBuZzo5OThjNjZhZjFk.png",
-      "league": "UEFA U21 Championship - Qualification",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzg1MC5wbmc6MjgwNDc2OTg4Mw.png",
-      "matchTime": 1791302400000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "germany-u21-georgia-u21-ZjoxMzUwMjE3OjU2NWFiZTNlNDE",
-      "title": "Germany U21 vs Georgia U21",
-      "homeTeam": "Germany U21",
-      "awayTeam": "Georgia U21",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84MTk2LnBuZzpjODBiNDA0NGU0.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84MTk1LnBuZzpkYmQzMDhiOWQ3.png",
-      "league": "UEFA U21 Championship - Qualification",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzg1MC5wbmc6MjgwNDc2OTg4Mw.png",
-      "matchTime": 1791302400000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "portugal-u21-czech-republic-u21-ZjoxMzUwMjA2OjRkNDc1MTc0Y2I",
-      "title": "Portugal U21 vs Czech Republic U21",
-      "homeTeam": "Portugal U21",
-      "awayTeam": "Czech Republic U21",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84MjE2LnBuZzpiOTBjZmU4MDY1.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84MTg4LnBuZzpmNDk3MjhhNTdh.png",
-      "league": "UEFA U21 Championship - Qualification",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzg1MC5wbmc6MjgwNDc2OTg4Mw.png",
-      "matchTime": 1791304200000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "denmark-u21-belgium-u21-ZjoxMzUwMjEzOjdiOGVmN2UxNzg",
-      "title": "Denmark U21 vs Belgium U21",
-      "homeTeam": "Denmark U21",
-      "awayTeam": "Belgium U21",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84MTg5LnBuZzpkMDkxM2JiNGVj.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84MTgzLnBuZzowN2ZkZGZlYjYz.png",
-      "league": "UEFA U21 Championship - Qualification",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzg1MC5wbmc6MjgwNDc2OTg4Mw.png",
-      "matchTime": 1791304200000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "wales-u21-austria-u21-ZjoxMzUwMjE0OjdlODMxZDE1Y2M",
-      "title": "Wales U21 vs Austria U21",
-      "homeTeam": "Wales U21",
-      "awayTeam": "Austria U21",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84MjI5LnBuZzo3YjFmYmY1Mzlj.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84MTgwLnBuZzo0YWQ3YzU5N2Rl.png",
-      "league": "UEFA U21 Championship - Qualification",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzg1MC5wbmc6MjgwNDc2OTg4Mw.png",
-      "matchTime": 1791304200000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "netherlands-u21-bosnia-herzegovina-u21-ZjoxMzUwMjAzOmEyOGRiODhlOTI",
-      "title": "Netherlands U21 vs Bosnia-Herzegovina U21",
-      "homeTeam": "Netherlands U21",
-      "awayTeam": "Bosnia-Herzegovina U21",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84MjExLnBuZzpjMjY4ZjhlMWU2.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84MTg0LnBuZzplYTY2YTgxZTkx.png",
-      "league": "UEFA U21 Championship - Qualification",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzg1MC5wbmc6MjgwNDc2OTg4Mw.png",
-      "matchTime": 1791305100000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "norway-u21-israel-u21-ZjoxMzUwMjA0OmQxNTBmZmViYzU",
-      "title": "Norway U21 vs Israel U21",
-      "homeTeam": "Norway U21",
-      "awayTeam": "Israel U21",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84MjE0LnBuZzozYTQ5OTM2OTg0.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84MjAwLnBuZzplMWIzMDVmMzA3.png",
-      "league": "UEFA U21 Championship - Qualification",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzg1MC5wbmc6MjgwNDc2OTg4Mw.png",
-      "matchTime": 1791305100000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -794,7 +913,7 @@
       "league": "UEFA Nations League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzUucG5nOmU4NDM3NjRiODc.png",
       "matchTime": 1791295200000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
