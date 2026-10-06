@@ -1,61 +1,68 @@
 {
-  "updatedAt": "2026-10-06T03:01:07.788772+00:00",
+  "updatedAt": "2026-10-06T10:12:39.874803+00:00",
   "matches": [
     {
-      "id": "honduras-jamaica-ZjoxNjM5OTk4OjY0NTFlOGQ4OTE",
-      "title": "Honduras vs Jamaica",
-      "homeTeam": "Honduras",
-      "awayTeam": "Jamaica",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy80NjcyLnBuZzplMmFiZDczMGU5.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMzg1LnBuZzowNzEyNTE5Y2E5.png",
-      "league": "CONCACAF Nations League",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzUzNi5wbmc6MmY3OTE3M2IzMw.png",
-      "matchTime": 1791252000000,
+      "id": "hubei-chufeng-heli-rizhao-yuqi-ZjoxNjM4NTEyOmVjNmFlODdkMjA",
+      "title": "Hubei Chufeng Heli vs Rizhao Yuqi",
+      "homeTeam": "Hubei Chufeng Heli",
+      "awayTeam": "Rizhao Yuqi",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy81NjYwLnBuZzo5MzY0M2YyMTUx.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMTMyOC5wbmc6NjUzOTcxMWRkMw.png",
+      "league": "League Two",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzkyOS5wbmc6OThlMDQyZTRmYQ.png",
+      "matchTime": 1791277200000,
       "status": "inprogress",
       "streams": [
         {
           "id": "stream-1",
           "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjM5OTk4OjY0NTFlOGQ4OTE&source=lola",
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNjM4NTEyOmVjNmFlODdkMjA&source=lola",
           "source": "lola",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjM5OTk4OjY0NTFlOGQ4OTE&source=STV",
-          "source": "STV",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-3",
-          "streamNo": 3,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjM5OTk4OjY0NTFlOGQ4OTE&source=hdtv",
-          "source": "hdtv",
           "hd": true,
           "language": "Unknown"
         }
       ],
-      "streamCount": 3
+      "streamCount": 1
     },
     {
-      "id": "australia-u23-korea-republic-u23-ZjoxNjQzMDEyOjFjYzNhZmM1ZGQ",
-      "title": "Australia U23 vs Korea Republic U23",
-      "homeTeam": "Australia U23",
-      "awayTeam": "Korea Republic U23",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMDkyNy5wbmc6NDRjYTY5YWEzMA.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMDE3Ny5wbmc6M2JjYTNkNWI0YQ.png",
-      "league": "Friendlies",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEwLnBuZzo4ZGE3ZmRhN2Qx.png",
-      "matchTime": 1791252000000,
+      "id": "lam-dong-song-lam-nghe-an-ZjoxNjM2MzU5OjMxNzI5YWVhNDc",
+      "title": "Lam Dong vs Song Lam Nghe An",
+      "homeTeam": "Lam Dong",
+      "awayTeam": "Song Lam Nghe An",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yODIxNS5wbmc6NzcyZDc0MTI3NA.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8zNjc4LnBuZzo1OWFjYjgxMzk4.png",
+      "league": "Cup",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzM0MS5wbmc6ZTk0ZjUxOWU0Nw.png",
+      "matchTime": 1791275400000,
       "status": "inprogress",
       "streams": [
         {
           "id": "stream-1",
           "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjQzMDEyOjFjYzNhZmM1ZGQ&source=lola",
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNjM2MzU5OjMxNzI5YWVhNDc&source=lola",
+          "source": "lola",
+          "hd": true,
+          "language": "Unknown"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
+      "id": "uniao-leiria-u23-santa-clara-u23-ZjoxNTk4NjQ3Ojk0Zjc2N2E2OTI",
+      "title": "Uni\u00e3o Leiria U23 vs Santa Clara U23",
+      "homeTeam": "Uni\u00e3o Leiria U23",
+      "awayTeam": "Santa Clara U23",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNjI1Ny5wbmc6MzU0YWJiNGZhNA.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMTcxOS5wbmc6MDQwY2U4Y2VhMQ.png",
+      "league": "Liga Revela\u00e7\u00e3o U23",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzcwMS5wbmc6NTMyZTcyODZlNA.png",
+      "matchTime": 1791280800000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNTk4NjQ3Ojk0Zjc2N2E2OTI&source=lola",
           "source": "lola",
           "hd": true,
           "language": "Unknown"
@@ -115,6 +122,20 @@
       "league": "CONCACAF Nations League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzUzNi5wbmc6MmY3OTE3M2IzMw.png",
       "matchTime": 1791244800000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "honduras-jamaica-ZjoxNjM5OTk4OjY0NTFlOGQ4OTE",
+      "title": "Honduras vs Jamaica",
+      "homeTeam": "Honduras",
+      "awayTeam": "Jamaica",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy80NjcyLnBuZzplMmFiZDczMGU5.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMzg1LnBuZzowNzEyNTE5Y2E5.png",
+      "league": "CONCACAF Nations League",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzUzNi5wbmc6MmY3OTE3M2IzMw.png",
+      "matchTime": 1791252000000,
       "status": "finished",
       "streams": [],
       "streamCount": 0
@@ -204,6 +225,20 @@
       "streamCount": 0
     },
     {
+      "id": "australia-u23-korea-republic-u23-ZjoxNjQzMDEyOjFjYzNhZmM1ZGQ",
+      "title": "Australia U23 vs Korea Republic U23",
+      "homeTeam": "Australia U23",
+      "awayTeam": "Korea Republic U23",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMDkyNy5wbmc6NDRjYTY5YWEzMA.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMDE3Ny5wbmc6M2JjYTNkNWI0YQ.png",
+      "league": "Friendlies",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEwLnBuZzo4ZGE3ZmRhN2Qx.png",
+      "matchTime": 1791252000000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "south-korea-uzbekistan-ZjoxNjI5MDA1OjkyODRiZDk1MmQ",
       "title": "South Korea vs Uzbekistan",
       "homeTeam": "South Korea",
@@ -288,6 +323,20 @@
       "streamCount": 0
     },
     {
+      "id": "algeria-niger-ZjoxNjQwMDgyOjM1NmUzOTc5ZjE",
+      "title": "Algeria vs Niger",
+      "homeTeam": "Algeria",
+      "awayTeam": "Niger",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNTMyLnBuZzplNjQ5ZDVjNzRj.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNTA1LnBuZzowODUzYTgxOTNi.png",
+      "league": "Friendlies",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEwLnBuZzo4ZGE3ZmRhN2Qx.png",
+      "matchTime": 1791306000000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "argentina-benin-ZjoxNjQwNTE3OjYyOWE3OGFmMDE",
       "title": "Argentina vs Benin",
       "homeTeam": "Argentina",
@@ -325,7 +374,7 @@
       "league": "League Two",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzkyOS5wbmc6OThlMDQyZTRmYQ.png",
       "matchTime": 1791270000000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -339,7 +388,7 @@
       "league": "League Two",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzkyOS5wbmc6OThlMDQyZTRmYQ.png",
       "matchTime": 1791271800000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -353,35 +402,7 @@
       "league": "League Two",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzkyOS5wbmc6OThlMDQyZTRmYQ.png",
       "matchTime": 1791271800000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "hubei-chufeng-heli-rizhao-yuqi-ZjoxNjM4NTEyOmVjNmFlODdkMjA",
-      "title": "Hubei Chufeng Heli vs Rizhao Yuqi",
-      "homeTeam": "Hubei Chufeng Heli",
-      "awayTeam": "Rizhao Yuqi",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy81NjYwLnBuZzo5MzY0M2YyMTUx.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMTMyOC5wbmc6NjUzOTcxMWRkMw.png",
-      "league": "League Two",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzkyOS5wbmc6OThlMDQyZTRmYQ.png",
-      "matchTime": 1791277200000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "lam-dong-song-lam-nghe-an-ZjoxNjM2MzU5OjMxNzI5YWVhNDc",
-      "title": "Lam Dong vs Song Lam Nghe An",
-      "homeTeam": "Lam Dong",
-      "awayTeam": "Song Lam Nghe An",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yODIxNS5wbmc6NzcyZDc0MTI3NA.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8zNjc4LnBuZzo1OWFjYjgxMzk4.png",
-      "league": "Cup",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzM0MS5wbmc6ZTk0ZjUxOWU0Nw.png",
-      "matchTime": 1791275400000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -400,15 +421,15 @@
       "streamCount": 0
     },
     {
-      "id": "uniao-leiria-u23-santa-clara-u23-ZjoxNTk4NjQ3Ojk0Zjc2N2E2OTI",
-      "title": "Uni\u00e3o Leiria U23 vs Santa Clara U23",
-      "homeTeam": "Uni\u00e3o Leiria U23",
-      "awayTeam": "Santa Clara U23",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNjI1Ny5wbmc6MzU0YWJiNGZhNA.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMTcxOS5wbmc6MDQwY2U4Y2VhMQ.png",
+      "id": "rio-ave-u23-moreirense-u23-ZjoxNTk4NjQwOmY0NjY4Nzc3ZWI",
+      "title": "Rio Ave U23 vs Moreirense U23",
+      "homeTeam": "Rio Ave U23",
+      "awayTeam": "Moreirense U23",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNTQ2OC5wbmc6ZTdiNmFlZjViNA.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yODAxNC5wbmc6YWQ4ZWMxMTQzNQ.png",
       "league": "Liga Revela\u00e7\u00e3o U23",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzcwMS5wbmc6NTMyZTcyODZlNA.png",
-      "matchTime": 1791280800000,
+      "matchTime": 1791295200000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
@@ -534,7 +555,7 @@
       "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMTAyNy5wbmc6ZGQ0ODdkMjcwMw.png",
       "league": "Africa Cup of Nations U20",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzUzOC5wbmc6MGI2MjAxZjg1Mw.png",
-      "matchTime": 1791291600000,
+      "matchTime": 1791293400000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
@@ -582,6 +603,20 @@
       "streamCount": 0
     },
     {
+      "id": "latvia-u21-malta-u21-ZjoxMzUwMjE2OmZmN2E1MTQ0ZTE",
+      "title": "Latvia U21 vs Malta U21",
+      "homeTeam": "Latvia U21",
+      "awayTeam": "Malta U21",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84MjA0LnBuZzo2MWUyMTQ3Y2Y2.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84MjA4LnBuZzo5OThjNjZhZjFk.png",
+      "league": "UEFA U21 Championship - Qualification",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzg1MC5wbmc6MjgwNDc2OTg4Mw.png",
+      "matchTime": 1791302400000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "germany-u21-georgia-u21-ZjoxMzUwMjE3OjU2NWFiZTNlNDE",
       "title": "Germany U21 vs Georgia U21",
       "homeTeam": "Germany U21",
@@ -602,6 +637,20 @@
       "awayTeam": "Czech Republic U21",
       "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84MjE2LnBuZzpiOTBjZmU4MDY1.png",
       "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84MTg4LnBuZzpmNDk3MjhhNTdh.png",
+      "league": "UEFA U21 Championship - Qualification",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzg1MC5wbmc6MjgwNDc2OTg4Mw.png",
+      "matchTime": 1791304200000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "denmark-u21-belgium-u21-ZjoxMzUwMjEzOjdiOGVmN2UxNzg",
+      "title": "Denmark U21 vs Belgium U21",
+      "homeTeam": "Denmark U21",
+      "awayTeam": "Belgium U21",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84MTg5LnBuZzpkMDkxM2JiNGVj.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84MTgzLnBuZzowN2ZkZGZlYjYz.png",
       "league": "UEFA U21 Championship - Qualification",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzg1MC5wbmc6MjgwNDc2OTg4Mw.png",
       "matchTime": 1791304200000,
@@ -647,6 +696,20 @@
       "league": "UEFA U21 Championship - Qualification",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzg1MC5wbmc6MjgwNDc2OTg4Mw.png",
       "matchTime": 1791305100000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "france-u21-switzerland-u21-ZjoxMzUwMTk4Ojg3YTQ5NjAyN2U",
+      "title": "France U21 vs Switzerland U21",
+      "homeTeam": "France U21",
+      "awayTeam": "Switzerland U21",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84MTk0LnBuZzowYWM1N2YxYzhj.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84MjI2LnBuZzoxMjc0MTJmMjk1.png",
+      "league": "UEFA U21 Championship - Qualification",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzg1MC5wbmc6MjgwNDc2OTg4Mw.png",
+      "matchTime": 1791306000000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
@@ -1198,20 +1261,6 @@
       "streamCount": 0
     },
     {
-      "id": "goias-athletic-club-ZjoxNTIwOTE0OmQ3MTk4NjE3OTg",
-      "title": "Goias vs Athletic Club",
-      "homeTeam": "Goias",
-      "awayTeam": "Athletic Club",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNTEucG5nOjVmMGFkMTY0Yzg.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMzk3NS5wbmc6MjEwZDcwMzgwNA.png",
-      "league": "Serie B",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzcyLnBuZzo0NzE5M2E2OTdk.png",
-      "matchTime": 1791329400000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
       "id": "colo-colo-d-puerto-montt-ZjoxNjQyMjQ3OjJmNDMwYWQ5ZDU",
       "title": "Colo Colo vs D. Puerto Montt",
       "homeTeam": "Colo Colo",
@@ -1220,6 +1269,20 @@
       "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMzQyLnBuZzo2ZWUxYzlhMDkz.png",
       "league": "Copa Chile",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI2Ny5wbmc6M2RiNTk1ZGIxMQ.png",
+      "matchTime": 1791327600000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "goias-athletic-club-ZjoxNTIwOTE0OmQ3MTk4NjE3OTg",
+      "title": "Goias vs Athletic Club",
+      "homeTeam": "Goias",
+      "awayTeam": "Athletic Club",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNTEucG5nOjVmMGFkMTY0Yzg.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMzk3NS5wbmc6MjEwZDcwMzgwNA.png",
+      "league": "Serie B",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzcyLnBuZzo0NzE5M2E2OTdk.png",
       "matchTime": 1791329400000,
       "status": "notstarted",
       "streams": [],
