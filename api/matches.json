@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T00:52:38.767951+00:00",
+  "updatedAt": "2026-10-07T06:45:22.454612+00:00",
   "matches": [
     {
       "id": "rb-bragantino-mirassol-ZjoxNDkyMzkyOmEyMWFhYzA2NWM",
@@ -81,18 +81,9 @@
       "league": "Copa de la Divisi\u00f3n Profesional",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzk2NC5wbmc6MDMxYjk1ZGIyMw.png",
       "matchTime": 1791331200000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjE5NzEwOjZkZGRjNzliOGM&source=hdtv",
-          "source": "hdtv",
-          "hd": true,
-          "language": "Unknown"
-        }
-      ],
-      "streamCount": 1
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
     },
     {
       "id": "usa-canada-ZjoxNjI5MDA3OjNjOGVjMTEzN2Q",
@@ -104,143 +95,9 @@
       "league": "Friendlies",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEwLnBuZzo4ZGE3ZmRhN2Qx.png",
       "matchTime": 1791331200000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjI5MDA3OjNjOGVjMTEzN2Q&source=lola",
-          "source": "lola",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjI5MDA3OjNjOGVjMTEzN2Q&source=PPV",
-          "source": "PPV",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-3",
-          "streamNo": 3,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjI5MDA3OjNjOGVjMTEzN2Q&source=STV",
-          "source": "STV",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-4",
-          "streamNo": 4,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjI5MDA3OjNjOGVjMTEzN2Q&source=hdtv",
-          "source": "hdtv",
-          "hd": true,
-          "language": "Unknown"
-        }
-      ],
-      "streamCount": 4
-    },
-    {
-      "id": "san-marcos-diriangen-ZjoxNjM4OTYyOmRmMTUzY2M1MjA",
-      "title": "San Marcos vs Diriang\u00e9n",
-      "homeTeam": "San Marcos",
-      "awayTeam": "Diriang\u00e9n",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMzMxMS5wbmc6NTk4ZjY0N2RkNw.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy80NjQxLnBuZzowNWJiYjk4ZjM4.png",
-      "league": "Primera Division",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzM5Ni5wbmc6ZDI1NGZjOWJiNw.png",
-      "matchTime": 1791331200000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjM4OTYyOmRmMTUzY2M1MjA&source=lola",
-          "source": "lola",
-          "hd": true,
-          "language": "Unknown"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "chicago-fire-vancouver-whitecaps-ZjoxNDkwMzI2OmYyN2VmMTMwMzg",
-      "title": "Chicago Fire vs Vancouver Whitecaps",
-      "homeTeam": "Chicago Fire",
-      "awayTeam": "Vancouver Whitecaps",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNjA3LnBuZzpiMTIwZDVkMGRk.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNjAzLnBuZzpmNjk2YjgwNGFh.png",
-      "league": "Major League Soccer",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI1My5wbmc6YTJiNjc5MWJlZQ.png",
-      "matchTime": 1791333000000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNDkwMzI2OmYyN2VmMTMwMzg&source=lola",
-          "source": "lola",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNDkwMzI2OmYyN2VmMTMwMzg&source=PPV",
-          "source": "PPV",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-3",
-          "streamNo": 3,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNDkwMzI2OmYyN2VmMTMwMzg&source=capo",
-          "source": "capo",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-4",
-          "streamNo": 4,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNDkwMzI2OmYyN2VmMTMwMzg&source=hdtv",
-          "source": "hdtv",
-          "hd": true,
-          "language": "Unknown"
-        }
-      ],
-      "streamCount": 4
-    },
-    {
-      "id": "ponte-preta-juventude-ZjoxNTIwOTE3OmFkMzA4MWM3ZDI",
-      "title": "Ponte Preta vs Juventude",
-      "homeTeam": "Ponte Preta",
-      "awayTeam": "Juventude",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMzkucG5nOjVhNGJhMGQ5NDg.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNTIucG5nOjUwMWIzNDZhMDQ.png",
-      "league": "Serie B",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzcyLnBuZzo0NzE5M2E2OTdk.png",
-      "matchTime": 1791333300000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNTIwOTE3OmFkMzA4MWM3ZDI&source=lola",
-          "source": "lola",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNTIwOTE3OmFkMzA4MWM3ZDI&source=hdtv",
-          "source": "hdtv",
-          "hd": true,
-          "language": "Unknown"
-        }
-      ],
-      "streamCount": 2
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
     },
     {
       "id": "mexico-chile-ZjoxNjI5MDA2OmQwMzRhMGU5ZDQ",
@@ -252,6 +109,62 @@
       "league": "Friendlies",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEwLnBuZzo4ZGE3ZmRhN2Qx.png",
       "matchTime": 1791340200000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "san-marcos-diriangen-ZjoxNjM4OTYyOmRmMTUzY2M1MjA",
+      "title": "San Marcos vs Diriang\u00e9n",
+      "homeTeam": "San Marcos",
+      "awayTeam": "Diriang\u00e9n",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMzMxMS5wbmc6NTk4ZjY0N2RkNw.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy80NjQxLnBuZzowNWJiYjk4ZjM4.png",
+      "league": "Primera Division",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzM5Ni5wbmc6ZDI1NGZjOWJiNw.png",
+      "matchTime": 1791331200000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "chicago-fire-vancouver-whitecaps-ZjoxNDkwMzI2OmYyN2VmMTMwMzg",
+      "title": "Chicago Fire vs Vancouver Whitecaps",
+      "homeTeam": "Chicago Fire",
+      "awayTeam": "Vancouver Whitecaps",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNjA3LnBuZzpiMTIwZDVkMGRk.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNjAzLnBuZzpmNjk2YjgwNGFh.png",
+      "league": "Major League Soccer",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI1My5wbmc6YTJiNjc5MWJlZQ.png",
+      "matchTime": 1791333000000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "ponte-preta-juventude-ZjoxNTIwOTE3OmFkMzA4MWM3ZDI",
+      "title": "Ponte Preta vs Juventude",
+      "homeTeam": "Ponte Preta",
+      "awayTeam": "Juventude",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMzkucG5nOjVhNGJhMGQ5NDg.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNTIucG5nOjUwMWIzNDZhMDQ.png",
+      "league": "Serie B",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzcyLnBuZzo0NzE5M2E2OTdk.png",
+      "matchTime": 1791333300000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "america-mineiro-fortaleza-ec-ZjoxNTIwOTEwOjAxYjNkMjZjNjM",
+      "title": "America Mineiro vs Fortaleza EC",
+      "homeTeam": "America Mineiro",
+      "awayTeam": "Fortaleza EC",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMjUucG5nOjE1NWZmYjRkYWE.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNTQucG5nOmQwOGVjM2E3ZDg.png",
+      "league": "Serie B",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzcyLnBuZzo0NzE5M2E2OTdk.png",
+      "matchTime": 1791415800000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
@@ -266,7 +179,7 @@
       "league": "CONCACAF Nations League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzUzNi5wbmc6MmY3OTE3M2IzMw.png",
       "matchTime": 1791338400000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -728,6 +641,20 @@
       "league": "Canadian Premier League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzQ3OS5wbmc6YWY3ZDQwNjU2Ng.png",
       "matchTime": 1791414000000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "aldosivi-res-tigre-res-ZjoxNjEyMDczOmEzNTg1NWVkMTI",
+      "title": "Aldosivi Res. vs Tigre Res.",
+      "homeTeam": "Aldosivi Res.",
+      "awayTeam": "Tigre Res.",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xODY3Ni5wbmc6NWYzZjkzYjMyMw.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xODcwMC5wbmc6NzQxODJjNzRjZg.png",
+      "league": "Reserve League",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzkwNi5wbmc6MDNkOGM0ODMxMg.png",
+      "matchTime": 1791396000000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
