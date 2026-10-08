@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T00:01:27.295313+00:00",
+  "updatedAt": "2026-10-08T05:58:05.059671+00:00",
   "matches": [
     {
       "id": "cruzeiro-sao-paulo-ZjoxNDkyMzkzOjM5ZTJhYjg1NzM",
@@ -11,7 +11,7 @@
       "league": "Serie A",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzcxLnBuZzo4Y2U4N2FhZDMx.png",
       "matchTime": 1791419400000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -80,7 +80,7 @@
       "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMjgxMi5wbmc6YWM3ZGI4ZTkwNw.png",
       "league": "Premier League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzM5MC5wbmc6ZjFmMTE2YTAwYw.png",
-      "matchTime": 1791460800000,
+      "matchTime": 1791485100000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
@@ -95,7 +95,7 @@
       "league": "Primera Division",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzM5Ni5wbmc6ZDI1NGZjOWJiNw.png",
       "matchTime": 1791417600000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -109,7 +109,7 @@
       "league": "USL League One",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzQ4OS5wbmc6NjEyZDgyNWEzMA.png",
       "matchTime": 1791419400000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -254,6 +254,20 @@
       "streamCount": 0
     },
     {
+      "id": "tractor-sazi-esteghlal-fc-ZjoxNjM5NjQ2OjA4NmM3MmZiYjY",
+      "title": "Tractor Sazi vs Esteghlal FC",
+      "homeTeam": "Tractor Sazi",
+      "awayTeam": "Esteghlal FC",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNzM3LnBuZzo3MjIzYTBkMTc0.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNzMzLnBuZzoxM2NmYTk2MWE3.png",
+      "league": "Persian Gulf Pro League",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI5MC5wbmc6NzZmMmFlMmVkZQ.png",
+      "matchTime": 1791466200000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "al-ittihad-wadi-degla-ZjoxNjQwMjkyOjA2MmNjNGVlOGM",
       "title": "Al Ittihad vs Wadi Degla",
       "homeTeam": "Al Ittihad",
@@ -352,6 +366,34 @@
       "streamCount": 0
     },
     {
+      "id": "shabab-al-ordon-al-buqa-a-ZjoxNjQzMzU2OjMzMjAwNTZmMTY",
+      "title": "Shabab Al Ordon vs Al Buqa'a",
+      "homeTeam": "Shabab Al Ordon",
+      "awayTeam": "Al Buqa'a",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy80NTM5LnBuZzo4YTA0ZDdiMTNj.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy80NTMwLnBuZzplZTU3N2NjZjk1.png",
+      "league": "League",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzM4Ny5wbmc6NDlmYTc1N2QzOQ.png",
+      "matchTime": 1791471600000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "naft-maysan-erbil-ZjoxNjI3OTk3OjkxZTJjYTY0MmQ",
+      "title": "Naft Maysan vs Erbil",
+      "homeTeam": "Naft Maysan",
+      "awayTeam": "Erbil",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMTA3NC5wbmc6NTc0YWZjY2JkMQ.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMTA3MC5wbmc6MTg4NmQ1MGI1Yg.png",
+      "league": "Iraqi League",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzU0Mi5wbmc6NTBjNDE2ODQ2ZA.png",
+      "matchTime": 1791474300000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "mornar-jezero-ZjoxNTU4NTM0OjhmNmZhYTA0Yjk",
       "title": "Mornar vs Jezero",
       "homeTeam": "Mornar",
@@ -403,6 +445,20 @@
       "league": "Primera Divisi\u00f3n",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI4MS5wbmc6NWI2OGQ5MjVmYQ.png",
       "matchTime": 1791491400000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "atletico-tucuman-res-talleres-cordoba-res-ZjoxNjEyMDc1OmViZTcyNThlMmI",
+      "title": "Atl\u00e9tico Tucum\u00e1n Res. vs Talleres C\u00f3rdoba Res.",
+      "homeTeam": "Atl\u00e9tico Tucum\u00e1n Res.",
+      "awayTeam": "Talleres C\u00f3rdoba Res.",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xODY3OC5wbmc6NzUxMGFlYjE0ZA.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xODY5OS5wbmc6YTY1NGMwMTVhNg.png",
+      "league": "Reserve League",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzkwNi5wbmc6MDNkOGM0ODMxMg.png",
+      "matchTime": 1791482400000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
