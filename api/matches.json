@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-15T01:37:12.658156+00:00",
+  "updatedAt": "2026-10-15T06:26:43.488727+00:00",
   "matches": [
+    {
+      "id": "dinamo-minsk-slavia-mozyr-ZjoxNTI1OTMwOmUwMzZmZmNkMDg",
+      "title": "Dinamo Minsk vs Slavia Mozyr",
+      "homeTeam": "Dinamo Minsk",
+      "awayTeam": "Slavia Mozyr",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8zOTQucG5nOmNhZWZhYTI2Yjg.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy83NTEucG5nOjBjNGM4ZGQ0MmY.png",
+      "league": "Premier League",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzExNi5wbmc6NmVjOGNlNDVhMg.png",
+      "matchTime": 1792078200000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
     {
       "id": "az-alkmaar-hapoel-beer-sheva-ZjoxNjM2MjIyOmYyOTllYWI0MWQ",
       "title": "AZ Alkmaar vs Hapoel Beer Sheva",
@@ -263,34 +277,9 @@
       "league": "CONCACAF Caribbean Club Championship",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzg1Ni5wbmc6ZWMyYWNiMDVkMQ.png",
       "matchTime": 1792022400000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjQwNTUyOmZmMmY1MmQ2ODQ&source=lola",
-          "source": "lola",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjQwNTUyOmZmMmY1MmQ2ODQ&source=capo",
-          "source": "capo",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-3",
-          "streamNo": 3,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjQwNTUyOmZmMmY1MmQ2ODQ&source=hdtv",
-          "source": "hdtv",
-          "hd": true,
-          "language": "Unknown"
-        }
-      ],
-      "streamCount": 3
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
     },
     {
       "id": "deportivo-maldonado-albion-fc-ZjoxNjQzMzkxOjZjNWNmZDhiOWY",
@@ -302,284 +291,9 @@
       "league": "Copa Uruguay",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzkzMC5wbmc6YzNkYTNjNWU5Mg.png",
       "matchTime": 1792022400000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjQzMzkxOjZjNWNmZDhiOWY&source=hdtv",
-          "source": "hdtv",
-          "hd": true,
-          "language": "Unknown"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "fc-dallas-seattle-sounders-ZjoxNDkwNTMyOjBkY2ZjNDY5YTI",
-      "title": "FC Dallas vs Seattle Sounders",
-      "homeTeam": "FC Dallas",
-      "awayTeam": "Seattle Sounders",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNTk3LnBuZzpkNzU2YmQzMGZi.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNTk1LnBuZzo2YmEzZGI1Yjkx.png",
-      "league": "Major League Soccer",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI1My5wbmc6YTJiNjc5MWJlZQ.png",
-      "matchTime": 1792024200000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNDkwNTMyOjBkY2ZjNDY5YTI&source=lola",
-          "source": "lola",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNDkwNTMyOjBkY2ZjNDY5YTI&source=PPV",
-          "source": "PPV",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-3",
-          "streamNo": 3,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNDkwNTMyOjBkY2ZjNDY5YTI&source=capo",
-          "source": "capo",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-4",
-          "streamNo": 4,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNDkwNTMyOjBkY2ZjNDY5YTI&source=hdtv",
-          "source": "hdtv",
-          "hd": true,
-          "language": "Unknown"
-        }
-      ],
-      "streamCount": 4
-    },
-    {
-      "id": "chicago-fire-philadelphia-union-ZjoxNDkwNTMzOjA0NTI4Y2M2NGY",
-      "title": "Chicago Fire vs Philadelphia Union",
-      "homeTeam": "Chicago Fire",
-      "awayTeam": "Philadelphia Union",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNjA3LnBuZzpiMTIwZDVkMGRk.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNTk5LnBuZzo5YWQ4MmNmYTEy.png",
-      "league": "Major League Soccer",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI1My5wbmc6YTJiNjc5MWJlZQ.png",
-      "matchTime": 1792024200000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNDkwNTMzOjA0NTI4Y2M2NGY&source=lola",
-          "source": "lola",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNDkwNTMzOjA0NTI4Y2M2NGY&source=PPV",
-          "source": "PPV",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-3",
-          "streamNo": 3,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNDkwNTMzOjA0NTI4Y2M2NGY&source=capo",
-          "source": "capo",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-4",
-          "streamNo": 4,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNDkwNTMzOjA0NTI4Y2M2NGY&source=hdtv",
-          "source": "hdtv",
-          "hd": true,
-          "language": "Unknown"
-        }
-      ],
-      "streamCount": 4
-    },
-    {
-      "id": "st-louis-city-vancouver-whitecaps-ZjoxNDkwNTM0OjEzOWI5ZjgzZmQ",
-      "title": "St. Louis City vs Vancouver Whitecaps",
-      "homeTeam": "St. Louis City",
-      "awayTeam": "Vancouver Whitecaps",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMDc4Ny5wbmc6Nzg4MDhlY2IyMA.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNjAzLnBuZzpmNjk2YjgwNGFh.png",
-      "league": "Major League Soccer",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI1My5wbmc6YTJiNjc5MWJlZQ.png",
-      "matchTime": 1792024200000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNDkwNTM0OjEzOWI5ZjgzZmQ&source=lola",
-          "source": "lola",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNDkwNTM0OjEzOWI5ZjgzZmQ&source=PPV",
-          "source": "PPV",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-3",
-          "streamNo": 3,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNDkwNTM0OjEzOWI5ZjgzZmQ&source=capo",
-          "source": "capo",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-4",
-          "streamNo": 4,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNDkwNTM0OjEzOWI5ZjgzZmQ&source=hdtv",
-          "source": "hdtv",
-          "hd": true,
-          "language": "Unknown"
-        }
-      ],
-      "streamCount": 4
-    },
-    {
-      "id": "nashville-sc-sporting-kansas-city-ZjoxNDkwNTM1OmM5YTU1ZGQyMDA",
-      "title": "Nashville SC vs Sporting Kansas City",
-      "homeTeam": "Nashville SC",
-      "awayTeam": "Sporting Kansas City",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy85NTY5LnBuZzplM2ZkYjc5Nzk3.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNjExLnBuZzphNWMwZDVmNzQ3.png",
-      "league": "Major League Soccer",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI1My5wbmc6YTJiNjc5MWJlZQ.png",
-      "matchTime": 1792024200000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNDkwNTM1OmM5YTU1ZGQyMDA&source=lola",
-          "source": "lola",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNDkwNTM1OmM5YTU1ZGQyMDA&source=PPV",
-          "source": "PPV",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-3",
-          "streamNo": 3,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNDkwNTM1OmM5YTU1ZGQyMDA&source=capo",
-          "source": "capo",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-4",
-          "streamNo": 4,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNDkwNTM1OmM5YTU1ZGQyMDA&source=hdtv",
-          "source": "hdtv",
-          "hd": true,
-          "language": "Unknown"
-        }
-      ],
-      "streamCount": 4
-    },
-    {
-      "id": "fluminense-palmeiras-ZjoxNjQwMDIwOjhmYzJmMDI4MmI",
-      "title": "Fluminense vs Palmeiras",
-      "homeTeam": "Fluminense",
-      "awayTeam": "Palmeiras",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMjQucG5nOmY1YWE3MjE5ZTU.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMjEucG5nOjhhMWIwMjE3N2Q.png",
-      "league": "CONMEBOL Libertadores",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEzLnBuZzowMzc5Njc3NjUx.png",
-      "matchTime": 1792024200000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjQwMDIwOjhmYzJmMDI4MmI&source=lola",
-          "source": "lola",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjQwMDIwOjhmYzJmMDI4MmI&source=capo",
-          "source": "capo",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-3",
-          "streamNo": 3,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjQwMDIwOjhmYzJmMDI4MmI&source=STV",
-          "source": "STV",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-4",
-          "streamNo": 4,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjQwMDIwOjhmYzJmMDI4MmI&source=hdtv",
-          "source": "hdtv",
-          "hd": true,
-          "language": "Unknown"
-        }
-      ],
-      "streamCount": 4
-    },
-    {
-      "id": "atletico-nacional-independiente-medellin-ZjoxNjQ0NzUwOjlkODVjMDJkODQ",
-      "title": "Atletico Nacional vs Independiente Medellin",
-      "homeTeam": "Atletico Nacional",
-      "awayTeam": "Independiente Medellin",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMTM3LnBuZzo3NDJjNGJhYjdk.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMTI4LnBuZzpmNDAxYTRjZjBk.png",
-      "league": "Copa Colombia",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI0MS5wbmc6NjdhODY0ZDdjYw.png",
-      "matchTime": 1792027800000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjQ0NzUwOjlkODVjMDJkODQ&source=lola",
-          "source": "lola",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjQ0NzUwOjlkODVjMDJkODQ&source=hdtv",
-          "source": "hdtv",
-          "hd": true,
-          "language": "Unknown"
-        }
-      ],
-      "streamCount": 2
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
     },
     {
       "id": "managua-san-marcos-ZjoxNjQ1NjM1OmU5ZDM5ZTQ1NTY",
@@ -591,7 +305,7 @@
       "league": "Primera Division",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzM5Ni5wbmc6ZDI1NGZjOWJiNw.png",
       "matchTime": 1792022400000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -619,7 +333,63 @@
       "league": "Eerste Divisie",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzU2OC5wbmc6YjI1M2I3MTI4Yw.png",
       "matchTime": 1792023300000,
-      "status": "notstarted",
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "fc-dallas-seattle-sounders-ZjoxNDkwNTMyOjBkY2ZjNDY5YTI",
+      "title": "FC Dallas vs Seattle Sounders",
+      "homeTeam": "FC Dallas",
+      "awayTeam": "Seattle Sounders",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNTk3LnBuZzpkNzU2YmQzMGZi.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNTk1LnBuZzo2YmEzZGI1Yjkx.png",
+      "league": "Major League Soccer",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI1My5wbmc6YTJiNjc5MWJlZQ.png",
+      "matchTime": 1792024200000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "chicago-fire-philadelphia-union-ZjoxNDkwNTMzOjA0NTI4Y2M2NGY",
+      "title": "Chicago Fire vs Philadelphia Union",
+      "homeTeam": "Chicago Fire",
+      "awayTeam": "Philadelphia Union",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNjA3LnBuZzpiMTIwZDVkMGRk.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNTk5LnBuZzo5YWQ4MmNmYTEy.png",
+      "league": "Major League Soccer",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI1My5wbmc6YTJiNjc5MWJlZQ.png",
+      "matchTime": 1792024200000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "st-louis-city-vancouver-whitecaps-ZjoxNDkwNTM0OjEzOWI5ZjgzZmQ",
+      "title": "St. Louis City vs Vancouver Whitecaps",
+      "homeTeam": "St. Louis City",
+      "awayTeam": "Vancouver Whitecaps",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMDc4Ny5wbmc6Nzg4MDhlY2IyMA.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNjAzLnBuZzpmNjk2YjgwNGFh.png",
+      "league": "Major League Soccer",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI1My5wbmc6YTJiNjc5MWJlZQ.png",
+      "matchTime": 1792024200000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "nashville-sc-sporting-kansas-city-ZjoxNDkwNTM1OmM5YTU1ZGQyMDA",
+      "title": "Nashville SC vs Sporting Kansas City",
+      "homeTeam": "Nashville SC",
+      "awayTeam": "Sporting Kansas City",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy85NTY5LnBuZzplM2ZkYjc5Nzk3.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNjExLnBuZzphNWMwZDVmNzQ3.png",
+      "league": "Major League Soccer",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI1My5wbmc6YTJiNjc5MWJlZQ.png",
+      "matchTime": 1792024200000,
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -633,7 +403,7 @@
       "league": "Major League Soccer",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI1My5wbmc6YTJiNjc5MWJlZQ.png",
       "matchTime": 1792027800000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -647,7 +417,7 @@
       "league": "Major League Soccer",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI1My5wbmc6YTJiNjc5MWJlZQ.png",
       "matchTime": 1792027800000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -661,7 +431,7 @@
       "league": "Major League Soccer",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI1My5wbmc6YTJiNjc5MWJlZQ.png",
       "matchTime": 1792031400000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -675,7 +445,7 @@
       "league": "Major League Soccer",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI1My5wbmc6YTJiNjc5MWJlZQ.png",
       "matchTime": 1792031400000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -689,7 +459,35 @@
       "league": "Major League Soccer",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI1My5wbmc6YTJiNjc5MWJlZQ.png",
       "matchTime": 1792031400000,
-      "status": "notstarted",
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "fluminense-palmeiras-ZjoxNjQwMDIwOjhmYzJmMDI4MmI",
+      "title": "Fluminense vs Palmeiras",
+      "homeTeam": "Fluminense",
+      "awayTeam": "Palmeiras",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMjQucG5nOmY1YWE3MjE5ZTU.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMjEucG5nOjhhMWIwMjE3N2Q.png",
+      "league": "CONMEBOL Libertadores",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEzLnBuZzowMzc5Njc3NjUx.png",
+      "matchTime": 1792024200000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "atletico-nacional-independiente-medellin-ZjoxNjQ0NzUwOjlkODVjMDJkODQ",
+      "title": "Atletico Nacional vs Independiente Medellin",
+      "homeTeam": "Atletico Nacional",
+      "awayTeam": "Independiente Medellin",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMTM3LnBuZzo3NDJjNGJhYjdk.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMTI4LnBuZzpmNDAxYTRjZjBk.png",
+      "league": "Copa Colombia",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI0MS5wbmc6NjdhODY0ZDdjYw.png",
+      "matchTime": 1792027800000,
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -703,7 +501,7 @@
       "league": "Primera Divisi\u00f3n",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzE2Mi5wbmc6YTc3MGIzMzM2Mg.png",
       "matchTime": 1792029600000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -932,6 +730,20 @@
       "streamCount": 0
     },
     {
+      "id": "rigas-fs-super-nova-ZjoxNTE1ODk3OjNjN2U0YWY4ZDc",
+      "title": "R\u012bgas FS vs Super Nova",
+      "homeTeam": "R\u012bgas FS",
+      "awayTeam": "Super Nova",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy80MTYwLnBuZzpiN2EyODAzNDcy.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy80MTQzLnBuZzo0NWQ2OGY3MDQ4.png",
+      "league": "Virsliga",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzM2NS5wbmc6NmFhMTI2NTIwOA.png",
+      "matchTime": 1792072800000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "andijan-qizilqum-ZjoxNTE2MTUzOjY2ZmRmNzI4OGQ",
       "title": "Andijan vs Qizilqum",
       "homeTeam": "Andijan",
@@ -974,6 +786,48 @@
       "streamCount": 0
     },
     {
+      "id": "manisa-f-k-esenler-erokspor-ZjoxNTg1NzgzOjc0MDNhMmEzM2U",
+      "title": "Manisa F.K. vs Esenler Erokspor",
+      "homeTeam": "Manisa F.K.",
+      "awayTeam": "Esenler Erokspor",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8zNTk3LnBuZzo2ZTQ2ZDhkMDNm.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy83NDAyLnBuZzphZTExODRhN2Nj.png",
+      "league": "1. Lig",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzIwNC5wbmc6NDExMWNiMmRjNA.png",
+      "matchTime": 1792083600000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "muglaspor-bursaspor-ZjoxNTg1Nzg1OmEzMzIwOTlhMzU",
+      "title": "Mu\u011flaspor vs Bursaspor",
+      "homeTeam": "Mu\u011flaspor",
+      "awayTeam": "Bursaspor",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy83NDE0LnBuZzowMTk4M2NkOTM0.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMDAzLnBuZzozNjRkM2ZlZDE5.png",
+      "league": "1. Lig",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzIwNC5wbmc6NDExMWNiMmRjNA.png",
+      "matchTime": 1792083600000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "al-arabi-shabab-al-ordon-ZjoxNjQzMzYxOjJlNTY0YjYwZWQ",
+      "title": "Al Arabi vs Shabab Al Ordon",
+      "homeTeam": "Al Arabi",
+      "awayTeam": "Shabab Al Ordon",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNzQ3Mi5wbmc6MThmNWNmZWRlMA.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy80NTM5LnBuZzo4YTA0ZDdiMTNj.png",
+      "league": "League",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzM4Ny5wbmc6NDlmYTc1N2QzOQ.png",
+      "matchTime": 1792076400000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "rubin-fc-orenburg-ZjoxNTYzNjY2OjMyOWJhODJkM2M",
       "title": "Rubin vs FC Orenburg",
       "homeTeam": "Rubin",
@@ -983,6 +837,48 @@
       "league": "Cup",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzIzNy5wbmc6YzEyOTY2ZjhjNA.png",
       "matchTime": 1792078200000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "rodina-moskva-spartak-moscow-ZjoxNTYzNjY1OjY0ZjQ0ODFhNzU",
+      "title": "Rodina Moskva vs Spartak Moscow",
+      "homeTeam": "Rodina Moskva",
+      "awayTeam": "Spartak Moscow",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy82ODIyLnBuZzowNzY2NzkxNjcz.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy81NTgucG5nOjdlZjVlMDIzOTA.png",
+      "league": "Cup",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzIzNy5wbmc6YzEyOTY2ZjhjNA.png",
+      "matchTime": 1792086300000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "flora-tallinn-fc-levadia-tallinn-ZjoxNTEzNjQ4OjAwNjQ1NDk1YWI",
+      "title": "Flora Tallinn vs FC Levadia Tallinn",
+      "homeTeam": "Flora Tallinn",
+      "awayTeam": "FC Levadia Tallinn",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy82ODcucG5nOjM5NjJmNTliZTI.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMjczLnBuZzowYmZhNWQ4OWJj.png",
+      "league": "Meistriliiga",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzMyOS5wbmc6Y2M5ZWE4ODZiZg.png",
+      "matchTime": 1792080000000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "pogo-siedlce-puszcza-niepo-omice-ZjoxNTU4MjA2OjliYzVhYWU1MzI",
+      "title": "Pogo\u0144 Siedlce vs Puszcza Niepo\u0142omice",
+      "homeTeam": "Pogo\u0144 Siedlce",
+      "awayTeam": "Puszcza Niepo\u0142omice",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy82OTQ3LnBuZzo5YTAzZDFiZDhj.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8zNDkwLnBuZzoyNTk0ZDY2MzY3.png",
+      "league": "I Liga",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEwNy5wbmc6NDhlOTFhNTZlNQ.png",
+      "matchTime": 1792081800000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
@@ -1240,6 +1136,20 @@
       "streamCount": 0
     },
     {
+      "id": "caen-la-roche-vf-ZjoxNTc0NzYxOjE5Y2Q1MDA4NzI",
+      "title": "Caen vs La Roche VF",
+      "homeTeam": "Caen",
+      "awayTeam": "La Roche VF",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84OC5wbmc6OGEwM2M5OTQ4Mw.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy85OTE1LnBuZzpkZGZjODAwYWM4.png",
+      "league": "Ligue 3",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzYzLnBuZzpiZmQwOWIxNTQ2.png",
+      "matchTime": 1792089900000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "envigado-real-santander-ZjoxNTQ5NjYxOjY2M2Y4NDY3NDY",
       "title": "Envigado vs Real Santander",
       "homeTeam": "Envigado",
@@ -1291,6 +1201,20 @@
       "league": "CONMEBOL Libertadores Femenina",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzk0OS5wbmc6NDg5NzUyMGRlNA.png",
       "matchTime": 1792094400000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "boca-juniors-res-ferro-2-ZjoxNjEyMDk0OmRhYzJlOTk1MDU",
+      "title": "Boca Juniors Res. vs Ferro 2",
+      "homeTeam": "Boca Juniors Res.",
+      "awayTeam": "Ferro 2",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xODY4MS5wbmc6ZmI5NWZlNTAzNQ.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNjI1MC5wbmc6MTI3NzZjNjdjZA.png",
+      "league": "Reserve League",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzkwNi5wbmc6MDNkOGM0ODMxMg.png",
+      "matchTime": 1792101600000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
