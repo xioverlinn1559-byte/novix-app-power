@@ -1,6 +1,53 @@
 {
-  "updatedAt": "2026-10-16T21:27:46.624704+00:00",
+  "updatedAt": "2026-10-16T23:45:44.158191+00:00",
   "matches": [
+    {
+      "id": "mirassol-internacional-ZjoxNDkyNDE3Ojk3NjVjM2IzNTE",
+      "title": "Mirassol vs Internacional",
+      "homeTeam": "Mirassol",
+      "awayTeam": "Internacional",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy83ODQ4LnBuZzpiMjJiZTFhNjgy.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMTkucG5nOjYxZmMyNmM3MTk.png",
+      "league": "Serie A",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzcxLnBuZzo4Y2U4N2FhZDMx.png",
+      "matchTime": 1792191600000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNDkyNDE3Ojk3NjVjM2IzNTE&source=lola",
+          "source": "lola",
+          "hd": true,
+          "language": "Unknown"
+        },
+        {
+          "id": "stream-2",
+          "streamNo": 2,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNDkyNDE3Ojk3NjVjM2IzNTE&source=capo",
+          "source": "capo",
+          "hd": true,
+          "language": "Unknown"
+        },
+        {
+          "id": "stream-3",
+          "streamNo": 3,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNDkyNDE3Ojk3NjVjM2IzNTE&source=STV",
+          "source": "STV",
+          "hd": true,
+          "language": "Unknown"
+        },
+        {
+          "id": "stream-4",
+          "streamNo": 4,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNDkyNDE3Ojk3NjVjM2IzNTE&source=hdtv",
+          "source": "hdtv",
+          "hd": true,
+          "language": "Unknown"
+        }
+      ],
+      "streamCount": 4
+    },
     {
       "id": "gandzasar-sardarapat-ZjoxNTgxNTQyOjc0MTZmM2MwYzM",
       "title": "Gandzasar vs Sardarapat",
@@ -100,35 +147,21 @@
       "streamCount": 0
     },
     {
-      "id": "mirassol-internacional-ZjoxNDkyNDE3Ojk3NjVjM2IzNTE",
-      "title": "Mirassol vs Internacional",
-      "homeTeam": "Mirassol",
-      "awayTeam": "Internacional",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy83ODQ4LnBuZzpiMjJiZTFhNjgy.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMTkucG5nOjYxZmMyNmM3MTk.png",
-      "league": "Serie A",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzcxLnBuZzo4Y2U4N2FhZDMx.png",
-      "matchTime": 1792191600000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "club-deportivo-los-chankas-adt-ZjoxNTQ5NTE1OjM0YTYzMDhlMmQ",
-      "title": "Club Deportivo Los Chankas vs ADT",
-      "homeTeam": "Club Deportivo Los Chankas",
-      "awayTeam": "ADT",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNTcyLnBuZzowMDJkYmU1MGIw.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMDQ5Mi5wbmc6NzRlNTJlZDRmMA.png",
-      "league": "Primera Divisi\u00f3n",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI4MS5wbmc6NWI2OGQ5MjVmYQ.png",
-      "matchTime": 1792182600000,
+      "id": "defensa-y-justicia-instituto-cordoba-ZjoxNDkzMTg2OjhlZDNmMGIzMTA",
+      "title": "Defensa Y Justicia vs Instituto Cordoba",
+      "homeTeam": "Defensa Y Justicia",
+      "awayTeam": "Instituto Cordoba",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy80NDIucG5nOjljZTE3MjkwOGM.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy80NzgucG5nOjdjYTk0YzIyYjA.png",
+      "league": "Liga Profesional Argentina",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEyOC5wbmc6OTFmNDBlMWUxZg.png",
+      "matchTime": 1792188000000,
       "status": "inprogress",
       "streams": [
         {
           "id": "stream-1",
           "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNTQ5NTE1OjM0YTYzMDhlMmQ&source=lola",
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNDkzMTg2OjhlZDNmMGIzMTA&source=lola",
           "source": "lola",
           "hd": true,
           "language": "Unknown"
@@ -136,7 +169,7 @@
         {
           "id": "stream-2",
           "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNTQ5NTE1OjM0YTYzMDhlMmQ&source=hdtv",
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNDkzMTg2OjhlZDNmMGIzMTA&source=hdtv",
           "source": "hdtv",
           "hd": true,
           "language": "Unknown"
@@ -145,22 +178,168 @@
       "streamCount": 2
     },
     {
-      "id": "santiago-wanderers-rangers-de-talca-ZjoxNTExNzExOjkxZGI5MzJmOWQ",
-      "title": "Santiago Wanderers vs Rangers de Talca",
-      "homeTeam": "Santiago Wanderers",
-      "awayTeam": "Rangers de Talca",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMzMzLnBuZzowMjFiZDNlODJi.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMzQ0LnBuZzoyZDUwM2E2ZWJi.png",
-      "league": "Primera B",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI2Ni5wbmc6OTBlNjBmMDE5MQ.png",
-      "matchTime": 1792184400000,
+      "id": "cerro-cerro-largo-ZjoxNjQ0Njk4OmJkZDA3ZTc1NmM",
+      "title": "Cerro vs Cerro Largo",
+      "homeTeam": "Cerro",
+      "awayTeam": "Cerro Largo",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMzYyLnBuZzpmZDAzOWRhMWFk.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMzY5LnBuZzozM2I4MWM1NTBj.png",
+      "league": "Primera Divisi\u00f3n",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI2OC5wbmc6M2MxZWQ4ZDhhMg.png",
+      "matchTime": 1792188000000,
       "status": "inprogress",
       "streams": [
         {
           "id": "stream-1",
           "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNTExNzExOjkxZGI5MzJmOWQ&source=lola",
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNjQ0Njk4OmJkZDA3ZTc1NmM&source=hdtv",
+          "source": "hdtv",
+          "hd": true,
+          "language": "Unknown"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
+      "id": "sportivo-carapegua-resistencia-ZjoxNjQ1ODMzOmE1YTM1NmNhMTY",
+      "title": "Sportivo Carapegu\u00e1 vs Resistencia",
+      "homeTeam": "Sportivo Carapegu\u00e1",
+      "awayTeam": "Resistencia",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMDc4Ni5wbmc6ZGQwYmQ2MTdlZA.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMTM1LnBuZzozYzA5MjkzZDM2.png",
+      "league": "Division Intermedia",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI1MS5wbmc6MDY4NWM5NTU3Zg.png",
+      "matchTime": 1792188000000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNjQ1ODMzOmE1YTM1NmNhMTY&source=lola",
           "source": "lola",
+          "hd": true,
+          "language": "Unknown"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
+      "id": "deportivo-recoleta-rubio-nu-ZjoxNjMyMDM1OmE3YmIxZjhhNTY",
+      "title": "Deportivo Recoleta vs Rubio NU",
+      "homeTeam": "Deportivo Recoleta",
+      "awayTeam": "Rubio NU",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMDQ3Ni5wbmc6Y2M1MDhiYzMyNw.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMTg1LnBuZzoxOWRiZTRjNGU2.png",
+      "league": "Division Profesional - Clausura",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI1Mi5wbmc6ZTY5NmMxM2U1NQ.png",
+      "matchTime": 1792189200000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNjMyMDM1OmE3YmIxZjhhNTY&source=lola",
+          "source": "lola",
+          "hd": true,
+          "language": "Unknown"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
+      "id": "ponte-preta-atletico-goianiense-ZjoxNTIwOTM2OjY0YjgzNjMwODQ",
+      "title": "Ponte Preta vs Atletico Goianiense",
+      "homeTeam": "Ponte Preta",
+      "awayTeam": "Atletico Goianiense",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMzkucG5nOjVhNGJhMGQ5NDg.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNDQucG5nOjYxNDRlMGZlYzQ.png",
+      "league": "Serie B",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzcyLnBuZzo0NzE5M2E2OTdk.png",
+      "matchTime": 1792189800000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNTIwOTM2OjY0YjgzNjMwODQ&source=hdtv",
+          "source": "hdtv",
+          "hd": true,
+          "language": "Unknown"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
+      "id": "supra-du-quebec-york-united-ZjoxNTE3MzY2OmRmY2ZlNjkwMzY",
+      "title": "Supra du Quebec vs York United",
+      "homeTeam": "Supra du Quebec",
+      "awayTeam": "York United",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNzQ2MS5wbmc6YzU0MTA5ZGYzMQ.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNjIzLnBuZzo3N2QyODFmZDVi.png",
+      "league": "Canadian Premier League",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzQ3OS5wbmc6YWY3ZDQwNjU2Ng.png",
+      "matchTime": 1792191600000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNTE3MzY2OmRmY2ZlNjkwMzY&source=lola",
+          "source": "lola",
+          "hd": true,
+          "language": "Unknown"
+        },
+        {
+          "id": "stream-2",
+          "streamNo": 2,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNTE3MzY2OmRmY2ZlNjkwMzY&source=hdtv",
+          "source": "hdtv",
+          "hd": true,
+          "language": "Unknown"
+        }
+      ],
+      "streamCount": 2
+    },
+    {
+      "id": "carolina-ascent-w-dc-power-w-ZjoxNTU3MjE3OmU0MzZiY2U5NmE",
+      "title": "Carolina Ascent W vs DC Power W",
+      "homeTeam": "Carolina Ascent W",
+      "awayTeam": "DC Power W",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNDY1OC5wbmc6NzdkZGM3ZDY0OQ.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNDY1OS5wbmc6YjllOTU2ZDg0Zg.png",
+      "league": "USL Super League",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzExMzAucG5nOjAwMjdlMjBlNDY.png",
+      "matchTime": 1792193400000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNTU3MjE3OmU0MzZiY2U5NmE&source=hdtv",
+          "source": "hdtv",
+          "hd": true,
+          "language": "Unknown"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
+      "id": "sporting-jax-w-fort-lauderdale-united-w-ZjoxNTU3MjE4OjdjYmQzNWE2ZTQ",
+      "title": "Sporting JAX W vs Fort Lauderdale United W",
+      "homeTeam": "Sporting JAX W",
+      "awayTeam": "Fort Lauderdale United W",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNTg1NS5wbmc6OTYwOWZjMTE3Ng.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNDY2MS5wbmc6MDJjMGQ4MDRlYQ.png",
+      "league": "USL Super League",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzExMzAucG5nOjAwMjdlMjBlNDY.png",
+      "matchTime": 1792193400000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNTU3MjE4OjdjYmQzNWE2ZTQ&source=hdtv",
+          "source": "hdtv",
           "hd": true,
           "language": "Unknown"
         }
@@ -835,7 +1014,7 @@
       "league": "CAF Confederation Cup",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzIwLnBuZzo0YzExYTBjNGFj.png",
       "matchTime": 1792170000000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -863,6 +1042,20 @@
       "league": "Primera Divisi\u00f3n",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI4MS5wbmc6NWI2OGQ5MjVmYQ.png",
       "matchTime": 1792173600000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "club-deportivo-los-chankas-adt-ZjoxNTQ5NTE1OjM0YTYzMDhlMmQ",
+      "title": "Club Deportivo Los Chankas vs ADT",
+      "homeTeam": "Club Deportivo Los Chankas",
+      "awayTeam": "ADT",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNTcyLnBuZzowMDJkYmU1MGIw.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMDQ5Mi5wbmc6NzRlNTJlZDRmMA.png",
+      "league": "Primera Divisi\u00f3n",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI4MS5wbmc6NWI2OGQ5MjVmYQ.png",
+      "matchTime": 1792182600000,
       "status": "finished",
       "streams": [],
       "streamCount": 0
@@ -1176,86 +1369,16 @@
       "streamCount": 0
     },
     {
-      "id": "defensa-y-justicia-instituto-cordoba-ZjoxNDkzMTg2OjhlZDNmMGIzMTA",
-      "title": "Defensa Y Justicia vs Instituto Cordoba",
-      "homeTeam": "Defensa Y Justicia",
-      "awayTeam": "Instituto Cordoba",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy80NDIucG5nOjljZTE3MjkwOGM.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy80NzgucG5nOjdjYTk0YzIyYjA.png",
-      "league": "Liga Profesional Argentina",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEyOC5wbmc6OTFmNDBlMWUxZg.png",
-      "matchTime": 1792188000000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "sportivo-carapegua-resistencia-ZjoxNjQ1ODMzOmE1YTM1NmNhMTY",
-      "title": "Sportivo Carapegu\u00e1 vs Resistencia",
-      "homeTeam": "Sportivo Carapegu\u00e1",
-      "awayTeam": "Resistencia",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMDc4Ni5wbmc6ZGQwYmQ2MTdlZA.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMTM1LnBuZzozYzA5MjkzZDM2.png",
-      "league": "Division Intermedia",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI1MS5wbmc6MDY4NWM5NTU3Zg.png",
-      "matchTime": 1792188000000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "deportivo-recoleta-rubio-nu-ZjoxNjMyMDM1OmE3YmIxZjhhNTY",
-      "title": "Deportivo Recoleta vs Rubio NU",
-      "homeTeam": "Deportivo Recoleta",
-      "awayTeam": "Rubio NU",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMDQ3Ni5wbmc6Y2M1MDhiYzMyNw.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMTg1LnBuZzoxOWRiZTRjNGU2.png",
-      "league": "Division Profesional - Clausura",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI1Mi5wbmc6ZTY5NmMxM2U1NQ.png",
-      "matchTime": 1792189200000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "supra-du-quebec-york-united-ZjoxNTE3MzY2OmRmY2ZlNjkwMzY",
-      "title": "Supra du Quebec vs York United",
-      "homeTeam": "Supra du Quebec",
-      "awayTeam": "York United",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNzQ2MS5wbmc6YzU0MTA5ZGYzMQ.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNjIzLnBuZzo3N2QyODFmZDVi.png",
-      "league": "Canadian Premier League",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzQ3OS5wbmc6YWY3ZDQwNjU2Ng.png",
-      "matchTime": 1792191600000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "carolina-ascent-w-dc-power-w-ZjoxNTU3MjE3OmU0MzZiY2U5NmE",
-      "title": "Carolina Ascent W vs DC Power W",
-      "homeTeam": "Carolina Ascent W",
-      "awayTeam": "DC Power W",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNDY1OC5wbmc6NzdkZGM3ZDY0OQ.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNDY1OS5wbmc6YjllOTU2ZDg0Zg.png",
-      "league": "USL Super League",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzExMzAucG5nOjAwMjdlMjBlNDY.png",
-      "matchTime": 1792193400000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "sporting-jax-w-fort-lauderdale-united-w-ZjoxNTU3MjE4OjdjYmQzNWE2ZTQ",
-      "title": "Sporting JAX W vs Fort Lauderdale United W",
-      "homeTeam": "Sporting JAX W",
-      "awayTeam": "Fort Lauderdale United W",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNTg1NS5wbmc6OTYwOWZjMTE3Ng.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNDY2MS5wbmc6MDJjMGQ4MDRlYQ.png",
-      "league": "USL Super League",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzExMzAucG5nOjAwMjdlMjBlNDY.png",
-      "matchTime": 1792193400000,
-      "status": "notstarted",
+      "id": "santiago-wanderers-rangers-de-talca-ZjoxNTExNzExOjkxZGI5MzJmOWQ",
+      "title": "Santiago Wanderers vs Rangers de Talca",
+      "homeTeam": "Santiago Wanderers",
+      "awayTeam": "Rangers de Talca",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMzMzLnBuZzowMjFiZDNlODJi.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMzQ0LnBuZzoyZDUwM2E2ZWJi.png",
+      "league": "Primera B",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI2Ni5wbmc6OTBlNjBmMDE5MQ.png",
+      "matchTime": 1792184400000,
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     }
