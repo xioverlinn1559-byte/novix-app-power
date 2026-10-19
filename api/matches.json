@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T02:40:16.112237+00:00",
+  "updatedAt": "2026-10-19T08:05:16.363015+00:00",
   "matches": [
     {
       "id": "amtat-fc-khovd-western-ZjoxNjQwNDQzOjcyZmExOGJkY2Q",
@@ -11,7 +11,7 @@
       "league": "Premier League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzc2NC5wbmc6NjUxNjFmZTU3Yg.png",
       "matchTime": 1792386000000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -184,115 +184,6 @@
       "streamCount": 0
     },
     {
-      "id": "america-w-pachuca-w-ZjoxNjAzMzk2OmFkNmE4YWQ4ZDI",
-      "title": "Am\u00e9rica W vs Pachuca W",
-      "homeTeam": "Am\u00e9rica W",
-      "awayTeam": "Pachuca W",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNDg2OC5wbmc6NjQ0MzE5Njk0YQ.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNDg4MS5wbmc6NThiMDJkYTc4Mg.png",
-      "league": "Liga MX Femenil",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzY3My5wbmc6ZTUxYzAyY2UxMQ.png",
-      "matchTime": 1792371600000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjAzMzk2OmFkNmE4YWQ4ZDI&source=lola",
-          "source": "lola",
-          "hd": true,
-          "language": "Unknown"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "monterrey-cf-pachuca-ZjoxNTUxMDAxOjJhYjQxMmUxMGQ",
-      "title": "Monterrey vs CF Pachuca",
-      "homeTeam": "Monterrey",
-      "awayTeam": "CF Pachuca",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMjgyLnBuZzpmYThlNjZiMDZh.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMjkyLnBuZzphNzAyYWQxYzYx.png",
-      "league": "Liga MX",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI2Mi5wbmc6YzQ2YTNkMzlkNQ.png",
-      "matchTime": 1792371600000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNTUxMDAxOjJhYjQxMmUxMGQ&source=lola",
-          "source": "lola",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNTUxMDAxOjJhYjQxMmUxMGQ&source=PPV",
-          "source": "PPV",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-3",
-          "streamNo": 3,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNTUxMDAxOjJhYjQxMmUxMGQ&source=STV",
-          "source": "STV",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-4",
-          "streamNo": 4,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNTUxMDAxOjJhYjQxMmUxMGQ&source=hdtv",
-          "source": "hdtv",
-          "hd": true,
-          "language": "Unknown"
-        }
-      ],
-      "streamCount": 4
-    },
-    {
-      "id": "deportivo-cali-junior-ZjoxNTQ5ODI2OmY3ODQzYTljNTY",
-      "title": "Deportivo Cali vs Junior",
-      "homeTeam": "Deportivo Cali",
-      "awayTeam": "Junior",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMTI3LnBuZzpmM2Y5ZDY4Yjg1.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMTM1LnBuZzoyMDRjYzkxYzY4.png",
-      "league": "Primera A",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzIzOS5wbmc6MzIwYjVlYzgxYQ.png",
-      "matchTime": 1792372200000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNTQ5ODI2OmY3ODQzYTljNTY&source=lola",
-          "source": "lola",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNTQ5ODI2OmY3ODQzYTljNTY&source=STV",
-          "source": "STV",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-3",
-          "streamNo": 3,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNTQ5ODI2OmY3ODQzYTljNTY&source=hdtv",
-          "source": "hdtv",
-          "hd": true,
-          "language": "Unknown"
-        }
-      ],
-      "streamCount": 3
-    },
-    {
       "id": "municipal-guastatoya-ZjoxNTU5Njc4OmU3YmU4ZDA4OWU",
       "title": "Municipal vs Guastatoya",
       "homeTeam": "Municipal",
@@ -316,6 +207,48 @@
       "league": "Liga MX Femenil",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzY3My5wbmc6ZTUxYzAyY2UxMQ.png",
       "matchTime": 1792368360000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "america-w-pachuca-w-ZjoxNjAzMzk2OmFkNmE4YWQ4ZDI",
+      "title": "Am\u00e9rica W vs Pachuca W",
+      "homeTeam": "Am\u00e9rica W",
+      "awayTeam": "Pachuca W",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNDg2OC5wbmc6NjQ0MzE5Njk0YQ.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNDg4MS5wbmc6NThiMDJkYTc4Mg.png",
+      "league": "Liga MX Femenil",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzY3My5wbmc6ZTUxYzAyY2UxMQ.png",
+      "matchTime": 1792371600000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "monterrey-cf-pachuca-ZjoxNTUxMDAxOjJhYjQxMmUxMGQ",
+      "title": "Monterrey vs CF Pachuca",
+      "homeTeam": "Monterrey",
+      "awayTeam": "CF Pachuca",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMjgyLnBuZzpmYThlNjZiMDZh.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMjkyLnBuZzphNzAyYWQxYzYx.png",
+      "league": "Liga MX",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI2Mi5wbmc6YzQ2YTNkMzlkNQ.png",
+      "matchTime": 1792371600000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "deportivo-cali-junior-ZjoxNTQ5ODI2OmY3ODQzYTljNTY",
+      "title": "Deportivo Cali vs Junior",
+      "homeTeam": "Deportivo Cali",
+      "awayTeam": "Junior",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMTI3LnBuZzpmM2Y5ZDY4Yjg1.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMTM1LnBuZzoyMDRjYzkxYzY4.png",
+      "league": "Primera A",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzIzOS5wbmc6MzIwYjVlYzgxYQ.png",
+      "matchTime": 1792372200000,
       "status": "finished",
       "streams": [],
       "streamCount": 0
