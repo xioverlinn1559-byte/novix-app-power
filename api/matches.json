@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T03:07:37.464644+00:00",
+  "updatedAt": "2026-10-20T08:27:54.538967+00:00",
   "matches": [
     {
       "id": "romklao-united-sukhothai-fc-ZjoxNjQ1MTg3OjJiMzMzZTFkMTc",
@@ -11,9 +11,18 @@
       "league": "FA Cup",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI5OC5wbmc6ZGQ1MTZjY2I3MQ.png",
       "matchTime": 1792483200000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNjQ1MTg3OjJiMzMzZTFkMTc&source=lola",
+          "source": "lola",
+          "hd": true,
+          "language": "Unknown"
+        }
+      ],
+      "streamCount": 1
     },
     {
       "id": "suphanburi-lamphun-warrior-ZjoxNjQ1MTg4OmM2YWNlMTZiMmU",
@@ -67,6 +76,20 @@
       "league": "Premier League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzIzMy5wbmc6YTEyYzMxZDRjOQ.png",
       "matchTime": 1792508400000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "el-geish-pyramids-fc-ZjoxNjEyMjY0OjdjMDFmMWNkMDg",
+      "title": "El Geish vs Pyramids FC",
+      "homeTeam": "El Geish",
+      "awayTeam": "Pyramids FC",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMDM5LnBuZzo0OTcyMTRmMDQw.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMDM2LnBuZzpjY2QwMTkzYjlk.png",
+      "league": "Premier League",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzIzMy5wbmc6YTEyYzMxZDRjOQ.png",
+      "matchTime": 1792515600000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
@@ -212,37 +235,6 @@
       "streamCount": 0
     },
     {
-      "id": "escorpiones-belen-puntarenas-fc-ZjoxNTk4ODE3OjQ5NDNhZjQzMzc",
-      "title": "Escorpiones Bel\u00e9n vs Puntarenas FC",
-      "homeTeam": "Escorpiones Bel\u00e9n",
-      "awayTeam": "Puntarenas FC",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNzM3Ny5wbmc6ZmZhMjQ3NTVjYw.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMDQ1LnBuZzoxMzZhNTJkYmQ3.png",
-      "league": "Primera Divisi\u00f3n",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzE2Mi5wbmc6YTc3MGIzMzM2Mg.png",
-      "matchTime": 1792461600000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNTk4ODE3OjQ5NDNhZjQzMzc&source=lola",
-          "source": "lola",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNTk4ODE3OjQ5NDNhZjQzMzc&source=hdtv",
-          "source": "hdtv",
-          "hd": true,
-          "language": "Unknown"
-        }
-      ],
-      "streamCount": 2
-    },
-    {
       "id": "toluca-w-santos-laguna-w-ZjoxNjAzMzk3OjZhN2JlYTc2ZmQ",
       "title": "Toluca W vs Santos Laguna W",
       "homeTeam": "Toluca W",
@@ -337,6 +329,20 @@
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzIzOS5wbmc6MzIwYjVlYzgxYQ.png",
       "matchTime": 1792539000000,
       "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "escorpiones-belen-puntarenas-fc-ZjoxNTk4ODE3OjQ5NDNhZjQzMzc",
+      "title": "Escorpiones Bel\u00e9n vs Puntarenas FC",
+      "homeTeam": "Escorpiones Bel\u00e9n",
+      "awayTeam": "Puntarenas FC",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNzM3Ny5wbmc6ZmZhMjQ3NTVjYw.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMDQ1LnBuZzoxMzZhNTJkYmQ3.png",
+      "league": "Primera Divisi\u00f3n",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzE2Mi5wbmc6YTc3MGIzMzM2Mg.png",
+      "matchTime": 1792461600000,
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -561,6 +567,20 @@
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzE0LnBuZzpjOWI5ZGMyODg3.png",
       "matchTime": 1792504800000,
       "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "pineto-reggiana-ZjoxNjA4Njk1OjVhZTEwMThkMjg",
+      "title": "Pineto vs Reggiana",
+      "homeTeam": "Pineto",
+      "awayTeam": "Reggiana",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy85NTE0LnBuZzphZmRkZDJhMWZl.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84ODAucG5nOjA5NTFjNTRjMmM.png",
+      "league": "Serie C - Girone B",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzk0Mi5wbmc6MmZkY2M2YWY5ZA.png",
+      "matchTime": 1792503000000,
+      "status": "suspended",
       "streams": [],
       "streamCount": 0
     },
@@ -1078,6 +1098,34 @@
       "league": "League One",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzQxLnBuZzo1NjllYjI4OGI4.png",
       "matchTime": 1792521900000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "colo-colo-d-puerto-montt-ZjoxNjQyMjQ3OjJmNDMwYWQ5ZDU",
+      "title": "Colo Colo vs D. Puerto Montt",
+      "homeTeam": "Colo Colo",
+      "awayTeam": "D. Puerto Montt",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMzE1LnBuZzo2YjFlZmFmYmU4.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMzQyLnBuZzo2ZWUxYzlhMDkz.png",
+      "league": "Copa Chile",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI2Ny5wbmc6M2RiNTk1ZGIxMQ.png",
+      "matchTime": 1792530000000,
+      "status": "suspended",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "union-la-calera-coquimbo-unido-ZjoxNjQ1MzgwOmRhNWVmOGRiNjA",
+      "title": "Union La Calera vs Coquimbo Unido",
+      "homeTeam": "Union La Calera",
+      "awayTeam": "Coquimbo Unido",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMzI2LnBuZzoyNzk5N2NiMGJl.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMzMwLnBuZzo4NDlmODc1ZmJl.png",
+      "league": "Copa Chile",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI2Ny5wbmc6M2RiNTk1ZGIxMQ.png",
+      "matchTime": 1792537200000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
