@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T04:41:00.571053+00:00",
+  "updatedAt": "2026-10-21T09:39:06.768330+00:00",
   "matches": [
     {
       "id": "buriram-united-dpu-thayang-fc-ZjoxNjQ1MTY4OjVmOGJhODAxZmE",
@@ -254,21 +254,44 @@
       "streamCount": 0
     },
     {
-      "id": "tigres-uanl-leon-ZjoxNTUxMDA1OmRjMTA2ZjYyMDA",
-      "title": "Tigres UANL vs Leon",
-      "homeTeam": "Tigres UANL",
-      "awayTeam": "Leon",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMjc5LnBuZzpkMDE1ZDkxZDBm.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMjg5LnBuZzpjNGFkNjJmOWU4.png",
-      "league": "Liga MX",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI2Mi5wbmc6YzQ2YTNkMzlkNQ.png",
-      "matchTime": 1792551600000,
+      "id": "nojima-stella-w-albirex-niigata-w-ZjoxNTYwOTUxOmRiZjk4ZTIyN2Q",
+      "title": "Nojima Stella W vs Albirex Niigata W",
+      "homeTeam": "Nojima Stella W",
+      "awayTeam": "Albirex Niigata W",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNjk0OS5wbmc6YzM5ZWM4YTcxOA.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNjk1My5wbmc6ZDRjODZjNTdiZQ.png",
+      "league": "WE League",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzg1NC5wbmc6ZDE5N2FkOTU2Mg.png",
+      "matchTime": 1792575000000,
       "status": "inprogress",
       "streams": [
         {
           "id": "stream-1",
           "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNTUxMDA1OmRjMTA2ZjYyMDA&source=lola",
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNTYwOTUxOmRiZjk4ZTIyN2Q&source=lola",
+          "source": "lola",
+          "hd": true,
+          "language": "Unknown"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
+      "id": "bali-united-garudayaksa-ZjoxNjIyODAyOjRlN2U2ZTczOTA",
+      "title": "Bali United vs Garudayaksa",
+      "homeTeam": "Bali United",
+      "awayTeam": "Garudayaksa",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNDQ4LnBuZzozZDU0MzRkNzVl.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNjY0NS5wbmc6ZTNlNzYxZTE0NA.png",
+      "league": "Liga 1",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI3NC5wbmc6ZjBjYzA2YmU1MQ.png",
+      "matchTime": 1792571400000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNjIyODAyOjRlN2U2ZTczOTA&source=lola",
           "source": "lola",
           "hd": true,
           "language": "Unknown"
@@ -276,184 +299,30 @@
         {
           "id": "stream-2",
           "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNTUxMDA1OmRjMTA2ZjYyMDA&source=PPV",
-          "source": "PPV",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-3",
-          "streamNo": 3,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNTUxMDA1OmRjMTA2ZjYyMDA&source=STV",
-          "source": "STV",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-4",
-          "streamNo": 4,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNTUxMDA1OmRjMTA2ZjYyMDA&source=hdtv",
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNjIyODAyOjRlN2U2ZTczOTA&source=hdtv",
           "source": "hdtv",
           "hd": true,
           "language": "Unknown"
         }
       ],
-      "streamCount": 4
+      "streamCount": 2
     },
     {
-      "id": "inac-kobe-leonessa-w-jef-united-w-ZjoxNTYwOTUwOjI5NGZhOTU3NmE",
-      "title": "INAC Kobe Leonessa W vs JEF United W",
-      "homeTeam": "INAC Kobe Leonessa W",
-      "awayTeam": "JEF United W",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNjk0Ny5wbmc6MTM3OGE5OWZiZA.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNjk0OC5wbmc6ZTIzYjI4ZjdiNQ.png",
-      "league": "WE League",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzg1NC5wbmc6ZDE5N2FkOTU2Mg.png",
-      "matchTime": 1792551600000,
+      "id": "kasuka-shan-united-ZjoxNjM5OTI4OjcxM2UyZTcwM2Q",
+      "title": "Kasuka vs Shan United",
+      "homeTeam": "Kasuka",
+      "awayTeam": "Shan United",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNjA2Ni5wbmc6NmU5ODJlOThkZg.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84MDE1LnBuZzpiOTVlNDE2NmQw.png",
+      "league": "AFC Challenge League",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzExMzIucG5nOjcxZTliODlhNDQ.png",
+      "matchTime": 1792575000000,
       "status": "inprogress",
       "streams": [
         {
           "id": "stream-1",
           "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNTYwOTUwOjI5NGZhOTU3NmE&source=lola",
-          "source": "lola",
-          "hd": true,
-          "language": "Unknown"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "elfen-saitama-w-vegalta-sendai-w-ZjoxNTYwOTUzOjBmZmYyMGE2MTA",
-      "title": "Elfen Saitama W vs Vegalta Sendai W",
-      "homeTeam": "Elfen Saitama W",
-      "awayTeam": "Vegalta Sendai W",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNjk0Ni5wbmc6NDMzMzFmMzYwMA.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNjk1Ni5wbmc6OWUwNmU3NjhiNg.png",
-      "league": "WE League",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzg1NC5wbmc6ZDE5N2FkOTU2Mg.png",
-      "matchTime": 1792555200000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNTYwOTUzOjBmZmYyMGE2MTA&source=lola",
-          "source": "lola",
-          "hd": true,
-          "language": "Unknown"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "guadalajara-w-necaxa-w-ZjoxNjAzMzkzOmEzNWVhMjI1ZTc",
-      "title": "Guadalajara W vs Necaxa W",
-      "homeTeam": "Guadalajara W",
-      "awayTeam": "Necaxa W",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNDg3Ni5wbmc6MDQxZDJkYzM1ZQ.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNDg4MC5wbmc6NDI0MDQzMzAxYw.png",
-      "league": "Liga MX Femenil",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzY3My5wbmc6ZTUxYzAyY2UxMQ.png",
-      "matchTime": 1792552020000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjAzMzkzOmEzNWVhMjI1ZTc&source=lola",
-          "source": "lola",
-          "hd": true,
-          "language": "Unknown"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "fukushima-united-kitakyushu-ZjoxNTU1NzUyOjA3MzViZDdhZjE",
-      "title": "Fukushima United vs Kitakyushu",
-      "homeTeam": "Fukushima United",
-      "awayTeam": "Kitakyushu",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy80MzE4LnBuZzphNWJmMGExMTZj.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84MDUucG5nOjRhYWUwYmYyYjc.png",
-      "league": "J3 League",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEwMC5wbmc6Mjc1NGUwMjhmZg.png",
-      "matchTime": 1792555200000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNTU1NzUyOjA3MzViZDdhZjE&source=lola",
-          "source": "lola",
-          "hd": true,
-          "language": "Unknown"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "parceiro-nagano-fc-ryukyu-ZjoxNTU1NzU3OjU4YjBjOWFjYmQ",
-      "title": "Parceiro Nagano vs FC Ryukyu",
-      "homeTeam": "Parceiro Nagano",
-      "awayTeam": "FC Ryukyu",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy80MzIzLnBuZzoxNDAwODJhNGE1.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMjM1LnBuZzphMjQwYmUxNzEz.png",
-      "league": "J3 League",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEwMC5wbmc6Mjc1NGUwMjhmZg.png",
-      "matchTime": 1792555200000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNTU1NzU3OjU4YjBjOWFjYmQ&source=lola",
-          "source": "lola",
-          "hd": true,
-          "language": "Unknown"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "tochigi-sc-biwako-shiga-ZjoxNTU1NzU5OjBjNDhjZmExZDc",
-      "title": "Tochigi SC vs Biwako Shiga",
-      "homeTeam": "Tochigi SC",
-      "awayTeam": "Biwako Shiga",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8zMTUucG5nOjhmNzg1ODQ4YWI.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy83MTE3LnBuZzpmNjVkZDQyMmZk.png",
-      "league": "J3 League",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEwMC5wbmc6Mjc1NGUwMjhmZg.png",
-      "matchTime": 1792555200000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNTU1NzU5OjBjNDhjZmExZDc&source=lola",
-          "source": "lola",
-          "hd": true,
-          "language": "Unknown"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "montedio-yamagata-consadole-sapporo-ZjoxNjA2NzA2OjVhZDczZDM1NDU",
-      "title": "Montedio Yamagata vs Consadole Sapporo",
-      "homeTeam": "Montedio Yamagata",
-      "awayTeam": "Consadole Sapporo",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8zMTIucG5nOmMxODJlMTAxZmI.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNzkucG5nOjVmZTViNWQwZGE.png",
-      "league": "J2 League",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzk5LnBuZzplNzE1MzIzZDUx.png",
-      "matchTime": 1792555200000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjA2NzA2OjVhZDczZDM1NDU&source=lola",
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNjM5OTI4OjcxM2UyZTcwM2Q&source=lola",
           "source": "lola",
           "hd": true,
           "language": "Unknown"
@@ -499,6 +368,20 @@
       "league": "Liga MX",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI2Mi5wbmc6YzQ2YTNkMzlkNQ.png",
       "matchTime": 1792544400000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "tigres-uanl-leon-ZjoxNTUxMDA1OmRjMTA2ZjYyMDA",
+      "title": "Tigres UANL vs Leon",
+      "homeTeam": "Tigres UANL",
+      "awayTeam": "Leon",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMjc5LnBuZzpkMDE1ZDkxZDBm.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMjg5LnBuZzpjNGFkNjJmOWU4.png",
+      "league": "Liga MX",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI2Mi5wbmc6YzQ2YTNkMzlkNQ.png",
+      "matchTime": 1792551600000,
       "status": "finished",
       "streams": [],
       "streamCount": 0
@@ -574,16 +457,100 @@
       "streamCount": 0
     },
     {
-      "id": "nojima-stella-w-albirex-niigata-w-ZjoxNTYwOTUxOmRiZjk4ZTIyN2Q",
-      "title": "Nojima Stella W vs Albirex Niigata W",
-      "homeTeam": "Nojima Stella W",
-      "awayTeam": "Albirex Niigata W",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNjk0OS5wbmc6YzM5ZWM4YTcxOA.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNjk1My5wbmc6ZDRjODZjNTdiZQ.png",
+      "id": "inac-kobe-leonessa-w-jef-united-w-ZjoxNTYwOTUwOjI5NGZhOTU3NmE",
+      "title": "INAC Kobe Leonessa W vs JEF United W",
+      "homeTeam": "INAC Kobe Leonessa W",
+      "awayTeam": "JEF United W",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNjk0Ny5wbmc6MTM3OGE5OWZiZA.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNjk0OC5wbmc6ZTIzYjI4ZjdiNQ.png",
       "league": "WE League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzg1NC5wbmc6ZDE5N2FkOTU2Mg.png",
-      "matchTime": 1792575000000,
-      "status": "notstarted",
+      "matchTime": 1792551600000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "elfen-saitama-w-vegalta-sendai-w-ZjoxNTYwOTUzOjBmZmYyMGE2MTA",
+      "title": "Elfen Saitama W vs Vegalta Sendai W",
+      "homeTeam": "Elfen Saitama W",
+      "awayTeam": "Vegalta Sendai W",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNjk0Ni5wbmc6NDMzMzFmMzYwMA.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNjk1Ni5wbmc6OWUwNmU3NjhiNg.png",
+      "league": "WE League",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzg1NC5wbmc6ZDE5N2FkOTU2Mg.png",
+      "matchTime": 1792555200000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "guadalajara-w-necaxa-w-ZjoxNjAzMzkzOmEzNWVhMjI1ZTc",
+      "title": "Guadalajara W vs Necaxa W",
+      "homeTeam": "Guadalajara W",
+      "awayTeam": "Necaxa W",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNDg3Ni5wbmc6MDQxZDJkYzM1ZQ.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNDg4MC5wbmc6NDI0MDQzMzAxYw.png",
+      "league": "Liga MX Femenil",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzY3My5wbmc6ZTUxYzAyY2UxMQ.png",
+      "matchTime": 1792552020000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "fukushima-united-kitakyushu-ZjoxNTU1NzUyOjA3MzViZDdhZjE",
+      "title": "Fukushima United vs Kitakyushu",
+      "homeTeam": "Fukushima United",
+      "awayTeam": "Kitakyushu",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy80MzE4LnBuZzphNWJmMGExMTZj.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84MDUucG5nOjRhYWUwYmYyYjc.png",
+      "league": "J3 League",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEwMC5wbmc6Mjc1NGUwMjhmZg.png",
+      "matchTime": 1792555200000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "parceiro-nagano-fc-ryukyu-ZjoxNTU1NzU3OjU4YjBjOWFjYmQ",
+      "title": "Parceiro Nagano vs FC Ryukyu",
+      "homeTeam": "Parceiro Nagano",
+      "awayTeam": "FC Ryukyu",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy80MzIzLnBuZzoxNDAwODJhNGE1.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMjM1LnBuZzphMjQwYmUxNzEz.png",
+      "league": "J3 League",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEwMC5wbmc6Mjc1NGUwMjhmZg.png",
+      "matchTime": 1792555200000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "tochigi-sc-biwako-shiga-ZjoxNTU1NzU5OjBjNDhjZmExZDc",
+      "title": "Tochigi SC vs Biwako Shiga",
+      "homeTeam": "Tochigi SC",
+      "awayTeam": "Biwako Shiga",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8zMTUucG5nOjhmNzg1ODQ4YWI.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy83MTE3LnBuZzpmNjVkZDQyMmZk.png",
+      "league": "J3 League",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEwMC5wbmc6Mjc1NGUwMjhmZg.png",
+      "matchTime": 1792555200000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "montedio-yamagata-consadole-sapporo-ZjoxNjA2NzA2OjVhZDczZDM1NDU",
+      "title": "Montedio Yamagata vs Consadole Sapporo",
+      "homeTeam": "Montedio Yamagata",
+      "awayTeam": "Consadole Sapporo",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8zMTIucG5nOmMxODJlMTAxZmI.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNzkucG5nOjVmZTViNWQwZGE.png",
+      "league": "J2 League",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzk5LnBuZzplNzE1MzIzZDUx.png",
+      "matchTime": 1792555200000,
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -714,20 +681,6 @@
       "streamCount": 0
     },
     {
-      "id": "bali-united-garudayaksa-ZjoxNjIyODAyOjRlN2U2ZTczOTA",
-      "title": "Bali United vs Garudayaksa",
-      "homeTeam": "Bali United",
-      "awayTeam": "Garudayaksa",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNDQ4LnBuZzozZDU0MzRkNzVl.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNjY0NS5wbmc6ZTNlNzYxZTE0NA.png",
-      "league": "Liga 1",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI3NC5wbmc6ZjBjYzA2YmU1MQ.png",
-      "matchTime": 1792571400000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
       "id": "persija-arema-fc-ZjoxNjIyODAzOmI1YTI5YmY2NDk",
       "title": "Persija vs Arema FC",
       "homeTeam": "Persija",
@@ -737,20 +690,6 @@
       "league": "Liga 1",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI3NC5wbmc6ZjBjYzA2YmU1MQ.png",
       "matchTime": 1792584000000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "kasuka-shan-united-ZjoxNjM5OTI4OjcxM2UyZTcwM2Q",
-      "title": "Kasuka vs Shan United",
-      "homeTeam": "Kasuka",
-      "awayTeam": "Shan United",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNjA2Ni5wbmc6NmU5ODJlOThkZg.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84MDE1LnBuZzpiOTVlNDE2NmQw.png",
-      "league": "AFC Challenge League",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzExMzIucG5nOjcxZTliODlhNDQ.png",
-      "matchTime": 1792575000000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
@@ -1036,6 +975,34 @@
       "streamCount": 0
     },
     {
+      "id": "aek-larnaca-akritas-ZjoxNjQyMjc2OjRkYmRhZGVjY2Q",
+      "title": "AEK Larnaca vs Akritas",
+      "homeTeam": "AEK Larnaca",
+      "awayTeam": "Akritas",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy82MTQucG5nOmMxMGJiMjJkOTY.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8zNDA2LnBuZzplZWIzNjI2Njkw.png",
+      "league": "Cup",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzMyMS5wbmc6Yjk1MjFlMmQyZA.png",
+      "matchTime": 1792591200000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "nea-salamis-apea-ZjoxNjQyMjgzOjhiYzUxNDEwYjI",
+      "title": "Nea Salamis vs APEA",
+      "homeTeam": "Nea Salamis",
+      "awayTeam": "APEA",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8zNDAxLnBuZzplNDY5M2YzYWZi.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8zNDIwLnBuZzowYTEwNWRlMzZj.png",
+      "league": "Cup",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzMyMS5wbmc6Yjk1MjFlMmQyZA.png",
+      "matchTime": 1792594800000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "al-jeel-al-jandal-ZjoxNjA0MDMzOjYwMWUzNjMzZTY",
       "title": "Al Jeel vs Al Jandal",
       "homeTeam": "Al Jeel",
@@ -1129,34 +1096,6 @@
       "league": "World Cup - U17 - Women",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzk1MC5wbmc6ZmE2ZWIxNzdhYw.png",
       "matchTime": 1792605600000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "nea-salamis-apea-ZjoxNjQyMjgzOjhiYzUxNDEwYjI",
-      "title": "Nea Salamis vs APEA",
-      "homeTeam": "Nea Salamis",
-      "awayTeam": "APEA",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8zNDAxLnBuZzplNDY5M2YzYWZi.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8zNDIwLnBuZzowYTEwNWRlMzZj.png",
-      "league": "Cup",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzMyMS5wbmc6Yjk1MjFlMmQyZA.png",
-      "matchTime": 1792594800000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "aek-larnaca-akritas-ZjoxNjQyMjc2OjRkYmRhZGVjY2Q",
-      "title": "AEK Larnaca vs Akritas",
-      "homeTeam": "AEK Larnaca",
-      "awayTeam": "Akritas",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy82MTQucG5nOmMxMGJiMjJkOTY.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8zNDA2LnBuZzplZWIzNjI2Njkw.png",
-      "league": "Cup",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzMyMS5wbmc6Yjk1MjFlMmQyZA.png",
-      "matchTime": 1792598400000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
