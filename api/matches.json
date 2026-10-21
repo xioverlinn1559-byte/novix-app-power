@@ -1,6 +1,37 @@
 {
-  "updatedAt": "2026-10-21T09:39:06.768330+00:00",
+  "updatedAt": "2026-10-21T14:40:02.604117+00:00",
   "matches": [
+    {
+      "id": "ghazl-el-mehalla-al-ittihad-ZjoxNjEyMjY1OjQ1NTVjOTljYjg",
+      "title": "Ghazl El Mehalla vs Al Ittihad",
+      "homeTeam": "Ghazl El Mehalla",
+      "awayTeam": "Al Ittihad",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMzgxOS5wbmc6MDA1YTU4MjExMQ.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNTcyLnBuZzo3N2U3NjUyMzI0.png",
+      "league": "Premier League",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzIzMy5wbmc6YTEyYzMxZDRjOQ.png",
+      "matchTime": 1792591200000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNjEyMjY1OjQ1NTVjOTljYjg&source=lola",
+          "source": "lola",
+          "hd": true,
+          "language": "Unknown"
+        },
+        {
+          "id": "stream-2",
+          "streamNo": 2,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNjEyMjY1OjQ1NTVjOTljYjg&source=hdtv",
+          "source": "hdtv",
+          "hd": true,
+          "language": "Unknown"
+        }
+      ],
+      "streamCount": 2
+    },
     {
       "id": "buriram-united-dpu-thayang-fc-ZjoxNjQ1MTY4OjVmOGJhODAxZmE",
       "title": "Buriram United vs DPU Thayang FC",
@@ -11,7 +42,7 @@
       "league": "FA Cup",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI5OC5wbmc6ZGQ1MTZjY2I3MQ.png",
       "matchTime": 1792580400000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -25,21 +56,7 @@
       "league": "FA Cup",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI5OC5wbmc6ZGQ1MTZjY2I3MQ.png",
       "matchTime": 1792580400000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "rasi-salai-united-port-fc-ZjoxNjQ1MTg1Ojc4YzEyNWViMWE",
-      "title": "Rasi Salai United vs Port FC",
-      "homeTeam": "Rasi Salai United",
-      "awayTeam": "Port FC",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNTI4Mi5wbmc6NGQzMDI0OTAyZg.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNzg5LnBuZzplOWMzYmQ5Mzhl.png",
-      "league": "FA Cup",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI5OC5wbmc6ZGQ1MTZjY2I3MQ.png",
-      "matchTime": 1792580400000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -53,7 +70,21 @@
       "league": "FA Cup",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI5OC5wbmc6ZGQ1MTZjY2I3MQ.png",
       "matchTime": 1792584000000,
-      "status": "notstarted",
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "rasi-salai-united-port-fc-ZjoxNjQ1MTg1Ojc4YzEyNWViMWE",
+      "title": "Rasi Salai United vs Port FC",
+      "homeTeam": "Rasi Salai United",
+      "awayTeam": "Port FC",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNTI4Mi5wbmc6NGQzMDI0OTAyZg.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNzg5LnBuZzplOWMzYmQ5Mzhl.png",
+      "league": "FA Cup",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI5OC5wbmc6ZGQ1MTZjY2I3MQ.png",
+      "matchTime": 1792584600000,
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -67,21 +98,7 @@
       "league": "Premier League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzM2OC5wbmc6ZjQ4ZTYzNDI4NQ.png",
       "matchTime": 1792582200000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "ghazl-el-mehalla-al-ittihad-ZjoxNjEyMjY1OjQ1NTVjOTljYjg",
-      "title": "Ghazl El Mehalla vs Al Ittihad",
-      "homeTeam": "Ghazl El Mehalla",
-      "awayTeam": "Al Ittihad",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMzgxOS5wbmc6MDA1YTU4MjExMQ.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNTcyLnBuZzo3N2U3NjUyMzI0.png",
-      "league": "Premier League",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzIzMy5wbmc6YTEyYzMxZDRjOQ.png",
-      "matchTime": 1792591200000,
-      "status": "notstarted",
+      "status": "postponed",
       "streams": [],
       "streamCount": 0
     },
@@ -254,21 +271,67 @@
       "streamCount": 0
     },
     {
-      "id": "nojima-stella-w-albirex-niigata-w-ZjoxNTYwOTUxOmRiZjk4ZTIyN2Q",
-      "title": "Nojima Stella W vs Albirex Niigata W",
-      "homeTeam": "Nojima Stella W",
-      "awayTeam": "Albirex Niigata W",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNjk0OS5wbmc6YzM5ZWM4YTcxOA.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNjk1My5wbmc6ZDRjODZjNTdiZQ.png",
-      "league": "WE League",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzg1NC5wbmc6ZDE5N2FkOTU2Mg.png",
-      "matchTime": 1792575000000,
+      "id": "aston-villa-u19-viking-u19-ZjoxNjM3MzUyOjQyOTVlOWE4M2U",
+      "title": "Aston Villa U19 vs Viking U19",
+      "homeTeam": "Aston Villa U19",
+      "awayTeam": "Viking U19",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNDk3MC5wbmc6NjY4OTNjNmYyNA.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNjU2Ny5wbmc6MmM0YmExODhhMg.png",
+      "league": "UEFA Youth League",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzE0LnBuZzpjOWI5ZGMyODg3.png",
+      "matchTime": 1792587600000,
       "status": "inprogress",
       "streams": [
         {
           "id": "stream-1",
           "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNTYwOTUxOmRiZjk4ZTIyN2Q&source=lola",
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNjM3MzUyOjQyOTVlOWE4M2U&source=hdtv",
+          "source": "hdtv",
+          "hd": true,
+          "language": "Unknown"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
+      "id": "real-betis-u19-feyenoord-u19-ZjoxNjM3MzU0OmY4YTI2OTQxMzE",
+      "title": "Real Betis U19 vs Feyenoord U19",
+      "homeTeam": "Real Betis U19",
+      "awayTeam": "Feyenoord U19",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNTE5NS5wbmc6NGJlZDNmZDJmZA.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy83OTgxLnBuZzphZDQ0MTZkMWRh.png",
+      "league": "UEFA Youth League",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzE0LnBuZzpjOWI5ZGMyODg3.png",
+      "matchTime": 1792587600000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNjM3MzU0OmY4YTI2OTQxMzE&source=hdtv",
+          "source": "hdtv",
+          "hd": true,
+          "language": "Unknown"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
+      "id": "sporting-cp-u19-lask-u19-ZjoxNjM3MzYwOmRiODk5NDc1OTk",
+      "title": "Sporting CP U19 vs LASK U19",
+      "homeTeam": "Sporting CP U19",
+      "awayTeam": "LASK U19",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy83OTk3LnBuZzpjNjE4MmM3YTU1.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yODM3MC5wbmc6N2ViODMyZTA1YQ.png",
+      "league": "UEFA Youth League",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzE0LnBuZzpjOWI5ZGMyODg3.png",
+      "matchTime": 1792587600000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNjM3MzYwOmRiODk5NDc1OTk&source=lola",
           "source": "lola",
           "hd": true,
           "language": "Unknown"
@@ -277,21 +340,44 @@
       "streamCount": 1
     },
     {
-      "id": "bali-united-garudayaksa-ZjoxNjIyODAyOjRlN2U2ZTczOTA",
-      "title": "Bali United vs Garudayaksa",
-      "homeTeam": "Bali United",
-      "awayTeam": "Garudayaksa",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNDQ4LnBuZzozZDU0MzRkNzVl.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNjY0NS5wbmc6ZTNlNzYxZTE0NA.png",
-      "league": "Liga 1",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI3NC5wbmc6ZjBjYzA2YmU1MQ.png",
-      "matchTime": 1792571400000,
+      "id": "bayern-munchen-u19-arsenal-u19-ZjoxNjM3MzUzOjQ5YzA1ZDRkZTE",
+      "title": "Bayern M\u00fcnchen U19 vs Arsenal U19",
+      "homeTeam": "Bayern M\u00fcnchen U19",
+      "awayTeam": "Arsenal U19",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy83ODg3LnBuZzo1MDFlNzE0YjYy.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMjM3MS5wbmc6MDg2YWVlODg5NQ.png",
+      "league": "UEFA Youth League",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzE0LnBuZzpjOWI5ZGMyODg3.png",
+      "matchTime": 1792591200000,
       "status": "inprogress",
       "streams": [
         {
           "id": "stream-1",
           "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjIyODAyOjRlN2U2ZTczOTA&source=lola",
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNjM3MzUzOjQ5YzA1ZDRkZTE&source=lola",
+          "source": "lola",
+          "hd": true,
+          "language": "Unknown"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
+      "id": "internazionale-u19-shakhtar-donetsk-u19-ZjoxNjM3MzU3OmFiYTQ0YzE0NzE",
+      "title": "Internazionale U19 vs Shakhtar Donetsk U19",
+      "homeTeam": "Internazionale U19",
+      "awayTeam": "Shakhtar Donetsk U19",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy83OTAzLnBuZzphNGY2MWVkNDll.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy83OTI5LnBuZzpkNDllMWQ2NDUw.png",
+      "league": "UEFA Youth League",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzE0LnBuZzpjOWI5ZGMyODg3.png",
+      "matchTime": 1792591200000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNjM3MzU3OmFiYTQ0YzE0NzE&source=lola",
           "source": "lola",
           "hd": true,
           "language": "Unknown"
@@ -299,36 +385,91 @@
         {
           "id": "stream-2",
           "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjIyODAyOjRlN2U2ZTczOTA&source=hdtv",
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNjM3MzU3OmFiYTQ0YzE0NzE&source=STV",
+          "source": "STV",
+          "hd": true,
+          "language": "Unknown"
+        },
+        {
+          "id": "stream-3",
+          "streamNo": 3,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNjM3MzU3OmFiYTQ0YzE0NzE&source=hdtv",
+          "source": "hdtv",
+          "hd": true,
+          "language": "Unknown"
+        }
+      ],
+      "streamCount": 3
+    },
+    {
+      "id": "real-madrid-u19-rb-leipzig-u19-ZjoxNjM3MzU5OjU2NzRmZTgyOGE",
+      "title": "Real Madrid U19 vs RB Leipzig U19",
+      "homeTeam": "Real Madrid U19",
+      "awayTeam": "RB Leipzig U19",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy83OTI2LnBuZzo1MTgwZGFmNjg3.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy83OTI0LnBuZzozOGRkODRiMTUw.png",
+      "league": "UEFA Youth League",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzE0LnBuZzpjOWI5ZGMyODg3.png",
+      "matchTime": 1792591200000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNjM3MzU5OjU2NzRmZTgyOGE&source=lola",
+          "source": "lola",
+          "hd": true,
+          "language": "Unknown"
+        },
+        {
+          "id": "stream-2",
+          "streamNo": 2,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNjM3MzU5OjU2NzRmZTgyOGE&source=STV",
+          "source": "STV",
+          "hd": true,
+          "language": "Unknown"
+        },
+        {
+          "id": "stream-3",
+          "streamNo": 3,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNjM3MzU5OjU2NzRmZTgyOGE&source=hdtv",
+          "source": "hdtv",
+          "hd": true,
+          "language": "Unknown"
+        }
+      ],
+      "streamCount": 3
+    },
+    {
+      "id": "aek-larnaca-akritas-ZjoxNjQyMjc2OjRkYmRhZGVjY2Q",
+      "title": "AEK Larnaca vs Akritas",
+      "homeTeam": "AEK Larnaca",
+      "awayTeam": "Akritas",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy82MTQucG5nOmMxMGJiMjJkOTY.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8zNDA2LnBuZzplZWIzNjI2Njkw.png",
+      "league": "Cup",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzMyMS5wbmc6Yjk1MjFlMmQyZA.png",
+      "matchTime": 1792591200000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNjQyMjc2OjRkYmRhZGVjY2Q&source=lola",
+          "source": "lola",
+          "hd": true,
+          "language": "Unknown"
+        },
+        {
+          "id": "stream-2",
+          "streamNo": 2,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNjQyMjc2OjRkYmRhZGVjY2Q&source=hdtv",
           "source": "hdtv",
           "hd": true,
           "language": "Unknown"
         }
       ],
       "streamCount": 2
-    },
-    {
-      "id": "kasuka-shan-united-ZjoxNjM5OTI4OjcxM2UyZTcwM2Q",
-      "title": "Kasuka vs Shan United",
-      "homeTeam": "Kasuka",
-      "awayTeam": "Shan United",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNjA2Ni5wbmc6NmU5ODJlOThkZg.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84MDE1LnBuZzpiOTVlNDE2NmQw.png",
-      "league": "AFC Challenge League",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzExMzIucG5nOjcxZTliODlhNDQ.png",
-      "matchTime": 1792575000000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjM5OTI4OjcxM2UyZTcwM2Q&source=lola",
-          "source": "lola",
-          "hd": true,
-          "language": "Unknown"
-        }
-      ],
-      "streamCount": 1
     },
     {
       "id": "guadalajara-chivas-necaxa-ZjoxNTUxMDA0OjQxYjk3NTQ1ZjI",
@@ -485,6 +626,20 @@
       "streamCount": 0
     },
     {
+      "id": "nojima-stella-w-albirex-niigata-w-ZjoxNTYwOTUxOmRiZjk4ZTIyN2Q",
+      "title": "Nojima Stella W vs Albirex Niigata W",
+      "homeTeam": "Nojima Stella W",
+      "awayTeam": "Albirex Niigata W",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNjk0OS5wbmc6YzM5ZWM4YTcxOA.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNjk1My5wbmc6ZDRjODZjNTdiZQ.png",
+      "league": "WE League",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzg1NC5wbmc6ZDE5N2FkOTU2Mg.png",
+      "matchTime": 1792575000000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "guadalajara-w-necaxa-w-ZjoxNjAzMzkzOmEzNWVhMjI1ZTc",
       "title": "Guadalajara W vs Necaxa W",
       "homeTeam": "Guadalajara W",
@@ -564,7 +719,7 @@
       "league": "J2 League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzk5LnBuZzplNzE1MzIzZDUx.png",
       "matchTime": 1792576800000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -578,7 +733,7 @@
       "league": "J2 League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzk5LnBuZzplNzE1MzIzZDUx.png",
       "matchTime": 1792576800000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -592,7 +747,7 @@
       "league": "J2 League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzk5LnBuZzplNzE1MzIzZDUx.png",
       "matchTime": 1792576800000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -606,7 +761,7 @@
       "league": "J2 League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzk5LnBuZzplNzE1MzIzZDUx.png",
       "matchTime": 1792576800000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -620,7 +775,7 @@
       "league": "J2 League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzk5LnBuZzplNzE1MzIzZDUx.png",
       "matchTime": 1792576800000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -634,7 +789,7 @@
       "league": "J2 League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzk5LnBuZzplNzE1MzIzZDUx.png",
       "matchTime": 1792576800000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -648,7 +803,7 @@
       "league": "J2 League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzk5LnBuZzplNzE1MzIzZDUx.png",
       "matchTime": 1792576800000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -662,7 +817,7 @@
       "league": "J2 League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzk5LnBuZzplNzE1MzIzZDUx.png",
       "matchTime": 1792576800000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -676,7 +831,21 @@
       "league": "J2 League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzk5LnBuZzplNzE1MzIzZDUx.png",
       "matchTime": 1792576800000,
-      "status": "notstarted",
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "bali-united-garudayaksa-ZjoxNjIyODAyOjRlN2U2ZTczOTA",
+      "title": "Bali United vs Garudayaksa",
+      "homeTeam": "Bali United",
+      "awayTeam": "Garudayaksa",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNDQ4LnBuZzozZDU0MzRkNzVl.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNjY0NS5wbmc6ZTNlNzYxZTE0NA.png",
+      "league": "Liga 1",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI3NC5wbmc6ZjBjYzA2YmU1MQ.png",
+      "matchTime": 1792571400000,
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -690,7 +859,21 @@
       "league": "Liga 1",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI3NC5wbmc6ZjBjYzA2YmU1MQ.png",
       "matchTime": 1792584000000,
-      "status": "notstarted",
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "kasuka-shan-united-ZjoxNjM5OTI4OjcxM2UyZTcwM2Q",
+      "title": "Kasuka vs Shan United",
+      "homeTeam": "Kasuka",
+      "awayTeam": "Shan United",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNjA2Ni5wbmc6NmU5ODJlOThkZg.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84MDE1LnBuZzpiOTVlNDE2NmQw.png",
+      "league": "AFC Challenge League",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzExMzIucG5nOjcxZTliODlhNDQ.png",
+      "matchTime": 1792575000000,
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -704,7 +887,7 @@
       "league": "AFC Challenge League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzExMzIucG5nOjcxZTliODlhNDQ.png",
       "matchTime": 1792584000000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -718,7 +901,7 @@
       "league": "AFC Challenge League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzExMzIucG5nOjcxZTliODlhNDQ.png",
       "matchTime": 1792585800000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -732,7 +915,7 @@
       "league": "J1 League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzk4LnBuZzowNTZjYTgwYmQw.png",
       "matchTime": 1792576800000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -746,7 +929,7 @@
       "league": "J1 League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzk4LnBuZzowNTZjYTgwYmQw.png",
       "matchTime": 1792576800000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -760,7 +943,7 @@
       "league": "J1 League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzk4LnBuZzowNTZjYTgwYmQw.png",
       "matchTime": 1792576800000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -774,7 +957,7 @@
       "league": "J1 League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzk4LnBuZzowNTZjYTgwYmQw.png",
       "matchTime": 1792576800000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -788,7 +971,7 @@
       "league": "J1 League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzk4LnBuZzowNTZjYTgwYmQw.png",
       "matchTime": 1792576800000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -802,7 +985,7 @@
       "league": "J1 League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzk4LnBuZzowNTZjYTgwYmQw.png",
       "matchTime": 1792576800000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -816,7 +999,7 @@
       "league": "J1 League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzk4LnBuZzowNTZjYTgwYmQw.png",
       "matchTime": 1792576800000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -830,7 +1013,7 @@
       "league": "J1 League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzk4LnBuZzowNTZjYTgwYmQw.png",
       "matchTime": 1792576800000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -844,7 +1027,7 @@
       "league": "J1 League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzk4LnBuZzowNTZjYTgwYmQw.png",
       "matchTime": 1792576800000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -858,7 +1041,7 @@
       "league": "J1 League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzk4LnBuZzowNTZjYTgwYmQw.png",
       "matchTime": 1792578600000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -872,7 +1055,7 @@
       "league": "UEFA Youth League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzE0LnBuZzpjOWI5ZGMyODg3.png",
       "matchTime": 1792580400000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -886,105 +1069,7 @@
       "league": "UEFA Youth League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzE0LnBuZzpjOWI5ZGMyODg3.png",
       "matchTime": 1792584000000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "aston-villa-u19-viking-u19-ZjoxNjM3MzUyOjQyOTVlOWE4M2U",
-      "title": "Aston Villa U19 vs Viking U19",
-      "homeTeam": "Aston Villa U19",
-      "awayTeam": "Viking U19",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNDk3MC5wbmc6NjY4OTNjNmYyNA.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNjU2Ny5wbmc6MmM0YmExODhhMg.png",
-      "league": "UEFA Youth League",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzE0LnBuZzpjOWI5ZGMyODg3.png",
-      "matchTime": 1792587600000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "real-betis-u19-feyenoord-u19-ZjoxNjM3MzU0OmY4YTI2OTQxMzE",
-      "title": "Real Betis U19 vs Feyenoord U19",
-      "homeTeam": "Real Betis U19",
-      "awayTeam": "Feyenoord U19",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNTE5NS5wbmc6NGJlZDNmZDJmZA.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy83OTgxLnBuZzphZDQ0MTZkMWRh.png",
-      "league": "UEFA Youth League",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzE0LnBuZzpjOWI5ZGMyODg3.png",
-      "matchTime": 1792587600000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "sporting-cp-u19-lask-u19-ZjoxNjM3MzYwOmRiODk5NDc1OTk",
-      "title": "Sporting CP U19 vs LASK U19",
-      "homeTeam": "Sporting CP U19",
-      "awayTeam": "LASK U19",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy83OTk3LnBuZzpjNjE4MmM3YTU1.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yODM3MC5wbmc6N2ViODMyZTA1YQ.png",
-      "league": "UEFA Youth League",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzE0LnBuZzpjOWI5ZGMyODg3.png",
-      "matchTime": 1792587600000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "bayern-munchen-u19-arsenal-u19-ZjoxNjM3MzUzOjQ5YzA1ZDRkZTE",
-      "title": "Bayern M\u00fcnchen U19 vs Arsenal U19",
-      "homeTeam": "Bayern M\u00fcnchen U19",
-      "awayTeam": "Arsenal U19",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy83ODg3LnBuZzo1MDFlNzE0YjYy.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMjM3MS5wbmc6MDg2YWVlODg5NQ.png",
-      "league": "UEFA Youth League",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzE0LnBuZzpjOWI5ZGMyODg3.png",
-      "matchTime": 1792591200000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "internazionale-u19-shakhtar-donetsk-u19-ZjoxNjM3MzU3OmFiYTQ0YzE0NzE",
-      "title": "Internazionale U19 vs Shakhtar Donetsk U19",
-      "homeTeam": "Internazionale U19",
-      "awayTeam": "Shakhtar Donetsk U19",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy83OTAzLnBuZzphNGY2MWVkNDll.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy83OTI5LnBuZzpkNDllMWQ2NDUw.png",
-      "league": "UEFA Youth League",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzE0LnBuZzpjOWI5ZGMyODg3.png",
-      "matchTime": 1792591200000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "real-madrid-u19-rb-leipzig-u19-ZjoxNjM3MzU5OjU2NzRmZTgyOGE",
-      "title": "Real Madrid U19 vs RB Leipzig U19",
-      "homeTeam": "Real Madrid U19",
-      "awayTeam": "RB Leipzig U19",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy83OTI2LnBuZzo1MTgwZGFmNjg3.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy83OTI0LnBuZzozOGRkODRiMTUw.png",
-      "league": "UEFA Youth League",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzE0LnBuZzpjOWI5ZGMyODg3.png",
-      "matchTime": 1792591200000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "aek-larnaca-akritas-ZjoxNjQyMjc2OjRkYmRhZGVjY2Q",
-      "title": "AEK Larnaca vs Akritas",
-      "homeTeam": "AEK Larnaca",
-      "awayTeam": "Akritas",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy82MTQucG5nOmMxMGJiMjJkOTY.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8zNDA2LnBuZzplZWIzNjI2Njkw.png",
-      "league": "Cup",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzMyMS5wbmc6Yjk1MjFlMmQyZA.png",
-      "matchTime": 1792591200000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -1012,7 +1097,7 @@
       "league": "Division 1",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzMwOC5wbmc6NjQyYjg4NmE1YQ.png",
       "matchTime": 1792593900000,
-      "status": "notstarted",
+      "status": "postponed",
       "streams": [],
       "streamCount": 0
     },
