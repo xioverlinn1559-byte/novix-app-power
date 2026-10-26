@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T02:34:53.830149+00:00",
+  "updatedAt": "2026-10-26T08:06:43.921855+00:00",
   "matches": [
     {
       "id": "geylang-international-hougang-united-ZjoxNjAzNDc4Ojc3MWUxNWY5N2I",
@@ -114,152 +114,27 @@
       "streamCount": 0
     },
     {
-      "id": "los-angeles-fc-los-angeles-galaxy-ZjoxNDkwNTcwOjcwOTNlMDNiNjg",
-      "title": "Los Angeles FC vs Los Angeles Galaxy",
-      "homeTeam": "Los Angeles FC",
-      "awayTeam": "Los Angeles Galaxy",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNjE2LnBuZzo4MzliNDlmMDMz.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNjA1LnBuZzowZjAyZTI3ZDIx.png",
-      "league": "Major League Soccer",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI1My5wbmc6YTJiNjc5MWJlZQ.png",
-      "matchTime": 1792976400000,
+      "id": "shandong-taishan-ii-jiangxi-liansheng-ZjoxNjM4NDgwOmQ2ZDc3MzQ5MWU",
+      "title": "Shandong Taishan II vs Jiangxi Liansheng",
+      "homeTeam": "Shandong Taishan II",
+      "awayTeam": "Jiangxi Liansheng",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMzI4OC5wbmc6OTBlZDIxZjM0Yg.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy81NjY1LnBuZzplZWJmOGY2MTZm.png",
+      "league": "League Two",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzkyOS5wbmc6OThlMDQyZTRmYQ.png",
+      "matchTime": 1792999800000,
       "status": "inprogress",
       "streams": [
         {
           "id": "stream-1",
           "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNDkwNTcwOjcwOTNlMDNiNjg&source=lola",
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNjM4NDgwOmQ2ZDc3MzQ5MWU&source=lola",
           "source": "lola",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNDkwNTcwOjcwOTNlMDNiNjg&source=capo",
-          "source": "capo",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-3",
-          "streamNo": 3,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNDkwNTcwOjcwOTNlMDNiNjg&source=hdtv",
-          "source": "hdtv",
           "hd": true,
           "language": "Unknown"
         }
       ],
-      "streamCount": 3
-    },
-    {
-      "id": "club-queretaro-cruz-azul-ZjoxNTUxMDE4OjA2OTZlZmUzYTM",
-      "title": "Club Queretaro vs Cruz Azul",
-      "homeTeam": "Club Queretaro",
-      "awayTeam": "Cruz Azul",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMjkwLnBuZzo3YjcxY2VkYmQz.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMjk1LnBuZzphZmVkY2EyMTU0.png",
-      "league": "Liga MX",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI2Mi5wbmc6YzQ2YTNkMzlkNQ.png",
-      "matchTime": 1792976400000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNTUxMDE4OjA2OTZlZmUzYTM&source=lola",
-          "source": "lola",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNTUxMDE4OjA2OTZlZmUzYTM&source=PPV",
-          "source": "PPV",
-          "hd": true,
-          "language": "Unknown"
-        }
-      ],
-      "streamCount": 2
-    },
-    {
-      "id": "club-america-cf-pachuca-ZjoxNTUxMDE3OmEzMzE0ZWU5Njg",
-      "title": "Club America vs CF Pachuca",
-      "homeTeam": "Club America",
-      "awayTeam": "CF Pachuca",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMjg3LnBuZzo5M2I4N2YzMzk4.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMjkyLnBuZzphNzAyYWQxYzYx.png",
-      "league": "Liga MX",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI2Mi5wbmc6YzQ2YTNkMzlkNQ.png",
-      "matchTime": 1792976700000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNTUxMDE3OmEzMzE0ZWU5Njg&source=lola",
-          "source": "lola",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNTUxMDE3OmEzMzE0ZWU5Njg&source=PPV",
-          "source": "PPV",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-3",
-          "streamNo": 3,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNTUxMDE3OmEzMzE0ZWU5Njg&source=STV",
-          "source": "STV",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-4",
-          "streamNo": 4,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNTUxMDE3OmEzMzE0ZWU5Njg&source=hdtv",
-          "source": "hdtv",
-          "hd": true,
-          "language": "Unknown"
-        }
-      ],
-      "streamCount": 4
-    },
-    {
-      "id": "deportes-tolima-deportivo-pasto-ZjoxNTQ5ODM3OmExYWM2MjVkZWQ",
-      "title": "Deportes Tolima vs Deportivo Pasto",
-      "homeTeam": "Deportes Tolima",
-      "awayTeam": "Deportivo Pasto",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMTQyLnBuZzo2ZTU2MDZhZGNj.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMTI2LnBuZzpjZmNlYzVkYzRj.png",
-      "league": "Primera A",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzIzOS5wbmc6MzIwYjVlYzgxYQ.png",
-      "matchTime": 1792977300000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNTQ5ODM3OmExYWM2MjVkZWQ&source=lola",
-          "source": "lola",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNTQ5ODM3OmExYWM2MjVkZWQ&source=hdtv",
-          "source": "hdtv",
-          "hd": true,
-          "language": "Unknown"
-        }
-      ],
-      "streamCount": 2
+      "streamCount": 1
     },
     {
       "id": "ld-alajuelense-perez-zeledon-ZjoxNTUxNzA3Ojk2NWNkNWNlODc",
@@ -332,6 +207,48 @@
       "streamCount": 0
     },
     {
+      "id": "los-angeles-fc-los-angeles-galaxy-ZjoxNDkwNTcwOjcwOTNlMDNiNjg",
+      "title": "Los Angeles FC vs Los Angeles Galaxy",
+      "homeTeam": "Los Angeles FC",
+      "awayTeam": "Los Angeles Galaxy",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNjE2LnBuZzo4MzliNDlmMDMz.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNjA1LnBuZzowZjAyZTI3ZDIx.png",
+      "league": "Major League Soccer",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI1My5wbmc6YTJiNjc5MWJlZQ.png",
+      "matchTime": 1792976400000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "club-queretaro-cruz-azul-ZjoxNTUxMDE4OjA2OTZlZmUzYTM",
+      "title": "Club Queretaro vs Cruz Azul",
+      "homeTeam": "Club Queretaro",
+      "awayTeam": "Cruz Azul",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMjkwLnBuZzo3YjcxY2VkYmQz.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMjk1LnBuZzphZmVkY2EyMTU0.png",
+      "league": "Liga MX",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI2Mi5wbmc6YzQ2YTNkMzlkNQ.png",
+      "matchTime": 1792976400000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "club-america-cf-pachuca-ZjoxNTUxMDE3OmEzMzE0ZWU5Njg",
+      "title": "Club America vs CF Pachuca",
+      "homeTeam": "Club America",
+      "awayTeam": "CF Pachuca",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMjg3LnBuZzo5M2I4N2YzMzk4.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMjkyLnBuZzphNzAyYWQxYzYx.png",
+      "league": "Liga MX",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI2Mi5wbmc6YzQ2YTNkMzlkNQ.png",
+      "matchTime": 1792976700000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "club-tijuana-santos-laguna-ZjoxNTUxMDE5OjE4ZGU0ZWVlZjI",
       "title": "Club Tijuana vs Santos Laguna",
       "homeTeam": "Club Tijuana",
@@ -341,7 +258,21 @@
       "league": "Liga MX",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI2Mi5wbmc6YzQ2YTNkMzlkNQ.png",
       "matchTime": 1792984200000,
-      "status": "notstarted",
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "deportes-tolima-deportivo-pasto-ZjoxNTQ5ODM3OmExYWM2MjVkZWQ",
+      "title": "Deportes Tolima vs Deportivo Pasto",
+      "homeTeam": "Deportes Tolima",
+      "awayTeam": "Deportivo Pasto",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMTQyLnBuZzo2ZTU2MDZhZGNj.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMTI2LnBuZzpjZmNlYzVkYzRj.png",
+      "league": "Primera A",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzIzOS5wbmc6MzIwYjVlYzgxYQ.png",
+      "matchTime": 1792977300000,
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -355,20 +286,6 @@
       "league": "Primera A",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzIzOS5wbmc6MzIwYjVlYzgxYQ.png",
       "matchTime": 1793055600000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "shandong-taishan-ii-jiangxi-liansheng-ZjoxNjM4NDgwOmQ2ZDc3MzQ5MWU",
-      "title": "Shandong Taishan II vs Jiangxi Liansheng",
-      "homeTeam": "Shandong Taishan II",
-      "awayTeam": "Jiangxi Liansheng",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMzI4OC5wbmc6OTBlZDIxZjM0Yg.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy81NjY1LnBuZzplZWJmOGY2MTZm.png",
-      "league": "League Two",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzkyOS5wbmc6OThlMDQyZTRmYQ.png",
-      "matchTime": 1792999800000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
