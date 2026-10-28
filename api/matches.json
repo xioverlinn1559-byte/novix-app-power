@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T09:54:22.886607+00:00",
+  "updatedAt": "2026-10-28T16:22:50.703514+00:00",
   "matches": [
     {
       "id": "national-bank-of-egypt-al-masry-ZjoxNjEyMjY5OjhlNDFjZjk5NGE",
@@ -11,7 +11,7 @@
       "league": "Premier League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzIzMy5wbmc6YTEyYzMxZDRjOQ.png",
       "matchTime": 1793196000000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -142,21 +142,44 @@
       "streamCount": 0
     },
     {
-      "id": "long-an-thai-nguyen-ZjoxNjM0OTk1OmY1YWI3YzRmODQ",
-      "title": "Long An vs Thai Nguyen",
-      "homeTeam": "Long An",
-      "awayTeam": "Thai Nguyen",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy85MTY1LnBuZzo2ZjdmZDU5NTFm.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yODIxNi5wbmc6ODYzOTlhNWIxOA.png",
-      "league": "V.League 2",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzYzNy5wbmc6NDkzNDhhMTdiOQ.png",
-      "matchTime": 1793176200000,
+      "id": "sakaryaspor-bursa-yildirimspor-ZjoxNjQ1NDQzOmIxNjU5MDA3OGM",
+      "title": "Sakaryaspor vs Bursa Y\u0131ld\u0131r\u0131mspor",
+      "homeTeam": "Sakaryaspor",
+      "awayTeam": "Bursa Y\u0131ld\u0131r\u0131mspor",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8zNjAyLnBuZzplOWQxMDczZjZi.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy82NTE3LnBuZzoxZDU5ZDI1ZjU5.png",
+      "league": "T\u00fcrkiye Kupas\u0131",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzIwNi5wbmc6MTljZDVmMjg4MQ.png",
+      "matchTime": 1793199600000,
       "status": "inprogress",
       "streams": [
         {
           "id": "stream-1",
           "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjM0OTk1OmY1YWI3YzRmODQ&source=lola",
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNjQ1NDQzOmIxNjU5MDA3OGM&source=STV",
+          "source": "STV",
+          "hd": true,
+          "language": "Unknown"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
+      "id": "al-jazira-muharraq-ZjoxNjMwMzgwOjFhMDFhNWRmZDg",
+      "title": "Al-Jazira vs Muharraq",
+      "homeTeam": "Al-Jazira",
+      "awayTeam": "Muharraq",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yODcxLnBuZzo3Y2FmOTM5ODNh.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy81NDg4LnBuZzpmOWY1ODc4ZmE5.png",
+      "league": "AFC Champions League Two",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzE4LnBuZzo1ZDQ5NDczZmRl.png",
+      "matchTime": 1793203200000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNjMwMzgwOjFhMDFhNWRmZDg&source=lola",
           "source": "lola",
           "hd": true,
           "language": "Unknown"
@@ -165,21 +188,274 @@
       "streamCount": 1
     },
     {
-      "id": "tokyo-verdy-beleza-w-cerezo-osaka-w-ZjoxNTYwOTQ5OmNlODMzN2QzY2M",
-      "title": "Tokyo Verdy Beleza W vs Cerezo Osaka W",
-      "homeTeam": "Tokyo Verdy Beleza W",
-      "awayTeam": "Cerezo Osaka W",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNjk1MS5wbmc6NjE4NTIwNDg0OQ.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMjQ5Mi5wbmc6OTAyMTBhOTQ2MQ.png",
-      "league": "WE League",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzg1NC5wbmc6ZDE5N2FkOTU2Mg.png",
-      "matchTime": 1793178000000,
+      "id": "al-nahda-al-rayyan-sc-ZjoxNjMwMzgxOmY2YzU5MDZjNzk",
+      "title": "Al-Nahda vs Al-Rayyan SC",
+      "homeTeam": "Al-Nahda",
+      "awayTeam": "Al-Rayyan SC",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy81MzI3LnBuZzpjNzEyYjdmZGFk.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yODk3LnBuZzpkM2FjNjEwYjhl.png",
+      "league": "AFC Champions League Two",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzE4LnBuZzo1ZDQ5NDczZmRl.png",
+      "matchTime": 1793203200000,
       "status": "inprogress",
       "streams": [
         {
           "id": "stream-1",
           "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNTYwOTQ5OmNlODMzN2QzY2M&source=lola",
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNjMwMzgxOmY2YzU5MDZjNzk&source=lola",
+          "source": "lola",
+          "hd": true,
+          "language": "Unknown"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
+      "id": "esbjerg-fc-nordsjaelland-ZjoxNjQwNDc4OjkwNWVlODM1NzM",
+      "title": "Esbjerg vs FC Nordsjaelland",
+      "homeTeam": "Esbjerg",
+      "awayTeam": "FC Nordsjaelland",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy80MDMucG5nOjQ2NjUyNjBkZGQ.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8zOTgucG5nOjdjYWYwMzhlNDg.png",
+      "league": "DBU Pokalen",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEyMS5wbmc6NTRmNjFjYzRiOA.png",
+      "matchTime": 1793203200000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNjQwNDc4OjkwNWVlODM1NzM&source=lola",
+          "source": "lola",
+          "hd": true,
+          "language": "Unknown"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
+      "id": "al-jabalain-al-raed-ZjoxNjA0MDQzOjU5Mzg2NDQzNDU",
+      "title": "Al Jabalain vs Al-Raed",
+      "homeTeam": "Al Jabalain",
+      "awayTeam": "Al-Raed",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yOTU4LnBuZzo2YWVjYjYzYWM0.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yOTM1LnBuZzpjOGQxNDE1OGVh.png",
+      "league": "Division 1",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzMwOC5wbmc6NjQyYjg4NmE1YQ.png",
+      "matchTime": 1793199900000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNjA0MDQzOjU5Mzg2NDQzNDU&source=lola",
+          "source": "lola",
+          "hd": true,
+          "language": "Unknown"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
+      "id": "al-najma-al-zulfi-ZjoxNjA0MDQ0OmRmMDQ0NmE4NjM",
+      "title": "Al Najma vs Al Zulfi",
+      "homeTeam": "Al Najma",
+      "awayTeam": "Al Zulfi",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yOTkyLnBuZzpmOTdhOWI4ZWUx.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMDUyNC5wbmc6ZjcxN2MwZjc3ZQ.png",
+      "league": "Division 1",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzMwOC5wbmc6NjQyYjg4NmE1YQ.png",
+      "matchTime": 1793199900000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNjA0MDQ0OmRmMDQ0NmE4NjM&source=lola",
+          "source": "lola",
+          "hd": true,
+          "language": "Unknown"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
+      "id": "fc-rostov-akron-ZjoxNTYzNjcwOjE3OTQ5OWZlOTM",
+      "title": "FC Rostov vs Akron",
+      "homeTeam": "FC Rostov",
+      "awayTeam": "Akron",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy83NzkucG5nOjhiNzVhODNmOTI.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy82Nzg2LnBuZzowOTNhYWRiOGZh.png",
+      "league": "Cup",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzIzNy5wbmc6YzEyOTY2ZjhjNA.png",
+      "matchTime": 1793200500000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNTYzNjcwOjE3OTQ5OWZlOTM&source=lola",
+          "source": "lola",
+          "hd": true,
+          "language": "Unknown"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
+      "id": "panathinaikos-aris-thessalonikis-ZjoxNjM1NTA4OjhiZjNjMDgyYWU",
+      "title": "Panathinaikos vs Aris Thessalonikis",
+      "homeTeam": "Panathinaikos",
+      "awayTeam": "Aris Thessalonikis",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy82MTcucG5nOjMzOTIwZTYxYWE.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMTIzLnBuZzpjMjkwNzJhNGEz.png",
+      "league": "Cup",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzE5OS5wbmc6NDUxNDEwNDEwMg.png",
+      "matchTime": 1793201400000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNjM1NTA4OjhiZjNjMDgyYWU&source=lola",
+          "source": "lola",
+          "hd": true,
+          "language": "Unknown"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
+      "id": "omonia-aradippou-digenis-morphou-ZjoxNjQyMjg1OjY4NmQ3ODgwNTQ",
+      "title": "Omonia Aradippou vs Digenis Morphou",
+      "homeTeam": "Omonia Aradippou",
+      "awayTeam": "Digenis Morphou",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8zNDE2LnBuZzo4MmE5MzEzNTAy.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8zNDIzLnBuZzphZjBkZDE3ZTk0.png",
+      "league": "Cup",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzMyMS5wbmc6Yjk1MjFlMmQyZA.png",
+      "matchTime": 1793199600000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNjQyMjg1OjY4NmQ3ODgwNTQ&source=lola",
+          "source": "lola",
+          "hd": true,
+          "language": "Unknown"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
+      "id": "apoel-nicosia-halkanoras-ZjoxNjQyMjc4OjhmY2E4Mjg1YWY",
+      "title": "Apoel Nicosia vs Halkanoras",
+      "homeTeam": "Apoel Nicosia",
+      "awayTeam": "Halkanoras",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMjQ3LnBuZzowNjA1NDdiM2Zh.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8zNDI5LnBuZzo5MzZiNzQwODFk.png",
+      "league": "Cup",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzMyMS5wbmc6Yjk1MjFlMmQyZA.png",
+      "matchTime": 1793203200000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNjQyMjc4OjhmY2E4Mjg1YWY&source=lola",
+          "source": "lola",
+          "hd": true,
+          "language": "Unknown"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
+      "id": "argentina-u17-w-ghana-u17-w-ZjoxNjQ3MjU5OmNhZDVjMDRiZmQ",
+      "title": "Argentina U17 W vs Ghana U17 W",
+      "homeTeam": "Argentina U17 W",
+      "awayTeam": "Ghana U17 W",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMzM3NS5wbmc6MjhhOTIwMDQ2NA.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNzExNy5wbmc6ZTg0YTczNDk0Mg.png",
+      "league": "World Cup - U17 - Women",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzk1MC5wbmc6ZmE2ZWIxNzdhYw.png",
+      "matchTime": 1793199600000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNjQ3MjU5OmNhZDVjMDRiZmQ&source=lola",
+          "source": "lola",
+          "hd": true,
+          "language": "Unknown"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
+      "id": "germany-u17-w-venezuela-u17-w-ZjoxNjQ3MjcxOmM4NzlmNjBlODY",
+      "title": "Germany U17 W vs Venezuela U17 W",
+      "homeTeam": "Germany U17 W",
+      "awayTeam": "Venezuela U17 W",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNzExNS5wbmc6NWU3MGQwNWVlNg.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMzM4MS5wbmc6Yjk4YmZmNzc1MQ.png",
+      "league": "World Cup - U17 - Women",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzk1MC5wbmc6ZmE2ZWIxNzdhYw.png",
+      "matchTime": 1793199600000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNjQ3MjcxOmM4NzlmNjBlODY&source=lola",
+          "source": "lola",
+          "hd": true,
+          "language": "Unknown"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
+      "id": "adt-ucv-moquegua-ZjoxNTQ5NTI3OjFlMWNhY2NiMWQ",
+      "title": "ADT vs UCV Moquegua",
+      "homeTeam": "ADT",
+      "awayTeam": "UCV Moquegua",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMDQ5Mi5wbmc6NzRlNTJlZDRmMA.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMjQ4OS5wbmc6OWM3ZTJhYTAyNw.png",
+      "league": "Primera Divisi\u00f3n",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI4MS5wbmc6NWI2OGQ5MjVmYQ.png",
+      "matchTime": 1793203200000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNTQ5NTI3OjFlMWNhY2NiMWQ&source=lola",
+          "source": "lola",
+          "hd": true,
+          "language": "Unknown"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
+      "id": "benfica-u19-pafos-u19-ZjoxNjM4ODQyOjcxM2ViOTg3MDU",
+      "title": "Benfica U19 vs Pafos U19",
+      "homeTeam": "Benfica U19",
+      "awayTeam": "Pafos U19",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy83ODg4LnBuZzo4ZTdkMWRlOWY3.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMjM5Ny5wbmc6NTkwM2ZlN2MyNg.png",
+      "league": "UEFA Youth League",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzE0LnBuZzpjOWI5ZGMyODg3.png",
+      "matchTime": 1793203200000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNjM4ODQyOjcxM2ViOTg3MDU&source=lola",
           "source": "lola",
           "hd": true,
           "language": "Unknown"
@@ -230,6 +506,20 @@
       "streamCount": 0
     },
     {
+      "id": "long-an-thai-nguyen-ZjoxNjM0OTk1OmY1YWI3YzRmODQ",
+      "title": "Long An vs Thai Nguyen",
+      "homeTeam": "Long An",
+      "awayTeam": "Thai Nguyen",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy85MTY1LnBuZzo2ZjdmZDU5NTFm.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yODIxNi5wbmc6ODYzOTlhNWIxOA.png",
+      "league": "V.League 2",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzYzNy5wbmc6NDkzNDhhMTdiOQ.png",
+      "matchTime": 1793176200000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "hung-yen-bong-da-hu-ZjoxNjM0OTk2OjlkYzZhOGYyODg",
       "title": "Hung Yen vs B\u00f3ng \u0111\u00e1 Hu\u1ebf",
       "homeTeam": "Hung Yen",
@@ -239,7 +529,21 @@
       "league": "V.League 2",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzYzNy5wbmc6NDkzNDhhMTdiOQ.png",
       "matchTime": 1793185200000,
-      "status": "notstarted",
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "tokyo-verdy-beleza-w-cerezo-osaka-w-ZjoxNTYwOTQ5OmNlODMzN2QzY2M",
+      "title": "Tokyo Verdy Beleza W vs Cerezo Osaka W",
+      "homeTeam": "Tokyo Verdy Beleza W",
+      "awayTeam": "Cerezo Osaka W",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNjk1MS5wbmc6NjE4NTIwNDg0OQ.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMjQ5Mi5wbmc6OTAyMTBhOTQ2MQ.png",
+      "league": "WE League",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzg1NC5wbmc6ZDE5N2FkOTU2Mg.png",
+      "matchTime": 1793178000000,
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -253,7 +557,7 @@
       "league": "WE League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzg1NC5wbmc6ZDE5N2FkOTU2Mg.png",
       "matchTime": 1793181600000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -267,7 +571,7 @@
       "league": "WE League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzg1NC5wbmc6ZDE5N2FkOTU2Mg.png",
       "matchTime": 1793181600000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -281,7 +585,7 @@
       "league": "WK-League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzY2MC5wbmc6ODFjMjUxNDhmYg.png",
       "matchTime": 1793181600000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -295,7 +599,7 @@
       "league": "WK-League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzY2MC5wbmc6ODFjMjUxNDhmYg.png",
       "matchTime": 1793181600000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -309,7 +613,7 @@
       "league": "WK-League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzY2MC5wbmc6ODFjMjUxNDhmYg.png",
       "matchTime": 1793181600000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -323,7 +627,7 @@
       "league": "AFC Champions League Elite",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzE3LnBuZzo1ZGQ1MWZlMDJm.png",
       "matchTime": 1793181600000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -337,7 +641,7 @@
       "league": "AFC Champions League Elite",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzE3LnBuZzo1ZGQ1MWZlMDJm.png",
       "matchTime": 1793181600000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -351,7 +655,7 @@
       "league": "T\u00fcrkiye Kupas\u0131",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzIwNi5wbmc6MTljZDVmMjg4MQ.png",
       "matchTime": 1793181600000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -365,21 +669,7 @@
       "league": "T\u00fcrkiye Kupas\u0131",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzIwNi5wbmc6MTljZDVmMjg4MQ.png",
       "matchTime": 1793190600000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "sakaryaspor-bursa-yildirimspor-ZjoxNjQ1NDQzOmIxNjU5MDA3OGM",
-      "title": "Sakaryaspor vs Bursa Y\u0131ld\u0131r\u0131mspor",
-      "homeTeam": "Sakaryaspor",
-      "awayTeam": "Bursa Y\u0131ld\u0131r\u0131mspor",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8zNjAyLnBuZzplOWQxMDczZjZi.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy82NTE3LnBuZzoxZDU5ZDI1ZjU5.png",
-      "league": "T\u00fcrkiye Kupas\u0131",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzIwNi5wbmc6MTljZDVmMjg4MQ.png",
-      "matchTime": 1793199600000,
-      "status": "notstarted",
+      "status": "canceled",
       "streams": [],
       "streamCount": 0
     },
@@ -407,7 +697,7 @@
       "league": "J-League Cup",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEwMS5wbmc6MGIzZjdkMTBkMQ.png",
       "matchTime": 1793181600000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -421,7 +711,7 @@
       "league": "J-League Cup",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEwMS5wbmc6MGIzZjdkMTBkMQ.png",
       "matchTime": 1793181600000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -435,7 +725,7 @@
       "league": "J-League Cup",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEwMS5wbmc6MGIzZjdkMTBkMQ.png",
       "matchTime": 1793181600000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -449,7 +739,7 @@
       "league": "J-League Cup",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEwMS5wbmc6MGIzZjdkMTBkMQ.png",
       "matchTime": 1793181600000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -463,7 +753,7 @@
       "league": "Cup",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEwOC5wbmc6YzBkYWE5OTMwZg.png",
       "matchTime": 1793187000000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -491,7 +781,7 @@
       "league": "AFC Champions League Two",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzE4LnBuZzo1ZDQ5NDczZmRl.png",
       "matchTime": 1793189700000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -505,7 +795,7 @@
       "league": "AFC Champions League Two",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzE4LnBuZzo1ZDQ5NDczZmRl.png",
       "matchTime": 1793189700000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -519,7 +809,7 @@
       "league": "AFC Champions League Two",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzE4LnBuZzo1ZDQ5NDczZmRl.png",
       "matchTime": 1793195100000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -533,35 +823,7 @@
       "league": "AFC Champions League Two",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzE4LnBuZzo1ZDQ5NDczZmRl.png",
       "matchTime": 1793195100000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "al-jazira-muharraq-ZjoxNjMwMzgwOjFhMDFhNWRmZDg",
-      "title": "Al-Jazira vs Muharraq",
-      "homeTeam": "Al-Jazira",
-      "awayTeam": "Muharraq",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yODcxLnBuZzo3Y2FmOTM5ODNh.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy81NDg4LnBuZzpmOWY1ODc4ZmE5.png",
-      "league": "AFC Champions League Two",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzE4LnBuZzo1ZDQ5NDczZmRl.png",
-      "matchTime": 1793203200000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "al-nahda-al-rayyan-sc-ZjoxNjMwMzgxOmY2YzU5MDZjNzk",
-      "title": "Al-Nahda vs Al-Rayyan SC",
-      "homeTeam": "Al-Nahda",
-      "awayTeam": "Al-Rayyan SC",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy81MzI3LnBuZzpjNzEyYjdmZGFk.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yODk3LnBuZzpkM2FjNjEwYjhl.png",
-      "league": "AFC Champions League Two",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzE4LnBuZzo1ZDQ5NDczZmRl.png",
-      "matchTime": 1793203200000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -603,7 +865,7 @@
       "league": "Superliga",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzMxMC5wbmc6ODMwMzY3ZDQ5MQ.png",
       "matchTime": 1793190600000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -645,7 +907,7 @@
       "league": "1st Division",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzMxMS5wbmc6Y2IwZjM5Y2M0OQ.png",
       "matchTime": 1793190600000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -659,7 +921,7 @@
       "league": "1st Division",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzMxMS5wbmc6Y2IwZjM5Y2M0OQ.png",
       "matchTime": 1793190600000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -673,7 +935,7 @@
       "league": "1st Division",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzMxMS5wbmc6Y2IwZjM5Y2M0OQ.png",
       "matchTime": 1793190600000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -687,7 +949,7 @@
       "league": "1st Division",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzMxMS5wbmc6Y2IwZjM5Y2M0OQ.png",
       "matchTime": 1793190600000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -701,7 +963,7 @@
       "league": "1st Division",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzMxMS5wbmc6Y2IwZjM5Y2M0OQ.png",
       "matchTime": 1793190600000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -715,21 +977,21 @@
       "league": "DBU Pokalen",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEyMS5wbmc6NTRmNjFjYzRiOA.png",
       "matchTime": 1793190600000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
     {
-      "id": "esbjerg-fc-nordsjaelland-ZjoxNjQwNDc4OjkwNWVlODM1NzM",
-      "title": "Esbjerg vs FC Nordsjaelland",
-      "homeTeam": "Esbjerg",
-      "awayTeam": "FC Nordsjaelland",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy80MDMucG5nOjQ2NjUyNjBkZGQ.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8zOTgucG5nOjdjYWYwMzhlNDg.png",
-      "league": "DBU Pokalen",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEyMS5wbmc6NTRmNjFjYzRiOA.png",
-      "matchTime": 1793203200000,
-      "status": "notstarted",
+      "id": "district-17-discoveries-ZjoxNjQ2MDk3OjM4ZjQ1ZWU2Mjc",
+      "title": "District 17 vs Discoveries",
+      "homeTeam": "District 17",
+      "awayTeam": "Discoveries",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yODUzNi5wbmc6ZmE4YTA4NzgxZA.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy80MDQ4LnBuZzpiMzAxY2E4ZTYy.png",
+      "league": "LFA First Division",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzc2MC5wbmc6YzVkYTk3MjMwNg.png",
+      "matchTime": 1793190600000,
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -743,7 +1005,7 @@
       "league": "LFA First Division",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzc2MC5wbmc6YzVkYTk3MjMwNg.png",
       "matchTime": 1793190600000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -757,7 +1019,7 @@
       "league": "LFA First Division",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzc2MC5wbmc6YzVkYTk3MjMwNg.png",
       "matchTime": 1793192400000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -827,35 +1089,7 @@
       "league": "Division 1",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzMwOC5wbmc6NjQyYjg4NmE1YQ.png",
       "matchTime": 1793190900000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "al-jabalain-al-raed-ZjoxNjA0MDQzOjU5Mzg2NDQzNDU",
-      "title": "Al Jabalain vs Al-Raed",
-      "homeTeam": "Al Jabalain",
-      "awayTeam": "Al-Raed",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yOTU4LnBuZzo2YWVjYjYzYWM0.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yOTM1LnBuZzpjOGQxNDE1OGVh.png",
-      "league": "Division 1",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzMwOC5wbmc6NjQyYjg4NmE1YQ.png",
-      "matchTime": 1793199900000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "al-najma-al-zulfi-ZjoxNjA0MDQ0OmRmMDQ0NmE4NjM",
-      "title": "Al Najma vs Al Zulfi",
-      "homeTeam": "Al Najma",
-      "awayTeam": "Al Zulfi",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yOTkyLnBuZzpmOTdhOWI4ZWUx.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMDUyNC5wbmc6ZjcxN2MwZjc3ZQ.png",
-      "league": "Division 1",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzMwOC5wbmc6NjQyYjg4NmE1YQ.png",
-      "matchTime": 1793199900000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -869,21 +1103,7 @@
       "league": "Cup",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzIzNy5wbmc6YzEyOTY2ZjhjNA.png",
       "matchTime": 1793192400000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "fc-rostov-akron-ZjoxNTYzNjcwOjE3OTQ5OWZlOTM",
-      "title": "FC Rostov vs Akron",
-      "homeTeam": "FC Rostov",
-      "awayTeam": "Akron",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy83NzkucG5nOjhiNzVhODNmOTI.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy82Nzg2LnBuZzowOTNhYWRiOGZh.png",
-      "league": "Cup",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzIzNy5wbmc6YzEyOTY2ZjhjNA.png",
-      "matchTime": 1793200500000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -911,21 +1131,7 @@
       "league": "Cup",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzE5OS5wbmc6NDUxNDEwNDEwMg.png",
       "matchTime": 1793192400000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "panathinaikos-aris-thessalonikis-ZjoxNjM1NTA4OjhiZjNjMDgyYWU",
-      "title": "Panathinaikos vs Aris Thessalonikis",
-      "homeTeam": "Panathinaikos",
-      "awayTeam": "Aris Thessalonikis",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy82MTcucG5nOjMzOTIwZTYxYWE.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMTIzLnBuZzpjMjkwNzJhNGEz.png",
-      "league": "Cup",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzE5OS5wbmc6NDUxNDEwNDEwMg.png",
-      "matchTime": 1793201400000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -939,63 +1145,7 @@
       "league": "Sultan Cup",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzcyNi5wbmc6OTVmYzE5ZDFkMg.png",
       "matchTime": 1793195700000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "omonia-aradippou-digenis-morphou-ZjoxNjQyMjg1OjY4NmQ3ODgwNTQ",
-      "title": "Omonia Aradippou vs Digenis Morphou",
-      "homeTeam": "Omonia Aradippou",
-      "awayTeam": "Digenis Morphou",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8zNDE2LnBuZzo4MmE5MzEzNTAy.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8zNDIzLnBuZzphZjBkZDE3ZTk0.png",
-      "league": "Cup",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzMyMS5wbmc6Yjk1MjFlMmQyZA.png",
-      "matchTime": 1793199600000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "apoel-nicosia-halkanoras-ZjoxNjQyMjc4OjhmY2E4Mjg1YWY",
-      "title": "Apoel Nicosia vs Halkanoras",
-      "homeTeam": "Apoel Nicosia",
-      "awayTeam": "Halkanoras",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMjQ3LnBuZzowNjA1NDdiM2Zh.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8zNDI5LnBuZzo5MzZiNzQwODFk.png",
-      "league": "Cup",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzMyMS5wbmc6Yjk1MjFlMmQyZA.png",
-      "matchTime": 1793203200000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "argentina-u17-w-ghana-u17-w-ZjoxNjQ3MjU5OmNhZDVjMDRiZmQ",
-      "title": "Argentina U17 W vs Ghana U17 W",
-      "homeTeam": "Argentina U17 W",
-      "awayTeam": "Ghana U17 W",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMzM3NS5wbmc6MjhhOTIwMDQ2NA.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNzExNy5wbmc6ZTg0YTczNDk0Mg.png",
-      "league": "World Cup - U17 - Women",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzk1MC5wbmc6ZmE2ZWIxNzdhYw.png",
-      "matchTime": 1793199600000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "germany-u17-w-venezuela-u17-w-ZjoxNjQ3MjcxOmM4NzlmNjBlODY",
-      "title": "Germany U17 W vs Venezuela U17 W",
-      "homeTeam": "Germany U17 W",
-      "awayTeam": "Venezuela U17 W",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNzExNS5wbmc6NWU3MGQwNWVlNg.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMzM4MS5wbmc6Yjk4YmZmNzc1MQ.png",
-      "league": "World Cup - U17 - Women",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzk1MC5wbmc6ZmE2ZWIxNzdhYw.png",
-      "matchTime": 1793199600000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -1028,20 +1178,6 @@
       "streamCount": 0
     },
     {
-      "id": "adt-ucv-moquegua-ZjoxNTQ5NTI3OjFlMWNhY2NiMWQ",
-      "title": "ADT vs UCV Moquegua",
-      "homeTeam": "ADT",
-      "awayTeam": "UCV Moquegua",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMDQ5Mi5wbmc6NzRlNTJlZDRmMA.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMjQ4OS5wbmc6OWM3ZTJhYTAyNw.png",
-      "league": "Primera Divisi\u00f3n",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI4MS5wbmc6NWI2OGQ5MjVmYQ.png",
-      "matchTime": 1793203200000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
       "id": "fc-cajamarca-utc-cajamarca-ZjoxNTQ5NTMxOjJlNDE4Njc5Nzg",
       "title": "FC Cajamarca vs UTC Cajamarca",
       "homeTeam": "FC Cajamarca",
@@ -1065,20 +1201,6 @@
       "league": "Primera Divisi\u00f3n",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI4MS5wbmc6NWI2OGQ5MjVmYQ.png",
       "matchTime": 1793219400000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "benfica-u19-pafos-u19-ZjoxNjM4ODQyOjcxM2ViOTg3MDU",
-      "title": "Benfica U19 vs Pafos U19",
-      "homeTeam": "Benfica U19",
-      "awayTeam": "Pafos U19",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy83ODg4LnBuZzo4ZTdkMWRlOWY3.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMjM5Ny5wbmc6NTkwM2ZlN2MyNg.png",
-      "league": "UEFA Youth League",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzE0LnBuZzpjOWI5ZGMyODg3.png",
-      "matchTime": 1793203200000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
@@ -1499,7 +1621,7 @@
       "league": "Copa del Rey",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzE0My5wbmc6MjM4ODg1ODI5Mg.png",
       "matchTime": 1793210400000,
-      "status": "notstarted",
+      "status": "postponed",
       "streams": [],
       "streamCount": 0
     },
@@ -1513,7 +1635,7 @@
       "league": "Copa del Rey",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzE0My5wbmc6MjM4ODg1ODI5Mg.png",
       "matchTime": 1793210400000,
-      "status": "notstarted",
+      "status": "postponed",
       "streams": [],
       "streamCount": 0
     },
@@ -1527,7 +1649,7 @@
       "league": "Copa del Rey",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzE0My5wbmc6MjM4ODg1ODI5Mg.png",
       "matchTime": 1793210400000,
-      "status": "notstarted",
+      "status": "postponed",
       "streams": [],
       "streamCount": 0
     },
@@ -1541,7 +1663,7 @@
       "league": "Copa del Rey",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzE0My5wbmc6MjM4ODg1ODI5Mg.png",
       "matchTime": 1793217600000,
-      "status": "notstarted",
+      "status": "postponed",
       "streams": [],
       "streamCount": 0
     },
@@ -1555,7 +1677,7 @@
       "league": "Copa del Rey",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzE0My5wbmc6MjM4ODg1ODI5Mg.png",
       "matchTime": 1793217600000,
-      "status": "notstarted",
+      "status": "postponed",
       "streams": [],
       "streamCount": 0
     },
@@ -1569,7 +1691,7 @@
       "league": "Copa del Rey",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzE0My5wbmc6MjM4ODg1ODI5Mg.png",
       "matchTime": 1793217600000,
-      "status": "notstarted",
+      "status": "postponed",
       "streams": [],
       "streamCount": 0
     },
@@ -1582,6 +1704,20 @@
       "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNTQzOS5wbmc6MDhjZjVjOTYzYQ.png",
       "league": "WSL Cup",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzY5Ny5wbmc6Y2I5YjVjODFmYw.png",
+      "matchTime": 1793214000000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "zamora-fc-b-bolivar-ZjoxNjQ3Mjc4OmU3ODNhN2FiY2I",
+      "title": "Zamora FC B vs Bol\u00edvar",
+      "homeTeam": "Zamora FC B",
+      "awayTeam": "Bol\u00edvar",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yODQxLnBuZzpjNzZhYzU5NDU0.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMTIzMS5wbmc6OWJkOTFjNjM5MQ.png",
+      "league": "Segunda Divisi\u00f3n",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzMwMC5wbmc6YmFmMzBjN2I1Ng.png",
       "matchTime": 1793214000000,
       "status": "notstarted",
       "streams": [],
