@@ -1,22 +1,22 @@
 {
-  "updatedAt": "2026-10-29T19:15:18.613933+00:00",
+  "updatedAt": "2026-10-29T23:19:09.627240+00:00",
   "matches": [
     {
-      "id": "frosinone-lecce-ZjoxNTUwMTcwOjM5M2Y3ZDEyNTM",
-      "title": "Frosinone vs Lecce",
-      "homeTeam": "Frosinone",
-      "awayTeam": "Lecce",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy81MTIucG5nOjI2MzBkMmYwM2I.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84NjcucG5nOjExZmJiOGExNDg.png",
+      "id": "atletico-mg-cruzeiro-ZjoxNDkyNDMwOjU1YzI5NzhjYzY",
+      "title": "Atletico-MG vs Cruzeiro",
+      "homeTeam": "Atletico-MG",
+      "awayTeam": "Cruzeiro",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMDYyLnBuZzpiNDk1YTMwMGZj.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMzUucG5nOjBjNWU5MDMxYWI.png",
       "league": "Serie A",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEzNS5wbmc6ZjIwN2I5MTM4Yw.png",
-      "matchTime": 1793295000000,
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzcxLnBuZzo4Y2U4N2FhZDMx.png",
+      "matchTime": 1793313000000,
       "status": "inprogress",
       "streams": [
         {
           "id": "stream-1",
           "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNTUwMTcwOjM5M2Y3ZDEyNTM&source=lola",
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNDkyNDMwOjU1YzI5NzhjYzY&source=lola",
           "source": "lola",
           "hd": true,
           "language": "Unknown"
@@ -24,29 +24,60 @@
         {
           "id": "stream-2",
           "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNTUwMTcwOjM5M2Y3ZDEyNTM&source=PPV",
-          "source": "PPV",
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNDkyNDMwOjU1YzI5NzhjYzY&source=STV",
+          "source": "STV",
           "hd": true,
           "language": "Unknown"
         },
         {
           "id": "stream-3",
           "streamNo": 3,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNTUwMTcwOjM5M2Y3ZDEyNTM&source=STV",
-          "source": "STV",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-4",
-          "streamNo": 4,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNTUwMTcwOjM5M2Y3ZDEyNTM&source=hdtv",
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNDkyNDMwOjU1YzI5NzhjYzY&source=hdtv",
           "source": "hdtv",
           "hd": true,
           "language": "Unknown"
         }
       ],
-      "streamCount": 4
+      "streamCount": 3
+    },
+    {
+      "id": "vasco-da-gama-flamengo-ZjoxNDkyNDM5OmYzOWQ3NmRkYzA",
+      "title": "Vasco DA Gama vs Flamengo",
+      "homeTeam": "Vasco DA Gama",
+      "awayTeam": "Flamengo",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMzMucG5nOmFiMTFjNGEyZDU.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMjcucG5nOjlmYzA2NTQzODA.png",
+      "league": "Serie A",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzcxLnBuZzo4Y2U4N2FhZDMx.png",
+      "matchTime": 1793314800000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNDkyNDM5OmYzOWQ3NmRkYzA&source=lola",
+          "source": "lola",
+          "hd": true,
+          "language": "Unknown"
+        },
+        {
+          "id": "stream-2",
+          "streamNo": 2,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNDkyNDM5OmYzOWQ3NmRkYzA&source=STV",
+          "source": "STV",
+          "hd": true,
+          "language": "Unknown"
+        },
+        {
+          "id": "stream-3",
+          "streamNo": 3,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNDkyNDM5OmYzOWQ3NmRkYzA&source=hdtv",
+          "source": "hdtv",
+          "hd": true,
+          "language": "Unknown"
+        }
+      ],
+      "streamCount": 3
     },
     {
       "id": "future-fc-al-ahly-ZjoxNjEyMjcxOjdkMWFhYzMwNzM",
@@ -100,7 +131,21 @@
       "league": "Premier League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzc2Mi5wbmc6YzU5ZWVjNGFiMQ.png",
       "matchTime": 1793303400000,
-      "status": "notstarted",
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "frosinone-lecce-ZjoxNTUwMTcwOjM5M2Y3ZDEyNTM",
+      "title": "Frosinone vs Lecce",
+      "homeTeam": "Frosinone",
+      "awayTeam": "Lecce",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy81MTIucG5nOjI2MzBkMmYwM2I.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84NjcucG5nOjExZmJiOGExNDg.png",
+      "league": "Serie A",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEzNS5wbmc6ZjIwN2I5MTM4Yw.png",
+      "matchTime": 1793295000000,
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -114,749 +159,9 @@
       "league": "Serie A",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEzNS5wbmc6ZjIwN2I5MTM4Yw.png",
       "matchTime": 1793303100000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
-    },
-    {
-      "id": "atletico-mg-cruzeiro-ZjoxNDkyNDMwOjU1YzI5NzhjYzY",
-      "title": "Atletico-MG vs Cruzeiro",
-      "homeTeam": "Atletico-MG",
-      "awayTeam": "Cruzeiro",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMDYyLnBuZzpiNDk1YTMwMGZj.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMzUucG5nOjBjNWU5MDMxYWI.png",
-      "league": "Serie A",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzcxLnBuZzo4Y2U4N2FhZDMx.png",
-      "matchTime": 1793313000000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "vasco-da-gama-flamengo-ZjoxNDkyNDM5OmYzOWQ3NmRkYzA",
-      "title": "Vasco DA Gama vs Flamengo",
-      "homeTeam": "Vasco DA Gama",
-      "awayTeam": "Flamengo",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMzMucG5nOmFiMTFjNGEyZDU.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMjcucG5nOjlmYzA2NTQzODA.png",
-      "league": "Serie A",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzcxLnBuZzo4Y2U4N2FhZDMx.png",
-      "matchTime": 1793314800000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "baltika-zenit-ZjoxNTYzNjY3OmQ1MjgyZGY4OWU",
-      "title": "Baltika vs Zenit",
-      "homeTeam": "Baltika",
-      "awayTeam": "Zenit",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMDA2LnBuZzpmMmFiNGM5NWE4.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy81OTYucG5nOjljOTk0MzVjYzA.png",
-      "league": "Cup",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzIzNy5wbmc6YzEyOTY2ZjhjNA.png",
-      "matchTime": 1793299500000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNTYzNjY3OmQ1MjgyZGY4OWU&source=lola",
-          "source": "lola",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNTYzNjY3OmQ1MjgyZGY4OWU&source=hdtv",
-          "source": "hdtv",
-          "hd": true,
-          "language": "Unknown"
-        }
-      ],
-      "streamCount": 2
-    },
-    {
-      "id": "al-nassr-al-kholood-ZjoxNjAzMDc2OjU2MjExODlkNzc",
-      "title": "Al-Nassr vs Al Kholood",
-      "homeTeam": "Al-Nassr",
-      "awayTeam": "Al Kholood",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yOTM5LnBuZzpjZTJhNDE4Njk2.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMDUwOS5wbmc6OTYyZDg4ZjJhOQ.png",
-      "league": "Pro League",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzMwNy5wbmc6MWUyNGQ5ZGI4NA.png",
-      "matchTime": 1793296800000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjAzMDc2OjU2MjExODlkNzc&source=lola",
-          "source": "lola",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjAzMDc2OjU2MjExODlkNzc&source=STV",
-          "source": "STV",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-3",
-          "streamNo": 3,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjAzMDc2OjU2MjExODlkNzc&source=hdtv",
-          "source": "hdtv",
-          "hd": true,
-          "language": "Unknown"
-        }
-      ],
-      "streamCount": 3
-    },
-    {
-      "id": "al-riyadh-al-qadisiyah-fc-ZjoxNjAzMDc3OmZjZDcyYmZkY2I",
-      "title": "Al Riyadh vs Al-Qadisiyah FC",
-      "homeTeam": "Al Riyadh",
-      "awayTeam": "Al-Qadisiyah FC",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMDUxMS5wbmc6YjVjZGM5ZWJhYw.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yOTMzLnBuZzoxOWM5YTk5Mjhh.png",
-      "league": "Pro League",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzMwNy5wbmc6MWUyNGQ5ZGI4NA.png",
-      "matchTime": 1793296800000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjAzMDc3OmZjZDcyYmZkY2I&source=lola",
-          "source": "lola",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjAzMDc3OmZjZDcyYmZkY2I&source=hdtv",
-          "source": "hdtv",
-          "hd": true,
-          "language": "Unknown"
-        }
-      ],
-      "streamCount": 2
-    },
-    {
-      "id": "japan-u17-w-kenya-u17-w-ZjoxNjQ3Mjc2OmI4ZDdmOWFiNjQ",
-      "title": "Japan U17 W vs Kenya U17 W",
-      "homeTeam": "Japan U17 W",
-      "awayTeam": "Kenya U17 W",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNTIyOC5wbmc6NTc4MzUzNjY4ZQ.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNDA5Ny5wbmc6NTljOTIwNTZmZA.png",
-      "league": "World Cup - U17 - Women",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzk1MC5wbmc6ZmE2ZWIxNzdhYw.png",
-      "matchTime": 1793296800000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjQ3Mjc2OmI4ZDdmOWFiNjQ&source=lola",
-          "source": "lola",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjQ3Mjc2OmI4ZDdmOWFiNjQ&source=hdtv",
-          "source": "hdtv",
-          "hd": true,
-          "language": "Unknown"
-        }
-      ],
-      "streamCount": 2
-    },
-    {
-      "id": "spain-u17-w-united-states-w-u17-ZjoxNjQ3Mjc3OmZmN2I0MzA4MWI",
-      "title": "Spain U17 W vs United States W U17",
-      "homeTeam": "Spain U17 W",
-      "awayTeam": "United States W U17",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNTIzMy5wbmc6MTAzOWZlZWUzYg.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xODk1NS5wbmc6ZGM0MjAzMGE0ZA.png",
-      "league": "World Cup - U17 - Women",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzk1MC5wbmc6ZmE2ZWIxNzdhYw.png",
-      "matchTime": 1793296800000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjQ3Mjc3OmZmN2I0MzA4MWI&source=lola",
-          "source": "lola",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjQ3Mjc3OmZmN2I0MzA4MWI&source=hdtv",
-          "source": "hdtv",
-          "hd": true,
-          "language": "Unknown"
-        }
-      ],
-      "streamCount": 2
-    },
-    {
-      "id": "arka-gdynia-stal-rzeszow-ZjoxNjQwNTU5OjJmYzczZDYwMDQ",
-      "title": "Arka Gdynia vs Stal Rzesz\u00f3w",
-      "homeTeam": "Arka Gdynia",
-      "awayTeam": "Stal Rzesz\u00f3w",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8zNDQucG5nOjMxNzQyN2U3MmY.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy82OTU3LnBuZzphZjU5NGJkYWM4.png",
-      "league": "Cup",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEwOC5wbmc6YzBkYWE5OTMwZg.png",
-      "matchTime": 1793296800000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjQwNTU5OjJmYzczZDYwMDQ&source=hdtv",
-          "source": "hdtv",
-          "hd": true,
-          "language": "Unknown"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "atletico-calatayud-osasuna-ZjoxNjQ0MzM5OmY0ZmZiNzk5ODQ",
-      "title": "Atletico Calatayud vs Osasuna",
-      "homeTeam": "Atletico Calatayud",
-      "awayTeam": "Osasuna",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNjcyNy5wbmc6YzU4N2Q4ZjQ4ZA.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy83MjcucG5nOjVkNjk2NjBhZmE.png",
-      "league": "Copa del Rey",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzE0My5wbmc6MjM4ODg1ODI5Mg.png",
-      "matchTime": 1793296800000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjQ0MzM5OmY0ZmZiNzk5ODQ&source=lola",
-          "source": "lola",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjQ0MzM5OmY0ZmZiNzk5ODQ&source=hdtv",
-          "source": "hdtv",
-          "hd": true,
-          "language": "Unknown"
-        }
-      ],
-      "streamCount": 2
-    },
-    {
-      "id": "lebrijana-getafe-ZjoxNjQ0MzU4OjQzOWQ2OWFkNzE",
-      "title": "Lebrijana vs Getafe",
-      "homeTeam": "Lebrijana",
-      "awayTeam": "Getafe",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy85NzYxLnBuZzpmODljNDk0ZTgx.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy81NDYucG5nOjZhYjQ3Y2U1NjI.png",
-      "league": "Copa del Rey",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzE0My5wbmc6MjM4ODg1ODI5Mg.png",
-      "matchTime": 1793296800000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjQ0MzU4OjQzOWQ2OWFkNzE&source=lola",
-          "source": "lola",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjQ0MzU4OjQzOWQ2OWFkNzE&source=STV",
-          "source": "STV",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-3",
-          "streamNo": 3,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjQ0MzU4OjQzOWQ2OWFkNzE&source=hdtv",
-          "source": "hdtv",
-          "hd": true,
-          "language": "Unknown"
-        }
-      ],
-      "streamCount": 3
-    },
-    {
-      "id": "hammarby-ff-sirius-ZjoxNDk0MzE4OjE5ZjE1NGI4ZmI",
-      "title": "Hammarby FF vs Sirius",
-      "homeTeam": "Hammarby FF",
-      "awayTeam": "Sirius",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8zNjMucG5nOmYxNzA3MjNjMDg.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8zNzAucG5nOjY2ZGFkOWQxNmM.png",
-      "league": "Allsvenskan",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzExMy5wbmc6YmJmMTMwNTRlOQ.png",
-      "matchTime": 1793295000000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNDk0MzE4OjE5ZjE1NGI4ZmI&source=lola",
-          "source": "lola",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNDk0MzE4OjE5ZjE1NGI4ZmI&source=PPV",
-          "source": "PPV",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-3",
-          "streamNo": 3,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNDk0MzE4OjE5ZjE1NGI4ZmI&source=hdtv",
-          "source": "hdtv",
-          "hd": true,
-          "language": "Unknown"
-        }
-      ],
-      "streamCount": 3
-    },
-    {
-      "id": "kalmar-ff-gais-ZjoxNDk0MzE5OmMzNjE3ZDMyYmY",
-      "title": "Kalmar FF vs Gais",
-      "homeTeam": "Kalmar FF",
-      "awayTeam": "Gais",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8zNzQucG5nOmQ2NDdjZGJhNTg.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMTcwLnBuZzplZGUyZTljNTlh.png",
-      "league": "Allsvenskan",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzExMy5wbmc6YmJmMTMwNTRlOQ.png",
-      "matchTime": 1793296800000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNDk0MzE5OmMzNjE3ZDMyYmY&source=lola",
-          "source": "lola",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNDk0MzE5OmMzNjE3ZDMyYmY&source=hdtv",
-          "source": "hdtv",
-          "hd": true,
-          "language": "Unknown"
-        }
-      ],
-      "streamCount": 2
-    },
-    {
-      "id": "orgryte-is-mjallby-aif-ZjoxNDk0MzIwOjc4MzMwNjc2ZTI",
-      "title": "Orgryte IS vs Mjallby AIF",
-      "homeTeam": "Orgryte IS",
-      "awayTeam": "Mjallby AIF",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMTY2LnBuZzoyYTRlZmYwODUy.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMjQwLnBuZzowMGI4MjA2YjVm.png",
-      "league": "Allsvenskan",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzExMy5wbmc6YmJmMTMwNTRlOQ.png",
-      "matchTime": 1793296800000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNDk0MzIwOjc4MzMwNjc2ZTI&source=lola",
-          "source": "lola",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNDk0MzIwOjc4MzMwNjc2ZTI&source=hdtv",
-          "source": "hdtv",
-          "hd": true,
-          "language": "Unknown"
-        }
-      ],
-      "streamCount": 2
-    },
-    {
-      "id": "egnatia-rrogozhine-teuta-durres-ZjoxNTkwMDgxOjE5OWUzOTc3Yjg",
-      "title": "Egnatia Rrogozhin\u00eb vs Teuta Durr\u00ebs",
-      "homeTeam": "Egnatia Rrogozhin\u00eb",
-      "awayTeam": "Teuta Durr\u00ebs",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8zMzI3LnBuZzo4MjUxNTgyYTk2.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8zMzIwLnBuZzoxNDg1NTI5ZTdi.png",
-      "league": "Superliga",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzMxMC5wbmc6ODMwMzY3ZDQ5MQ.png",
-      "matchTime": 1793295000000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNTkwMDgxOjE5OWUzOTc3Yjg&source=lola",
-          "source": "lola",
-          "hd": true,
-          "language": "Unknown"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "eskisehirspor-igdir-fk-ZjoxNjQ1NDI3Ojg0ZGYxNDIzMmQ",
-      "title": "Eski\u015fehirspor vs I\u011fd\u0131r FK",
-      "homeTeam": "Eski\u015fehirspor",
-      "awayTeam": "I\u011fd\u0131r FK",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8zNTcyLnBuZzphZGYzZjljZjIy.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNzI1OS5wbmc6OWRlMzk3YzNhMA.png",
-      "league": "T\u00fcrkiye Kupas\u0131",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzIwNi5wbmc6MTljZDVmMjg4MQ.png",
-      "matchTime": 1793295000000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjQ1NDI3Ojg0ZGYxNDIzMmQ&source=hdtv",
-          "source": "hdtv",
-          "hd": true,
-          "language": "Unknown"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "austria-wien-w-juventus-w-ZjoxNjM4Mjk0OjRhMTM4MmJjMDI",
-      "title": "Austria Wien W vs Juventus W",
-      "homeTeam": "Austria Wien W",
-      "awayTeam": "Juventus W",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNzU3NS5wbmc6ZjMzOWI4NzFmNQ.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xODg2LnBuZzpmYWJlZTNjMTUx.png",
-      "league": "UEFA Champions League Women",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzUyNS5wbmc6NTg2YjQ3ZDIzNQ.png",
-      "matchTime": 1793295900000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjM4Mjk0OjRhMTM4MmJjMDI&source=lola",
-          "source": "lola",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjM4Mjk0OjRhMTM4MmJjMDI&source=STV",
-          "source": "STV",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-3",
-          "streamNo": 3,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjM4Mjk0OjRhMTM4MmJjMDI&source=hdtv",
-          "source": "hdtv",
-          "hd": true,
-          "language": "Unknown"
-        }
-      ],
-      "streamCount": 3
-    },
-    {
-      "id": "paris-fc-w-hacken-w-ZjoxNjM4MzI1OmY1N2RkYjE2M2U",
-      "title": "Paris FC W vs H\u00e4cken W",
-      "homeTeam": "Paris FC W",
-      "awayTeam": "H\u00e4cken W",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNjc2LnBuZzpiMjBlNzNmZjJm.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNjQ4My5wbmc6MmMwZDhiZjVlMQ.png",
-      "league": "UEFA Champions League Women",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzUyNS5wbmc6NTg2YjQ3ZDIzNQ.png",
-      "matchTime": 1793295900000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjM4MzI1OmY1N2RkYjE2M2U&source=lola",
-          "source": "lola",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjM4MzI1OmY1N2RkYjE2M2U&source=hdtv",
-          "source": "hdtv",
-          "hd": true,
-          "language": "Unknown"
-        }
-      ],
-      "streamCount": 2
-    },
-    {
-      "id": "kozakken-boys-utrecht-ZjoxNjQxOTc4OjkzMGE3M2YzNzk",
-      "title": "Kozakken Boys vs Utrecht",
-      "homeTeam": "Kozakken Boys",
-      "awayTeam": "Utrecht",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMjQyLnBuZzo0YTkzNmJjZTM0.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMDcucG5nOjlkMWJmZTMxYTg.png",
-      "league": "KNVB Beker",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzkwLnBuZzpkZjVkNGE1NGQx.png",
-      "matchTime": 1793295900000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjQxOTc4OjkzMGE3M2YzNzk&source=hdtv",
-          "source": "hdtv",
-          "hd": true,
-          "language": "Unknown"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "de-treffers-heracles-ZjoxNjQxOTY3OjdiNzI0OGJjNjM",
-      "title": "De Treffers vs Heracles",
-      "homeTeam": "De Treffers",
-      "awayTeam": "Heracles",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMjc3LnBuZzplMjY5MGFlOGFh.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMDYucG5nOmU4YTA3MjJjNDc.png",
-      "league": "KNVB Beker",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzkwLnBuZzpkZjVkNGE1NGQx.png",
-      "matchTime": 1793300400000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjQxOTY3OjdiNzI0OGJjNjM&source=hdtv",
-          "source": "hdtv",
-          "hd": true,
-          "language": "Unknown"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "club-deportivo-los-chankas-cusco-ZjoxNTQ5NTMzOjBjY2U0ZDE2N2U",
-      "title": "Club Deportivo Los Chankas vs Cusco",
-      "homeTeam": "Club Deportivo Los Chankas",
-      "awayTeam": "Cusco",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNTcyLnBuZzowMDJkYmU1MGIw.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMDAxMy5wbmc6NzlmYzUzZGQ0MQ.png",
-      "league": "Primera Divisi\u00f3n",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI4MS5wbmc6NWI2OGQ5MjVmYQ.png",
-      "matchTime": 1793296800000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNTQ5NTMzOjBjY2U0ZDE2N2U&source=lola",
-          "source": "lola",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNTQ5NTMzOjBjY2U0ZDE2N2U&source=hdtv",
-          "source": "hdtv",
-          "hd": true,
-          "language": "Unknown"
-        }
-      ],
-      "streamCount": 2
-    },
-    {
-      "id": "barracas-central-res-gimnasia-la-plata-res-ZjoxNjEyMTI5OjBhMTU1NzEwMzM",
-      "title": "Barracas Central Res. vs Gimnasia La Plata Res.",
-      "homeTeam": "Barracas Central Res.",
-      "awayTeam": "Gimnasia La Plata Res.",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xODY4MC5wbmc6NmRiMGFhZDZjZA.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xODY4Ni5wbmc6OGIwNGRkYzdiMA.png",
-      "league": "Reserve League",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzkwNi5wbmc6MDNkOGM0ODMxMg.png",
-      "matchTime": 1793296800000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjEyMTI5OjBhMTU1NzEwMzM&source=lola",
-          "source": "lola",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjEyMTI5OjBhMTU1NzEwMzM&source=hdtv",
-          "source": "hdtv",
-          "hd": true,
-          "language": "Unknown"
-        }
-      ],
-      "streamCount": 2
-    },
-    {
-      "id": "szeged-2011-ujpest-ZjoxNjM5NzM1OjVkYjU1OWE4NmQ",
-      "title": "Szeged 2011 vs Ujpest",
-      "homeTeam": "Szeged 2011",
-      "awayTeam": "Ujpest",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNDE4LnBuZzoxMTRhMDU1Mjlh.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMjU1LnBuZzozNGU2MTVmZDdm.png",
-      "league": "Magyar Kupa",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI3My5wbmc6ZmQzNDEyNjliMw.png",
-      "matchTime": 1793296800000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjM5NzM1OjVkYjU1OWE4NmQ&source=hdtv",
-          "source": "hdtv",
-          "hd": true,
-          "language": "Unknown"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "maccabi-tel-aviv-hapoel-tel-aviv-ZjoxNjI5MDQzOjNmODY2Y2NkMjQ",
-      "title": "Maccabi Tel Aviv vs Hapoel Tel Aviv",
-      "homeTeam": "Maccabi Tel Aviv",
-      "awayTeam": "Hapoel Tel Aviv",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy82MDQucG5nOmFjMDE0ZTQ4MGQ.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy80NTAxLnBuZzpiNDk3MTRiNTcw.png",
-      "league": "Toto Cup Ligat Al",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzM4NS5wbmc6Njk1MDJkMGIxNg.png",
-      "matchTime": 1793298600000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjI5MDQzOjNmODY2Y2NkMjQ&source=hdtv",
-          "source": "hdtv",
-          "hd": true,
-          "language": "Unknown"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "fc-midtjylland-odense-ZjoxNjQwNDgwOjhjZDA3NjA1N2Q",
-      "title": "FC Midtjylland vs Odense",
-      "homeTeam": "FC Midtjylland",
-      "awayTeam": "Odense",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8zOTcucG5nOjJiYjc4M2U5MjU.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy80MDUucG5nOjUwOTIyMmRmZGI.png",
-      "league": "DBU Pokalen",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEyMS5wbmc6NTRmNjFjYzRiOA.png",
-      "matchTime": 1793298600000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjQwNDgwOjhjZDA3NjA1N2Q&source=hdtv",
-          "source": "hdtv",
-          "hd": true,
-          "language": "Unknown"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "sc-braga-famalicao-ZjoxNTg5NDM2OmVjYzBhNDhlZTE",
-      "title": "SC Braga vs Famalicao",
-      "homeTeam": "SC Braga",
-      "awayTeam": "Famalicao",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMTcucG5nOjgzMjM1NmE4YTE.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNDIucG5nOjgyODZjNTEwMmI.png",
-      "league": "Ta\u00e7a da Liga",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzk3LnBuZzo5M2MwOTExZTE1.png",
-      "matchTime": 1793299500000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNTg5NDM2OmVjYzBhNDhlZTE&source=lola",
-          "source": "lola",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNTg5NDM2OmVjYzBhNDhlZTE&source=STV",
-          "source": "STV",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-3",
-          "streamNo": 3,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNTg5NDM2OmVjYzBhNDhlZTE&source=hdtv",
-          "source": "hdtv",
-          "hd": true,
-          "language": "Unknown"
-        }
-      ],
-      "streamCount": 3
-    },
-    {
-      "id": "envigado-ind-yumbo-ZjoxNjQ3NDQyOmQ4ZTRhNTU3YzU",
-      "title": "Envigado vs Ind. Yumbo",
-      "homeTeam": "Envigado",
-      "awayTeam": "Ind. Yumbo",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMTI5LnBuZzpjZTc1YTk5OTA2.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNzQxMS5wbmc6Nzg2MGU4MmZhZQ.png",
-      "league": "Primera B",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI0MC5wbmc6NGMyZmVmYTNjZA.png",
-      "matchTime": 1793300400000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjQ3NDQyOmQ4ZTRhNTU3YzU&source=lola",
-          "source": "lola",
-          "hd": true,
-          "language": "Unknown"
-        }
-      ],
-      "streamCount": 1
     },
     {
       "id": "krylia-sovetov-dinamo-makhachkala-ZjoxNTYzNjcyOmM4YWU3ZjBmNWQ",
@@ -887,6 +192,20 @@
       "streamCount": 0
     },
     {
+      "id": "baltika-zenit-ZjoxNTYzNjY3OmQ1MjgyZGY4OWU",
+      "title": "Baltika vs Zenit",
+      "homeTeam": "Baltika",
+      "awayTeam": "Zenit",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMDA2LnBuZzpmMmFiNGM5NWE4.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy81OTYucG5nOjljOTk0MzVjYzA.png",
+      "league": "Cup",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzIzNy5wbmc6YzEyOTY2ZjhjNA.png",
+      "matchTime": 1793299500000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "al-khaleej-saihat-al-hazm-ZjoxNjAzMDc1OjZhNTg3NzI2NmM",
       "title": "Al Khaleej Saihat vs Al-Hazm",
       "homeTeam": "Al Khaleej Saihat",
@@ -896,6 +215,34 @@
       "league": "Pro League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzMwNy5wbmc6MWUyNGQ5ZGI4NA.png",
       "matchTime": 1793284500000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "al-nassr-al-kholood-ZjoxNjAzMDc2OjU2MjExODlkNzc",
+      "title": "Al-Nassr vs Al Kholood",
+      "homeTeam": "Al-Nassr",
+      "awayTeam": "Al Kholood",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yOTM5LnBuZzpjZTJhNDE4Njk2.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMDUwOS5wbmc6OTYyZDg4ZjJhOQ.png",
+      "league": "Pro League",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzMwNy5wbmc6MWUyNGQ5ZGI4NA.png",
+      "matchTime": 1793296800000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "al-riyadh-al-qadisiyah-fc-ZjoxNjAzMDc3OmZjZDcyYmZkY2I",
+      "title": "Al Riyadh vs Al-Qadisiyah FC",
+      "homeTeam": "Al Riyadh",
+      "awayTeam": "Al-Qadisiyah FC",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMDUxMS5wbmc6YjVjZGM5ZWJhYw.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yOTMzLnBuZzoxOWM5YTk5Mjhh.png",
+      "league": "Pro League",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzMwNy5wbmc6MWUyNGQ5ZGI4NA.png",
+      "matchTime": 1793296800000,
       "status": "finished",
       "streams": [],
       "streamCount": 0
@@ -938,7 +285,7 @@
       "league": "Cupa Rom\u00e2niei",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI4NS5wbmc6NDA4ZTUzZjkyNA.png",
       "matchTime": 1793302200000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -985,6 +332,34 @@
       "streamCount": 0
     },
     {
+      "id": "japan-u17-w-kenya-u17-w-ZjoxNjQ3Mjc2OmI4ZDdmOWFiNjQ",
+      "title": "Japan U17 W vs Kenya U17 W",
+      "homeTeam": "Japan U17 W",
+      "awayTeam": "Kenya U17 W",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNTIyOC5wbmc6NTc4MzUzNjY4ZQ.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNDA5Ny5wbmc6NTljOTIwNTZmZA.png",
+      "league": "World Cup - U17 - Women",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzk1MC5wbmc6ZmE2ZWIxNzdhYw.png",
+      "matchTime": 1793296800000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "spain-u17-w-united-states-w-u17-ZjoxNjQ3Mjc3OmZmN2I0MzA4MWI",
+      "title": "Spain U17 W vs United States W U17",
+      "homeTeam": "Spain U17 W",
+      "awayTeam": "United States W U17",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNTIzMy5wbmc6MTAzOWZlZWUzYg.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xODk1NS5wbmc6ZGM0MjAzMGE0ZA.png",
+      "league": "World Cup - U17 - Women",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzk1MC5wbmc6ZmE2ZWIxNzdhYw.png",
+      "matchTime": 1793296800000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "smail-bidiyah-club-ZjoxNjQyMTU5OjljODJlYjgxMDM",
       "title": "Smail vs Bidiyah Club",
       "homeTeam": "Smail",
@@ -994,7 +369,7 @@
       "league": "Sultan Cup",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzcyNi5wbmc6OTVmYzE5ZDFkMg.png",
       "matchTime": 1793288700000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -1139,6 +514,20 @@
       "streamCount": 0
     },
     {
+      "id": "arka-gdynia-stal-rzeszow-ZjoxNjQwNTU5OjJmYzczZDYwMDQ",
+      "title": "Arka Gdynia vs Stal Rzesz\u00f3w",
+      "homeTeam": "Arka Gdynia",
+      "awayTeam": "Stal Rzesz\u00f3w",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8zNDQucG5nOjMxNzQyN2U3MmY.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy82OTU3LnBuZzphZjU5NGJkYWM4.png",
+      "league": "Cup",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEwOC5wbmc6YzBkYWE5OTMwZg.png",
+      "matchTime": 1793296800000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "odra-opole-slask-wroclaw-ZjoxNjQwNTY2OjM5ZmUwYmRmMDg",
       "title": "Odra Opole vs Slask Wroclaw",
       "homeTeam": "Odra Opole",
@@ -1148,7 +537,7 @@
       "league": "Cup",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEwOC5wbmc6YzBkYWE5OTMwZg.png",
       "matchTime": 1793302200000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -1223,6 +612,76 @@
       "streamCount": 0
     },
     {
+      "id": "atletico-calatayud-osasuna-ZjoxNjQ0MzM5OmY0ZmZiNzk5ODQ",
+      "title": "Atletico Calatayud vs Osasuna",
+      "homeTeam": "Atletico Calatayud",
+      "awayTeam": "Osasuna",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNjcyNy5wbmc6YzU4N2Q4ZjQ4ZA.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy83MjcucG5nOjVkNjk2NjBhZmE.png",
+      "league": "Copa del Rey",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzE0My5wbmc6MjM4ODg1ODI5Mg.png",
+      "matchTime": 1793296800000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "lebrijana-getafe-ZjoxNjQ0MzU4OjQzOWQ2OWFkNzE",
+      "title": "Lebrijana vs Getafe",
+      "homeTeam": "Lebrijana",
+      "awayTeam": "Getafe",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy85NzYxLnBuZzpmODljNDk0ZTgx.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy81NDYucG5nOjZhYjQ3Y2U1NjI.png",
+      "league": "Copa del Rey",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzE0My5wbmc6MjM4ODg1ODI5Mg.png",
+      "matchTime": 1793296800000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "antequera-aguilas-ZjoxNjQ0MzM3OjRiNGY3ZjZmZjQ",
+      "title": "Antequera vs \u00c1guilas",
+      "homeTeam": "Antequera",
+      "awayTeam": "\u00c1guilas",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy85NzQyLnBuZzo5ZTI3ZGMzNWVi.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy85ODIzLnBuZzpjZmZhNzRkMmEx.png",
+      "league": "Copa del Rey",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzE0My5wbmc6MjM4ODg1ODI5Mg.png",
+      "matchTime": 1793300400000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "conquense-castellon-ZjoxNjQ0MzQ5OmE2ZDRhYTcwMzY",
+      "title": "Conquense vs Castell\u00f3n",
+      "homeTeam": "Conquense",
+      "awayTeam": "Castell\u00f3n",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy81MjU3LnBuZzpjMWE5M2ExZWJm.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy81MjU0LnBuZzpiMWQ3OTI3Yzcw.png",
+      "league": "Copa del Rey",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzE0My5wbmc6MjM4ODg1ODI5Mg.png",
+      "matchTime": 1793300400000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "gimnastica-torrelavega-ud-ourense-ZjoxNjQ0MzgxOmI3ZDQ5ZWYxZmI",
+      "title": "Gimn\u00e1stica Torrelavega vs UD Ourense",
+      "homeTeam": "Gimn\u00e1stica Torrelavega",
+      "awayTeam": "UD Ourense",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy81MjY0LnBuZzo0MTM0NjMyODY4.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy85NjE3LnBuZzo3NTQ2ZTc2NWU5.png",
+      "league": "Copa del Rey",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzE0My5wbmc6MjM4ODg1ODI5Mg.png",
+      "matchTime": 1793302200000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "auriense-deportivo-la-coruna-ZjoxNjQ0MzQyOjYzZjc2OGIwZDQ",
       "title": "Auriense vs Deportivo La Coruna",
       "homeTeam": "Auriense",
@@ -1232,7 +691,7 @@
       "league": "Copa del Rey",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzE0My5wbmc6MjM4ODg1ODI5Mg.png",
       "matchTime": 1793304000000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -1246,7 +705,21 @@
       "league": "Copa del Rey",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzE0My5wbmc6MjM4ODg1ODI5Mg.png",
       "matchTime": 1793304000000,
-      "status": "notstarted",
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "xerez-cadiz-ZjoxNjQ0Mzg2OjU1NGE5NDQyYmI",
+      "title": "Xerez vs Cadiz",
+      "homeTeam": "Xerez",
+      "awayTeam": "Cadiz",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy85NzcwLnBuZzpiYTAxNTE4N2M4.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy83MjQucG5nOjVhMzk0NjRhMGM.png",
+      "league": "Copa del Rey",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzE0My5wbmc6MjM4ODg1ODI5Mg.png",
+      "matchTime": 1793304000000,
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -1260,7 +733,7 @@
       "league": "Copa del Rey",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzE0My5wbmc6MjM4ODg1ODI5Mg.png",
       "matchTime": 1793304000000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -1274,7 +747,105 @@
       "league": "Copa del Rey",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzE0My5wbmc6MjM4ODg1ODI5Mg.png",
       "matchTime": 1793304000000,
-      "status": "notstarted",
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "hammarby-ff-sirius-ZjoxNDk0MzE4OjE5ZjE1NGI4ZmI",
+      "title": "Hammarby FF vs Sirius",
+      "homeTeam": "Hammarby FF",
+      "awayTeam": "Sirius",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8zNjMucG5nOmYxNzA3MjNjMDg.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8zNzAucG5nOjY2ZGFkOWQxNmM.png",
+      "league": "Allsvenskan",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzExMy5wbmc6YmJmMTMwNTRlOQ.png",
+      "matchTime": 1793295000000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "kalmar-ff-gais-ZjoxNDk0MzE5OmMzNjE3ZDMyYmY",
+      "title": "Kalmar FF vs Gais",
+      "homeTeam": "Kalmar FF",
+      "awayTeam": "Gais",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8zNzQucG5nOmQ2NDdjZGJhNTg.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMTcwLnBuZzplZGUyZTljNTlh.png",
+      "league": "Allsvenskan",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzExMy5wbmc6YmJmMTMwNTRlOQ.png",
+      "matchTime": 1793296800000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "orgryte-is-mjallby-aif-ZjoxNDk0MzIwOjc4MzMwNjc2ZTI",
+      "title": "Orgryte IS vs Mjallby AIF",
+      "homeTeam": "Orgryte IS",
+      "awayTeam": "Mjallby AIF",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMTY2LnBuZzoyYTRlZmYwODUy.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMjQwLnBuZzowMGI4MjA2YjVm.png",
+      "league": "Allsvenskan",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzExMy5wbmc6YmJmMTMwNTRlOQ.png",
+      "matchTime": 1793296800000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "egnatia-rrogozhine-teuta-durres-ZjoxNTkwMDgxOjE5OWUzOTc3Yjg",
+      "title": "Egnatia Rrogozhin\u00eb vs Teuta Durr\u00ebs",
+      "homeTeam": "Egnatia Rrogozhin\u00eb",
+      "awayTeam": "Teuta Durr\u00ebs",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8zMzI3LnBuZzo4MjUxNTgyYTk2.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8zMzIwLnBuZzoxNDg1NTI5ZTdi.png",
+      "league": "Superliga",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzMxMC5wbmc6ODMwMzY3ZDQ5MQ.png",
+      "matchTime": 1793295000000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "eskisehirspor-igdir-fk-ZjoxNjQ1NDI3Ojg0ZGYxNDIzMmQ",
+      "title": "Eski\u015fehirspor vs I\u011fd\u0131r FK",
+      "homeTeam": "Eski\u015fehirspor",
+      "awayTeam": "I\u011fd\u0131r FK",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8zNTcyLnBuZzphZGYzZjljZjIy.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNzI1OS5wbmc6OWRlMzk3YzNhMA.png",
+      "league": "T\u00fcrkiye Kupas\u0131",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzIwNi5wbmc6MTljZDVmMjg4MQ.png",
+      "matchTime": 1793295000000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "austria-wien-w-juventus-w-ZjoxNjM4Mjk0OjRhMTM4MmJjMDI",
+      "title": "Austria Wien W vs Juventus W",
+      "homeTeam": "Austria Wien W",
+      "awayTeam": "Juventus W",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNzU3NS5wbmc6ZjMzOWI4NzFmNQ.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xODg2LnBuZzpmYWJlZTNjMTUx.png",
+      "league": "UEFA Champions League Women",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzUyNS5wbmc6NTg2YjQ3ZDIzNQ.png",
+      "matchTime": 1793295900000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "paris-fc-w-hacken-w-ZjoxNjM4MzI1OmY1N2RkYjE2M2U",
+      "title": "Paris FC W vs H\u00e4cken W",
+      "homeTeam": "Paris FC W",
+      "awayTeam": "H\u00e4cken W",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNjc2LnBuZzpiMjBlNzNmZjJm.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNjQ4My5wbmc6MmMwZDhiZjVlMQ.png",
+      "league": "UEFA Champions League Women",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzUyNS5wbmc6NTg2YjQ3ZDIzNQ.png",
+      "matchTime": 1793295900000,
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -1288,7 +859,7 @@
       "league": "UEFA Champions League Women",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzUyNS5wbmc6NTg2YjQ3ZDIzNQ.png",
       "matchTime": 1793304000000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -1302,7 +873,35 @@
       "league": "UEFA Champions League Women",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzUyNS5wbmc6NTg2YjQ3ZDIzNQ.png",
       "matchTime": 1793304000000,
-      "status": "notstarted",
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "kozakken-boys-utrecht-ZjoxNjQxOTc4OjkzMGE3M2YzNzk",
+      "title": "Kozakken Boys vs Utrecht",
+      "homeTeam": "Kozakken Boys",
+      "awayTeam": "Utrecht",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMjQyLnBuZzo0YTkzNmJjZTM0.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMDcucG5nOjlkMWJmZTMxYTg.png",
+      "league": "KNVB Beker",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzkwLnBuZzpkZjVkNGE1NGQx.png",
+      "matchTime": 1793295900000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "de-treffers-heracles-ZjoxNjQxOTY3OjdiNzI0OGJjNjM",
+      "title": "De Treffers vs Heracles",
+      "homeTeam": "De Treffers",
+      "awayTeam": "Heracles",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMjc3LnBuZzplMjY5MGFlOGFh.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMDYucG5nOmU4YTA3MjJjNDc.png",
+      "league": "KNVB Beker",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzkwLnBuZzpkZjVkNGE1NGQx.png",
+      "matchTime": 1793300400000,
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -1316,7 +915,21 @@
       "league": "KNVB Beker",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzkwLnBuZzpkZjVkNGE1NGQx.png",
       "matchTime": 1793304000000,
-      "status": "notstarted",
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "club-deportivo-los-chankas-cusco-ZjoxNTQ5NTMzOjBjY2U0ZDE2N2U",
+      "title": "Club Deportivo Los Chankas vs Cusco",
+      "homeTeam": "Club Deportivo Los Chankas",
+      "awayTeam": "Cusco",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNTcyLnBuZzowMDJkYmU1MGIw.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMDAxMy5wbmc6NzlmYzUzZGQ0MQ.png",
+      "league": "Primera Divisi\u00f3n",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI4MS5wbmc6NWI2OGQ5MjVmYQ.png",
+      "matchTime": 1793296800000,
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -1330,7 +943,77 @@
       "league": "Primera Divisi\u00f3n",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI4MS5wbmc6NWI2OGQ5MjVmYQ.png",
       "matchTime": 1793305800000,
-      "status": "notstarted",
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "barracas-central-res-gimnasia-la-plata-res-ZjoxNjEyMTI5OjBhMTU1NzEwMzM",
+      "title": "Barracas Central Res. vs Gimnasia La Plata Res.",
+      "homeTeam": "Barracas Central Res.",
+      "awayTeam": "Gimnasia La Plata Res.",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xODY4MC5wbmc6NmRiMGFhZDZjZA.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xODY4Ni5wbmc6OGIwNGRkYzdiMA.png",
+      "league": "Reserve League",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzkwNi5wbmc6MDNkOGM0ODMxMg.png",
+      "matchTime": 1793296800000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "szeged-2011-ujpest-ZjoxNjM5NzM1OjVkYjU1OWE4NmQ",
+      "title": "Szeged 2011 vs Ujpest",
+      "homeTeam": "Szeged 2011",
+      "awayTeam": "Ujpest",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNDE4LnBuZzoxMTRhMDU1Mjlh.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMjU1LnBuZzozNGU2MTVmZDdm.png",
+      "league": "Magyar Kupa",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI3My5wbmc6ZmQzNDEyNjliMw.png",
+      "matchTime": 1793296800000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "maccabi-tel-aviv-hapoel-tel-aviv-ZjoxNjI5MDQzOjNmODY2Y2NkMjQ",
+      "title": "Maccabi Tel Aviv vs Hapoel Tel Aviv",
+      "homeTeam": "Maccabi Tel Aviv",
+      "awayTeam": "Hapoel Tel Aviv",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy82MDQucG5nOmFjMDE0ZTQ4MGQ.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy80NTAxLnBuZzpiNDk3MTRiNTcw.png",
+      "league": "Toto Cup Ligat Al",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzM4NS5wbmc6Njk1MDJkMGIxNg.png",
+      "matchTime": 1793298600000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "fc-midtjylland-odense-ZjoxNjQwNDgwOjhjZDA3NjA1N2Q",
+      "title": "FC Midtjylland vs Odense",
+      "homeTeam": "FC Midtjylland",
+      "awayTeam": "Odense",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8zOTcucG5nOjJiYjc4M2U5MjU.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy80MDUucG5nOjUwOTIyMmRmZGI.png",
+      "league": "DBU Pokalen",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEyMS5wbmc6NTRmNjFjYzRiOA.png",
+      "matchTime": 1793298600000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "sc-braga-famalicao-ZjoxNTg5NDM2OmVjYzBhNDhlZTE",
+      "title": "SC Braga vs Famalicao",
+      "homeTeam": "SC Braga",
+      "awayTeam": "Famalicao",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMTcucG5nOjgzMjM1NmE4YTE.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNDIucG5nOjgyODZjNTEwMmI.png",
+      "league": "Ta\u00e7a da Liga",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzk3LnBuZzo5M2MwOTExZTE1.png",
+      "matchTime": 1793299500000,
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -1344,7 +1027,21 @@
       "league": "Ta\u00e7a da Liga",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzk3LnBuZzo5M2MwOTExZTE1.png",
       "matchTime": 1793306700000,
-      "status": "notstarted",
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "envigado-ind-yumbo-ZjoxNjQ3NDQyOmQ4ZTRhNTU3YzU",
+      "title": "Envigado vs Ind. Yumbo",
+      "homeTeam": "Envigado",
+      "awayTeam": "Ind. Yumbo",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMTI5LnBuZzpjZTc1YTk5OTA2.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNzQxMS5wbmc6Nzg2MGU4MmZhZQ.png",
+      "league": "Primera B",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI0MC5wbmc6NGMyZmVmYTNjZA.png",
+      "matchTime": 1793300400000,
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -1358,7 +1055,7 @@
       "league": "Primera B",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI0MC5wbmc6NGMyZmVmYTNjZA.png",
       "matchTime": 1793307600000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -1372,7 +1069,7 @@
       "league": "Ligue 3",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzYzLnBuZzpiZmQwOWIxNTQ2.png",
       "matchTime": 1793303100000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -1386,7 +1083,7 @@
       "league": "League Cup",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzQ4LnBuZzpjODk4M2E2YTM4.png",
       "matchTime": 1793303100000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -1413,6 +1110,20 @@
       "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMTQ3LnBuZzplMzZmNmRkZjdl.png",
       "league": "Primera A",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzIzOS5wbmc6MzIwYjVlYzgxYQ.png",
+      "matchTime": 1793316600000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "wanderers-durazno-danubio-ZjoxNjQ3MjAwOjc1OGNlYmNkZWE",
+      "title": "Wanderers Durazno vs Danubio",
+      "homeTeam": "Wanderers Durazno",
+      "awayTeam": "Danubio",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMjIyOS5wbmc6Mzg4MzU4MDQ5OA.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMzUyLnBuZzo1MTAyYzZmYzlm.png",
+      "league": "Copa Uruguay",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzkzMC5wbmc6YzNkYTNjNWU5Mg.png",
       "matchTime": 1793316600000,
       "status": "notstarted",
       "streams": [],
