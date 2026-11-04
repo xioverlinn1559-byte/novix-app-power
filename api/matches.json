@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T02:17:30.557642+00:00",
+  "updatedAt": "2026-11-04T09:34:52.275698+00:00",
   "matches": [
     {
       "id": "internacional-coritiba-ZjoxNDkyNDQ2OmIyY2E2MmRlNDY",
@@ -11,34 +11,9 @@
       "league": "Serie A",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzcxLnBuZzo4Y2U4N2FhZDMx.png",
       "matchTime": 1793752200000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNDkyNDQ2OmIyY2E2MmRlNDY&source=lola",
-          "source": "lola",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNDkyNDQ2OmIyY2E2MmRlNDY&source=STV",
-          "source": "STV",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-3",
-          "streamNo": 3,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNDkyNDQ2OmIyY2E2MmRlNDY&source=hdtv",
-          "source": "hdtv",
-          "hd": true,
-          "language": "Unknown"
-        }
-      ],
-      "streamCount": 3
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
     },
     {
       "id": "atletico-paranaense-vasco-da-gama-ZjoxNDkyNDQwOjViODIwMzhkODQ",
@@ -209,6 +184,199 @@
       "streamCount": 0
     },
     {
+      "id": "melbourne-victory-persib-bandung-ZjoxNjM3NDk0OmIzNGFmMDFmZDM",
+      "title": "Melbourne Victory vs Persib Bandung",
+      "homeTeam": "Melbourne Victory",
+      "awayTeam": "Persib Bandung",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy85NDQucG5nOjQwYjcyZjgwMGQ.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNDQ1LnBuZzo2Yzc4ZjNmZTA0.png",
+      "league": "AFC Champions League Two",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzE4LnBuZzo1ZDQ5NDczZmRl.png",
+      "matchTime": 1793778300000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNjM3NDk0OmIzNGFmMDFmZDM&source=lola",
+          "source": "lola",
+          "hd": true,
+          "language": "Unknown"
+        },
+        {
+          "id": "stream-2",
+          "streamNo": 2,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNjM3NDk0OmIzNGFmMDFmZDM&source=hdtv",
+          "source": "hdtv",
+          "hd": true,
+          "language": "Unknown"
+        }
+      ],
+      "streamCount": 2
+    },
+    {
+      "id": "enisey-nizhny-novgorod-ZjoxNjQ2MTc3OjA2ZmMwYzQ4NDc",
+      "title": "Enisey vs Nizhny Novgorod",
+      "homeTeam": "Enisey",
+      "awayTeam": "Nizhny Novgorod",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMDg5LnBuZzoxZWM2ZDdkODk1.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMDExLnBuZzo1NTI2N2I1NzRi.png",
+      "league": "Cup",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzIzNy5wbmc6YzEyOTY2ZjhjNA.png",
+      "matchTime": 1793779200000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNjQ2MTc3OjA2ZmMwYzQ4NDc&source=lola",
+          "source": "lola",
+          "hd": true,
+          "language": "Unknown"
+        },
+        {
+          "id": "stream-2",
+          "streamNo": 2,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNjQ2MTc3OjA2ZmMwYzQ4NDc&source=hdtv",
+          "source": "hdtv",
+          "hd": true,
+          "language": "Unknown"
+        }
+      ],
+      "streamCount": 2
+    },
+    {
+      "id": "april-w-h-chi-minh-city-w-ZjoxNjM4MjI2OjVkYzhkYmY5Njk",
+      "title": "April W vs H\u1ed3 Ch\u00ed Minh City W",
+      "homeTeam": "April W",
+      "awayTeam": "H\u1ed3 Ch\u00ed Minh City W",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNzkxMy5wbmc6NzZjMmY1N2QzYg.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNDg5Ny5wbmc6YzM5MjBiMDY5Mw.png",
+      "league": "AFC Women's Champions League",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzExNDAucG5nOjY3NDEyZDE4YTA.png",
+      "matchTime": 1793781000000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNjM4MjI2OjVkYzhkYmY5Njk&source=lola",
+          "source": "lola",
+          "hd": true,
+          "language": "Unknown"
+        },
+        {
+          "id": "stream-2",
+          "streamNo": 2,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNjM4MjI2OjVkYzhkYmY5Njk&source=hdtv",
+          "source": "hdtv",
+          "hd": true,
+          "language": "Unknown"
+        }
+      ],
+      "streamCount": 2
+    },
+    {
+      "id": "bam-khatoon-w-naegohyang-w-ZjoxNjM4MjI4OjMwMGYyZGM1ZDI",
+      "title": "Bam Khatoon W vs Naegohyang W",
+      "homeTeam": "Bam Khatoon W",
+      "awayTeam": "Naegohyang W",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNDg4Ny5wbmc6MjAyMjhhM2UyNg.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNjQ2NC5wbmc6MjU1OWRiZDBkYQ.png",
+      "league": "AFC Women's Champions League",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzExNDAucG5nOjY3NDEyZDE4YTA.png",
+      "matchTime": 1793781000000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNjM4MjI4OjMwMGYyZGM1ZDI&source=lola",
+          "source": "lola",
+          "hd": true,
+          "language": "Unknown"
+        },
+        {
+          "id": "stream-2",
+          "streamNo": 2,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNjM4MjI4OjMwMGYyZGM1ZDI&source=hdtv",
+          "source": "hdtv",
+          "hd": true,
+          "language": "Unknown"
+        }
+      ],
+      "streamCount": 2
+    },
+    {
+      "id": "pss-sleman-psgc-ciamis-ZjoxNjQ4Mzc1OmY0NGM5ODZjYzA",
+      "title": "PSS Sleman vs PSGC Ciamis",
+      "homeTeam": "PSS Sleman",
+      "awayTeam": "PSGC Ciamis",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8zODgyLnBuZzoxMGRmYmI3NDRl.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy80MjM0LnBuZzoxNGIyOGM3OGIw.png",
+      "league": "League Cup Indonesia",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEyNTAucG5nOjJjODYwMDk2MWI.png",
+      "matchTime": 1793781000000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNjQ4Mzc1OmY0NGM5ODZjYzA&source=lola",
+          "source": "lola",
+          "hd": true,
+          "language": "Unknown"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
+      "id": "java-united-bekasi-city-ZjoxNjQ4MzcxOjk0NzQ2Y2I4ODM",
+      "title": "Java United vs Bekasi City",
+      "homeTeam": "Java United",
+      "awayTeam": "Bekasi City",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMjQwOS5wbmc6NjI5MTJhNzMyNw.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMTEzMy5wbmc6OTA1Y2NiY2VhNw.png",
+      "league": "League Cup Indonesia",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEyNTAucG5nOjJjODYwMDk2MWI.png",
+      "matchTime": 1793782800000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNjQ4MzcxOjk0NzQ2Y2I4ODM&source=lola",
+          "source": "lola",
+          "hd": true,
+          "language": "Unknown"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
+      "id": "persikad-depok-fc-persiku-kudus-ZjoxNjQ4MzcyOjEyNDZmMTcwYzQ",
+      "title": "Persikad Depok FC vs Persiku Kudus",
+      "homeTeam": "Persikad Depok FC",
+      "awayTeam": "Persiku Kudus",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNjY0Ni5wbmc6YzU5MjQzMTE3ZQ.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNDk5Ny5wbmc6ZWQwNTZlZjNlYQ.png",
+      "league": "League Cup Indonesia",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEyNTAucG5nOjJjODYwMDk2MWI.png",
+      "matchTime": 1793782800000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNjQ4MzcyOjEyNDZmMTcwYzQ&source=lola",
+          "source": "lola",
+          "hd": true,
+          "language": "Unknown"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
       "id": "alianza-lima-cienciano-ZjoxNTQ5NTM3OjU5YTUyNmQ4MmI",
       "title": "Alianza Lima vs Cienciano",
       "homeTeam": "Alianza Lima",
@@ -218,26 +386,9 @@
       "league": "Primera Divisi\u00f3n",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI4MS5wbmc6NWI2OGQ5MjVmYQ.png",
       "matchTime": 1793754000000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNTQ5NTM3OjU5YTUyNmQ4MmI&source=lola",
-          "source": "lola",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNTQ5NTM3OjU5YTUyNmQ4MmI&source=hdtv",
-          "source": "hdtv",
-          "hd": true,
-          "language": "Unknown"
-        }
-      ],
-      "streamCount": 2
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
     },
     {
       "id": "real-cartagena-quindio-ZjoxNjQ3NDQ1OjJlZjE1MGM0NGM",
@@ -249,26 +400,9 @@
       "league": "Primera B",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI0MC5wbmc6NGMyZmVmYTNjZA.png",
       "matchTime": 1793755800000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjQ3NDQ1OjJlZjE1MGM0NGM&source=lola",
-          "source": "lola",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjQ3NDQ1OjJlZjE1MGM0NGM&source=hdtv",
-          "source": "hdtv",
-          "hd": true,
-          "language": "Unknown"
-        }
-      ],
-      "streamCount": 2
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
     },
     {
       "id": "osaka-roasso-kumamoto-ZjoxNTU1Nzg3OjZkMWUyMmUxODQ",
@@ -280,7 +414,7 @@
       "league": "J3 League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEwMC5wbmc6Mjc1NGUwMjhmZg.png",
       "matchTime": 1793768400000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -294,7 +428,7 @@
       "league": "PFL",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzc2NS5wbmc6YWVkMjM0N2JmMg.png",
       "matchTime": 1793775600000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -322,20 +456,6 @@
       "league": "PFL",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzc2NS5wbmc6YWVkMjM0N2JmMg.png",
       "matchTime": 1793795400000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "melbourne-victory-persib-bandung-ZjoxNjM3NDk0OmIzNGFmMDFmZDM",
-      "title": "Melbourne Victory vs Persib Bandung",
-      "homeTeam": "Melbourne Victory",
-      "awayTeam": "Persib Bandung",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy85NDQucG5nOjQwYjcyZjgwMGQ.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNDQ1LnBuZzo2Yzc4ZjNmZTA0.png",
-      "league": "AFC Champions League Two",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzE4LnBuZzo1ZDQ5NDczZmRl.png",
-      "matchTime": 1793778300000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
@@ -439,20 +559,6 @@
       "streamCount": 0
     },
     {
-      "id": "enisey-nizhny-novgorod-ZjoxNjQ2MTc3OjA2ZmMwYzQ4NDc",
-      "title": "Enisey vs Nizhny Novgorod",
-      "homeTeam": "Enisey",
-      "awayTeam": "Nizhny Novgorod",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMDg5LnBuZzoxZWM2ZDdkODk1.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMDExLnBuZzo1NTI2N2I1NzRi.png",
-      "league": "Cup",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzIzNy5wbmc6YzEyOTY2ZjhjNA.png",
-      "matchTime": 1793779200000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
       "id": "leningradets-ska-khabarovsk-ZjoxNjQ2MTc0OjZhMDZjNDhkNWY",
       "title": "Leningradets vs Ska-khabarovsk",
       "homeTeam": "Leningradets",
@@ -476,35 +582,7 @@
       "league": "Druha Liga",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzMzNi5wbmc6ZjQxZWM3ZGY2OA.png",
       "matchTime": 1793781000000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "april-w-h-chi-minh-city-w-ZjoxNjM4MjI2OjVkYzhkYmY5Njk",
-      "title": "April W vs H\u1ed3 Ch\u00ed Minh City W",
-      "homeTeam": "April W",
-      "awayTeam": "H\u1ed3 Ch\u00ed Minh City W",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNzkxMy5wbmc6NzZjMmY1N2QzYg.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNDg5Ny5wbmc6YzM5MjBiMDY5Mw.png",
-      "league": "AFC Women's Champions League",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzExNDAucG5nOjY3NDEyZDE4YTA.png",
-      "matchTime": 1793781000000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "bam-khatoon-w-naegohyang-w-ZjoxNjM4MjI4OjMwMGYyZGM1ZDI",
-      "title": "Bam Khatoon W vs Naegohyang W",
-      "homeTeam": "Bam Khatoon W",
-      "awayTeam": "Naegohyang W",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNDg4Ny5wbmc6MjAyMjhhM2UyNg.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNjQ2NC5wbmc6MjU1OWRiZDBkYQ.png",
-      "league": "AFC Women's Champions League",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzExNDAucG5nOjY3NDEyZDE4YTA.png",
-      "matchTime": 1793781000000,
-      "status": "notstarted",
+      "status": "postponed",
       "streams": [],
       "streamCount": 0
     },
@@ -565,29 +643,15 @@
       "streamCount": 0
     },
     {
-      "id": "java-united-bekasi-city-ZjoxNjQ4MzcxOjk0NzQ2Y2I4ODM",
-      "title": "Java United vs Bekasi City",
-      "homeTeam": "Java United",
-      "awayTeam": "Bekasi City",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMjQwOS5wbmc6NjI5MTJhNzMyNw.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMTEzMy5wbmc6OTA1Y2NiY2VhNw.png",
+      "id": "psps-bhayangkara-fc-ZjoxNjQ4MzY5OjU2MzlmYTU1YWE",
+      "title": "PSPS vs Bhayangkara FC",
+      "homeTeam": "PSPS",
+      "awayTeam": "Bhayangkara FC",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy80MjM2LnBuZzo2ZGQyMmUxMjI2.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNDQzLnBuZzphZmQxOGVmYmI5.png",
       "league": "League Cup Indonesia",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEyNTAucG5nOjJjODYwMDk2MWI.png",
-      "matchTime": 1793782800000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "persikad-depok-fc-persiku-kudus-ZjoxNjQ4MzcyOjEyNDZmMTcwYzQ",
-      "title": "Persikad Depok FC vs Persiku Kudus",
-      "homeTeam": "Persikad Depok FC",
-      "awayTeam": "Persiku Kudus",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNjY0Ni5wbmc6YzU5MjQzMTE3ZQ.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNDk5Ny5wbmc6ZWQwNTZlZjNlYQ.png",
-      "league": "League Cup Indonesia",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEyNTAucG5nOjJjODYwMDk2MWI.png",
-      "matchTime": 1793782800000,
+      "matchTime": 1793793600000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
@@ -700,6 +764,34 @@
       "league": "UEFA Youth League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzE0LnBuZzpjOWI5ZGMyODg3.png",
       "matchTime": 1793797200000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "crvena-zvezda-u18-bravo-u19-ZjoxNjM4ODUyOjM3ZmM2YWU2ZmU",
+      "title": "Crvena Zvezda U18 vs Bravo U19",
+      "homeTeam": "Crvena Zvezda U18",
+      "awayTeam": "Bravo U19",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMzAzMC5wbmc6MDJjYzU4ZmI0NA.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNjYxNy5wbmc6ZGFlNWU4ZGVmZA.png",
+      "league": "UEFA Youth League",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzE0LnBuZzpjOWI5ZGMyODg3.png",
+      "matchTime": 1793797200000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "paok-u19-zrinjski-u19-ZjoxNjQ2MDM1Ojg3YzYzZWRhOGU",
+      "title": "PAOK U19 vs Zrinjski U19",
+      "homeTeam": "PAOK U19",
+      "awayTeam": "Zrinjski U19",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy83OTIwLnBuZzo2NmI1Zjg0NTY4.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy83OTQyLnBuZzowZDRmZGEyZmM0.png",
+      "league": "UEFA Youth League",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzE0LnBuZzpjOWI5ZGMyODg3.png",
+      "matchTime": 1793799000000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
@@ -831,6 +923,20 @@
       "streamCount": 0
     },
     {
+      "id": "buducnost-krusik-fk-partizan-ZjoxNjQ1ODEwOjk0YmU4NWJkMTM",
+      "title": "Budu\u010dnost Kru\u0161ik vs FK Partizan",
+      "homeTeam": "Budu\u010dnost Kru\u0161ik",
+      "awayTeam": "FK Partizan",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMjMwOC5wbmc6NTc4MTlhNjQyMg.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy81NzMucG5nOjYwNjI2NjYzMDc.png",
+      "league": "Cup",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzczMi5wbmc6MTc0ZTQzMjUyNA.png",
+      "matchTime": 1793793600000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "lekie-w-mamelodi-sundowns-w-ZjoxNjQ3MDM3Ojg2ODg5ODU0NDQ",
       "title": "Lekie W vs Mamelodi Sundowns W",
       "homeTeam": "Lekie W",
@@ -854,6 +960,20 @@
       "league": "CAF Women's Champions League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzExNjQucG5nOjgzZGZiNTUyMzc.png",
       "matchTime": 1793804400000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "boleraz-skalica-ZjoxNjQ3MTcyOmQ0YzE2MDBlNGY",
+      "title": "Boler\u00e1z vs Skalica",
+      "homeTeam": "Boler\u00e1z",
+      "awayTeam": "Skalica",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNDk0OC5wbmc6Yjk5ZjgyNTg2Mg.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMDU0Mi5wbmc6MmMyODhhZDQ4MA.png",
+      "league": "Cup",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzY4MC5wbmc6MmQxZTY3YWQ4Zg.png",
+      "matchTime": 1793793600000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
@@ -1013,6 +1133,20 @@
       "streamCount": 0
     },
     {
+      "id": "al-ettifaq-ajman-ZjoxNjQ1NjEzOjNhMjM5ODg3YjA",
+      "title": "Al-Ettifaq vs Ajman",
+      "homeTeam": "Al-Ettifaq",
+      "awayTeam": "Ajman",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yOTM0LnBuZzozZTQ4ODE4Zjdh.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yODc5LnBuZzo4NDVjNjcyNTEw.png",
+      "league": "AGCFF Gulf Champions League",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzExNjIucG5nOjkwMGNmM2MxODY.png",
+      "matchTime": 1793808000000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "japan-u17-w-north-korea-u17-w-ZjoxNjQ4Mjg5OmY1YmJiMTE5Mzk",
       "title": "Japan U17 W vs North Korea U17 W",
       "homeTeam": "Japan U17 W",
@@ -1064,6 +1198,34 @@
       "league": "Cup",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzMyMS5wbmc6Yjk1MjFlMmQyZA.png",
       "matchTime": 1793808000000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "artis-bohemians-1905-ZjoxNTYwMDQzOjhmNmZmNDY3NWQ",
+      "title": "Artis vs Bohemians 1905",
+      "homeTeam": "Artis",
+      "awayTeam": "Bohemians 1905",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy80MjU3LnBuZzplMWUzMWZhMWY2.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8zNzE0LnBuZzpjYjFmMjA1NmNj.png",
+      "league": "Czech Liga",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzM0NS5wbmc6NGIwZGYwOTlhMQ.png",
+      "matchTime": 1793811600000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "flora-tallinn-tartu-welco-ZjoxNjQ4MTcwOjBkOGE0NGQ4YzM",
+      "title": "Flora Tallinn vs Tartu Welco",
+      "homeTeam": "Flora Tallinn",
+      "awayTeam": "Tartu Welco",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy82ODcucG5nOjM5NjJmNTliZTI.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8zNTI0LnBuZzpkODUzZGY2YWZk.png",
+      "league": "Cup",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzY1Ny5wbmc6OWM2MGRmZTY4Yg.png",
+      "matchTime": 1793811600000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
@@ -1133,6 +1295,20 @@
       "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMzYxLnBuZzoxY2UxNDQxNjcy.png",
       "league": "Copa Uruguay",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzkzMC5wbmc6YzNkYTNjNWU5Mg.png",
+      "matchTime": 1793815200000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "atletico-mineiro-u20-santa-cruz-u20-ZjoxNjQ3MjU2OjI3Mjg2M2RkZWE",
+      "title": "Atl\u00e9tico Mineiro U20 vs Santa Cruz U20",
+      "homeTeam": "Atl\u00e9tico Mineiro U20",
+      "awayTeam": "Santa Cruz U20",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMjk1Mi5wbmc6ZjMyNmExNWQ3Mw.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMzA1My5wbmc6MWU2MzE5N2MzYQ.png",
+      "league": "Copa do Brasil U20",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzYxNy5wbmc6NTdhOWFjMmY2ZA.png",
       "matchTime": 1793815200000,
       "status": "notstarted",
       "streams": [],
@@ -1358,6 +1534,34 @@
       "league": "Copa Chile",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI2Ny5wbmc6M2RiNTk1ZGIxMQ.png",
       "matchTime": 1793829600000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "nacional-potosi-oriente-petrolero-ZjoxNjQ1NDU1OjVlY2I5YzYxODE",
+      "title": "Nacional Potos\u00ed vs Oriente Petrolero",
+      "homeTeam": "Nacional Potos\u00ed",
+      "awayTeam": "Oriente Petrolero",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8zNzA2LnBuZzozYzg0OTBjYTU4.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8zNzA3LnBuZzo2MTY1NzA5MWYw.png",
+      "league": "Copa de la Divisi\u00f3n Profesional",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzk2NC5wbmc6MDMxYjk1ZGIyMw.png",
+      "matchTime": 1793829600000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "venados-fc-monarcas-ZjoxNjQ4MjY2OjU1ODZjOGY0NDA",
+      "title": "Venados FC vs Monarcas",
+      "homeTeam": "Venados FC",
+      "awayTeam": "Monarcas",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMzExLnBuZzplN2Q1ZDVlNTdm.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMjg0LnBuZzplN2ZhZDMzOTFj.png",
+      "league": "Liga de Expansi\u00f3n MX",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI2My5wbmc6MzI5YWJhM2ZiMQ.png",
+      "matchTime": 1793833200000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
