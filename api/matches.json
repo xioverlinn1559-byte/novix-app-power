@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T03:56:27.621902+00:00",
+  "updatedAt": "2026-11-09T12:29:22.129591+00:00",
   "matches": [
     {
       "id": "erchim-khovd-western-ZjoxNjQ2OTk1OmU1NWVhMGU1OGM",
@@ -11,7 +11,7 @@
       "league": "Premier League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzc2NC5wbmc6NjUxNjFmZTU3Yg.png",
       "matchTime": 1794200400000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -25,7 +25,7 @@
       "league": "Premier League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzc2NC5wbmc6NjUxNjFmZTU3Yg.png",
       "matchTime": 1794211200000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -44,51 +44,41 @@
       "streamCount": 0
     },
     {
-      "id": "leon-guadalajara-chivas-ZjoxNTUxMDM3OmUwZjg3NmU0YTA",
-      "title": "Leon vs Guadalajara Chivas",
-      "homeTeam": "Leon",
-      "awayTeam": "Guadalajara Chivas",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMjg5LnBuZzpjNGFkNjJmOWU4.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMjc4LnBuZzpjMzJhZTZlZWI3.png",
-      "league": "Liga MX",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI2Mi5wbmc6YzQ2YTNkMzlkNQ.png",
-      "matchTime": 1794190200000,
+      "id": "chapelton-racing-united-ZjoxNjQ5NDI3OmVjMDc1NDNjN2M",
+      "title": "Chapelton vs Racing United",
+      "homeTeam": "Chapelton",
+      "awayTeam": "Racing United",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMDU5Ny5wbmc6ZTU1N2JiZjBhNg.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNTAyMC5wbmc6OTEwODMzNTJjNQ.png",
+      "league": "Premier League",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzMyMi5wbmc6Njc2YzYxZThkMQ.png",
+      "matchTime": 1794261900000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "mashuk-kmv-rodina-moskva-ii-ZjoxNTgzOTAxOjYyYjU1NGMyMWE",
+      "title": "Mashuk-KMV vs Rodina Moskva II",
+      "homeTeam": "Mashuk-KMV",
+      "awayTeam": "Rodina Moskva II",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy82ODE0LnBuZzo1N2E5MWY3ZWEy.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xOTQ1My5wbmc6ZWQ1NmIxOWJjNg.png",
+      "league": "Second League A - Division A Gold",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEwMjUucG5nOmU2YWI4MmU2MDY.png",
+      "matchTime": 1794222000000,
       "status": "inprogress",
       "streams": [
         {
           "id": "stream-1",
           "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNTUxMDM3OmUwZjg3NmU0YTA&source=lola",
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNTgzOTAxOjYyYjU1NGMyMWE&source=lola",
           "source": "lola",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNTUxMDM3OmUwZjg3NmU0YTA&source=PPV",
-          "source": "PPV",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-3",
-          "streamNo": 3,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNTUxMDM3OmUwZjg3NmU0YTA&source=STV",
-          "source": "STV",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-4",
-          "streamNo": 4,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNTUxMDM3OmUwZjg3NmU0YTA&source=hdtv",
-          "source": "hdtv",
           "hd": true,
           "language": "Unknown"
         }
       ],
-      "streamCount": 4
+      "streamCount": 1
     },
     {
       "id": "club-queretaro-puebla-ZjoxNTUxMDM2OjQyNTI1MzU1OWE",
@@ -100,6 +90,20 @@
       "league": "Liga MX",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI2Mi5wbmc6YzQ2YTNkMzlkNQ.png",
       "matchTime": 1794182400000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "leon-guadalajara-chivas-ZjoxNTUxMDM3OmUwZjg3NmU0YTA",
+      "title": "Leon vs Guadalajara Chivas",
+      "homeTeam": "Leon",
+      "awayTeam": "Guadalajara Chivas",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMjg5LnBuZzpjNGFkNjJmOWU4.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMjc4LnBuZzpjMzJhZTZlZWI3.png",
+      "league": "Liga MX",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI2Mi5wbmc6YzQ2YTNkMzlkNQ.png",
+      "matchTime": 1794190200000,
       "status": "finished",
       "streams": [],
       "streamCount": 0
@@ -170,7 +174,7 @@
       "league": "Liga de Expansi\u00f3n MX",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI2My5wbmc6MzI5YWJhM2ZiMQ.png",
       "matchTime": 1794186000000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -213,20 +217,6 @@
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzIzNC5wbmc6MWIxMWExODBiYg.png",
       "matchTime": 1794187800000,
       "status": "finished",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "mashuk-kmv-rodina-moskva-ii-ZjoxNTgzOTAxOjYyYjU1NGMyMWE",
-      "title": "Mashuk-KMV vs Rodina Moskva II",
-      "homeTeam": "Mashuk-KMV",
-      "awayTeam": "Rodina Moskva II",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy82ODE0LnBuZzo1N2E5MWY3ZWEy.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xOTQ1My5wbmc6ZWQ1NmIxOWJjNg.png",
-      "league": "Second League A - Division A Gold",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEwMjUucG5nOmU2YWI4MmU2MDY.png",
-      "matchTime": 1794222000000,
-      "status": "notstarted",
       "streams": [],
       "streamCount": 0
     },
@@ -525,6 +515,34 @@
       "streamCount": 0
     },
     {
+      "id": "palmeiras-u20-santos-u20-ZjoxNjQ4NDExOjdhYTVkNmJmNzQ",
+      "title": "Palmeiras U20 vs Santos U20",
+      "homeTeam": "Palmeiras U20",
+      "awayTeam": "Santos U20",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMjk2OC5wbmc6MzVjODZmMDNiMg.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMzA1NS5wbmc6NWVhYzUwYzhkZA.png",
+      "league": "Paulista - U20",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEwODYucG5nOmQ4YjIzNzllMTc.png",
+      "matchTime": 1794247200000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "las-palmas-eldense-ZjoxNTcwMDExOjFlNjhmNDZmZjU",
+      "title": "Las Palmas vs Eldense",
+      "homeTeam": "Las Palmas",
+      "awayTeam": "Eldense",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy81MzQucG5nOjZiNjdlMDYzNWE.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy85NjkyLnBuZzoxYTlkYjg1OWMz.png",
+      "league": "Segunda Divisi\u00f3n",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzE0MS5wbmc6NmYxZjBkNDMwYw.png",
+      "matchTime": 1794252600000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "sabadell-real-sociedad-ii-ZjoxNTcwMDEzOmYyY2Y5MGZiMmI",
       "title": "Sabadell vs Real Sociedad II",
       "homeTeam": "Sabadell",
@@ -590,6 +608,20 @@
       "league": "Serie C - Girone C",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzk0My5wbmc6YzFlM2YwZDYyNA.png",
       "matchTime": 1794253500000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "lito-danubio-ZjoxNjQ5NDMwOjdiNWUwNzNiNDE",
+      "title": "Lito vs Danubio",
+      "homeTeam": "Lito",
+      "awayTeam": "Danubio",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMjIxNy5wbmc6ODEzNzA3MzZmOA.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMzUyLnBuZzo1MTAyYzZmYzlm.png",
+      "league": "Copa Uruguay",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzkzMC5wbmc6YzNkYTNjNWU5Mg.png",
+      "matchTime": 1794252600000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
