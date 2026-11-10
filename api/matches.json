@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T04:19:22.060107+00:00",
+  "updatedAt": "2026-11-10T12:50:51.037932+00:00",
   "matches": [
     {
       "id": "arnett-gardens-waterhouse-ZjoxNjQ5MDU1OmVjMThiZjEyNTk",
@@ -25,7 +25,7 @@
       "league": "Premier League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzc2NC5wbmc6NjUxNjFmZTU3Yg.png",
       "matchTime": 1794286800000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -39,9 +39,55 @@
       "league": "Premier League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzc2NC5wbmc6NjUxNjFmZTU3Yg.png",
       "matchTime": 1794297600000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
+    },
+    {
+      "id": "vietnam-u23-thailand-u23-ZjoxNjQ5MDA2OjZjZjA2MjQwMjQ",
+      "title": "Vietnam U23 vs Thailand U23",
+      "homeTeam": "Vietnam U23",
+      "awayTeam": "Thailand U23",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMDk2NC5wbmc6MjEwODBhYWE3Nw.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMDk2MC5wbmc6OTk0NjBiZmQ5OA.png",
+      "league": "Friendlies",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEwLnBuZzo4ZGE3ZmRhN2Qx.png",
+      "matchTime": 1794312000000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNjQ5MDA2OjZjZjA2MjQwMjQ&source=lola",
+          "source": "lola",
+          "hd": true,
+          "language": "Unknown"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
+      "id": "santa-clara-u23-torreense-u23-ZjoxNTk4NjYxOjI5MzQ1MDQxYWI",
+      "title": "Santa Clara U23 vs Torreense U23",
+      "homeTeam": "Santa Clara U23",
+      "awayTeam": "Torreense U23",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMTcxOS5wbmc6MDQwY2U4Y2VhMQ.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMTcyMC5wbmc6YjliMjFkMGU5Yw.png",
+      "league": "Liga Revela\u00e7\u00e3o U23",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzcwMS5wbmc6NTMyZTcyODZlNA.png",
+      "matchTime": 1794312000000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNTk4NjYxOjI5MzQ1MDQxYWI&source=lola",
+          "source": "lola",
+          "hd": true,
+          "language": "Unknown"
+        }
+      ],
+      "streamCount": 1
     },
     {
       "id": "junior-cucuta-ZjoxNTQ5ODYwOmNhN2IzYzQwOTg",
@@ -81,7 +127,7 @@
       "league": "Division di Honor",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzQyMS5wbmc6YzhjYjMxYTUxZQ.png",
       "matchTime": 1794270600000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -95,35 +141,7 @@
       "league": "Friendlies",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEwLnBuZzo4ZGE3ZmRhN2Qx.png",
       "matchTime": 1794297600000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "vietnam-u23-thailand-u23-ZjoxNjQ5MDA2OjZjZjA2MjQwMjQ",
-      "title": "Vietnam U23 vs Thailand U23",
-      "homeTeam": "Vietnam U23",
-      "awayTeam": "Thailand U23",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMDk2NC5wbmc6MjEwODBhYWE3Nw.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMDk2MC5wbmc6OTk0NjBiZmQ5OA.png",
-      "league": "Friendlies",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEwLnBuZzo4ZGE3ZmRhN2Qx.png",
-      "matchTime": 1794312000000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "santa-clara-u23-torreense-u23-ZjoxNTk4NjYxOjI5MzQ1MDQxYWI",
-      "title": "Santa Clara U23 vs Torreense U23",
-      "homeTeam": "Santa Clara U23",
-      "awayTeam": "Torreense U23",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMTcxOS5wbmc6MDQwY2U4Y2VhMQ.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMTcyMC5wbmc6YjliMjFkMGU5Yw.png",
-      "league": "Liga Revela\u00e7\u00e3o U23",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzcwMS5wbmc6NTMyZTcyODZlNA.png",
-      "matchTime": 1794312000000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -394,20 +412,6 @@
       "streamCount": 0
     },
     {
-      "id": "crewe-wigan-ZjoxNTg4ODI1OmM3YzYyZTVhNTk",
-      "title": "Crewe vs Wigan",
-      "homeTeam": "Crewe",
-      "awayTeam": "Wigan",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMzYzLnBuZzowM2M1NmZlNTIx.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy82MS5wbmc6ZTViNmRiZmY0NQ.png",
-      "league": "EFL Trophy",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzQ2LnBuZzo4Y2Q5Y2RlNDQ0.png",
-      "matchTime": 1794337200000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
       "id": "mansfield-town-chesterfield-ZjoxNTg4ODMzOjFjOWIwOTQ5YmI",
       "title": "Mansfield Town vs Chesterfield",
       "homeTeam": "Mansfield Town",
@@ -506,34 +510,6 @@
       "streamCount": 0
     },
     {
-      "id": "stevenage-fulham-u21-ZjoxNTg4ODczOjRkODJkMDIxNGI",
-      "title": "Stevenage vs Fulham U21",
-      "homeTeam": "Stevenage",
-      "awayTeam": "Fulham U21",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMzY4LnBuZzpiZTJhZjcxNDU5.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy83MTk0LnBuZzphZmUzOGIyZTY0.png",
-      "league": "EFL Trophy",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzQ2LnBuZzo4Y2Q5Y2RlNDQ0.png",
-      "matchTime": 1794337200000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "bristol-rovers-reading-ZjoxNTg4ODc1OjI2MTE1ZmEyZjI",
-      "title": "Bristol Rovers vs Reading",
-      "homeTeam": "Bristol Rovers",
-      "awayTeam": "Reading",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMzM0LnBuZzpiODc3MDZjY2Iz.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy81My5wbmc6MzI0NjA2MDQ5OA.png",
-      "league": "EFL Trophy",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzQ2LnBuZzo4Y2Q5Y2RlNDQ0.png",
-      "matchTime": 1794337200000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
       "id": "plymouth-swindon-town-ZjoxNTg4ODg3OmI3ODM2MmViNjk",
       "title": "Plymouth vs Swindon Town",
       "homeTeam": "Plymouth",
@@ -599,34 +575,6 @@
       "league": "EFL Trophy",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzQ2LnBuZzo4Y2Q5Y2RlNDQ0.png",
       "matchTime": 1794339000000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "crawley-town-brentford-u21-ZjoxNTg4OTA5OmQ2ZTBhNzY2OGU",
-      "title": "Crawley Town vs Brentford U21",
-      "homeTeam": "Crawley Town",
-      "awayTeam": "Brentford U21",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMzYyLnBuZzozYmM5M2IyZWMx.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMDA3OS5wbmc6ZjEzYjJhYTQ4NA.png",
-      "league": "EFL Trophy",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzQ2LnBuZzo4Y2Q5Y2RlNDQ0.png",
-      "matchTime": 1794339000000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "colchester-ipswich-town-u21-ZjoxNTg4ODgzOmMzNmZkZjVhNzM",
-      "title": "Colchester vs Ipswich Town U21",
-      "homeTeam": "Colchester",
-      "awayTeam": "Ipswich Town U21",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMzYxLnBuZzplY2RhMGVmM2Vm.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMDA5NC5wbmc6ZDkzMjU0MTUzOQ.png",
-      "league": "EFL Trophy",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzQ2LnBuZzo4Y2Q5Y2RlNDQ0.png",
-      "matchTime": 1794339900000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
