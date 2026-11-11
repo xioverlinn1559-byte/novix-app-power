@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T00:38:45.586929+00:00",
+  "updatedAt": "2026-11-11T07:07:43.763095+00:00",
   "matches": [
     {
       "id": "monarcas-leones-negros-udg-ZjoxNjQ5NTE3OmE4NDM1YzEzYWI",
@@ -25,7 +25,7 @@
       "league": "Liga MX Femenil",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzY3My5wbmc6ZTUxYzAyY2UxMQ.png",
       "matchTime": 1794358800000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -39,7 +39,7 @@
       "league": "Liga MX Femenil",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzY3My5wbmc6ZTUxYzAyY2UxMQ.png",
       "matchTime": 1794366000000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -53,6 +53,34 @@
       "league": "Copa Colombia",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI0MS5wbmc6NjdhODY0ZDdjYw.png",
       "matchTime": 1794360600000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "guam-u17-palestine-u17-ZjoxNjM4MDA2OjE3NWYzM2JlNzc",
+      "title": "Guam U17 vs Palestine U17",
+      "homeTeam": "Guam U17",
+      "awayTeam": "Palestine U17",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNTI5OS5wbmc6MGNjODBiNDhjMA.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNTMxMi5wbmc6NjI4ZjFlY2M0Ng.png",
+      "league": "AFC U17 Asian Cup",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEwMTIucG5nOmIyMWVhM2NkODU.png",
+      "matchTime": 1794382200000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "maldives-u17-hong-kong-u17-ZjoxNjM4MDA5Ojg2NDFjOWQ2M2U",
+      "title": "Maldives U17 vs Hong Kong U17",
+      "homeTeam": "Maldives U17",
+      "awayTeam": "Hong Kong U17",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNTMwNy5wbmc6OTQ3MzVhZDE3YQ.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNTMwMC5wbmc6YTZlZWEyMGYwZg.png",
+      "league": "AFC U17 Asian Cup",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEwMTIucG5nOmIyMWVhM2NkODU.png",
+      "matchTime": 1794384000000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
@@ -100,6 +128,20 @@
       "streamCount": 0
     },
     {
+      "id": "chinese-taipei-u17-thailand-u17-ZjoxNjM4MDA1OjczNzBiZTU5YjU",
+      "title": "Chinese Taipei U17 vs Thailand U17",
+      "homeTeam": "Chinese Taipei U17",
+      "awayTeam": "Thailand U17",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNTI5OC5wbmc6N2JhYTBiMjY4NA.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMTQ0NS5wbmc6NjcwNjUyODQ3NA.png",
+      "league": "AFC U17 Asian Cup",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEwMTIucG5nOmIyMWVhM2NkODU.png",
+      "matchTime": 1794398400000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "sri-lanka-u17-jordan-u17-ZjoxNjM4MDE1OmViMTgzMTc5YzE",
       "title": "Sri Lanka U17 vs Jordan U17",
       "homeTeam": "Sri Lanka U17",
@@ -109,6 +151,34 @@
       "league": "AFC U17 Asian Cup",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEwMTIucG5nOmIyMWVhM2NkODU.png",
       "matchTime": 1794398400000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "singapore-u17-india-u17-ZjoxNjM4MDE0OjRjNjVmY2M1ZmU",
+      "title": "Singapore U17 vs India U17",
+      "homeTeam": "Singapore U17",
+      "awayTeam": "India U17",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNTMxNC5wbmc6ZWNjN2ZmYzJjZg.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMDUyOC5wbmc6OTQxZjMzNzZhMw.png",
+      "league": "AFC U17 Asian Cup",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEwMTIucG5nOmIyMWVhM2NkODU.png",
+      "matchTime": 1794402000000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "brunei-u17-bahrain-u17-ZjoxNjM4MDAzOjE2YmRlZjAwYTQ",
+      "title": "Brunei U17 vs Bahrain U17",
+      "homeTeam": "Brunei U17",
+      "awayTeam": "Bahrain U17",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNTI5Ni5wbmc6NzUwMzAxM2MxMA.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNTI5NC5wbmc6ODE5ZTNkNjhmZA.png",
+      "league": "AFC U17 Asian Cup",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEwMTIucG5nOmIyMWVhM2NkODU.png",
+      "matchTime": 1794412800000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
@@ -151,6 +221,20 @@
       "league": "UEFA U17 Championship - Qualification",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzg4Ni5wbmc6NzYwZTZhYjAzNQ.png",
       "matchTime": 1794391200000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "france-u17-armenia-u17-ZjoxNTU5NDU3OmI2ZTdjNzQwNWE",
+      "title": "France U17 vs Armenia U17",
+      "homeTeam": "France U17",
+      "awayTeam": "Armenia U17",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMjUwNy5wbmc6NWYxOTk0ODlmMw.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNzkzOC5wbmc6MGIxMThjZjRmOA.png",
+      "league": "UEFA U17 Championship - Qualification",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzg4Ni5wbmc6NzYwZTZhYjAzNQ.png",
+      "matchTime": 1794394800000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
@@ -226,6 +310,20 @@
       "streamCount": 0
     },
     {
+      "id": "andorra-u19-poland-u19-ZjoxNjM1ODA1OmFiZjc3ZWQyYTc",
+      "title": "Andorra U19 vs Poland U19",
+      "homeTeam": "Andorra U19",
+      "awayTeam": "Poland U19",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMDM1NS5wbmc6OTQ2MGFkYjcyNQ.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMDM3Ni5wbmc6MDM4ODUwY2Y1OQ.png",
+      "league": "UEFA U19 Championship - Qualification",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzg5My5wbmc6NGJlYjRmODQxZQ.png",
+      "matchTime": 1794394800000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "germany-u19-sweden-u19-ZjoxNjM1ODIwOmY1NDlmNDFkYjc",
       "title": "Germany U19 vs Sweden U19",
       "homeTeam": "Germany U19",
@@ -235,6 +333,34 @@
       "league": "UEFA U19 Championship - Qualification",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzg5My5wbmc6NGJlYjRmODQxZQ.png",
       "matchTime": 1794402000000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "bosnia-herzegovina-u19-san-marino-u19-ZjoxNjM1NzYwOjhjZThjZTY5MzM",
+      "title": "Bosnia-Herzegovina U19 vs San Marino U19",
+      "homeTeam": "Bosnia-Herzegovina U19",
+      "awayTeam": "San Marino U19",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMDM1OS5wbmc6NzQ2MzM4MDBiMA.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMDM3OS5wbmc6YzE5NTVjZTkzYw.png",
+      "league": "UEFA U19 Championship - Qualification",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzg5My5wbmc6NGJlYjRmODQxZQ.png",
+      "matchTime": 1794411000000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "france-u19-norway-u19-ZjoxNjM1NzgxOjY1ODE5Y2U5OWI",
+      "title": "France U19 vs Norway U19",
+      "homeTeam": "France U19",
+      "awayTeam": "Norway U19",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMDMzNC5wbmc6Y2E3ZTM5MGZkZQ.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMDM0Mi5wbmc6MjZjZWRkNzA5OA.png",
+      "league": "UEFA U19 Championship - Qualification",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzg5My5wbmc6NGJlYjRmODQxZQ.png",
+      "matchTime": 1794416400000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
@@ -338,6 +464,20 @@
       "streamCount": 0
     },
     {
+      "id": "eintracht-frankfurt-w-psv-eindhoven-w-ZjoxNjQ0MTU5OmU5ZjY1M2UyZWU",
+      "title": "Eintracht Frankfurt W vs PSV/Eindhoven W",
+      "homeTeam": "Eintracht Frankfurt W",
+      "awayTeam": "PSV/Eindhoven W",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNDAxNC5wbmc6YzU3ZGZkMmM5ZQ.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xODk1LnBuZzpiZmEzYThkN2Mz.png",
+      "league": "UEFA Europa Cup - Women",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzExOTEucG5nOmRkYjBhODdiMjg.png",
+      "matchTime": 1794418200000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "torreense-w-sparta-praha-w-ZjoxNjQ0MTY0OmFlYWM0ZDliMTU",
       "title": "Torreense W vs Sparta Praha W",
       "homeTeam": "Torreense W",
@@ -347,6 +487,34 @@
       "league": "UEFA Europa Cup - Women",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzExOTEucG5nOmRkYjBhODdiMjg.png",
       "matchTime": 1794420000000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "babrungas-minija-ZjoxNjQ5NDQ0OjI4YzU5MDRjYzE",
+      "title": "Babrungas vs Minija",
+      "homeTeam": "Babrungas",
+      "awayTeam": "Minija",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNDM4Mi5wbmc6MTQzNmRlM2YyNg.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8zODY0LnBuZzo2ZTk2MWY1NzI3.png",
+      "league": "1 Lyga",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzM2MS5wbmc6NjgyZTlhOTQ4MQ.png",
+      "matchTime": 1794414600000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "artis-fk-jablonec-ZjoxNjQ1NDA3OmU1MGU5OGExYjM",
+      "title": "Artis vs FK Jablonec",
+      "homeTeam": "Artis",
+      "awayTeam": "FK Jablonec",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy80MjU3LnBuZzplMWUzMWZhMWY2.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMTIyLnBuZzo0OGMzZmI4NGZm.png",
+      "league": "Cup",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzM0Ny5wbmc6MDg3NGE1OWM2OA.png",
+      "matchTime": 1794416400000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
@@ -632,6 +800,20 @@
       "streamCount": 0
     },
     {
+      "id": "londrina-nautico-recife-ZjoxNTIwOTc2OjllNTg3YzUwMTU",
+      "title": "Londrina vs Nautico Recife",
+      "homeTeam": "Londrina",
+      "awayTeam": "Nautico Recife",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNDgucG5nOmFmM2JkY2U3MTc.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy83NTUucG5nOmE4ODg5NGFjM2U.png",
+      "league": "Serie B",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzcyLnBuZzo0NzE5M2E2OTdk.png",
+      "matchTime": 1794434400000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "fc-inter-wanica-transvaal-ZjoxNjQ1MjY3OmY3ZGFjMTI2YzY",
       "title": "FC Inter Wanica vs Transvaal",
       "homeTeam": "FC Inter Wanica",
@@ -640,6 +822,20 @@
       "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMjIxOS5wbmc6ODAyMTU0OTI5NQ.png",
       "league": "Eerste Divisie",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzU2OC5wbmc6YjI1M2I3MTI4Yw.png",
+      "matchTime": 1794438000000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "independiente-petrolero-always-ready-ZjoxNjQ5MTQ2OmNjOTZjMzE3ODk",
+      "title": "Independiente Petrolero vs Always Ready",
+      "homeTeam": "Independiente Petrolero",
+      "awayTeam": "Always Ready",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNTcwMi5wbmc6YzdlNTk1ZDA2Mg.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8zNzAwLnBuZzo3MDIyYzRiNzc5.png",
+      "league": "Copa de la Divisi\u00f3n Profesional",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzk2NC5wbmc6MDMxYjk1ZGIyMw.png",
       "matchTime": 1794438000000,
       "status": "notstarted",
       "streams": [],
