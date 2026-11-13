@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T04:27:54.856525+00:00",
+  "updatedAt": "2026-11-13T12:29:11.692205+00:00",
   "matches": [
     {
       "id": "ulaanbaatar-hunters-ZjoxNjQ2OTk5OjQ2YTMxYTQ0Njc",
@@ -11,7 +11,7 @@
       "league": "Premier League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzc2NC5wbmc6NjUxNjFmZTU3Yg.png",
       "matchTime": 1794546000000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -25,9 +25,78 @@
       "league": "Premier League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzc2NC5wbmc6NjUxNjFmZTU3Yg.png",
       "matchTime": 1794556800000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
+    },
+    {
+      "id": "karbon-cherkasy-atlet-ZjoxNTkzMDc2OjdhMTY0ZmVjYTM",
+      "title": "Karbon Cherkasy vs Atlet",
+      "homeTeam": "Karbon Cherkasy",
+      "awayTeam": "Atlet",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNjQ1MS5wbmc6ZmZkMjFkZWZjNQ.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNjE4Ny5wbmc6ZmNkMTM3MDQ2Mw.png",
+      "league": "Druha Liga",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzMzNi5wbmc6ZjQxZWM3ZGY2OA.png",
+      "matchTime": 1794565800000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNTkzMDc2OjdhMTY0ZmVjYTM&source=lola",
+          "source": "lola",
+          "hd": true,
+          "language": "Unknown"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
+      "id": "ruh-lviv-nyva-ternopil-ii-ZjoxNTkzMDc4Ojc2OWRiYjQ0ZGI",
+      "title": "Ruh Lviv vs Nyva Ternopil II",
+      "homeTeam": "Ruh Lviv",
+      "awayTeam": "Nyva Ternopil II",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8zNjMyLnBuZzo4NWFmNWFlNDE2.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNDU4Ny5wbmc6MmU4ZGNjNjU4NQ.png",
+      "league": "Druha Liga",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzMzNi5wbmc6ZjQxZWM3ZGY2OA.png",
+      "matchTime": 1794569400000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNTkzMDc4Ojc2OWRiYjQ0ZGI&source=lola",
+          "source": "lola",
+          "hd": true,
+          "language": "Unknown"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
+      "id": "singapore-paraguay-ZjoxNjQwMDgzOmIzYjY5Y2YwYTk",
+      "title": "Singapore vs Paraguay",
+      "homeTeam": "Singapore",
+      "awayTeam": "Paraguay",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNTQ2LnBuZzplNGFjM2ZlZmIy.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMzgwLnBuZzo3NzMyZWY1OWE0.png",
+      "league": "Friendlies",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEwLnBuZzo4ZGE3ZmRhN2Qx.png",
+      "matchTime": 1794571200000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNjQwMDgzOmIzYjY5Y2YwYTk&source=lola",
+          "source": "lola",
+          "hd": true,
+          "language": "Unknown"
+        }
+      ],
+      "streamCount": 1
     },
     {
       "id": "llaneros-chico-ZjoxNTQ5ODcwOmI0MGYyZGIyMTg",
@@ -53,7 +122,7 @@
       "league": "CONCACAF Nations League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzUzNi5wbmc6MmY3OTE3M2IzMw.png",
       "matchTime": 1794529800000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -123,7 +192,7 @@
       "league": "Liga de Expansi\u00f3n MX",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI2My5wbmc6MzI5YWJhM2ZiMQ.png",
       "matchTime": 1794535200000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -137,7 +206,7 @@
       "league": "Australian Championship",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEyMDIucG5nOjFiOGY2ZmM2YTU.png",
       "matchTime": 1794558600000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -151,7 +220,7 @@
       "league": "Australian Championship",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEyMDIucG5nOjFiOGY2ZmM2YTU.png",
       "matchTime": 1794558600000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -165,49 +234,7 @@
       "league": "Persha Liga",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzMzNC5wbmc6MTE1MDE1ZTJiOQ.png",
       "matchTime": 1794564000000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "karbon-cherkasy-atlet-ZjoxNTkzMDc2OjdhMTY0ZmVjYTM",
-      "title": "Karbon Cherkasy vs Atlet",
-      "homeTeam": "Karbon Cherkasy",
-      "awayTeam": "Atlet",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNjQ1MS5wbmc6ZmZkMjFkZWZjNQ.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNjE4Ny5wbmc6ZmNkMTM3MDQ2Mw.png",
-      "league": "Druha Liga",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzMzNi5wbmc6ZjQxZWM3ZGY2OA.png",
-      "matchTime": 1794565800000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "ruh-lviv-nyva-ternopil-ii-ZjoxNTkzMDc4Ojc2OWRiYjQ0ZGI",
-      "title": "Ruh Lviv vs Nyva Ternopil II",
-      "homeTeam": "Ruh Lviv",
-      "awayTeam": "Nyva Ternopil II",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8zNjMyLnBuZzo4NWFmNWFlNDE2.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNDU4Ny5wbmc6MmU4ZGNjNjU4NQ.png",
-      "league": "Druha Liga",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzMzNi5wbmc6ZjQxZWM3ZGY2OA.png",
-      "matchTime": 1794569400000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "singapore-paraguay-ZjoxNjQwMDgzOmIzYjY5Y2YwYTk",
-      "title": "Singapore vs Paraguay",
-      "homeTeam": "Singapore",
-      "awayTeam": "Paraguay",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNTQ2LnBuZzplNGFjM2ZlZmIy.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMzgwLnBuZzo3NzMyZWY1OWE0.png",
-      "league": "Friendlies",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEwLnBuZzo4ZGE3ZmRhN2Qx.png",
-      "matchTime": 1794571200000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -234,7 +261,7 @@
       "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy80NjcyLnBuZzplMmFiZDczMGU5.png",
       "league": "Friendlies",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEwLnBuZzo4ZGE3ZmRhN2Qx.png",
-      "matchTime": 1794579000000,
+      "matchTime": 1794579300000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
@@ -534,6 +561,48 @@
       "streamCount": 0
     },
     {
+      "id": "turkey-u21-czechia-u21-ZjoxNjQ1NDAxOjIzNGZlNTc2ZjU",
+      "title": "Turkey U21 vs Czechia U21",
+      "homeTeam": "Turkey U21",
+      "awayTeam": "Czechia U21",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84MjI3LnBuZzplMTA2ZWY4MzNh.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84MTg4LnBuZzpmNDk3MjhhNTdh.png",
+      "league": "UEFA U21 Championship - Qualification",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzg1MC5wbmc6MjgwNDc2OTg4Mw.png",
+      "matchTime": 1794585600000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "finland-u21-republic-of-ireland-u21-ZjoxNjQ1Mzk5OmZkZDBlMjAzYzg",
+      "title": "Finland U21 vs Republic of Ireland U21",
+      "homeTeam": "Finland U21",
+      "awayTeam": "Republic of Ireland U21",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84MTkzLnBuZzpmNTcyYTc5NDVj.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84MjE3LnBuZzo1MjlkZTQ1ODhm.png",
+      "league": "UEFA U21 Championship - Qualification",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzg1MC5wbmc6MjgwNDc2OTg4Mw.png",
+      "matchTime": 1794586500000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "denmark-u21-netherlands-u21-ZjoxNjQ1Mzk4Ojk4ZjkwODk2MDk",
+      "title": "Denmark U21 vs Netherlands U21",
+      "homeTeam": "Denmark U21",
+      "awayTeam": "Netherlands U21",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84MTg5LnBuZzpkMDkxM2JiNGVj.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84MjExLnBuZzpjMjY4ZjhlMWU2.png",
+      "league": "UEFA U21 Championship - Qualification",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzg1MC5wbmc6MjgwNDc2OTg4Mw.png",
+      "matchTime": 1794591000000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "bea-mountain-paynesville-ZjoxNjQ5NTc2OjM4MjUwNDIyOGM",
       "title": "BEA Mountain vs Paynesville",
       "homeTeam": "BEA Mountain",
@@ -758,20 +827,6 @@
       "streamCount": 0
     },
     {
-      "id": "denmark-u21-netherlands-u21-ZjoxNjQ1Mzk4Ojk4ZjkwODk2MDk",
-      "title": "Denmark U21 vs Netherlands U21",
-      "homeTeam": "Denmark U21",
-      "awayTeam": "Netherlands U21",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84MTg5LnBuZzpkMDkxM2JiNGVj.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84MjExLnBuZzpjMjY4ZjhlMWU2.png",
-      "league": "UEFA U21 Championship - Qualification",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzg1MC5wbmc6MjgwNDc2OTg4Mw.png",
-      "matchTime": 1794591000000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
       "id": "ponferradina-cacereno-ZjoxNTcwODMxOmViMDBhMTIyMzY",
       "title": "Ponferradina vs Cacere\u00f1o",
       "homeTeam": "Ponferradina",
@@ -837,6 +892,20 @@
       "league": "Paulista - U20",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEwODYucG5nOmQ4YjIzNzllMTc.png",
       "matchTime": 1794592800000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "deportivo-lara-zamora-fc-b-ZjoxNjQ3NjY3OjFiNWUwMmEzYTY",
+      "title": "Deportivo Lara vs Zamora FC B",
+      "homeTeam": "Deportivo Lara",
+      "awayTeam": "Zamora FC B",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yODEyLnBuZzoxMzU2YjY2MWIy.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yODQxLnBuZzpjNzZhYzU5NDU0.png",
+      "league": "Segunda Divisi\u00f3n",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzMwMC5wbmc6YmFmMzBjN2I1Ng.png",
+      "matchTime": 1794596400000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
