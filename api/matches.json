@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-11-14T00:40:07.188972+00:00",
+  "updatedAt": "2026-11-14T07:00:45.958423+00:00",
   "matches": [
+    {
+      "id": "livyi-bereh-bukovyna-ZjoxNTY1NTE3Ojk2MTJmMGFkNmI",
+      "title": "Livyi Bereh vs Bukovyna",
+      "homeTeam": "Livyi Bereh",
+      "awayTeam": "Bukovyna",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNzE2Mi5wbmc6YTI2Y2NjNTg4ZA.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy82NDg2LnBuZzo5YWNjMTA0YjZm.png",
+      "league": "Premier League",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzMzMy5wbmc6OWEzZjEwZWRkZg.png",
+      "matchTime": 1794650400000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
     {
       "id": "asfa-yennenga-sporting-cascades-ZjoxNjQ4NTE1OjhmNTM3MDUzNDA",
       "title": "ASFA-Yennenga vs Sporting Cascades",
@@ -100,6 +114,75 @@
       "streamCount": 0
     },
     {
+      "id": "bahrain-yemen-ZjoxNjQ3NjM4OjA1OTc1ZDQ1N2M",
+      "title": "Bahrain vs Yemen",
+      "homeTeam": "Bahrain",
+      "awayTeam": "Yemen",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNTQ3LnBuZzo3NzQzZDkwNDMw.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNTUwLnBuZzo4NGFmZTVjYjhj.png",
+      "league": "Friendlies",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEwLnBuZzo4ZGE3ZmRhN2Qx.png",
+      "matchTime": 1794636000000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNjQ3NjM4OjA1OTc1ZDQ1N2M&source=lola",
+          "source": "lola",
+          "hd": true,
+          "language": "Unknown"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
+      "id": "tokyo-verdy-beleza-w-albirex-niigata-w-ZjoxNTYwOTczOjNmNjk3ODJiZDg",
+      "title": "Tokyo Verdy Beleza W vs Albirex Niigata W",
+      "homeTeam": "Tokyo Verdy Beleza W",
+      "awayTeam": "Albirex Niigata W",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNjk1MS5wbmc6NjE4NTIwNDg0OQ.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNjk1My5wbmc6ZDRjODZjNTdiZQ.png",
+      "league": "WE League",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzg1NC5wbmc6ZDE5N2FkOTU2Mg.png",
+      "matchTime": 1794636000000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNTYwOTczOjNmNjk3ODJiZDg&source=lola",
+          "source": "lola",
+          "hd": true,
+          "language": "Unknown"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
+      "id": "urawa-reds-w-elfen-saitama-w-ZjoxNTYwOTc4OjMyODBiMzU0YzM",
+      "title": "Urawa Reds W vs Elfen Saitama W",
+      "homeTeam": "Urawa Reds W",
+      "awayTeam": "Elfen Saitama W",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNjk1Mi5wbmc6ZGVhZGY3MTAxOA.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNjk0Ni5wbmc6NDMzMzFmMzYwMA.png",
+      "league": "WE League",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzg1NC5wbmc6ZDE5N2FkOTU2Mg.png",
+      "matchTime": 1794636000000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNTYwOTc4OjMyODBiMzU0YzM&source=lola",
+          "source": "lola",
+          "hd": true,
+          "language": "Unknown"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
       "id": "colombia-chile-ZjoxNjQwNTE4OjM0ODdiZTRjMDg",
       "title": "Colombia vs Chile",
       "homeTeam": "Colombia",
@@ -109,18 +192,9 @@
       "league": "Friendlies",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEwLnBuZzo4ZGE3ZmRhN2Qx.png",
       "matchTime": 1794614400000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjQwNTE4OjM0ODdiZTRjMDg&source=lola",
-          "source": "lola",
-          "hd": true,
-          "language": "Unknown"
-        }
-      ],
-      "streamCount": 1
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
     },
     {
       "id": "ecuador-costa-rica-ZjoxNjQ3MzYzOjUyMDgwYmRkZWU",
@@ -132,64 +206,9 @@
       "league": "Friendlies",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEwLnBuZzo4ZGE3ZmRhN2Qx.png",
       "matchTime": 1794614400000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjQ3MzYzOjUyMDgwYmRkZWU&source=lola",
-          "source": "lola",
-          "hd": true,
-          "language": "Unknown"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "montserrat-nicaragua-ZjoxNjQ5MDMyOjU4MDM1YjgxZTg",
-      "title": "Montserrat vs Nicaragua",
-      "homeTeam": "Montserrat",
-      "awayTeam": "Nicaragua",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84MTcwLnBuZzpkMzY1YzA0ZjU5.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy81MTY0LnBuZzo3OGEzYjE1MmQ3.png",
-      "league": "CONCACAF Nations League",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzUzNi5wbmc6MmY3OTE3M2IzMw.png",
-      "matchTime": 1794614400000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjQ5MDMyOjU4MDM1YjgxZTg&source=lola",
-          "source": "lola",
-          "hd": true,
-          "language": "Unknown"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "lexington-w-fort-lauderdale-united-w-ZjoxNTU3MjMzOmRmYTE1NGZkNWU",
-      "title": "Lexington W vs Fort Lauderdale United W",
-      "homeTeam": "Lexington W",
-      "awayTeam": "Fort Lauderdale United W",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNDY2NC5wbmc6ZmNjNWZjNWJiZQ.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNDY2MS5wbmc6MDJjMGQ4MDRlYQ.png",
-      "league": "USL Super League",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzExMzAucG5nOjAwMjdlMjBlNDY.png",
-      "matchTime": 1794616200000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNTU3MjMzOmRmYTE1NGZkNWU&source=lola",
-          "source": "lola",
-          "hd": true,
-          "language": "Unknown"
-        }
-      ],
-      "streamCount": 1
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
     },
     {
       "id": "peru-bolivia-ZjoxNjQ3MzY0OjFmM2EwNzNiN2M",
@@ -201,21 +220,7 @@
       "league": "Friendlies",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEwLnBuZzo4ZGE3ZmRhN2Qx.png",
       "matchTime": 1794618000000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "bahrain-yemen-ZjoxNjQ3NjM4OjA1OTc1ZDQ1N2M",
-      "title": "Bahrain vs Yemen",
-      "homeTeam": "Bahrain",
-      "awayTeam": "Yemen",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNTQ3LnBuZzo3NzQzZDkwNDMw.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNTUwLnBuZzo4NGFmZTVjYjhj.png",
-      "league": "Friendlies",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEwLnBuZzo4ZGE3ZmRhN2Qx.png",
-      "matchTime": 1794636000000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -290,6 +295,20 @@
       "streamCount": 0
     },
     {
+      "id": "montserrat-nicaragua-ZjoxNjQ5MDMyOjU4MDM1YjgxZTg",
+      "title": "Montserrat vs Nicaragua",
+      "homeTeam": "Montserrat",
+      "awayTeam": "Nicaragua",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84MTcwLnBuZzpkMzY1YzA0ZjU5.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy81MTY0LnBuZzo3OGEzYjE1MmQ3.png",
+      "league": "CONCACAF Nations League",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzUzNi5wbmc6MmY3OTE3M2IzMw.png",
+      "matchTime": 1794614400000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "guatemala-canada-ZjoxNjQ0NjkyOjkwMGJkYTUzYWQ",
       "title": "Guatemala vs Canada",
       "homeTeam": "Guatemala",
@@ -299,7 +318,7 @@
       "league": "CONCACAF Nations League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzUzNi5wbmc6MmY3OTE3M2IzMw.png",
       "matchTime": 1794621600000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -332,6 +351,20 @@
       "streamCount": 0
     },
     {
+      "id": "lexington-w-fort-lauderdale-united-w-ZjoxNTU3MjMzOmRmYTE1NGZkNWU",
+      "title": "Lexington W vs Fort Lauderdale United W",
+      "homeTeam": "Lexington W",
+      "awayTeam": "Fort Lauderdale United W",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNDY2NC5wbmc6ZmNjNWZjNWJiZQ.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNDY2MS5wbmc6MDJjMGQ4MDRlYQ.png",
+      "league": "USL Super League",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzExMzAucG5nOjAwMjdlMjBlNDY.png",
+      "matchTime": 1794616200000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "internacional-de-bogota-santa-fe-ZjoxNTQ5ODY5OjJjZjdhYTA3Yzk",
       "title": "Internacional de Bogota vs Santa Fe",
       "homeTeam": "Internacional de Bogota",
@@ -341,7 +374,7 @@
       "league": "Primera A",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzIzOS5wbmc6MzIwYjVlYzgxYQ.png",
       "matchTime": 1794619800000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -495,7 +528,7 @@
       "league": "Australian Championship",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEyMDIucG5nOjFiOGY2ZmM2YTU.png",
       "matchTime": 1794628800000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -509,7 +542,7 @@
       "league": "Australian Championship",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEyMDIucG5nOjFiOGY2ZmM2YTU.png",
       "matchTime": 1794628800000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -537,7 +570,7 @@
       "league": "J3 League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEwMC5wbmc6Mjc1NGUwMjhmZg.png",
       "matchTime": 1794632400000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -551,7 +584,7 @@
       "league": "J3 League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEwMC5wbmc6Mjc1NGUwMjhmZg.png",
       "matchTime": 1794632400000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -565,7 +598,7 @@
       "league": "J3 League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEwMC5wbmc6Mjc1NGUwMjhmZg.png",
       "matchTime": 1794632400000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -579,7 +612,7 @@
       "league": "WE League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzg1NC5wbmc6ZDE5N2FkOTU2Mg.png",
       "matchTime": 1794632400000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -593,35 +626,7 @@
       "league": "WE League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzg1NC5wbmc6ZDE5N2FkOTU2Mg.png",
       "matchTime": 1794632400000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "tokyo-verdy-beleza-w-albirex-niigata-w-ZjoxNTYwOTczOjNmNjk3ODJiZDg",
-      "title": "Tokyo Verdy Beleza W vs Albirex Niigata W",
-      "homeTeam": "Tokyo Verdy Beleza W",
-      "awayTeam": "Albirex Niigata W",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNjk1MS5wbmc6NjE4NTIwNDg0OQ.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNjk1My5wbmc6ZDRjODZjNTdiZQ.png",
-      "league": "WE League",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzg1NC5wbmc6ZDE5N2FkOTU2Mg.png",
-      "matchTime": 1794636000000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "urawa-reds-w-elfen-saitama-w-ZjoxNTYwOTc4OjMyODBiMzU0YzM",
-      "title": "Urawa Reds W vs Elfen Saitama W",
-      "homeTeam": "Urawa Reds W",
-      "awayTeam": "Elfen Saitama W",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNjk1Mi5wbmc6ZGVhZGY3MTAxOA.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNjk0Ni5wbmc6NDMzMzFmMzYwMA.png",
-      "league": "WE League",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzg1NC5wbmc6ZDE5N2FkOTU2Mg.png",
-      "matchTime": 1794636000000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -635,7 +640,7 @@
       "league": "J2 League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzk5LnBuZzplNzE1MzIzZDUx.png",
       "matchTime": 1794632400000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -649,7 +654,7 @@
       "league": "J2 League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzk5LnBuZzplNzE1MzIzZDUx.png",
       "matchTime": 1794632400000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -663,7 +668,7 @@
       "league": "J2 League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzk5LnBuZzplNzE1MzIzZDUx.png",
       "matchTime": 1794632400000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -677,7 +682,7 @@
       "league": "J2 League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzk5LnBuZzplNzE1MzIzZDUx.png",
       "matchTime": 1794632400000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -691,7 +696,7 @@
       "league": "J2 League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzk5LnBuZzplNzE1MzIzZDUx.png",
       "matchTime": 1794632400000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -971,6 +976,20 @@
       "league": "UEFA U19 Championship - Qualification",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzg5My5wbmc6NGJlYjRmODQxZQ.png",
       "matchTime": 1794654000000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "france-u19-republic-of-ireland-u19-ZjoxNjM1NzgwOmEyZTUyNTc5Nzc",
+      "title": "France U19 vs Republic of Ireland U19",
+      "homeTeam": "France U19",
+      "awayTeam": "Republic of Ireland U19",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMDMzNC5wbmc6Y2E3ZTM5MGZkZQ.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMDM3Ny5wbmc6ZTVkMDFlNzYyNA.png",
+      "league": "UEFA U19 Championship - Qualification",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzg5My5wbmc6NGJlYjRmODQxZQ.png",
+      "matchTime": 1794675600000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
