@@ -1,52 +1,6 @@
 {
-  "updatedAt": "2026-11-16T01:14:40.838983+00:00",
+  "updatedAt": "2026-11-16T08:00:50.324632+00:00",
   "matches": [
-    {
-      "id": "monterrey-w-pachuca-w-ZjoxNjQ5NDY5OmY4YWY3YjM0NjU",
-      "title": "Monterrey W vs Pachuca W",
-      "homeTeam": "Monterrey W",
-      "awayTeam": "Pachuca W",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNDg3OS5wbmc6Mzc5YmQxMGY0Yg.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNDg4MS5wbmc6NThiMDJkYTc4Mg.png",
-      "league": "Liga MX Femenil",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzY3My5wbmc6ZTUxYzAyY2UxMQ.png",
-      "matchTime": 1794790800000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjQ5NDY5OmY4YWY3YjM0NjU&source=lola",
-          "source": "lola",
-          "hd": true,
-          "language": "Unknown"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "quindio-real-cartagena-ZjoxNjQ3NDUxOjhjYjcyYWMxNmY",
-      "title": "Quindio vs Real Cartagena",
-      "homeTeam": "Quindio",
-      "awayTeam": "Real Cartagena",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNDYxLnBuZzowNzI1NTJiNDk4.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNDU5LnBuZzo0ODZlMTYzMDA4.png",
-      "league": "Primera B",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI0MC5wbmc6NGMyZmVmYTNjZA.png",
-      "matchTime": 1794791400000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjQ3NDUxOjhjYjcyYWMxNmY&source=lola",
-          "source": "lola",
-          "hd": true,
-          "language": "Unknown"
-        }
-      ],
-      "streamCount": 1
-    },
     {
       "id": "new-mexico-united-sacramento-republic-ZjoxNjQ5NTI4OjViZTlmMWRlNDQ",
       "title": "New Mexico United vs Sacramento Republic",
@@ -62,6 +16,20 @@
       "streamCount": 0
     },
     {
+      "id": "monterrey-w-pachuca-w-ZjoxNjQ5NDY5OmY4YWY3YjM0NjU",
+      "title": "Monterrey W vs Pachuca W",
+      "homeTeam": "Monterrey W",
+      "awayTeam": "Pachuca W",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNDg3OS5wbmc6Mzc5YmQxMGY0Yg.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNDg4MS5wbmc6NThiMDJkYTc4Mg.png",
+      "league": "Liga MX Femenil",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzY3My5wbmc6ZTUxYzAyY2UxMQ.png",
+      "matchTime": 1794790800000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "toluca-w-america-w-ZjoxNjQ5NDcwOjMwNzcxMzI0ZTU",
       "title": "Toluca W vs Am\u00e9rica W",
       "homeTeam": "Toluca W",
@@ -71,7 +39,21 @@
       "league": "Liga MX Femenil",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzY3My5wbmc6ZTUxYzAyY2UxMQ.png",
       "matchTime": 1794798600000,
-      "status": "notstarted",
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "quindio-real-cartagena-ZjoxNjQ3NDUxOjhjYjcyYWMxNmY",
+      "title": "Quindio vs Real Cartagena",
+      "homeTeam": "Quindio",
+      "awayTeam": "Real Cartagena",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNDYxLnBuZzowNzI1NTJiNDk4.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNDU5LnBuZzo0ODZlMTYzMDA4.png",
+      "league": "Primera B",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI0MC5wbmc6NGMyZmVmYTNjZA.png",
+      "matchTime": 1794791400000,
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -85,6 +67,62 @@
       "league": "Persha Liga",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzMzNC5wbmc6MTE1MDE1ZTJiOQ.png",
       "matchTime": 1794819600000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "poland-u18-czechia-u18-ZjoxNjQ5MDIxOjcyMjI5MDBlYmE",
+      "title": "Poland U18 vs Czechia U18",
+      "homeTeam": "Poland U18",
+      "awayTeam": "Czechia U18",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMTQ3Ni5wbmc6ZmU3NzRmNzdlMA.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMTQ2NS5wbmc6MjAzMGYzYWQ3Mw.png",
+      "league": "Friendlies",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEwLnBuZzo4ZGE3ZmRhN2Qx.png",
+      "matchTime": 1794826800000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "italy-u21-belgium-u21-ZjoxNjQ5NTQ4OjMzNTdkNGJmZWE",
+      "title": "Italy U21 vs Belgium U21",
+      "homeTeam": "Italy U21",
+      "awayTeam": "Belgium U21",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84MjAxLnBuZzo0NGI4ZDdjZjcz.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84MTgzLnBuZzowN2ZkZGZlYjYz.png",
+      "league": "Friendlies",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEwLnBuZzo4ZGE3ZmRhN2Qx.png",
+      "matchTime": 1794849300000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "andorra-azerbaijan-ZjoxNjM4NjA1OjI0MTc1ZGE1OTE",
+      "title": "Andorra vs Azerbaijan",
+      "homeTeam": "Andorra",
+      "awayTeam": "Azerbaijan",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMTEwLnBuZzowNDY0NmFkYTUz.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMDk2LnBuZzo2MGYzOTg0YmU2.png",
+      "league": "Friendlies",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEwLnBuZzo4ZGE3ZmRhN2Qx.png",
+      "matchTime": 1794852000000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "england-u21-france-u21-ZjoxNjQ2MTIxOjkxMGY0ZDIxOWY",
+      "title": "England U21 vs France U21",
+      "homeTeam": "England U21",
+      "awayTeam": "France U21",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84MTkwLnBuZzpjNDU1NjNlMDk5.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84MTk0LnBuZzowYWM1N2YxYzhj.png",
+      "league": "Friendlies",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEwLnBuZzo4ZGE3ZmRhN2Qx.png",
+      "matchTime": 1794857400000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
@@ -440,34 +478,6 @@
       "streamCount": 0
     },
     {
-      "id": "italy-u21-belgium-u21-ZjoxNjQ5NTQ4OjMzNTdkNGJmZWE",
-      "title": "Italy U21 vs Belgium U21",
-      "homeTeam": "Italy U21",
-      "awayTeam": "Belgium U21",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84MjAxLnBuZzo0NGI4ZDdjZjcz.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84MTgzLnBuZzowN2ZkZGZlYjYz.png",
-      "league": "Friendlies",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEwLnBuZzo4ZGE3ZmRhN2Qx.png",
-      "matchTime": 1794849300000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "andorra-azerbaijan-ZjoxNjM4NjA1OjI0MTc1ZGE1OTE",
-      "title": "Andorra vs Azerbaijan",
-      "homeTeam": "Andorra",
-      "awayTeam": "Azerbaijan",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMTEwLnBuZzowNDY0NmFkYTUz.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMDk2LnBuZzo2MGYzOTg0YmU2.png",
-      "league": "Friendlies",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEwLnBuZzo4ZGE3ZmRhN2Qx.png",
-      "matchTime": 1794852000000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
       "id": "utc-cajamarca-club-deportivo-los-chankas-ZjoxNTQ5NTU2OmY5OGMxNDcwNWU",
       "title": "UTC Cajamarca vs Club Deportivo Los Chankas",
       "homeTeam": "UTC Cajamarca",
@@ -505,6 +515,20 @@
       "league": "Primera Divisi\u00f3n",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI4MS5wbmc6NWI2OGQ5MjVmYQ.png",
       "matchTime": 1794860100000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "leones-de-rosario-sportivo-barracas-ZjoxNjQ3NjcwOmY1MWM0ZGM1M2U",
+      "title": "Leones de Rosario vs Sportivo Barracas",
+      "homeTeam": "Leones de Rosario",
+      "awayTeam": "Sportivo Barracas",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNzI4Mi5wbmc6ZTQ1YjY5OGNkNw.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xOTMxLnBuZzo2YTUyZjljMzU2.png",
+      "league": "Primera C",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEzMi5wbmc6Zjc4Mzg4YTBhNw.png",
+      "matchTime": 1794852000000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
