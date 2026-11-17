@@ -1,53 +1,114 @@
 {
-  "updatedAt": "2026-11-17T01:57:07.722753+00:00",
+  "updatedAt": "2026-11-17T10:12:22.471033+00:00",
   "matches": [
     {
-      "id": "canada-guatemala-ZjoxNjQ0Njk0OjViMjJjNWY1MzQ",
-      "title": "Canada vs Guatemala",
-      "homeTeam": "Canada",
-      "awayTeam": "Guatemala",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy81NTI5LnBuZzpmYTkxZTk3NTAx.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy81MTYxLnBuZzplMzg4MjI2MTA0.png",
-      "league": "CONCACAF Nations League",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzUzNi5wbmc6MmY3OTE3M2IzMw.png",
-      "matchTime": 1794877200000,
+      "id": "pardubice-ii-horni-redice-ZjoxNTYyNzc2OjZlMmI5MTE3YTA",
+      "title": "Pardubice II vs Horn\u00ed \u0158edice",
+      "homeTeam": "Pardubice II",
+      "awayTeam": "Horn\u00ed \u0158edice",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNDc0Ny5wbmc6ZDVmNzIxYjRiYQ.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNDE5MS5wbmc6YjU1OTBjNDYxNQ.png",
+      "league": "3. liga - CFL B",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzY4NS5wbmc6MzMzNTQ0NTFmYQ.png",
+      "matchTime": 1794906900000,
       "status": "inprogress",
       "streams": [
         {
           "id": "stream-1",
           "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjQ0Njk0OjViMjJjNWY1MzQ&source=lola",
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNTYyNzc2OjZlMmI5MTE3YTA&source=lola",
           "source": "lola",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjQ0Njk0OjViMjJjNWY1MzQ&source=capo",
-          "source": "capo",
           "hd": true,
           "language": "Unknown"
         }
       ],
-      "streamCount": 2
+      "streamCount": 1
     },
     {
-      "id": "pitbulls-santa-barbara-fc-rosario-ZjoxNjQ4MzQ5OmVkMmMzOTE5NmI",
-      "title": "Pitbulls Santa Barbara FC vs Rosario",
-      "homeTeam": "Pitbulls Santa Barbara FC",
-      "awayTeam": "Rosario",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNjM0My5wbmc6MjNiY2JjYmIyYQ.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMDE1Mi5wbmc6OGQzYjQyZjcwOA.png",
-      "league": "Liga de Ascenso",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzE2My5wbmc6MzAwNjEzZWY0MA.png",
-      "matchTime": 1794877200000,
+      "id": "armenia-u17-luxembourg-u17-ZjoxNTU5NDkzOmZhZmE1NWM5ZDg",
+      "title": "Armenia U17 vs Luxembourg U17",
+      "homeTeam": "Armenia U17",
+      "awayTeam": "Luxembourg U17",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNzkzOC5wbmc6MGIxMThjZjRmOA.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNzk2My5wbmc6YjhiNmVjMmZhMw.png",
+      "league": "UEFA U17 Championship - Qualification",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzg4Ni5wbmc6NzYwZTZhYjAzNQ.png",
+      "matchTime": 1794909600000,
       "status": "inprogress",
       "streams": [
         {
           "id": "stream-1",
           "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjQ4MzQ5OmVkMmMzOTE5NmI&source=lola",
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNTU5NDkzOmZhZmE1NWM5ZDg&source=lola",
+          "source": "lola",
+          "hd": true,
+          "language": "Unknown"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
+      "id": "croatia-u17-belgium-u17-ZjoxNTU5NDk1OmVmODhiMjE2YmI",
+      "title": "Croatia U17 vs Belgium U17",
+      "homeTeam": "Croatia U17",
+      "awayTeam": "Belgium U17",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNzk0NS5wbmc6ODNjYmI4ZmZlZQ.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNzk0Mi5wbmc6MDAyZGNkMjA3Zg.png",
+      "league": "UEFA U17 Championship - Qualification",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzg4Ni5wbmc6NzYwZTZhYjAzNQ.png",
+      "matchTime": 1794909600000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNTU5NDk1OmVmODhiMjE2YmI&source=lola",
+          "source": "lola",
+          "hd": true,
+          "language": "Unknown"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
+      "id": "northern-ireland-u17-germany-u17-ZjoxNTU5NTAzOjE1Yjg4YmQwNzE",
+      "title": "Northern Ireland U17 vs Germany U17",
+      "homeTeam": "Northern Ireland U17",
+      "awayTeam": "Germany U17",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNzk2OC5wbmc6ODRlYzljZGRkMw.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNzk1NC5wbmc6NDdkZTA1NDIxZQ.png",
+      "league": "UEFA U17 Championship - Qualification",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzg4Ni5wbmc6NzYwZTZhYjAzNQ.png",
+      "matchTime": 1794909600000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNTU5NTAzOjE1Yjg4YmQwNzE&source=lola",
+          "source": "lola",
+          "hd": true,
+          "language": "Unknown"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
+      "id": "singapore-brazil-ZjoxNjQwMDg3OjA3ZWQzZmU3MTU",
+      "title": "Singapore vs Brazil",
+      "homeTeam": "Singapore",
+      "awayTeam": "Brazil",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNTQ2LnBuZzplNGFjM2ZlZmIy.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy82LnBuZzpiNGE0M2Y3NGRj.png",
+      "league": "Friendlies",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEwLnBuZzo4ZGE3ZmRhN2Qx.png",
+      "matchTime": 1794909600000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNjQwMDg3OjA3ZWQzZmU3MTU&source=lola",
           "source": "lola",
           "hd": true,
           "language": "Unknown"
@@ -79,6 +140,20 @@
       "league": "CONCACAF Nations League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzUzNi5wbmc6MmY3OTE3M2IzMw.png",
       "matchTime": 1794873600000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "canada-guatemala-ZjoxNjQ0Njk0OjViMjJjNWY1MzQ",
+      "title": "Canada vs Guatemala",
+      "homeTeam": "Canada",
+      "awayTeam": "Guatemala",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy81NTI5LnBuZzpmYTkxZTk3NTAx.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy81MTYxLnBuZzplMzg4MjI2MTA0.png",
+      "league": "CONCACAF Nations League",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzUzNi5wbmc6MmY3OTE3M2IzMw.png",
+      "matchTime": 1794877200000,
       "status": "finished",
       "streams": [],
       "streamCount": 0
@@ -149,7 +224,21 @@
       "league": "Division di Honor",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzQyMS5wbmc6YzhjYjMxYTUxZQ.png",
       "matchTime": 1794875400000,
-      "status": "notstarted",
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "pitbulls-santa-barbara-fc-rosario-ZjoxNjQ4MzQ5OmVkMmMzOTE5NmI",
+      "title": "Pitbulls Santa Barbara FC vs Rosario",
+      "homeTeam": "Pitbulls Santa Barbara FC",
+      "awayTeam": "Rosario",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNjM0My5wbmc6MjNiY2JjYmIyYQ.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMDE1Mi5wbmc6OGQzYjQyZjcwOA.png",
+      "league": "Liga de Ascenso",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzE2My5wbmc6MzAwNjEzZWY0MA.png",
+      "matchTime": 1794877200000,
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -163,7 +252,7 @@
       "league": "USL Championship",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI1NS5wbmc6MWM0OTYyYjlkOA.png",
       "matchTime": 1794880800000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -191,6 +280,34 @@
       "league": "AFC U17 Asian Cup",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEwMTIucG5nOmIyMWVhM2NkODU.png",
       "matchTime": 1794904200000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "jordan-u17-ir-iran-u17-ZjoxNjM4MDM1OjExZmFjOTg2NGY",
+      "title": "Jordan U17 vs IR Iran U17",
+      "homeTeam": "Jordan U17",
+      "awayTeam": "IR Iran U17",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMjkyOS5wbmc6NzVlM2I5MzE2NA.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMTQ0MC5wbmc6NTVhYmViM2VlNg.png",
+      "league": "AFC U17 Asian Cup",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEwMTIucG5nOmIyMWVhM2NkODU.png",
+      "matchTime": 1794906000000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "laos-u17-sri-lanka-u17-ZjoxNjM4MDM4OjcwNzcyMDZiMzI",
+      "title": "Laos U17 vs Sri Lanka U17",
+      "homeTeam": "Laos U17",
+      "awayTeam": "Sri Lanka U17",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMTQ0MS5wbmc6OTlmYzY2N2IxYQ.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNzIyNy5wbmc6YmJjNWFiMDVkMA.png",
+      "league": "AFC U17 Asian Cup",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEwMTIucG5nOmIyMWVhM2NkODU.png",
+      "matchTime": 1794916800000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
@@ -224,62 +341,6 @@
       "streamCount": 0
     },
     {
-      "id": "pardubice-ii-horni-redice-ZjoxNTYyNzc2OjZlMmI5MTE3YTA",
-      "title": "Pardubice II vs Horn\u00ed \u0158edice",
-      "homeTeam": "Pardubice II",
-      "awayTeam": "Horn\u00ed \u0158edice",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNDc0Ny5wbmc6ZDVmNzIxYjRiYQ.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNDE5MS5wbmc6YjU1OTBjNDYxNQ.png",
-      "league": "3. liga - CFL B",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzY4NS5wbmc6MzMzNTQ0NTFmYQ.png",
-      "matchTime": 1794906900000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "armenia-u17-luxembourg-u17-ZjoxNTU5NDkzOmZhZmE1NWM5ZDg",
-      "title": "Armenia U17 vs Luxembourg U17",
-      "homeTeam": "Armenia U17",
-      "awayTeam": "Luxembourg U17",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNzkzOC5wbmc6MGIxMThjZjRmOA.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNzk2My5wbmc6YjhiNmVjMmZhMw.png",
-      "league": "UEFA U17 Championship - Qualification",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzg4Ni5wbmc6NzYwZTZhYjAzNQ.png",
-      "matchTime": 1794909600000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "croatia-u17-belgium-u17-ZjoxNTU5NDk1OmVmODhiMjE2YmI",
-      "title": "Croatia U17 vs Belgium U17",
-      "homeTeam": "Croatia U17",
-      "awayTeam": "Belgium U17",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNzk0NS5wbmc6ODNjYmI4ZmZlZQ.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNzk0Mi5wbmc6MDAyZGNkMjA3Zg.png",
-      "league": "UEFA U17 Championship - Qualification",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzg4Ni5wbmc6NzYwZTZhYjAzNQ.png",
-      "matchTime": 1794909600000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "northern-ireland-u17-germany-u17-ZjoxNTU5NTAzOjE1Yjg4YmQwNzE",
-      "title": "Northern Ireland U17 vs Germany U17",
-      "homeTeam": "Northern Ireland U17",
-      "awayTeam": "Germany U17",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNzk2OC5wbmc6ODRlYzljZGRkMw.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNzk1NC5wbmc6NDdkZTA1NDIxZQ.png",
-      "league": "UEFA U17 Championship - Qualification",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzg4Ni5wbmc6NzYwZTZhYjAzNQ.png",
-      "matchTime": 1794909600000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
       "id": "serbia-u17-portugal-u17-ZjoxNTU5NTA5OmFmNzY1OGFkNTk",
       "title": "Serbia U17 vs Portugal U17",
       "homeTeam": "Serbia U17",
@@ -302,20 +363,6 @@
       "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNDU4OS5wbmc6YWE4NTA4MjhlMQ.png",
       "league": "Persha Liga",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzMzNC5wbmc6MTE1MDE1ZTJiOQ.png",
-      "matchTime": 1794909600000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "singapore-brazil-ZjoxNjQwMDg3OjA3ZWQzZmU3MTU",
-      "title": "Singapore vs Brazil",
-      "homeTeam": "Singapore",
-      "awayTeam": "Brazil",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNTQ2LnBuZzplNGFjM2ZlZmIy.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy82LnBuZzpiNGE0M2Y3NGRj.png",
-      "league": "Friendlies",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEwLnBuZzo4ZGE3ZmRhN2Qx.png",
       "matchTime": 1794909600000,
       "status": "notstarted",
       "streams": [],
@@ -672,6 +719,34 @@
       "streamCount": 0
     },
     {
+      "id": "laci-shiroka-ZjoxNjQ1MjAyOmRjNzM2MjM1MjA",
+      "title": "Laci vs Shiroka",
+      "homeTeam": "Laci",
+      "awayTeam": "Shiroka",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMjU2LnBuZzozNjllNjczZDll.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yODQ1MC5wbmc6MDU3MzhjMzRhYw.png",
+      "league": "Cup",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzcwNy5wbmc6NGJlZTVmYzM0Yw.png",
+      "matchTime": 1794916800000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "skenderbeu-korce-apolonia-fier-ZjoxNjQ1MjA0OjgyMjRjZDIwYTg",
+      "title": "Skenderbeu Korce vs Apolonia Fier",
+      "homeTeam": "Skenderbeu Korce",
+      "awayTeam": "Apolonia Fier",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy82MDUucG5nOmFmY2NjZGQzNDE.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8zMzIxLnBuZzphNDY5ODMxODBi.png",
+      "league": "Cup",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzcwNy5wbmc6NGJlZTVmYzM0Yw.png",
+      "matchTime": 1794916800000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "burundi-zambia-ZjoxNTQ1ODg3OjRhOThlZTMxNmI",
       "title": "Burundi vs Zambia",
       "homeTeam": "Burundi",
@@ -975,6 +1050,20 @@
       "league": "UEFA U21 Championship - Qualification",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzg1MC5wbmc6MjgwNDc2OTg4Mw.png",
       "matchTime": 1794937500000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "romania-u20-poland-u20-ZjoxNjMyMjUyOjQ1ZTIwOTk5YmE",
+      "title": "Romania U20 vs Poland U20",
+      "homeTeam": "Romania U20",
+      "awayTeam": "Poland U20",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xODE4MC5wbmc6YjE2NThhYTc2ZQ.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMDI5OC5wbmc6ZGY4MWFkNGMxNA.png",
+      "league": "U20 Elite League",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzg5MC5wbmc6NDA5MzcwYjA5Mw.png",
+      "matchTime": 1794934800000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
