@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T00:07:32.652509+00:00",
+  "updatedAt": "2026-11-19T07:18:11.355888+00:00",
   "matches": [
     {
       "id": "corinthians-botafogo-ZjoxNDkyNDUwOjAxOGUzMDYwODI",
@@ -11,7 +11,7 @@
       "league": "Serie A",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzcxLnBuZzo4Y2U4N2FhZDMx.png",
       "matchTime": 1795048200000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -25,7 +25,7 @@
       "league": "Serie A",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzcxLnBuZzo4Y2U4N2FhZDMx.png",
       "matchTime": 1795048200000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -190,6 +190,20 @@
       "awayTeam": "Celje",
       "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy80MzY2LnBuZzo0MjI4Njk4NGJh.png",
       "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy80MzYwLnBuZzozOGJjMTIzNGU1.png",
+      "league": "Cup",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzM3NS5wbmc6MTQ0MjA0MjhjZQ.png",
+      "matchTime": 1795091400000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "dob-bistrica-ZjoxNjQ3NTI3OmUwZDQ0N2U1YTY",
+      "title": "Dob vs Bistrica",
+      "homeTeam": "Dob",
+      "awayTeam": "Bistrica",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy80MzcxLnBuZzpkNWJjYzJlZmMw.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy82NzE4LnBuZzpiZjBkMjEzYzYz.png",
       "league": "Cup",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzM3NS5wbmc6MTQ0MjA0MjhjZQ.png",
       "matchTime": 1795091400000,
@@ -422,6 +436,20 @@
       "streamCount": 0
     },
     {
+      "id": "masr-smouha-sc-ZjoxNjQ5OTk0OjBhMThjMDYwODE",
+      "title": "Masr vs Smouha SC",
+      "homeTeam": "Masr",
+      "awayTeam": "Smouha SC",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy83NTIwLnBuZzplMWM5MWY0NzAx.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMDQ0LnBuZzplMzM5ZDAyZDM4.png",
+      "league": "Cup",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzcxNC5wbmc6NjQ3MTdhNDcyOA.png",
+      "matchTime": 1795111200000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "al-ahli-doha-al-shamal-ZjoxNTk3OTYyOjIzZGFlNGU0YjI",
       "title": "Al Ahli Doha vs Al Shamal",
       "homeTeam": "Al Ahli Doha",
@@ -444,6 +472,20 @@
       "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMzE1Ni5wbmc6YjhhY2Q1YmFiMw.png",
       "league": "1 Lyga",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzM2MS5wbmc6NjgyZTlhOTQ4MQ.png",
+      "matchTime": 1795107600000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "kif-orebro-w-rosengard-w-ZjoxNjUwMjMyOjUxNzZiZmY5NDY",
+      "title": "KIF \u00d6rebro W vs Roseng\u00e5rd W",
+      "homeTeam": "KIF \u00d6rebro W",
+      "awayTeam": "Roseng\u00e5rd W",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMTA3OC5wbmc6M2JiYjNjNTRiYw.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMTA3NS5wbmc6MmQzMTBiMDlhNA.png",
+      "league": "Damallsvenskan",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzU0OS5wbmc6OTZhMGMzMGZlZQ.png",
       "matchTime": 1795107600000,
       "status": "notstarted",
       "streams": [],
@@ -520,6 +562,20 @@
       "streamCount": 0
     },
     {
+      "id": "fc-fredericia-hillerod-ZjoxNTUxMzc5OmM0MjNkZjk5MjA",
+      "title": "FC Fredericia vs Hiller\u00f8d",
+      "homeTeam": "FC Fredericia",
+      "awayTeam": "Hiller\u00f8d",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMDYxLnBuZzoyZjc5YTQ4MjBj.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy82MDI2LnBuZzphOGIyMWE5N2Iz.png",
+      "league": "1. Division",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEyMC5wbmc6YzA5ODVhODc4Zg.png",
+      "matchTime": 1795111200000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "as-celtas-w-espanyol-w-ZjoxNjQ3NjQ1OjEyZWEyYzJlZjU",
       "title": "AS Celtas W vs Espanyol W",
       "homeTeam": "AS Celtas W",
@@ -529,6 +585,34 @@
       "league": "Copa de la Reina",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEyNDgucG5nOjJjNjc3ZDU1OTM.png",
       "matchTime": 1795111200000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "amiens-caen-ZjoxNTc0Nzg2OmY0YmIxYzU0Nzg",
+      "title": "Amiens vs Caen",
+      "homeTeam": "Amiens",
+      "awayTeam": "Caen",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84Ny5wbmc6MmM0ZGNkNDNiMQ.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy84OC5wbmc6OGEwM2M5OTQ4Mw.png",
+      "league": "Ligue 3",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzYzLnBuZzpiZmQwOWIxNTQ2.png",
+      "matchTime": 1795117500000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "ind-yumbo-envigado-ZjoxNjQ5NDQ3OmY3MTBhYTMzOGQ",
+      "title": "Ind. Yumbo vs Envigado",
+      "homeTeam": "Ind. Yumbo",
+      "awayTeam": "Envigado",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNzQxMS5wbmc6Nzg2MGU4MmZhZQ.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMTI5LnBuZzpjZTc1YTk5OTA2.png",
+      "league": "Primera B",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI0MC5wbmc6NGMyZmVmYTNjZA.png",
+      "matchTime": 1795127400000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
