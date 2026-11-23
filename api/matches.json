@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T02:57:14.141094+00:00",
+  "updatedAt": "2026-11-23T11:48:09.837993+00:00",
   "matches": [
     {
       "id": "chornomorets-epitsentr-dunayivtsi-ZjoxNTY1NTI5OjEyNzVkNmVhOTA",
@@ -11,9 +11,18 @@
       "league": "Premier League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzMzMy5wbmc6OWEzZjEwZWRkZg.png",
       "matchTime": 1795431600000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNTY1NTI5OjEyNzVkNmVhOTA&source=lola",
+          "source": "lola",
+          "hd": true,
+          "language": "Unknown"
+        }
+      ],
+      "streamCount": 1
     },
     {
       "id": "lnz-cherkasy-polessya-ZjoxNTY1NTM1OmY4ZjY0YTE1ZTE",
@@ -25,9 +34,18 @@
       "league": "Premier League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzMzMy5wbmc6OWEzZjEwZWRkZg.png",
       "matchTime": 1795431600000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNTY1NTM1OmY4ZjY0YTE1ZTE&source=lola",
+          "source": "lola",
+          "hd": true,
+          "language": "Unknown"
+        }
+      ],
+      "streamCount": 1
     },
     {
       "id": "el-gouna-fc-zamalek-sc-ZjoxNjEyMjc5OmJiN2ViZTYwYmE",
@@ -156,153 +174,6 @@
       "streamCount": 0
     },
     {
-      "id": "instituto-cordoba-huracan-ZjoxNjQ5NTY4OmM5NGY3NTVjNTc",
-      "title": "Instituto Cordoba vs Huracan",
-      "homeTeam": "Instituto Cordoba",
-      "awayTeam": "Huracan",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy80NzgucG5nOjdjYTk0YzIyYjA.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy80NDUucG5nOjU0NDY5ZTViMzc.png",
-      "league": "Liga Profesional Argentina",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEyOC5wbmc6OTFmNDBlMWUxZg.png",
-      "matchTime": 1795395600000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjQ5NTY4OmM5NGY3NTVjNTc&source=lola",
-          "source": "lola",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjQ5NTY4OmM5NGY3NTVjNTc&source=STV",
-          "source": "STV",
-          "hd": true,
-          "language": "Unknown"
-        }
-      ],
-      "streamCount": 2
-    },
-    {
-      "id": "diriangen-managua-ZjoxNjUwODQxOjg4M2I0OGM4Yjc",
-      "title": "Diriang\u00e9n vs Managua",
-      "homeTeam": "Diriang\u00e9n",
-      "awayTeam": "Managua",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy80NjQxLnBuZzowNWJiYjk4ZjM4.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy80NjQ0LnBuZzo5YmFmMjMzM2E1.png",
-      "league": "Primera Division",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzM5Ni5wbmc6ZDI1NGZjOWJiNw.png",
-      "matchTime": 1795395600000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjUwODQxOjg4M2I0OGM4Yjc&source=lola",
-          "source": "lola",
-          "hd": true,
-          "language": "Unknown"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "club-queretaro-necaxa-ZjoxNTUxMDQ2OjIxODgwMDI3M2Y",
-      "title": "Club Queretaro vs Necaxa",
-      "homeTeam": "Club Queretaro",
-      "awayTeam": "Necaxa",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMjkwLnBuZzo3YjcxY2VkYmQz.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMjg4LnBuZzoxZDk0NWJmMDg0.png",
-      "league": "Liga MX",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI2Mi5wbmc6YzQ2YTNkMzlkNQ.png",
-      "matchTime": 1795396200000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNTUxMDQ2OjIxODgwMDI3M2Y&source=lola",
-          "source": "lola",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNTUxMDQ2OjIxODgwMDI3M2Y&source=PPV",
-          "source": "PPV",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-3",
-          "streamNo": 3,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNTUxMDQ2OjIxODgwMDI3M2Y&source=STV",
-          "source": "STV",
-          "hd": true,
-          "language": "Unknown"
-        }
-      ],
-      "streamCount": 3
-    },
-    {
-      "id": "juticalpa-olancho-ZjoxNjQyMzIwOjIyNDg1NTdjNDk",
-      "title": "Juticalpa vs Olancho",
-      "homeTeam": "Juticalpa",
-      "awayTeam": "Olancho",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMDUzLnBuZzpiYmM1NDEzYzY2.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xOTQ1Ni5wbmc6MjJiNmU2Nzg5Mw.png",
-      "league": "Liga Nacional",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzIzNC5wbmc6MWIxMWExODBiYg.png",
-      "matchTime": 1795397400000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjQyMzIwOjIyNDg1NTdjNDk&source=lola",
-          "source": "lola",
-          "hd": true,
-          "language": "Unknown"
-        }
-      ],
-      "streamCount": 1
-    },
-    {
-      "id": "vancouver-whitecaps-real-salt-lake-ZjoxNjUxMTIwOmNhYjE5NWJmZjA",
-      "title": "Vancouver Whitecaps vs Real Salt Lake",
-      "homeTeam": "Vancouver Whitecaps",
-      "awayTeam": "Real Salt Lake",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNjAzLnBuZzpmNjk2YjgwNGFh.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNjA2LnBuZzo3NTFjZTNiMmIz.png",
-      "league": "Major League Soccer",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI1My5wbmc6YTJiNjc5MWJlZQ.png",
-      "matchTime": 1795397400000,
-      "status": "inprogress",
-      "streams": [
-        {
-          "id": "stream-1",
-          "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjUxMTIwOmNhYjE5NWJmZjA&source=lola",
-          "source": "lola",
-          "hd": true,
-          "language": "Unknown"
-        },
-        {
-          "id": "stream-2",
-          "streamNo": 2,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjUxMTIwOmNhYjE5NWJmZjA&source=STV",
-          "source": "STV",
-          "hd": true,
-          "language": "Unknown"
-        }
-      ],
-      "streamCount": 2
-    },
-    {
       "id": "river-plate-britannia-ZjoxNjQ3MTMxOjQwYzQ5OWZiMjY",
       "title": "River Plate vs Britannia",
       "homeTeam": "River Plate",
@@ -312,7 +183,21 @@
       "league": "Division di Honor",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzQyMS5wbmc6YzhjYjMxYTUxZQ.png",
       "matchTime": 1795393800000,
-      "status": "notstarted",
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "instituto-cordoba-huracan-ZjoxNjQ5NTY4OmM5NGY3NTVjNTc",
+      "title": "Instituto Cordoba vs Huracan",
+      "homeTeam": "Instituto Cordoba",
+      "awayTeam": "Huracan",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy80NzgucG5nOjdjYTk0YzIyYjA.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy80NDUucG5nOjU0NDY5ZTViMzc.png",
+      "league": "Liga Profesional Argentina",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEyOC5wbmc6OTFmNDBlMWUxZg.png",
+      "matchTime": 1795395600000,
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -331,6 +216,62 @@
       "streamCount": 0
     },
     {
+      "id": "diriangen-managua-ZjoxNjUwODQxOjg4M2I0OGM4Yjc",
+      "title": "Diriang\u00e9n vs Managua",
+      "homeTeam": "Diriang\u00e9n",
+      "awayTeam": "Managua",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy80NjQxLnBuZzowNWJiYjk4ZjM4.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy80NjQ0LnBuZzo5YmFmMjMzM2E1.png",
+      "league": "Primera Division",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzM5Ni5wbmc6ZDI1NGZjOWJiNw.png",
+      "matchTime": 1795395600000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "club-queretaro-necaxa-ZjoxNTUxMDQ2OjIxODgwMDI3M2Y",
+      "title": "Club Queretaro vs Necaxa",
+      "homeTeam": "Club Queretaro",
+      "awayTeam": "Necaxa",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMjkwLnBuZzo3YjcxY2VkYmQz.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMjg4LnBuZzoxZDk0NWJmMDg0.png",
+      "league": "Liga MX",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI2Mi5wbmc6YzQ2YTNkMzlkNQ.png",
+      "matchTime": 1795396200000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "juticalpa-olancho-ZjoxNjQyMzIwOjIyNDg1NTdjNDk",
+      "title": "Juticalpa vs Olancho",
+      "homeTeam": "Juticalpa",
+      "awayTeam": "Olancho",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMDUzLnBuZzpiYmM1NDEzYzY2.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xOTQ1Ni5wbmc6MjJiNmU2Nzg5Mw.png",
+      "league": "Liga Nacional",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzIzNC5wbmc6MWIxMWExODBiYg.png",
+      "matchTime": 1795397400000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "vancouver-whitecaps-real-salt-lake-ZjoxNjUxMTIwOmNhYjE5NWJmZjA",
+      "title": "Vancouver Whitecaps vs Real Salt Lake",
+      "homeTeam": "Vancouver Whitecaps",
+      "awayTeam": "Real Salt Lake",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNjAzLnBuZzpmNjk2YjgwNGFh.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNjA2LnBuZzo3NTFjZTNiMmIz.png",
+      "league": "Major League Soccer",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI1My5wbmc6YTJiNjc5MWJlZQ.png",
+      "matchTime": 1795397400000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "albirex-niigata-w-sanfrecce-hiroshima-w-ZjoxNTYwOTg1OjcyOTg2YmJhMzI",
       "title": "Albirex Niigata W vs Sanfrecce Hiroshima W",
       "homeTeam": "Albirex Niigata W",
@@ -340,7 +281,7 @@
       "league": "WE League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzg1NC5wbmc6ZDE5N2FkOTU2Mg.png",
       "matchTime": 1795406400000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -354,7 +295,7 @@
       "league": "WE League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzg1NC5wbmc6ZDE5N2FkOTU2Mg.png",
       "matchTime": 1795406400000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -368,7 +309,7 @@
       "league": "WE League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzg1NC5wbmc6ZDE5N2FkOTU2Mg.png",
       "matchTime": 1795410000000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -382,7 +323,7 @@
       "league": "WE League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzg1NC5wbmc6ZDE5N2FkOTU2Mg.png",
       "matchTime": 1795413600000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -396,7 +337,7 @@
       "league": "National League",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzU4OC5wbmc6NjRjOGQyNTIyNA.png",
       "matchTime": 1795424400000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -634,6 +575,34 @@
       "league": "AFC Champions League Elite",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzE3LnBuZzo1ZGQ1MWZlMDJm.png",
       "matchTime": 1795457700000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "albinoleffe-u20-genoa-u20-ZjoxNTY5NDM0OjM5MzZmOTBlODk",
+      "title": "Albinoleffe U20 vs Genoa U20",
+      "homeTeam": "Albinoleffe U20",
+      "awayTeam": "Genoa U20",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNzkwMy5wbmc6YjIxNjY0M2JmOQ.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNDczMi5wbmc6MWMwMWFjMzI3NA.png",
+      "league": "Campionato Primavera - 1",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzcwNS5wbmc6MGE1N2YyNzdiZA.png",
+      "matchTime": 1795442400000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "torino-u20-bologna-u20-ZjoxNTY5NDQyOmEwNTk5YzlkMzI",
+      "title": "Torino U20 vs Bologna U20",
+      "homeTeam": "Torino U20",
+      "awayTeam": "Bologna U20",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNDc0Mi5wbmc6MzYxYjI4YjIzMA.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNDcyNi5wbmc6NzQ2MjZiNGQzMw.png",
+      "league": "Campionato Primavera - 1",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzcwNS5wbmc6MGE1N2YyNzdiZA.png",
+      "matchTime": 1795449600000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
@@ -970,6 +939,20 @@
       "league": "Primera Divisi\u00f3n",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzM0NC5wbmc6ZWQ3NTI2Y2Y1Ng.png",
       "matchTime": 1795460400000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "universitario-de-vinto-gualberto-villarroel-sj-ZjoxNjQ1NTQ5OjIwMjEwZmI1NDg",
+      "title": "Universitario de Vinto vs Gualberto Villarroel SJ",
+      "homeTeam": "Universitario de Vinto",
+      "awayTeam": "Gualberto Villarroel SJ",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNzc2Mi5wbmc6ZmZhNWU0N2NlNw.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMjI2Ni5wbmc6ZWMwZDlmMTEyZg.png",
+      "league": "Primera Divisi\u00f3n",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzM0NC5wbmc6ZWQ3NTI2Y2Y1Ng.png",
+      "matchTime": 1795468500000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
