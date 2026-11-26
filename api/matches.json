@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T03:31:33.333998+00:00",
+  "updatedAt": "2026-11-26T13:08:38.149960+00:00",
   "matches": [
     {
       "id": "besiktas-hapoel-beer-sheva-ZjoxNjM2MjMxOmQzOTk2NmU3ZWM",
@@ -268,21 +268,175 @@
       "streamCount": 0
     },
     {
-      "id": "monterrey-club-america-ZjoxNjUxNTAzOjc3YmY2Y2VlYjU",
-      "title": "Monterrey vs Club America",
-      "homeTeam": "Monterrey",
-      "awayTeam": "Club America",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMjgyLnBuZzpmYThlNjZiMDZh.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMjg3LnBuZzo5M2I4N2YzMzk4.png",
-      "league": "Liga MX",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI2Mi5wbmc6YzQ2YTNkMzlkNQ.png",
-      "matchTime": 1795662600000,
+      "id": "persika-karanganyar-persipa-pati-ZjoxNjUwNzEwOmNiMzA5YmVkZDA",
+      "title": "Persika Karanganyar vs Persipa Pati",
+      "homeTeam": "Persika Karanganyar",
+      "awayTeam": "Persipa Pati",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yODcxNS5wbmc6MmQzNTJhOTkzNw.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMDA3Ni5wbmc6MDYyZTMzYjE3Zg.png",
+      "league": "Liga Nusantara",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEyNTMucG5nOmY5MWRkNTNjYTM.png",
+      "matchTime": 1795694400000,
       "status": "inprogress",
       "streams": [
         {
           "id": "stream-1",
           "streamNo": 1,
-          "embedUrl": "https://football77.org/embed/?id=ZjoxNjUxNTAzOjc3YmY2Y2VlYjU&source=lola",
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNjUwNzEwOmNiMzA5YmVkZDA&source=lola",
+          "source": "lola",
+          "hd": true,
+          "language": "Unknown"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
+      "id": "bg-pathum-united-home-united-ZjoxNjMwNDE3OjEzYmM5YTRjZmM",
+      "title": "BG Pathum United vs Home United",
+      "homeTeam": "BG Pathum United",
+      "awayTeam": "Home United",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNzY5LnBuZzo3YjJkYWUxNmYz.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy80MjA0LnBuZzo1ZGVjOWUwZTQy.png",
+      "league": "AFC Champions League Two",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzE4LnBuZzo1ZDQ5NDczZmRl.png",
+      "matchTime": 1795695300000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNjMwNDE3OjEzYmM5YTRjZmM&source=lola",
+          "source": "lola",
+          "hd": true,
+          "language": "Unknown"
+        },
+        {
+          "id": "stream-2",
+          "streamNo": 2,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNjMwNDE3OjEzYmM5YTRjZmM&source=capo",
+          "source": "capo",
+          "hd": true,
+          "language": "Unknown"
+        }
+      ],
+      "streamCount": 2
+    },
+    {
+      "id": "svay-rieng-machida-zelvia-ZjoxNjMwNDE4OmM0Njc1MmEwNTM",
+      "title": "Svay Rieng vs Machida Zelvia",
+      "homeTeam": "Svay Rieng",
+      "awayTeam": "Machida Zelvia",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy81Mzk2LnBuZzpkZGQ4ZWJhMWI2.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8zMDMucG5nOmM4N2NmMDNjZTA.png",
+      "league": "AFC Champions League Two",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzE4LnBuZzo1ZDQ5NDczZmRl.png",
+      "matchTime": 1795695300000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNjMwNDE4OmM0Njc1MmEwNTM&source=lola",
+          "source": "lola",
+          "hd": true,
+          "language": "Unknown"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
+      "id": "wofoo-tai-po-adelaide-united-ZjoxNjMwNDE5Ojk1Y2Q4M2RlYWM",
+      "title": "Wofoo Tai Po vs Adelaide United",
+      "homeTeam": "Wofoo Tai Po",
+      "awayTeam": "Adelaide United",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy80NDU3LnBuZzozNTY3NThhN2Vj.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy85NDgucG5nOjMxNzIzNzhlZDQ.png",
+      "league": "AFC Champions League Two",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzE4LnBuZzo1ZDQ5NDczZmRl.png",
+      "matchTime": 1795695300000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNjMwNDE5Ojk1Y2Q4M2RlYWM&source=lola",
+          "source": "lola",
+          "hd": true,
+          "language": "Unknown"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
+      "id": "nong-bua-pitchaya-muang-loei-united-ZjoxNjAyNzUzOmM3MjY4NDgwZGQ",
+      "title": "Nong Bua Pitchaya vs Muang Loei United",
+      "homeTeam": "Nong Bua Pitchaya",
+      "awayTeam": "Muang Loei United",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNzk2LnBuZzo5MmMxMzc4NmQ3.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy82NTczLnBuZzo3MzU2NzRhZGI4.png",
+      "league": "Thai League 2",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI5Ny5wbmc6NWMzYTI3NmZlNA.png",
+      "matchTime": 1795694400000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNjAyNzUzOmM3MjY4NDgwZGQ&source=lola",
+          "source": "lola",
+          "hd": true,
+          "language": "Unknown"
+        }
+      ],
+      "streamCount": 1
+    },
+    {
+      "id": "new-zealand-u17-belgium-u17-ZjoxNTQ2MTk5OmE2NDlkZTY4MDQ",
+      "title": "New Zealand U17 vs Belgium U17",
+      "homeTeam": "New Zealand U17",
+      "awayTeam": "Belgium U17",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMjUxNS5wbmc6YjE2Y2Q2NTIwZA.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNzk0Mi5wbmc6MDAyZGNkMjA3Zg.png",
+      "league": "World Cup - U17",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzU4Ny5wbmc6YzhlMjRmMjdhYg.png",
+      "matchTime": 1795698000000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNTQ2MTk5OmE2NDlkZTY4MDQ&source=lola",
+          "source": "lola",
+          "hd": true,
+          "language": "Unknown"
+        },
+        {
+          "id": "stream-2",
+          "streamNo": 2,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNTQ2MTk5OmE2NDlkZTY4MDQ&source=capo",
+          "source": "capo",
+          "hd": true,
+          "language": "Unknown"
+        }
+      ],
+      "streamCount": 2
+    },
+    {
+      "id": "vietnam-u17-mali-u17-ZjoxNTQ2MjA2OmU0ZDA5MjIyNjA",
+      "title": "Vietnam U17 vs Mali U17",
+      "homeTeam": "Vietnam U17",
+      "awayTeam": "Mali U17",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMTQ0Ny5wbmc6MjllOWIxYzc3OA.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMTI5OC5wbmc6N2RkOThjNDRmOQ.png",
+      "league": "World Cup - U17",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzU4Ny5wbmc6YzhlMjRmMjdhYg.png",
+      "matchTime": 1795698000000,
+      "status": "inprogress",
+      "streams": [
+        {
+          "id": "stream-1",
+          "streamNo": 1,
+          "embedUrl": "https://football77.org/embed/?id=ZjoxNTQ2MjA2OmU0ZDA5MjIyNjA&source=lola",
           "source": "lola",
           "hd": true,
           "language": "Unknown"
@@ -347,6 +501,20 @@
       "streamCount": 0
     },
     {
+      "id": "monterrey-club-america-ZjoxNjUxNTAzOjc3YmY2Y2VlYjU",
+      "title": "Monterrey vs Club America",
+      "homeTeam": "Monterrey",
+      "awayTeam": "Club America",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMjgyLnBuZzpmYThlNjZiMDZh.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMjg3LnBuZzo5M2I4N2YzMzk4.png",
+      "league": "Liga MX",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI2Mi5wbmc6YzQ2YTNkMzlkNQ.png",
+      "matchTime": 1795662600000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "real-esteli-rancho-santana-ZjoxNjUxNTEzOmVjZDM3M2U0N2Q",
       "title": "Real Estel\u00ed vs Rancho Santana",
       "homeTeam": "Real Estel\u00ed",
@@ -375,6 +543,20 @@
       "streamCount": 0
     },
     {
+      "id": "jalapa-san-marcos-ZjoxNjUxNTE1OjQ4MDM4Y2Q0NDY",
+      "title": "Jalapa vs San Marcos",
+      "homeTeam": "Jalapa",
+      "awayTeam": "San Marcos",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMDE2MC5wbmc6NTAyMjVjY2E0ZQ.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yODU1My5wbmc6ZTJiZjU1NjY4Nw.png",
+      "league": "Primera Division",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzM5Ni5wbmc6ZDI1NGZjOWJiNw.png",
+      "matchTime": 1795730400000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
       "id": "atletico-nacional-independiente-medellin-ZjoxNjUwNTE2OjJkOWViOGY1NWM",
       "title": "Atletico Nacional vs Independiente Medellin",
       "homeTeam": "Atletico Nacional",
@@ -398,7 +580,77 @@
       "league": "Liga 1",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI3NC5wbmc6ZjBjYzA2YmU1MQ.png",
       "matchTime": 1795681800000,
-      "status": "notstarted",
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "persegres-gresik-united-persibangga-purbalingga-ZjoxNjUwNzA4OmIwOGI5OWM4MDg",
+      "title": "Persegres Gresik United vs Persibangga Purbalingga",
+      "homeTeam": "Persegres Gresik United",
+      "awayTeam": "Persibangga Purbalingga",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNTgwMC5wbmc6ZWYyOTMxNTdiYw.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNTgxMC5wbmc6ZGQ3OWU2NjFjMA.png",
+      "league": "Liga Nusantara",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEyNTMucG5nOmY5MWRkNTNjYTM.png",
+      "matchTime": 1795681800000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "persiba-bantul-pesinga-ngawi-ZjoxNjUwNzA5OmQyNzk5MTY2MmM",
+      "title": "Persiba Bantul vs Pesinga Ngawi",
+      "homeTeam": "Persiba Bantul",
+      "awayTeam": "Pesinga Ngawi",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNTgwOS5wbmc6NWY3N2JlMDcyYw.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yODcyMC5wbmc6YzUxNWFmMDM5OA.png",
+      "league": "Liga Nusantara",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEyNTMucG5nOmY5MWRkNTNjYTM.png",
+      "matchTime": 1795681800000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "putra-sang-fajar-persibo-ZjoxNjUwNzEyOmI1ZWRlMDA2NjE",
+      "title": "Putra Sang Fajar vs Persibo",
+      "homeTeam": "Putra Sang Fajar",
+      "awayTeam": "Persibo",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yODcyMS5wbmc6Nzk0NDg2OWQ2Nw.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNTgxNC5wbmc6MGZkMDEwYTI2NA.png",
+      "league": "Liga Nusantara",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEyNTMucG5nOmY5MWRkNTNjYTM.png",
+      "matchTime": 1795681800000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "persekabpas-pasuruan-ngada-ZjoxNjUwODE3OmE4NWJhZGM2YmU",
+      "title": "Persekabpas Pasuruan vs Ngada",
+      "homeTeam": "Persekabpas Pasuruan",
+      "awayTeam": "Ngada",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNTgwMy5wbmc6YjZjMGQxZGIxMA.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yODcxMC5wbmc6MTY2MGM0MzUxYQ.png",
+      "league": "Liga Nusantara",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEyNTMucG5nOmY5MWRkNTNjYTM.png",
+      "matchTime": 1795681800000,
+      "status": "finished",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "south-melbourne-oakleigh-cannons-ZjoxNjUxMjU0OjM2NjcwNTFmYjU",
+      "title": "South Melbourne vs Oakleigh Cannons",
+      "homeTeam": "South Melbourne",
+      "awayTeam": "Oakleigh Cannons",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8zODExLnBuZzo4YTA4NjVmOGZk.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8zODA4LnBuZzowY2FiMzUyZjk0.png",
+      "league": "Australian Championship",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEyMDIucG5nOjFiOGY2ZmM2YTU.png",
+      "matchTime": 1795681800000,
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -412,7 +664,7 @@
       "league": "AFC Champions League Two",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzE4LnBuZzo1ZDQ5NDczZmRl.png",
       "matchTime": 1795687200000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -426,7 +678,7 @@
       "league": "AFC Champions League Two",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzE4LnBuZzo1ZDQ5NDczZmRl.png",
       "matchTime": 1795687200000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -440,49 +692,7 @@
       "league": "AFC Champions League Two",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzE4LnBuZzo1ZDQ5NDczZmRl.png",
       "matchTime": 1795687200000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "bg-pathum-united-home-united-ZjoxNjMwNDE3OjEzYmM5YTRjZmM",
-      "title": "BG Pathum United vs Home United",
-      "homeTeam": "BG Pathum United",
-      "awayTeam": "Home United",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNzY5LnBuZzo3YjJkYWUxNmYz.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy80MjA0LnBuZzo1ZGVjOWUwZTQy.png",
-      "league": "AFC Champions League Two",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzE4LnBuZzo1ZDQ5NDczZmRl.png",
-      "matchTime": 1795695300000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "svay-rieng-machida-zelvia-ZjoxNjMwNDE4OmM0Njc1MmEwNTM",
-      "title": "Svay Rieng vs Machida Zelvia",
-      "homeTeam": "Svay Rieng",
-      "awayTeam": "Machida Zelvia",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy81Mzk2LnBuZzpkZGQ4ZWJhMWI2.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8zMDMucG5nOmM4N2NmMDNjZTA.png",
-      "league": "AFC Champions League Two",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzE4LnBuZzo1ZDQ5NDczZmRl.png",
-      "matchTime": 1795695300000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "wofoo-tai-po-adelaide-united-ZjoxNjMwNDE5Ojk1Y2Q4M2RlYWM",
-      "title": "Wofoo Tai Po vs Adelaide United",
-      "homeTeam": "Wofoo Tai Po",
-      "awayTeam": "Adelaide United",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy80NDU3LnBuZzozNTY3NThhN2Vj.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy85NDgucG5nOjMxNzIzNzhlZDQ.png",
-      "league": "AFC Champions League Two",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzE4LnBuZzo1ZDQ5NDczZmRl.png",
-      "matchTime": 1795695300000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -496,7 +706,7 @@
       "league": "Pro League A",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzEwNzUucG5nOmQwYjZjZDdlYmY.png",
       "matchTime": 1795687200000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -510,7 +720,7 @@
       "league": "Birinci Dasta",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzQxOC5wbmc6Yzc0ODVlYjgwNg.png",
       "matchTime": 1795689000000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -524,7 +734,7 @@
       "league": "Birinci Dasta",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzQxOC5wbmc6Yzc0ODVlYjgwNg.png",
       "matchTime": 1795689000000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -552,49 +762,7 @@
       "league": "Thai League 2",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI5Ny5wbmc6NWMzYTI3NmZlNA.png",
       "matchTime": 1795690800000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "nong-bua-pitchaya-muang-loei-united-ZjoxNjAyNzUzOmM3MjY4NDgwZGQ",
-      "title": "Nong Bua Pitchaya vs Muang Loei United",
-      "homeTeam": "Nong Bua Pitchaya",
-      "awayTeam": "Muang Loei United",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yNzk2LnBuZzo5MmMxMzc4NmQ3.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy82NTczLnBuZzo3MzU2NzRhZGI4.png",
-      "league": "Thai League 2",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzI5Ny5wbmc6NWMzYTI3NmZlNA.png",
-      "matchTime": 1795694400000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "new-zealand-u17-belgium-u17-ZjoxNTQ2MTk5OmE2NDlkZTY4MDQ",
-      "title": "New Zealand U17 vs Belgium U17",
-      "homeTeam": "New Zealand U17",
-      "awayTeam": "Belgium U17",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMjUxNS5wbmc6YjE2Y2Q2NTIwZA.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xNzk0Mi5wbmc6MDAyZGNkMjA3Zg.png",
-      "league": "World Cup - U17",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzU4Ny5wbmc6YzhlMjRmMjdhYg.png",
-      "matchTime": 1795698000000,
-      "status": "notstarted",
-      "streams": [],
-      "streamCount": 0
-    },
-    {
-      "id": "vietnam-u17-mali-u17-ZjoxNTQ2MjA2OmU0ZDA5MjIyNjA",
-      "title": "Vietnam U17 vs Mali U17",
-      "homeTeam": "Vietnam U17",
-      "awayTeam": "Mali U17",
-      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMTQ0Ny5wbmc6MjllOWIxYzc3OA.png",
-      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8yMTI5OC5wbmc6N2RkOThjNDRmOQ.png",
-      "league": "World Cup - U17",
-      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzU4Ny5wbmc6YzhlMjRmMjdhYg.png",
-      "matchTime": 1795698000000,
-      "status": "notstarted",
+      "status": "finished",
       "streams": [],
       "streamCount": 0
     },
@@ -692,6 +860,20 @@
       "league": "Cup",
       "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzIzNy5wbmc6YzEyOTY2ZjhjNA.png",
       "matchTime": 1795701600000,
+      "status": "notstarted",
+      "streams": [],
+      "streamCount": 0
+    },
+    {
+      "id": "dynamo-fakel-ZjoxNTYzNjc4OjcxMWM2OTMxZjI",
+      "title": "Dynamo vs Fakel",
+      "homeTeam": "Dynamo",
+      "awayTeam": "Fakel",
+      "homeLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xMDg4LnBuZzoxYTIzYmIzNjAw.png",
+      "awayLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC90ZWFtcy8xOTkzLnBuZzpkZTk1NmZhYzdm.png",
+      "league": "Cup",
+      "leagueLogo": "https://img.sportsrc.org/v3/assets/dTpmb290YmFsbC9sZWFndWVzLzIzNy5wbmc6YzEyOTY2ZjhjNA.png",
+      "matchTime": 1795710600000,
       "status": "notstarted",
       "streams": [],
       "streamCount": 0
